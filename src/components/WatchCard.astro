@@ -1,0 +1,140 @@
+---
+interface Props {
+  name: string;
+  image: string;
+  affiliateLink: string;
+  movement?: string;
+  caliber?: string;
+  powerReserve?: string;
+  caseWidth?: string;
+  lugDistance?: string;
+  waterResistance?: string;
+  price?: string;
+  extraSpecs?: Record<string, string>;
+}
+
+const {
+  name,
+  image,
+  affiliateLink,
+  movement,
+  caliber,
+  powerReserve,
+  caseWidth,
+  lugDistance,
+  waterResistance,
+  price,
+  extraSpecs = {},
+} = Astro.props;
+
+const specs: [string, string][] = [
+  movement      && ['Movement', movement],
+  caliber       && ['Caliber', caliber],
+  powerReserve  && ['Power Reserve', powerReserve],
+  caseWidth     && ['Case Width', caseWidth],
+  lugDistance   && ['Lug Distance', lugDistance],
+  waterResistance && ['Water Resistance', waterResistance],
+  price         && ['Price', price],
+  ...Object.entries(extraSpecs),
+].filter(Boolean) as [string, string][];
+---
+
+<div class="watch-card">
+  <!-- Left: image -->
+  <a href={affiliateLink} class="watch-card__image-wrap" rel="nofollow noindex" target="_blank" title={name}>
+    <img src={image} alt={name} width="300" height="300" loading="lazy" decoding="async" />
+  </a>
+
+  <!-- Right: specs + button -->
+  <div class="watch-card__body">
+    {specs.length > 0 && (
+      <div class="watch-card__specs">
+        <p><strong>Specs:</strong></p>
+        <ul>
+          {specs.map(([label, value]) => (
+            <li>{label}: {value}</li>
+          ))}
+        </ul>
+      </div>
+    )}
+    <a href={affiliateLink} class="watch-card__btn" rel="nofollow noindex" target="_blank">
+      Check Price
+    </a>
+  </div>
+</div>
+
+<style>
+  .watch-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    padding: 1.25rem;
+    margin: 1.5rem 0;
+    background: #fff;
+    align-items: start;
+  }
+
+  .watch-card__image-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+  }
+
+  .watch-card__image-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+  }
+
+  .watch-card__body {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .watch-card__specs p {
+    margin: 0 0 0.4rem;
+    font-size: 14px;
+  }
+
+  .watch-card__specs ul {
+    margin: 0;
+    padding-left: 1.25rem;
+    font-size: 14px;
+    color: #7a7a7a;
+    line-height: 1.7;
+  }
+
+  .watch-card__specs li {
+    margin-bottom: 0.15rem;
+  }
+
+  .watch-card__btn {
+    display: block;
+    text-align: center;
+    background: #d19731;
+    color: #fff !important;
+    text-decoration: none !important;
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 0.65rem 1.25rem;
+    border-radius: 4px;
+    transition: background 0.15s;
+    opacity: 1 !important;
+  }
+
+  .watch-card__btn:hover {
+    background: #b8831a;
+  }
+
+  @media (max-width: 580px) {
+    .watch-card {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

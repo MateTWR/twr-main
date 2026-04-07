@@ -1,0 +1,187 @@
+---
+const ALT = 'https://alternatives.thewatchresource.com';
+const year = new Date().getFullYear();
+
+const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg" width="8" height="8"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"/></svg>`;
+---
+
+<footer class="site-footer">
+  <div class="footer-inner">
+
+    <!-- Col 1: Logo + about + copyright -->
+    <div class="footer-col footer-col--brand">
+      <a href="/" class="footer-logo">
+        <img
+          src="https://www.thewatchresource.com/wp-content/uploads/2021/05/cropped-TheWatchResource-logo-1-1-1024x225.png"
+          alt="The Watch Resource"
+          width="340"
+          height="75"
+          loading="lazy"
+          decoding="async"
+        />
+      </a>
+      <p class="footer-about">
+        The Watch Resource is an independent watch review site founded in 2021, where a team of watch
+        enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
+      </p>
+      <p class="footer-copy">&copy; {year} All rights reserved</p>
+    </div>
+
+    <!-- Col 2: Navigation -->
+    <div class="footer-col">
+      <h4 class="footer-heading">Navigation</h4>
+      <ul class="footer-links">
+        <li><a href="/in-depth-watch-reviews/"><Fragment set:html={caret} />Watch Reviews</a></li>
+        <li><a href="/brand-reviews/"><Fragment set:html={caret} />Brand Reviews</a></li>
+        <li><a href={ALT}><Fragment set:html={caret} />Alternatives</a></li>
+        <li><a href="/watch-comparisons/"><Fragment set:html={caret} />Comparisons</a></li>
+      </ul>
+    </div>
+
+    <!-- Col 3: Newsletter -->
+    <div class="footer-col">
+      <h4 class="footer-heading">Newsletter</h4>
+      <form class="footer-form" method="post" action="/" name="newsletter">
+        <input type="text" name="form_fields[name]" placeholder="Your Name" autocomplete="name" />
+        <input type="email" name="form_fields[email]" placeholder="Your Email" required autocomplete="email" />
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background-color: #101010;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 4rem;
+  }
+
+  .footer-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3.5rem 1.5rem 2.5rem;
+    display: grid;
+    grid-template-columns: 1.6fr 1fr 1fr;
+    gap: 3rem;
+  }
+
+  .footer-logo {
+    display: inline-block;
+    margin-bottom: 1.25rem;
+    text-decoration: none;
+  }
+
+  .footer-logo img {
+    height: 50px;
+    width: auto;
+    display: block;
+    filter: brightness(0) invert(1);
+    opacity: 0.9;
+  }
+
+  .footer-about {
+    font-size: 0.85rem;
+    line-height: 1.7;
+    color: rgba(255, 255, 255, 0.55);
+    margin: 0 0 1rem;
+  }
+
+  .footer-copy {
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.35);
+    margin: 0;
+  }
+
+  .footer-heading {
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 0 0 1.25rem;
+  }
+
+  .footer-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .footer-links a {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    font-size: 0.875rem;
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    transition: color 0.15s;
+  }
+
+  .footer-links a:hover {
+    color: #0bb4aa;
+    opacity: 1;
+  }
+
+  .footer-links svg {
+    fill: #0bb4aa;
+    flex-shrink: 0;
+  }
+
+  .footer-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .footer-form input {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 4px;
+    color: #fff;
+    font-family: inherit;
+    font-size: 0.875rem;
+    padding: 0.6rem 0.85rem;
+    outline: none;
+    transition: border-color 0.15s;
+    width: 100%;
+  }
+
+  .footer-form input::placeholder {
+    color: rgba(255, 255, 255, 0.35);
+  }
+
+  .footer-form input:focus {
+    border-color: #0bb4aa;
+  }
+
+  .footer-form button {
+    background: #0bb4aa;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.875rem;
+    font-weight: 600;
+    padding: 0.65rem 1.25rem;
+    transition: background 0.15s;
+    text-align: center;
+  }
+
+  .footer-form button:hover {
+    background: #099e95;
+  }
+
+  @media (max-width: 768px) {
+    .footer-inner {
+      grid-template-columns: 1fr;
+      gap: 2.5rem;
+      padding: 2.5rem 1.5rem 2rem;
+    }
+  }
+</style>
