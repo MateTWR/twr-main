@@ -1,0 +1,314 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+type AnyEntry =
+  | CollectionEntry<'reviews'>
+  | CollectionEntry<'guides'>
+  | CollectionEntry<'comparisons'>
+  | CollectionEntry<'misc'>;
+
+export async function getStaticPaths() {
+  const [reviews, guides, comparisons, misc] = await Promise.all([
+    getCollection('reviews',     ({ data }) => !data.draft),
+    getCollection('guides',      ({ data }) => !data.draft),
+    getCollection('comparisons', ({ data }) => !data.draft),
+    getCollection('misc',        ({ data }) => !data.draft),
+  ]);
+
+  const all: { collection: string; entry: AnyEntry }[] = [
+    ...reviews    .map(e => ({ collection: 'reviews',     entry: e as AnyEntry })),
+    ...guides     .map(e => ({ collection: 'guides',      entry: e as AnyEntry })),
+    ...comparisons.map(e => ({ collection: 'comparisons', entry: e as AnyEntry })),
+    ...misc       .map(e => ({ collection: 'misc',        entry: e as AnyEntry })),
+  ];
+
+  return all.map(({ collection, entry }) => ({
+    params: { slug: entry.id },
+    props:  { entry, collection },
+  }));
+}
+
+interface Props {
+  entry:      AnyEntry;
+  collection: string;
+}
+
+const { entry, collection } = Astro.props;
+const { Content } = await render(entry);
+
+// Related articles — same collection, exclude current
+const collectionMap = {
+  reviews:     () => getCollection('reviews',     ({ data }) => !data.draft),
+  guides:      () => getCollection('guides',      ({ data }) => !data.draft),
+  comparisons: () => getCollection('comparisons', ({ data }) => !data.draft),
+  misc:        () => getCollection('misc',        ({ data }) => !data.draft),
+};
+
+const siblings = await collectionMap[collection as keyof typeof collectionMap]();
+const related  = (siblings as AnyEntry[])
+  .filter(a => a.id !== entry.id)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 8);
+
+const sectionLabel: Record<string, string> = {
+  reviews:     'More Reviews',
+  guides:      'More Buying Guides',
+  comparisons: 'More Comparisons',
+  misc:        'More Articles',
+};
+---
+
+<Layout
+  title={`${entry.data.title} | The Watch Resource`}
+  description={entry.data.description}
+  image={entry.data.heroImage}
+>
+  {entry.data.heroImage && (
+    <img
+      class="hero-image"
+      src={entry.data.heroImage}
+      alt={entry.data.title}
+    />
+  )}
+
+  <main>
+    <article>
+
+      <div class="article-header">
+        <h1>{entry.data.title}</h1>
+        {entry.data.description && (
+          <p class="description">{entry.data.description}</p>
+        )}
+        <div class="meta">
+          <time datetime={entry.data.date.toISOString()}>
+            {entry.data.date.toLocaleDateString('en-US', {
+              year:  'numeric',
+              month: 'long',
+              day:   'numeric',
+            })}
+          </time>
+          {entry.data.author && (
+            <span>&nbsp;&middot;&nbsp;{entry.data.author}</span>
+          )}
+        </div>
+      </div>
+
+      <div class="prose">
+        <Content />
+      </div>
+
+      {related.length > 0 && (
+        <div class="related">
+          <h3>{sectionLabel[collection]}</h3>
+          <ul>
+            {related.map(a => (
+              <li><a href={`/${a.id}/`}>{a.data.title}</a></li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      <div class="author-box">
+        <p class="author-label">Written by</p>
+        <div class="author-inner">
+          <img
+            class="author-photo"
+            src="https://www.thewatchresource.com/wp-content/uploads/2025/03/A416E09C-8EB9-454A-9A03-18A520AED450_1_105_c-e1743132097488.jpeg"
+            alt="Maté D"
+            width="120"
+            height="120"
+            loading="lazy"
+            decoding="async"
+          />
+          <div class="author-content">
+            <p class="author-name">Maté D</p>
+            <p class="author-bio">Maté is the founder and chief content creator of The Watch Resource. Since 2021, he has been dedicated to sharing his expert insights and highlighting his favorite brands and timepieces. Driven by a decade-long interest in horology, this watch blog is the result of Maté's deep knowledge and passion.</p>
+          </div>
+        </div>
+      </div>
+
+    </article>
+  </main>
+</Layout>
+
+<style>
+  main {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+  }
+
+  .hero-image {
+    width: 100%;
+    max-height: 350px;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* ── Article header ── */
+  .article-header {
+    margin-bottom: 2.5rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    line-height: 1.25;
+    margin: 0 0 0.75rem;
+  }
+
+  .description {
+    font-size: 1.125rem;
+    color: #6b7280;
+    margin: 0 0 1rem;
+    line-height: 1.6;
+  }
+
+  .meta {
+    font-size: 0.875rem;
+    color: #9ca3af;
+  }
+
+  /* ── Prose ── */
+  .prose :global(h2),
+  .prose :global(h3),
+  .prose :global(h4) {
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.3;
+  }
+
+  .prose :global(p) {
+    line-height: 1.75;
+    margin-bottom: 1.25rem;
+    color: #374151;
+  }
+
+  .prose :global(a) {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  .prose :global(ul),
+  .prose :global(ol) {
+    padding-left: 1.5rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .prose :global(li) {
+    line-height: 1.75;
+    margin-bottom: 0.25rem;
+    color: #374151;
+  }
+
+  /* ── Standalone images ── */
+  .prose :global(img) {
+    max-width: 100%;
+    border-radius: 6px;
+    display: block;
+    margin: 1.5rem auto;
+  }
+
+  /* ── Watch card: linked image [![name](img)](link) ── */
+  .prose :global(a:has(> img)) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin: 1.5rem 0;
+  }
+
+  .prose :global(a:has(> img) img) {
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: contain;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    padding: 0.5rem;
+    background: #fff;
+    transition: box-shadow 0.15s;
+    margin: 0;
+  }
+
+  .prose :global(a:has(> img):hover img) {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+  }
+
+  /* ── Related articles ── */
+  .related {
+    margin-top: 3rem;
+    padding-top: 1.75rem;
+    border-top: 1px solid #e5e7eb;
+  }
+
+  .related h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0 0 0.75rem;
+  }
+
+  .related ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .related a {
+    color: #EBA541;
+    text-decoration: none;
+    font-size: 0.95rem;
+  }
+
+  .related a:hover {
+    text-decoration: underline;
+  }
+
+  /* ── Author box ── */
+  .author-box {
+    margin-top: 3rem;
+    padding: 1.75rem 0;
+    border-top: 1px solid #e5e7eb;
+    border-bottom: 1px solid #e5e7eb;
+  }
+
+  .author-label {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #9ca3af;
+    margin: 0 0 1rem;
+  }
+
+  .author-inner {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.25rem;
+  }
+
+  .author-photo {
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+    border-radius: 4px;
+    flex-shrink: 0;
+  }
+
+  .author-name {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #101010;
+    margin: 0 0 0.5rem;
+  }
+
+  .author-bio {
+    font-size: 0.9rem;
+    color: #6b7280;
+    line-height: 1.7;
+    margin: 0;
+  }
+</style>
