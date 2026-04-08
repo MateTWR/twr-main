@@ -3,14 +3,14 @@ import { getCollection, render } from 'astro:content';
 import ArticlePage from '../../components/ArticlePage.astro';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('misc', ({ data }) => !data.draft);
+  const entries = await getCollection('pages', ({ data }) => !data.draft);
   return entries.map(entry => ({ params: { slug: entry.id }, props: { entry } }));
 }
 
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const all = await getCollection('misc', ({ data }) => !data.draft);
+const all = await getCollection('pages', ({ data }) => !data.draft);
 const related = all
   .filter(a => a.id !== entry.id)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
