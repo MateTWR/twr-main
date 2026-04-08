@@ -1,96 +1,36 @@
 ---
-import { getCollection, render, type CollectionEntry } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
-type AnyEntry =
-  | CollectionEntry<'reviews'>
-  | CollectionEntry<'guides'>
-  | CollectionEntry<'comparisons'>
-  | CollectionEntry<'misc'>;
-
-export async function getStaticPaths() {
-  const [reviews, guides, comparisons, misc] = await Promise.all([
-    getCollection('reviews',     ({ data }) => !data.draft),
-    getCollection('guides',      ({ data }) => !data.draft),
-    getCollection('comparisons', ({ data }) => !data.draft),
-    getCollection('misc',        ({ data }) => !data.draft),
-  ]);
-
-  const all: { collection: string; entry: AnyEntry }[] = [
-    ...reviews    .map(e => ({ collection: 'reviews',     entry: e as AnyEntry })),
-    ...guides     .map(e => ({ collection: 'guides',      entry: e as AnyEntry })),
-    ...comparisons.map(e => ({ collection: 'comparisons', entry: e as AnyEntry })),
-    ...misc       .map(e => ({ collection: 'misc',        entry: e as AnyEntry })),
-  ];
-
-  return all.map(({ collection, entry }) => ({
-    params: { slug: entry.id },
-    props:  { entry, collection },
-  }));
-}
-
 interface Props {
-  entry:      AnyEntry;
-  collection: string;
+  title:       string;
+  description?: string;
+  heroImage?:  string;
+  date:        Date;
+  author?:     string;
+  Content:     any;
+  related:     { id: string; data: { title: string } }[];
+  relatedLabel: string;
 }
 
-const { entry, collection } = Astro.props;
-const { Content } = await render(entry);
-
-// Related articles — same collection, exclude current
-const collectionMap = {
-  reviews:     () => getCollection('reviews',     ({ data }) => !data.draft),
-  guides:      () => getCollection('guides',      ({ data }) => !data.draft),
-  comparisons: () => getCollection('comparisons', ({ data }) => !data.draft),
-  misc:        () => getCollection('misc',        ({ data }) => !data.draft),
-};
-
-const siblings = await collectionMap[collection as keyof typeof collectionMap]();
-const related  = (siblings as AnyEntry[])
-  .filter(a => a.id !== entry.id)
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 8);
-
-const sectionLabel: Record<string, string> = {
-  reviews:     'More Reviews',
-  guides:      'More Buying Guides',
-  comparisons: 'More Comparisons',
-  misc:        'More Articles',
-};
+const { title, description, heroImage, date, author, Content, related, relatedLabel } = Astro.props;
 ---
 
-<Layout
-  title={`${entry.data.title} | The Watch Resource`}
-  description={entry.data.description}
-  image={entry.data.heroImage}
->
-  {entry.data.heroImage && (
-    <img
-      class="hero-image"
-      src={entry.data.heroImage}
-      alt={entry.data.title}
-    />
+<Layout title={`${title} | The Watch Resource`} description={description} image={heroImage}>
+  {heroImage && (
+    <img class="hero-image" src={heroImage} alt={title} />
   )}
 
   <main>
     <article>
 
       <div class="article-header">
-        <h1>{entry.data.title}</h1>
-        {entry.data.description && (
-          <p class="description">{entry.data.description}</p>
-        )}
+        <h1>{title}</h1>
+        {description && <p class="description">{description}</p>}
         <div class="meta">
-          <time datetime={entry.data.date.toISOString()}>
-            {entry.data.date.toLocaleDateString('en-US', {
-              year:  'numeric',
-              month: 'long',
-              day:   'numeric',
-            })}
+          <time datetime={date.toISOString()}>
+            {date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
           </time>
-          {entry.data.author && (
-            <span>&nbsp;&middot;&nbsp;{entry.data.author}</span>
-          )}
+          {author && <span>&nbsp;&middot;&nbsp;{author}</span>}
         </div>
       </div>
 
@@ -100,7 +40,7 @@ const sectionLabel: Record<string, string> = {
 
       {related.length > 0 && (
         <div class="related">
-          <h3>{sectionLabel[collection]}</h3>
+          <h3>{relatedLabel}</h3>
           <ul>
             {related.map(a => (
               <li><a href={`/${a.id}/`}>{a.data.title}</a></li>
@@ -146,7 +86,6 @@ const sectionLabel: Record<string, string> = {
     display: block;
   }
 
-  /* ── Article header ── */
   .article-header {
     margin-bottom: 2.5rem;
   }
@@ -201,7 +140,6 @@ const sectionLabel: Record<string, string> = {
     color: #374151;
   }
 
-  /* ── Standalone images ── */
   .prose :global(img) {
     max-width: 100%;
     border-radius: 6px;
@@ -213,7 +151,6 @@ const sectionLabel: Record<string, string> = {
   .prose :global(a:has(> img)) {
     display: flex;
     justify-content: center;
-    align-items: center;
     text-decoration: none;
     margin: 1.5rem 0;
   }
@@ -234,7 +171,7 @@ const sectionLabel: Record<string, string> = {
     box-shadow: 0 4px 16px rgba(0,0,0,0.1);
   }
 
-  /* ── Related articles ── */
+  /* ── Related ── */
   .related {
     margin-top: 3rem;
     padding-top: 1.75rem;

@@ -27,9 +27,14 @@ const comparisons = defineCollection({
   schema: postSchema,
 });
 
+const alternatives = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/alternatives' }),
+  schema: postSchema,
+});
+
 const misc = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/misc' }),
   schema: postSchema,
 });
 
-export const collections = { reviews, guides, comparisons, misc };
+export const collections = { reviews, guides, comparisons, alternatives, misc };

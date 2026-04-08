@@ -1,0 +1,29 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticlePage from '../../components/ArticlePage.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('reviews', ({ data }) => !data.draft);
+  return entries.map(entry => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const all = await getCollection('reviews', ({ data }) => !data.draft);
+const related = all
+  .filter(a => a.id !== entry.id)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 8);
+---
+
+<ArticlePage
+  title={entry.data.title}
+  description={entry.data.description}
+  heroImage={entry.data.heroImage}
+  date={entry.data.date}
+  author={entry.data.author}
+  Content={Content}
+  related={related}
+  relatedLabel="More Reviews"
+/>
