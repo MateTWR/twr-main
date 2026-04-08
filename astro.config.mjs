@@ -1,9 +1,14 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import rehypeWatchCards from './src/plugins/rehype-watch-cards.mjs';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://www.thewatchresource.com',
+
+  markdown: {
+    rehypePlugins: [rehypeWatchCards],
+  },
 
   redirects: {
     // ── Reviews ──────────────────────────────────────────────────────────────
