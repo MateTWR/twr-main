@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/37da128a-6769-4333-
 
 As we carefully survey the feelings among watch enthusiasts, a growing need for versatile “urban-style” timepieces started to take on a shape: watches that can be your everyday go-to, and can be dressed up or down, but with relatively simplified features and appearance. Following a thread along that line, we stumbled upon a real gem: let’s dive into the beautiful Sternglas Marus Black.
 
-[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas_marus-p8mftdsz330c04z43cvqr3k4mwg7np2mn76ano9goc.jpg/public "Sternglas_marus")](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas_marus-p8mftdsz330c04z43cvqr3k4mwg7np2mn76ano9goc.jpg/public "Sternglas_marus")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 **Specs:**
 
@@ -20,7 +20,7 @@ As we carefully survey the feelings among watch enthusiasts, a growing need for 
 - Water Resistance: 200 meters
 - Price: Under $550
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 ## Sternglas: The Brand
 
@@ -36,7 +36,7 @@ Since then, Sternglas hasn’t slowed down, and is now a team of more than 20 em
 
 The Sternglas Marus is an exciting watch, as we don’t see a design solution similar to it every day. The Marus is inspired by the design of classic dive watches, with a minimalist, modern look. Most minimalist watches don’t have a sporty edge to them, but the Marus maintains certain design elements as a reminder to its origin of inspiration. The contrast created by the black bezel and black dial with the white hour indices provides excellent visibility, and the sporty footprint of the watch is present thanks to the bezel’s width. Minimalist watches are fun, but we love how the Marus is a bit more robust than the super-understated Bauhaus-style watches we usually see.
 
-[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas_marus-p8mftdsz330c04z43cvqr3k4mwg7np2mn76ano9goc.jpg/public "Sternglas_marus")](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas_marus-p8mftdsz330c04z43cvqr3k4mwg7np2mn76ano9goc.jpg/public "Sternglas_marus")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 **Specs:**
 
@@ -48,7 +48,7 @@ The Sternglas Marus is an exciting watch, as we don’t see a design solution si
 - Water Resistance: 200 meters
 - Price: Under $550
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 ### Dial
 
@@ -108,7 +108,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 The Sternglas Marus Black is a refreshing modern urban watch, combining the classic characteristics of a dive watch with the brand’s own Bauhaus-inspired identity. The 42 mm case width, the 14 mm case height, the combination of a simple and sporty dial with the block brushed stainless steel bracelet make this watch a perfect choice as an everyday go-to timepiece that can perform well in more formal situations as well. The automatic Japanese movement (Miyota 8215 caliber) provides a 40-hour power reserve.
 
-[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas_marus-p8mftdsz330c04z43cvqr3k4mwg7np2mn76ano9goc.jpg/public "Sternglas_marus")](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas_marus-p8mftdsz330c04z43cvqr3k4mwg7np2mn76ano9goc.jpg/public "Sternglas_marus")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 **Specs:**
 
@@ -120,7 +120,7 @@ The Sternglas Marus Black is a refreshing modern urban watch, combining the clas
 - Water Resistance: 200 meters
 - Price: Under $550
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 ## Other Watch Reviews
 

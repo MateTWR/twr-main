@@ -22,7 +22,7 @@ Compared to other NORQAINE watches, the price is a bit steep, coming in above th
 
 This intrigued me, and I wanted to dig deeper and see if the price point is something I could justify.
 
-[![NORQAIN Wild One 42 mm Khaki NNQ3000QBK1A\_B002](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-06-NORQAIN-Wild-One-42-mm-Khaki-NNQ3000QBK1A_B002-240x300.webp/public)](https://www.thewatchresource.com/recommends/norqain-wild-one-42-mm-khaki/)
+[![NORQAIN Wild One 42 mm Khaki NNQ3000QBK1A\_B002](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-06-NORQAIN-Wild-One-42-mm-Khaki-NNQ3000QBK1A_B002-240x300.webp/public)](https://norqain.sjv.io/xkv9QA)
 
 **Specs:**
 
@@ -35,7 +35,7 @@ This intrigued me, and I wanted to dig deeper and see if the price point is some
 - Water Resistance: 200 meters
 - Price: Around $5,500
 
-[Check Price](https://www.thewatchresource.com/recommends/norqain-wild-one-42-mm-khaki/)
+[Check Price](https://norqain.sjv.io/xkv9QA)
 
 ### Dial
 
@@ -84,7 +84,7 @@ Let’s take a look at the summary of pros and cons in my humble opinion:
 
 NORQAIN’s Wild ONE was introduced as the ultimate high-performance sports watch. After looking at the technical specs, I do believe they deliver on this message. The watch is ultra light-weight, thanks to their own carbon fiber material that also brings unparalleled durability. Additionally, the automatic movement provides a 70-hour power reserve, something that can come in very handy. While these are probably the most important specs in a sports watch, the overall look and design of the watch are equally impressive in my opinion. The Wild ONE is everything an outdoors sports watch should be and more.
 
-[![NORQAIN Wild One 42 mm Khaki NNQ3000QBK1A\_B002](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-06-NORQAIN-Wild-One-42-mm-Khaki-NNQ3000QBK1A_B002-240x300.webp/public)](https://www.thewatchresource.com/recommends/norqain-wild-one-42-mm-khaki/)
+[![NORQAIN Wild One 42 mm Khaki NNQ3000QBK1A\_B002](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-06-NORQAIN-Wild-One-42-mm-Khaki-NNQ3000QBK1A_B002-240x300.webp/public)](https://norqain.sjv.io/xkv9QA)
 
 **Specs:**
 
@@ -97,7 +97,7 @@ NORQAIN’s Wild ONE was introduced as the ultimate high-performance sports watc
 - Water Resistance: 200 meters
 - Price: Around $5,500
 
-[Check Price](https://www.thewatchresource.com/recommends/norqain-wild-one-42-mm-khaki/)
+[Check Price](https://norqain.sjv.io/xkv9QA)
 
 #### WRITTEN BY
 

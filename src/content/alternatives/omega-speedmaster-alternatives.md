@@ -18,7 +18,7 @@ While these are all very impressive facts about the journey of the Omega Speedma
 
 ## Sternglas Tachymeter
 
-[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-04-Sternglas-Tachymeter-Black-1-1-300x300.webp/public)](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-04-Sternglas-Tachymeter-Black-1-1-300x300.webp/public)](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 **Specs:**
 
@@ -29,7 +29,7 @@ While these are all very impressive facts about the journey of the Omega Speedma
 - Lug-to-Lug Distance: 50 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 Sternglas is a new brand that's quickly becoming popular with their Bauhaus watches. While the [Sternglas Tachymeter](https://www.thewatchresource.com/sternglas-tachymeter-review/) displays some minimalist design elements, it is truly a  sporty chronograph. The 42 mm case width and 50 mm lug-to-lug distance, this watch is perfect for mid-size wrists, but could look good on smaller wrists as well as the thickness is at only 10 mm, creating a more elegant look. The dial doesn't have Arabic or Roman numerals, and for a bit of a dynamism the yellow accent color is incorporated, which we absolutely love.
 
@@ -37,7 +37,7 @@ The movement is the reliable Miyota 0S20 quartz movement.
 
 ## Bulova Lunar Pilot
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Bulova-Lunar-Pilot-96B251-300x300.jpg/public)](https://www.thewatchresource.com/recommends/bulova-lunar-pilot/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Bulova-Lunar-Pilot-96B251-300x300.jpg/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbulova-watch-96b251.html)
 
 **Specs:**
 
@@ -47,13 +47,13 @@ The movement is the reliable Miyota 0S20 quartz movement.
 - Water Resistance: 100 m
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/bulova-lunar-pilot/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbulova-watch-96b251.html)
 
 There's a reason why this Bulova chronograph resembles a Speedmaster so closely. Several watch manufactures, including Omega, developed timepieces for NASA during the Apollo moon landings in the hopes of seeing space, but NASA finally picked the Speedy for its missions. Bulova was one of these businesses, and their prototype lunar chronograph was eventually worn on the moon by astronaut David Scott during the Apollo 15 mission in 1971 after the crystal on his Speedmaster shattered. That's a lot of bragging rights. Bulova's current rendition of the historically significant timepiece is the Precisionist quartz chronograph.
 
 ## Victorinox Alliance Sport
 
-[![Victorinox-Alliance-Sport-Stainless-Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Victorinox-Alliance-Sport-Stainless-Steel-300x263.jpeg/public)](https://www.thewatchresource.com/recommends/victorinox-alliance-sport-stainless-steel-js/)
+[![Victorinox-Alliance-Sport-Stainless-Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Victorinox-Alliance-Sport-Stainless-Steel-300x263.jpeg/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-alliance-sport-watch-241816.html)
 
 **Specs:**
 
@@ -63,7 +63,7 @@ There's a reason why this Bulova chronograph resembles a Speedmaster so closely.
 - Water Resistance: 100 m
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-alliance-sport-stainless-steel-js/) [![Victorinox-Alliance-Sport-Leather](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Victorinox-Alliance-Sport-Leather-300x263.jpeg/public)](https://www.thewatchresource.com/recommends/victorinox-alliance-sport-leather-js/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-alliance-sport-watch-241816.html) [![Victorinox-Alliance-Sport-Leather](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Victorinox-Alliance-Sport-Leather-300x263.jpeg/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-alliance-sport-watch-241826.html)
 
 **Specs:**
 
@@ -73,7 +73,7 @@ There's a reason why this Bulova chronograph resembles a Speedmaster so closely.
 - Water Resistance: 100 m
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-alliance-sport-leather-js/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-alliance-sport-watch-241826.html)
 
 The Victorinox Alliance Sport watch is a stylish chronograph wristwatch fashioned of high-grade stainless steel. This is marketed as a sports watch that is ideal for anything and everything you can think of: cycling, trail adventures, you name it.
 
@@ -104,7 +104,7 @@ However, don't mistake the Seiko SSB031 for just a Speedmaster homage. This Seik
 
 ## Tissot PRS 516 Chronograph
 
-[![Tissot PRS 516 Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Screen-Shot-2022-01-06-at-11.14.30-AM-214x300.png/public)](https://www.thewatchresource.com/recommends/tissot-prs-516/)
+[![Tissot PRS 516 Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Screen-Shot-2022-01-06-at-11.14.30-AM-214x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-prs-516-chronograph-quartz-black-dial-mens-watch-t131-617-36-052-00.html)
 
 **Specs:**
 
@@ -115,7 +115,7 @@ However, don't mistake the Seiko SSB031 for just a Speedmaster homage. This Seik
 - Water Resistance: 100 m
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-prs-516/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-prs-516-chronograph-quartz-black-dial-mens-watch-t131-617-36-052-00.html)
 
 The tachymeter on the bezel looks and feels similar to the Image Speedmaster, however, the bigger numerics on the dial is a big differentiator - giving the Tissot PRS 516 Chronograph a serious racing watch look.
 
@@ -123,7 +123,7 @@ The use of ceramic material, which Tissot is recognized for, is one of the featu
 
 ## Dan Henry 1962 Racing Chronograph
 
-[![Dan Henry 1962 Racing Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Dan-Henry-1962-Racing-Chronograph-1-267x300.webp/public)](https://www.thewatchresource.com/recommends/dan-henry-1962-racing-chronograph/)
+[![Dan Henry 1962 Racing Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Dan-Henry-1962-Racing-Chronograph-1-267x300.webp/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1962-racing-chronograph)
 
 **Specs:**
 
@@ -133,7 +133,7 @@ The use of ceramic material, which Tissot is recognized for, is one of the featu
 - Lug Distance: 20 mm
 - Price: Under $300
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1962-racing-chronograph/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1962-racing-chronograph)
 
 The Dan Henry 1962 Racing Chronograph has a 39mm diameter, which is the standard size for vintage racing chronographs. The mechanical-quartz movement combines the performance and sharp feel of a mechanical chronograph with the precision of quartz. The 31st day is highlighted in red on the 1962's optional date variant, a design choice made by illustrious brands in the past to serve as a reminder to change the date during months with 30 days.
 

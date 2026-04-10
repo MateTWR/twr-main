@@ -56,7 +56,7 @@ The flagship watch from Maurice Lacroix, the Aikon was first launched with a qua
 
 ## Baume et Mercier Riviera
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Baume-et-Mercier-Riviera-10620-218x300.webp/public)](https://www.thewatchresource.com/recommends/baume-et-mercier-riviera/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Baume-et-Mercier-Riviera-10620-218x300.webp/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-riviera-blue-dial-mens-watch-moa10620.html)
 
 **Specs:**
 
@@ -67,7 +67,7 @@ The flagship watch from Maurice Lacroix, the Aikon was first launched with a qua
 - Water Resistance: 100 m
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/baume-et-mercier-riviera/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-riviera-blue-dial-mens-watch-moa10620.html)
 
 The Baume et Mercier Riviera is a versatile watch that goes well with a wide array of outfit choices. It is the perfect accessory for sporty, formal, and casual outings. Its dodecagonal case and blue dial with a distinctive design, and the Sellita SW200 Swiss-made automatic movement make this timepiece an ideal option for those seeking versatility.
 
@@ -112,7 +112,7 @@ This one is for the subtle bling lovers: the Bulova 96D138. The stainless steel 
 
 ## Victorinox I.N.O.X. Mechanical
 
-[![Victorinox I.N.O.X. Mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Victorinox-I.N.O.X.-Mechanical-300x263.webp/public)](https://www.thewatchresource.com/recommends/victorinox-inox-mechanical/)
+[![Victorinox I.N.O.X. Mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Victorinox-I.N.O.X.-Mechanical-300x263.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMechanical-Watches%2FINOX-Mechanical%2Fp%2F241836)
 
 **Specs:**
 
@@ -123,7 +123,7 @@ This one is for the subtle bling lovers: the Bulova 96D138. The stainless steel 
 - Lug Distance: 21 mm
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-inox-mechanical/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMechanical-Watches%2FINOX-Mechanical%2Fp%2F241836)
 
 The I.N.O.X. Mechanical is the newest addition to the Victorinox I.N.O.X. collection. This innovation replaces quartz with mechanical movement in a finely built delicate mechanism. The dial's complex guilloche pattern is not only a distinctive, timeless element, but it's also meant to resemble the handle of a Swiss Army Knife. To cap it off, Victorinox has invented a hardwood strap that is the first of its type. It's the perfect invention that goes hand in hand with our environmental mission. It's strong, robust, and fashioned into a leather base.
 
@@ -145,7 +145,7 @@ The Timex Essex Avenue is an excellent affordable alternative to the Audemars Pi
 
 ## Hublot Classic Fusion
 
-[![Hublot 542NX7071LR](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Hublot-542NX7071LR-237x300.jpg/public)](https://www.thewatchresource.com/recommends/hublot-classic-fusion/)
+[![Hublot 542NX7071LR](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Hublot-542NX7071LR-237x300.jpg/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fhublot-watch-542-nx-7071-lr.html)
 
 **Specs:** 
 
@@ -155,7 +155,7 @@ The Timex Essex Avenue is an excellent affordable alternative to the Audemars Pi
 - Case Width: 42 mm
 - Price: Around $6,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hublot-classic-fusion/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fhublot-watch-542-nx-7071-lr.html)
 
 The Hublot Classic Fusion is a lot more than a "Royal Oak" alternative, but given the similarities in design and overall look, we wanted to mention this beauty as well in case you're ready for something from the "luxury" category.
 

@@ -19,7 +19,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 
 ## Tag Heuer Aquaracer vs Oris Aquis Comparison
 
- [![Tag Heuer Aquaracer Blue SS](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-06-Tag-Heuer-Aquaracer-Blue-SS-197x300.png/public)](https://www.thewatchresource.com/recommends/mido-ocean-star-200/)[Check Price ](https://www.thewatchresource.com/recommends/mido-ocean-star-200/)[![Oris Aquis Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-07-Oris-Aquis-Blue-41.5-244x300.png/public) ](https://www.thewatchresource.com/recommends/oris-aquis-blue/)[Check Price](https://www.thewatchresource.com/recommends/oris-aquis-blue/)
+ [![Tag Heuer Aquaracer Blue SS](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-06-Tag-Heuer-Aquaracer-Blue-SS-197x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmido-watch-m026-430-11-041-00.html)[Check Price ](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmido-watch-m026-430-11-041-00.html)[![Oris Aquis Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-07-Oris-Aquis-Blue-41.5-244x300.png/public) ](https://www.anrdoezrs.net/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Foris-watch-01-400-7769-4135-07-8-22-09peb)[Check Price](https://www.anrdoezrs.net/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Foris-watch-01-400-7769-4135-07-8-22-09peb)
 
 ## At a Glance: The Quick Specs & Takeaway
 
@@ -95,7 +95,7 @@ The **Oris Aquis Date Calibre 400** is the "Enthusiast’s" choice. It is the wa
 - If you have a wrist under 6.5 inches or want a watch to wear to the office every day, get the TAG Heuer.
 - If you love mechanical movements and want a robust, high-performance diver that will last a decade without a service, get the Oris.
 
- [![Tag Heuer Aquaracer Blue SS](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-06-Tag-Heuer-Aquaracer-Blue-SS-197x300.png/public)](https://www.thewatchresource.com/recommends/mido-ocean-star-200/)[Check Price ](https://www.thewatchresource.com/recommends/tag-heuer-aquaracer-blue-ss/)[![Oris Aquis Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-07-Oris-Aquis-Blue-41.5-244x300.png/public) ](https://www.thewatchresource.com/recommends/oris-aquis-blue/)[Check Price](https://www.thewatchresource.com/recommends/oris-aquis-blue/)
+ [![Tag Heuer Aquaracer Blue SS](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-06-Tag-Heuer-Aquaracer-Blue-SS-197x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmido-watch-m026-430-11-041-00.html)[Check Price ](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-aquaracer-automatic-blue-dial-mens-watch-wbp2111-ba0627.html)[![Oris Aquis Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-07-Oris-Aquis-Blue-41.5-244x300.png/public) ](https://www.anrdoezrs.net/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Foris-watch-01-400-7769-4135-07-8-22-09peb)[Check Price](https://www.anrdoezrs.net/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Foris-watch-01-400-7769-4135-07-8-22-09peb)
 
 | Feature | TAG Heuer Aquaracer 200 (WBP2111.BA0627) | Oris Aquis Calibre 400 (01 400 7769 4135-07 8 22 09PEB) |
 | --- | --- | --- |

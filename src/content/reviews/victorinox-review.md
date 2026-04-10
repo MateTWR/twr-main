@@ -87,7 +87,7 @@ The manufacturing of robust Swiss knives, on the other hand, has been a strong f
 
 ### Victorinox Journey 1884
 
-[![Victorinox Journey 1884 Automatic Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Victorinox-Journey-1884-Automatic-Stainless-Steel-300x263.webp/public)](https://www.thewatchresource.com/recommends/victorinox-journey-1884-collection/)
+[![Victorinox Journey 1884 Automatic Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Victorinox-Journey-1884-Automatic-Stainless-Steel-300x263.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FJourney-1884%2Fcollection%2Ftp-collection%2Ftimepieces_collection_WAT-C2633%3FScrollPosition%3D368%26maxResults%3D30)
 
 **Specs:**
 
@@ -98,7 +98,7 @@ The manufacturing of robust Swiss knives, on the other hand, has been a strong f
 - Lug Distance: 21 mm
 - Price: $650 - $1,050
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-journey-1884-collection/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FJourney-1884%2Fcollection%2Ftp-collection%2Ftimepieces_collection_WAT-C2633%3FScrollPosition%3D368%26maxResults%3D30)
 
 True explorers react to changes in topography and weather, spotting possible issues before they occur. This pioneering attitude is embodied by the Victorinox Journey 1884 Automatic with the reliable Sellita SW200-1 automatic movement. Its antimagnetic protection shields against electropollution-induced inaccuracies. This, together with its built-in shock resistance and high-quality rubber strap for adaptable, comfortable wear, making it a great companion.
 
@@ -114,27 +114,27 @@ _Read our in-depth [Victorinox I.N.O.X. Collection review](https://www.thewatchr
 
 ##### Victorinox I.N.O.X. Professional Diver
 
-[![Victorinox INOX Professional Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-Victorinox-INOX-Professional-Diver-300x263.jpg/public)](https://www.thewatchresource.com/recommends/victorinox-inox-professional-diver/)
+[![Victorinox INOX Professional Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-Victorinox-INOX-Professional-Diver-300x263.jpg/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%27s-Watches%2FINOX-Professional-Diver-%2Fp%2F241781)
 
 **Specs:**
 
 - Movement: Quartz
 - Case Width: 45 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-inox-professional-diver/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%27s-Watches%2FINOX-Professional-Diver-%2Fp%2F241781)
 
 The **I.N.O.X. Professional Diver's** watches are ISO-certified to a depth of 200 meters (660 feet) and include Super-LumiNova technology for easy viewing in low light. The correct fit over a diving suit is ensured by a folding buckle with an extension element.
 
 ##### Victorinox INOX Titanium
 
-[![Victorinox INOX Titanium](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-Victorinox-INOX-Titanium-300x263.jpg/public)](https://www.thewatchresource.com/recommends/victorinox-inox-titanium-2/)
+[![Victorinox INOX Titanium](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-Victorinox-INOX-Titanium-300x263.jpg/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FINOX-Titanium%2Fp%2F241883)
 
 **Specs:**
 
 - Movement: Quartz
 - Case Width: 43 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-inox-titanium-2/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FINOX-Titanium%2Fp%2F241883)
 
 **I.N.O.X. Titanium** watches are light and have a matte finish, whilst I.N.O.X. Carbon watches have a space-tested carbon casing that is scratch-resistant. These two watches, like the rest of the I.N.O.X. line, have passed Victorinox's 130 unique resistance tests.
 
@@ -146,20 +146,20 @@ _Read our in-depth [Victorinox Alliance Collection review](https://www.thewatchr
 
 ##### Victorinox Alliance Chronograph
 
-[![Victorinox Alliance Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-Victorinox-Alliance-Chrono-44mm-300x263.jpg/public)](https://www.thewatchresource.com/recommends/victorinox-alliance-chrono-44mm-2/)
+[![Victorinox Alliance Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-Victorinox-Alliance-Chrono-44mm-300x263.jpg/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance-Chronograph-44-mm%2Fp%2F241745mm-2/)
 
 **Specs:**
 
 - Movement: Quartz
 - Case Width: 44 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-alliance-chrono-44mm-2/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance-Chronograph-44-mm%2Fp%2F241745mm-2/)
 
 **Alliance Sport Chronograph** watches have a stopwatch and a tachymeter for measuring time, speed, and distance. Metal, real rubber, and leather straps are available, catering to a variety of tastes.
 
 ##### Victorinox Alliance Mechanical
 
-[![Victorinox\_Alliance\_mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox_Alliance_mechanical-300x263.png/public)](https://www.thewatchresource.com/recommends/victorinox-alliance-mechanical/)
+[![Victorinox\_Alliance\_mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox_Alliance_mechanical-300x263.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance-Mechanical%2Fp%2F241898)
 
 **Specs:**
 
@@ -168,20 +168,20 @@ _Read our in-depth [Victorinox Alliance Collection review](https://www.thewatchr
 - Power Reserve: 48 hours
 - Case Width: 40 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-alliance-mechanical/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance-Mechanical%2Fp%2F241898)
 
 Alliance Mechanical watches are suitable for formal wear, with opulent appearances at reasonable costs. The complex mechanism, which consists of over a hundred small components, is visible through the see-through case back.
 
 ## Maverick Collection
 
-[![Victorinox-Maverick-Chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-Victorinox-Maverick-Chrono-300x263.jpg/public)](https://www.thewatchresource.com/recommends/victorinox-maverick-chronograph/)
+[![Victorinox-Maverick-Chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-Victorinox-Maverick-Chrono-300x263.jpg/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FMaverick-Chronograph%2Fp%2F241865)
 
 **Specs:**
 
 - Movement: Quartz
 - Case Width: 43 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-maverick-chronograph/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FMaverick-Chronograph%2Fp%2F241865)
 
 This series combines a polished look with maximum practicality. The sporty line's robust stainless steel casing, Swiss quartz movement, and sapphire crystal offer it an attractive aesthetic that's appropriate for people who live an active lifestyle as well as those who spend the bulk of their time inside. 
 
@@ -191,7 +191,7 @@ _Read our in-depth [Victorinox Maverick Collection review.](https://www.thewatch
 
 ## Airboss Collection
 
-[![Victorinox Airboss](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-09-WAT_241973_S1-300x263.jpeg/public)](https://www.thewatchresource.com/recommends/victorinox-airboss/)
+[![Victorinox Airboss](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-09-WAT_241973_S1-300x263.jpeg/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%27s-Watches%2FAirboss-Mechanical%2Fp%2F241973)
 
 **Specs:**
 
@@ -200,7 +200,7 @@ _Read our in-depth [Victorinox Maverick Collection review.](https://www.thewatch
 - Power Reserve: 38 hours
 - Case Width: 42 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-airboss/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%27s-Watches%2FAirboss-Mechanical%2Fp%2F241973)
 
 The Airboss series is the most expensive in the Victorinox product range, due to the watches' mechanical movements. 
 
@@ -210,14 +210,14 @@ _Read our in-depth [Victorinox Airboss Collection review.](https://www.thewatchr
 
 ## Fieldforce Collection
 
-[![Victorinox FieldForce Classic Chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox-FieldForce-Classic-Chrono-300x263.jpg/public)](https://www.thewatchresource.com/recommends/victorinox-fieldforce-classic-chrono/)
+[![Victorinox FieldForce Classic Chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox-FieldForce-Classic-Chrono-300x263.jpg/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FFieldForce-Classic-Chrono%2Fp%2F241929)
 
 **Specs:**
 
 - Movement: Quartz
 - Case Width: 42 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-fieldforce-classic-chrono/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FFieldForce-Classic-Chrono%2Fp%2F241929)
 
 The FieldForce Collection, which combines classic design with a gear-shifting display technology, is a unique force. Bold, unmistakable numbers and generously proportioned hands coupled with Super-LumiNova® for 24-hour, day-and-night clarity make it easy to read. While some models provide great multifunctionality with chronograph and tachymeter features, others incorporate a GMT function that maintains track of two time zones. Every FieldForce item has a self-assured, vintage aesthetic that pays homage to its illustrious Swiss Army Knife legacy.
 

@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/607449a7-2488-4e5e-
 
 As you must be used to by now, we at The Watch Resource are always looking to introduce and highlight timepieces with exciting and unique features, from brands we love and recommend to all watch enthusiasts. This never-ending journey brought us to today’s contender, the Sternglas Tachymeter.
 
-[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Black-1-1-q9qtow2rljj3xqyudnkbp5qhhk7dpmdt31w0pwkfqk.webp/public "Sternglas Tachymeter Black (1)")](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Black-1-1-q9qtow2rljj3xqyudnkbp5qhhk7dpmdt31w0pwkfqk.webp/public "Sternglas Tachymeter Black (1)")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 **Specs:**
 
@@ -20,7 +20,7 @@ As you must be used to by now, we at The Watch Resource are always looking to in
 - Lug-to-Lug Distance: 50 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 ## Sternglas: The Brand
 
@@ -38,7 +38,7 @@ Sternglas is a new brand that's quickly becoming popular with their Bauhaus watc
 
 The movement is a Miyota 0S20 quartz movement.
 
-[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Black-1-1-q9qtow2rljj3xqyudnkbp5qhhk7dpmdt31w0pwkfqk.webp/public "Sternglas Tachymeter Black (1)")](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Black-1-1-q9qtow2rljj3xqyudnkbp5qhhk7dpmdt31w0pwkfqk.webp/public "Sternglas Tachymeter Black (1)")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 **Specs:**
 
@@ -50,7 +50,7 @@ The movement is a Miyota 0S20 quartz movement.
 - Lug-to-Lug Distance: 50 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 ### Dial
 
@@ -112,7 +112,7 @@ We love how Sternglas was able to combine their signature Bauhaus style with a m
 
 Sternglas is quickly and deservedly becoming a popular brand, and we love to see them branching out and experimenting with new designs.
 
-[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Black-1-1-q9qtow2rljj3xqyudnkbp5qhhk7dpmdt31w0pwkfqk.webp/public "Sternglas Tachymeter Black (1)")](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Black-1-1-q9qtow2rljj3xqyudnkbp5qhhk7dpmdt31w0pwkfqk.webp/public "Sternglas Tachymeter Black (1)")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 **Specs:**
 
@@ -124,7 +124,7 @@ Sternglas is quickly and deservedly becoming a popular brand, and we love to see
 - Lug-to-Lug Distance: 50 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 ## Other Variations of the Sternglas Tachymeter
 
@@ -132,7 +132,7 @@ If you like the overall design the the Tachymeter, but you're interested in othe
 
 ### Sternglas Tachymeter Blue
 
-[![Sternglas Tachymeter Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Blue-1-q9xutg7jqdxqxigtflwjcmx7shk69sm1a16xmpa9po.webp/public "Sternglas Tachymeter Blue")](https://www.thewatchresource.com/recommends/sternglas-tachymeter-blue/)
+[![Sternglas Tachymeter Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Blue-1-q9xutg7jqdxqxigtflwjcmx7shk69sm1a16xmpa9po.webp/public "Sternglas Tachymeter Blue")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-blue-modena-green)
 
 **Specs:**
 
@@ -144,11 +144,11 @@ If you like the overall design the the Tachymeter, but you're interested in othe
 - Lug-to-Lug Distance: 50 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-tachymeter-blue/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-blue-modena-green)
 
 ### Sternglas Tachymeter Meteor
 
-[![Sternglas Tachymeter Meteor](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Meteor-min-q9xv0yx2eo8bt7jliux3aqlyvghvumgqb92rue4vxo.webp/public "Sternglas Tachymeter Meteor")](https://www.thewatchresource.com/recommends/sternglas-tachymeter-meteor/)
+[![Sternglas Tachymeter Meteor](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Meteor-min-q9xv0yx2eo8bt7jliux3aqlyvghvumgqb92rue4vxo.webp/public "Sternglas Tachymeter Meteor")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-edition-meteor)
 
 **Specs:**
 
@@ -160,7 +160,7 @@ If you like the overall design the the Tachymeter, but you're interested in othe
 - Lug-to-Lug Distance: 50 mm
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-tachymeter-meteor/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-edition-meteor)
 
 ## Other Watch Reviews
 

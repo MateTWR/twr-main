@@ -26,7 +26,7 @@ Super Compressor dive watches have two crowns because of the internal rotating b
 
 ## CiRCULA SuperSport Petrol
 
-[![CiRCULA SuperSport Petrol​](https://www.thewatchresource.com/wp-content/uploads/elementor/thumbs/CiRCULA-SuperSport-Petrol​-rdoaog015o6v9cgpoweabsn9vhz5ykjzgj1ggdxqcs.webp "CiRCULA SuperSport Petrol​")](https://www.thewatchresource.com/recommends/circula-supersport-petrol/)
+[![CiRCULA SuperSport Petrol​](https://www.thewatchresource.com/wp-content/uploads/elementor/thumbs/CiRCULA-SuperSport-Petrol​-rdoaog015o6v9cgpoweabsn9vhz5ykjzgj1ggdxqcs.webp "CiRCULA SuperSport Petrol​")](https://www.awin1.com/cread.php?awinmid=111704&awinaffid=928721&ued=https%3A%2F%2Fcirculawatches.com%2Fen%2Fwatches%2Fdive-watches%2Fsupersport-petrol%2Fse-st-pp-sh-a)
 
 **Specs:**
 
@@ -38,7 +38,7 @@ Super Compressor dive watches have two crowns because of the internal rotating b
 - Water Resistance: 300 m
 - Price: Around $1,300
 
-[Check Price](https://www.thewatchresource.com/recommends/circula-supersport-petrol/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=111704&awinaffid=928721&ued=https%3A%2F%2Fcirculawatches.com%2Fen%2Fwatches%2Fdive-watches%2Fsupersport-petrol%2Fse-st-pp-sh-a)
 
 The SuperSport Petrol from CiRCULA is a compelling take on the modern diver’s watch with vintage cues and functional design. At 40 mm in diameter, 12 mm in height and with a lug-to-lug length of 46.5 mm, it strikes a reasonably balanced size for many wrists. The case uses 316L stainless steel with a hand-brushed finish and polished bevels — giving it both robustness and a hint of refinement. The domed, double-AR-coated sapphire crystal offers clarity and scratch resistance.
 
@@ -48,7 +48,7 @@ On the “cons” side, while the size is good for many, those with smaller wris
 
 ## Benrus Ultra-Deep
 
-[![Benrus\_ULTRA-DEEP\_A](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-10-Benrus_ULTRA-DEEP_A_700x-copy-234x300.webp/public)](https://www.thewatchresource.com/recommends/benrus-ultra-deep-lp/)
+[![Benrus\_ULTRA-DEEP\_A](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-10-Benrus_ULTRA-DEEP_A_700x-copy-234x300.webp/public)](https://shrsl.com/49bc7)
 
 **Specs:**
 
@@ -60,7 +60,7 @@ On the “cons” side, while the size is good for many, those with smaller wris
 - Lug-to-Lug Distance: 41.5 mm
 - Price: Around $1,1000
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-ultra-deep-lp/)
+[Check Price](https://shrsl.com/49bc7)
 
 The [Ultra-Deep](https://www.thewatchresource.com/benrus-ultra-deep-review/) is a graceful revival of Benrus’s 1960s twin-crown dive watch heritage, blending sport and refinement with notable finesse. With a 36.5 mm case width and 41.5 mm lug-to-lug, it keeps the compact proportions of its vintage forebears while delivering a modern feel.  
   
@@ -100,7 +100,7 @@ In summary, the Ball Engineer Master II Diver Chronometer DM2280A-S3C-BRR is an 
 
 ## Longines Legend Diver
 
-[![longines-the-longines-legend-diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-longines-the-longines-legend-diver-pzs90woi8duxrl1uyucpn3y1agf3tz0tgah3snno30.webp/public "longines-the-longines-legend-diver")](https://www.thewatchresource.com/recommends/longines-legend-diver/)
+[![longines-the-longines-legend-diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-longines-the-longines-legend-diver-pzs90woi8duxrl1uyucpn3y1agf3tz0tgah3snno30.webp/public "longines-the-longines-legend-diver")](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 **Specs:**
 
@@ -112,7 +112,7 @@ In summary, the Ball Engineer Master II Diver Chronometer DM2280A-S3C-BRR is an 
 - Water Resistance: 300 m
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-legend-diver/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 The [Longines Legend Diver](https://www.thewatchresource.com/review-longines-legend-diver/) masterfully blends vintage allure with modern watchmaking prowess. Its 42mm stainless steel case, 12.7mm thick, commands a strong wrist presence while honoring its classic origins. A standout feature is the internal rotating bezel, controlled by the 2 o'clock crown, which offers diving functionality without the bulk of an external bezel. Further enhancing its practical capabilities are a screw-down caseback, 300m water resistance, and an anti-reflective sapphire crystal, all while preserving its vintage charm.
 
@@ -122,7 +122,7 @@ This versatility is truly where the Legend Diver shines, gracefully balancing pr
 
 ## Spinnaker Bradner
 
-[![Spinnaker Bradner Pacific Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Pacific-Blue-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-bradner-pacific-blue/)
+[![Spinnaker Bradner Pacific Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Pacific-Blue-300x300.webp/public)](https://solartimeltd.pxf.io/Z6qraK)
 
 **Specs:**
 
@@ -133,7 +133,7 @@ This versatility is truly where the Legend Diver shines, gracefully balancing pr
 - Lug Distance: 20 mm
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-bradner-pacific-blue/)
+[Check Price](https://solartimeltd.pxf.io/Z6qraK)
 
 The [Spinnaker Bradner](https://www.thewatchresource.com/spinnaker-bradner-quality-dive-watch-at-an-affordable-price/), part of the SP-5062 series, stands out as a timepiece that surpasses expectations for its price. Its 42mm stainless steel case and approximately 15mm thickness give it a substantial wrist presence while retaining a vintage diver aesthetic. The design clearly pays homage to mid-century compressor-style dive watches, featuring an internal rotating bezel controlled by a secondary crown and a robust case construction.
 
@@ -233,7 +233,7 @@ In summary: the C65 Super Compressor is an attractive option for those seeking a
 
 ## Dan Henry 1970 Automatic Diver Compressor
 
-[![Dan-Henry\_1970-Automatic-Diver Compressor](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry_1970-Automatic-Diver-Compressor-267x300.png/public)](https://www.thewatchresource.com/recommends/dan-henry-1970-automatic-diver/)
+[![Dan-Henry\_1970-Automatic-Diver Compressor](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry_1970-Automatic-Diver-Compressor-267x300.png/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1970-automatic-diver-watch&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-dive-watches%2F)
 
 **Specs:**
 
@@ -244,7 +244,7 @@ In summary: the C65 Super Compressor is an attractive option for those seeking a
 - Water Resistance: 200 m
 - Price: Under $300
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1970-automatic-diver/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1970-automatic-diver-watch&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-dive-watches%2F)
 
 The 1970 is more than a simple timekeeper; it's a statement piece the moment you wear it. Available in 40mm or 44mm 316L stainless steel cases, it masterfully blends robust construction with vintage aesthetics. Its twin-crown design—one at 2 o’clock for the inner rotating bezel and another at 4 o’clock for time and date adjustments—harks back to classic compressor-style dive watches, but with modern refinements. The internal bezel, protected beneath the crystal, offers reliable dive timing without the bulk or snagging risk of an external bezel.
 

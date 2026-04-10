@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f06731a0-2a80-4787-
 
 We are always on the lookout for exciting new finds that are unique at great price points, and it is our mission to shine some well-deserved spotlight on these excellent timepieces. If you’re familiar with VAER, you might think of their high quality and affordable field and dive watches. However, in this article we are discussing the new and super-exciting VAER R1 Racing Chronograph, definitely worthy of a closer inspection. Let’s take a look!
 
-[![VAER R1 Racing Chrono-38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-VAER-R1-Racing-Chrono-38-q6uj34v8ffsu1erpgigtyrm0rn0e45pa6obte46iss.webp/public "VAER R1 Racing Chrono-38")](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph-2/)
+[![VAER R1 Racing Chrono-38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-VAER-R1-Racing-Chrono-38-q6uj34v8ffsu1erpgigtyrm0rn0e45pa6obte46iss.webp/public "VAER R1 Racing Chrono-38")](https://vaer-watches.sjv.io/MmQAAM)
 
 **Specs:**
 
@@ -20,7 +20,7 @@ We are always on the lookout for exciting new finds that are unique at great pri
 - Water Resistance: 100 meters
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph-2/)
+[Check Price](https://vaer-watches.sjv.io/MmQAAM)
 
 ## VAER: The Brand
 
@@ -32,7 +32,7 @@ Through the support and trust of watch enthusiasts and outdoor enthusiasts, VAER
 
 The VAER R1 Racing Chronograph is a vintage-inspired statement piece. Its cushion-shaped case with the cream dial design combination definitely brings us to a ‘60 auto racing vibe. The brushed stainless steel case is 38 mm wide, a size we don’t see very often with racing chronographs, therefore it is a good, versatile size for smaller wrists as well. The vibrant red accent color on the dial gives a highly dynamic look. Overall, The VAER R1 is a classic vintage-inspired racing chronograph with features to fit the everyday practicality of our modern lives.
 
-[![VAER R1 Racing Chrono-38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-VAER-R1-Racing-Chrono-38-q6uj34v8ffsu1erpgigtyrm0rn0e45pa6obte46iss.webp/public "VAER R1 Racing Chrono-38")](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph-2/)
+[![VAER R1 Racing Chrono-38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-VAER-R1-Racing-Chrono-38-q6uj34v8ffsu1erpgigtyrm0rn0e45pa6obte46iss.webp/public "VAER R1 Racing Chrono-38")](https://vaer-watches.sjv.io/MmQAAM)
 
 **Specs:**
 
@@ -44,7 +44,7 @@ The VAER R1 Racing Chronograph is a vintage-inspired statement piece. Its cushio
 - Water Resistance: 100 meters
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph-2/)
+[Check Price](https://vaer-watches.sjv.io/MmQAAM)
 
 ### Dial
 
@@ -100,7 +100,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 With its distinctive personality, the VAER R1 Racing Chrono is a statement piece. Its vintage-inspired racing design is using somewhat understated colors and some vibrant secondary colors to make certain elements pop and give the watch a dynamic look. Boasting a 38 mm case width and a 46 mm lug-to-lug distance, this watch is a comfortable wear for smaller wrists as well. The reliable Seiko VK-63 Meca-Quartz movement should give you a solid 40-month battery life. We’re excited to see VAER branching out to new designs, and the R1 Racing Chronograph is a stunning new timepiece.
 
-[![VAER R1 Racing Chrono-38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-VAER-R1-Racing-Chrono-38-q6uj34v8ffsu1erpgigtyrm0rn0e45pa6obte46iss.webp/public "VAER R1 Racing Chrono-38")](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph-2/)
+[![VAER R1 Racing Chrono-38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-VAER-R1-Racing-Chrono-38-q6uj34v8ffsu1erpgigtyrm0rn0e45pa6obte46iss.webp/public "VAER R1 Racing Chrono-38")](https://vaer-watches.sjv.io/MmQAAM)
 
 **Specs:**
 
@@ -112,7 +112,7 @@ With its distinctive personality, the VAER R1 Racing Chrono is a statement piece
 - Water Resistance: 100 meters
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph-2/)
+[Check Price](https://vaer-watches.sjv.io/MmQAAM)
 
 ## Other Watch Reviews
 

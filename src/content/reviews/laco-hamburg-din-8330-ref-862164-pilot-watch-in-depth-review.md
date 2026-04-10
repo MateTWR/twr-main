@@ -10,7 +10,7 @@ In 2024, Laco – a German brand with nearly a century of pilot watch heritage �
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
 
-[![laco-fliegeruhr-hamburg-din-8330-862164](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-laco-fliegeruhr-hamburg-din-8330-862164-1-1024x1024.webp/public)](https://www.thewatchresource.com/recommends/laco-hamburg-din-8330/)
+[![laco-fliegeruhr-hamburg-din-8330-862164](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-laco-fliegeruhr-hamburg-din-8330-862164-1-1024x1024.webp/public)](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fdin-8330-watches%2Fhamburg-din-8330)
 
 **Specs:**
 
@@ -22,7 +22,7 @@ In 2024, Laco – a German brand with nearly a century of pilot watch heritage �
 - Lug-to-Lug Distance: 49.8 mm
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-hamburg-din-8330/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fdin-8330-watches%2Fhamburg-din-8330)
 
 ### Hamburg DIN 8330: Overview
 
@@ -77,7 +77,7 @@ The movement features hacking seconds and hand-winding, as expected. Hacking (st
 
 While the SW200 isn’t an exotic or high-horology movement, it is absolutely the right choice here. Its proven robustness under shock and vibration is essential – DIN 8330 testing put this movement through punishing vibrational forces and impacts, far more than a typical watch would ever see, and it came out unscathed and still keeping time.
 
-[![laco-fliegeruhr-hamburg-din-8330-862164](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-laco-fliegeruhr-hamburg-din-8330-862164-1-1024x1024.webp/public)](https://www.thewatchresource.com/recommends/laco-hamburg-din-8330/)
+[![laco-fliegeruhr-hamburg-din-8330-862164](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-laco-fliegeruhr-hamburg-din-8330-862164-1-1024x1024.webp/public)](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fdin-8330-watches%2Fhamburg-din-8330)
 
 **Specs:**
 
@@ -89,7 +89,7 @@ While the SW200 isn’t an exotic or high-horology movement, it is absolutely th
 - Lug-to-Lug Distance: 49.8 mm
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-hamburg-din-8330/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fdin-8330-watches%2Fhamburg-din-8330)
 
 ## Pricing and Value
 
@@ -111,7 +111,7 @@ Are there any downsides or areas for improvement? Very few, and mostly minor. Th
 
 In the grand scheme, the Laco Hamburg DIN 8330 is a unique and commendable achievement. It brings the pilot watch on par with the diver’s watch in terms of having a defined performance standard, and it gives consumers a tangible measure of quality to point to. For the German watch industry, it’s also a statement: it shows that a brand known for its history can also innovate and lead in modern standards. As someone who (obviously) loves watches, that’s the kind of stuff I find exciting.
 
-[![laco-fliegeruhr-hamburg-din-8330-862164](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-laco-fliegeruhr-hamburg-din-8330-862164-1-1024x1024.webp/public)](https://www.thewatchresource.com/recommends/laco-hamburg-din-8330/)
+[![laco-fliegeruhr-hamburg-din-8330-862164](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-laco-fliegeruhr-hamburg-din-8330-862164-1-1024x1024.webp/public)](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fdin-8330-watches%2Fhamburg-din-8330)
 
 **Specs:**
 
@@ -123,7 +123,7 @@ In the grand scheme, the Laco Hamburg DIN 8330 is a unique and commendable achie
 - Lug-to-Lug Distance: 49.8 mm
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-hamburg-din-8330/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fdin-8330-watches%2Fhamburg-din-8330)
 
 ## Other Watch Reviews
 

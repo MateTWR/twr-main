@@ -37,7 +37,7 @@ So without further ado, let's take a look at the top Swiss automatic watches und
 
 ### Hamilton Khaki Field Auto 38
 
-[![Hamilton Khaki Field Auto 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Hamilton-Khaki-Field-Auto-38-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-field-auto-38/)
+[![Hamilton Khaki Field Auto 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Hamilton-Khaki-Field-Auto-38-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70455533-khaki-field-auto.html)
 
 **Specs:** 
 
@@ -47,7 +47,7 @@ So without further ado, let's take a look at the top Swiss automatic watches und
 - Case Width: 38 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-field-auto-38/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70455533-khaki-field-auto.html)
 
 The Hamilton Khaki Field watch is a resilient military watch with a rugged design. As the first soldier’s wristwatch, the Khaki Field pays homage to Hamilton’s military background, and this timepiece is ready for any expedition. Hamilton's most popular collection, the Khaki Field watches are classic army designs that have stood the test of time.  They’re designed for life’s explorers and are sure to meet your demands in the wild.
 
@@ -55,7 +55,7 @@ The 38 mm case width counts a smaller size, however, this size is truly a tribut
 
 ### Victorinox I.N.O.X. Mechanical
 
-[![Victorinox I.N.O.X. Mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Victorinox-I.N.O.X.-Mechanical-300x263.webp/public)](https://www.thewatchresource.com/recommends/victorinox-inox-mechanical-js/)
+[![Victorinox I.N.O.X. Mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Victorinox-I.N.O.X.-Mechanical-300x263.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMechanical-Watches%2FINOX-Mechanical%2Fp%2F241836-js/)
 
 **Specs:** 
 
@@ -65,13 +65,13 @@ The 38 mm case width counts a smaller size, however, this size is truly a tribut
 - Case Width: 43 mm
 - Lug Distance: 21 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-inox-mechanical-js/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMechanical-Watches%2FINOX-Mechanical%2Fp%2F241836-js/)
 
 The I.N.O.X. Mechanical is the newest addition to the Victorinox I.N.O.X. collection. This innovation replaces quartz with mechanical movement in a finely built delicate mechanism. The dial's complex guilloche pattern is not only a distinctive, timeless element, but it's also meant to resemble the handle of a Swiss Army Knife. To cap it off, Victorinox has invented a hardwood strap that is the first of its type. It's the perfect invention that goes hand in hand with our environmental mission. It's strong, robust, and fashioned into a leather base.
 
 ### Victorinox Airboss Mechanical
 
-[![Victorinox\_airboss\_mechanical blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox_airboss_mechanical-300x264.png/public)](https://www.thewatchresource.com/recommends/victorinox-airboss-mechanical-js-2/)
+[![Victorinox\_airboss\_mechanical blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox_airboss_mechanical-300x264.png/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-ariboss-watch-241887.html)
 
 **Specs:** 
 
@@ -81,13 +81,13 @@ The I.N.O.X. Mechanical is the newest addition to the Victorinox I.N.O.X. collec
 - Case Width: 42 mm
 - Lug Distance: 22 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-airboss-mechanical-js-2/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-ariboss-watch-241887.html)
 
 This one is for all the watch lovers who are fascinated by movements, because the Airboss Mechanical from Victorinox has a translucent exhibition case back showing off its Sellita automatic movement. The blue dial and brown leather strap is a perfect combination we can never tire of, in this case paired with the red accents–cherry on top. To sum up, a beautiful eye-catching watch with a Swiss made automatic movement, named Airboss?! Sign us up.
 
 ### Tissot Seastar 1000​
 
-[![Tissot Seastar 1000​](https://www.thewatchresource.com/wp-content/uploads/2022/11/Tissot-Seastar-1000​-Green-300x300.webp)](https://www.thewatchresource.com/recommends/tissot-seastar-1000-green/)
+[![Tissot Seastar 1000​](https://www.thewatchresource.com/wp-content/uploads/2022/11/Tissot-Seastar-1000​-Green-300x300.webp)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-seastar-watch-t120-407-11-091-00.html)
 
 **Specs:** 
 
@@ -97,7 +97,7 @@ This one is for all the watch lovers who are fascinated by movements, because th
 - Case Width: 43 mm
 - Lug Distance: 21 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-seastar-1000-green/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-seastar-watch-t120-407-11-091-00.html)
 
 The Tissot Seastar 1000 is the ultimate water sport watch, with its high water-resistance, and screw-down crown, as well as its unidirectional ceramic bezel. The Powermatic 80 movement boasts 80 hours of power reserve, which is enough to continue telling time accurately even if the watch is not worn for three days. 
 
@@ -105,7 +105,7 @@ The very sporty dial and bezel and counterbalanced by the stainless steel mesh b
 
 ### Tissot Ballade Automatic
 
-[![Tissot Ballade Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Tissot-Ballade-Automatic-300x300.webp/public)](https://www.thewatchresource.com/recommends/tissot-ballade-automatic/)
+[![Tissot Ballade Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Tissot-Ballade-Automatic-300x300.webp/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-ballade-watch-t108-408-16-037-00.html)
 
 **Specs:** 
 
@@ -115,7 +115,7 @@ The very sporty dial and bezel and counterbalanced by the stainless steel mesh b
 - Case Width: 41 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-ballade-automatic/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-ballade-watch-t108-408-16-037-00.html)
 
 The Tissot Ballade Automatic is another example from Tissot for providing luxury at affordable price. The Powermatic 80 movement gives you an 80-hour power reserve. The sword minute and hour hands give the timepiece a straight-to-the-point feel, which is further amplified by the simplistic hour markers. The two Roman numerals for 6 and 12 o'clock make the dial very balanced, and the dial's inner ring has a beautiful guilloche pattern, which complimented by the fixed bezel's texture. A very classy choice!
 
@@ -127,7 +127,7 @@ The two most common movements are Miyota automatic movements, which is part of t
 
 ### Sternglas Hamburg Automatik
 
-[![Sternglas Hamburg Automatik silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Sternglas-Hamburg-Automatik-silver-300x300.webp/public)](https://www.thewatchresource.com/recommends/sternglas-hamburg-automatik/)
+[![Sternglas Hamburg Automatik silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Sternglas-Hamburg-Automatik-silver-300x300.webp/public)](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fcollections%2Fmen%2Fproducts%2Fhamburg-automatik-silver)
 
 **Specs:**
 
@@ -139,7 +139,7 @@ The two most common movements are Miyota automatic movements, which is part of t
 - Lug Width: 20 mm
 - Price: Under $500
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-hamburg-automatik/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fcollections%2Fmen%2Fproducts%2Fhamburg-automatik-silver)
 
 The Sternglas Hamburg Automatik is highlighting Hamurg's importance. The 42 mm casing does a good job of emphasizing the design, which was inspired by marine measurement tools. 
 
@@ -147,7 +147,7 @@ The Hamburg Automatic Edition has a great vintage appearance in conjunction with
 
 ### Spinnaker Bradner Pacific Blue
 
-[![Spinnaker Bradner Pacific Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Spinnaker-Bradner-Pacific-Blue-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-bradner-pacific-blue/)
+[![Spinnaker Bradner Pacific Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Spinnaker-Bradner-Pacific-Blue-300x300.webp/public)](https://solartimeltd.pxf.io/Z6qraK)
 
 **Specs:** 
 
@@ -157,7 +157,7 @@ The Hamburg Automatic Edition has a great vintage appearance in conjunction with
 - Case Width: 42 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-bradner-pacific-blue/)
+[Check Price](https://solartimeltd.pxf.io/Z6qraK)
 
 The Spinnaker Bradner is a fascinating, performance sports watch that is quickly becoming an iconic timepiece. It’s known for its three-dimensional inner rotating bezel and neo-vintage appearance, all wrapped in a watch that’s always dependable, sturdy, and very cool looking!
 
@@ -165,7 +165,7 @@ _Read our in-depth [Spinnaker Bradner Review](https://www.thewatchresource.com/s
 
 ### UNDONE Aero Worldtimer Doolittle
 
-[![Undone Aero Worldtimer Doolittle](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Undone-Aero-Worldtimer-Doolittle--240x300.webp/public)](https://www.thewatchresource.com/recommends/undone-aero-worldtimer-doolittle/)
+[![Undone Aero Worldtimer Doolittle](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Undone-Aero-Worldtimer-Doolittle--240x300.webp/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faero-worldtimer-doolittle)
 
 **Specs:**
 
@@ -175,13 +175,13 @@ _Read our in-depth [Spinnaker Bradner Review](https://www.thewatchresource.com/s
 - Case Width: 40 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-aero-worldtimer-doolittle/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faero-worldtimer-doolittle)
 
 Relive the sensation of awe, daring, and inventive spirit that the pilots, engineers, watchmakers, and travelers of the past shared as they advanced watchmaking and aviation technology beyond futuristic designs. The AERO Worldtimer from UNDONE adds the iconic GMT functionality to the new AERO collection's makeover. The result is an exciting balance of modern and vintage design, and we absolutely love it.
 
 ### Dan Henry 1975 Skin Diver
 
-[![Dan Henry 1975 Skin Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Dan-Henry-1975-Skin-Diver-q24ni155g8gaxsz5gphyp455cqyl18rwwhng6805yw.webp/public "Dan Henry 1975 Skin Diver")](https://www.thewatchresource.com/recommends/dan-henry-1975-skin-diver/)
+[![Dan Henry 1975 Skin Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Dan-Henry-1975-Skin-Diver-q24ni155g8gaxsz5gphyp455cqyl18rwwhng6805yw.webp/public "Dan Henry 1975 Skin Diver")](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1975-skin-diver-watch)
 
 **Specs:**
 
@@ -192,7 +192,7 @@ Relive the sensation of awe, daring, and inventive spirit that the pilots, engin
 - Lug Distance: 20 mm
 - Water Resistance: 150 m
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1975-skin-diver/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1975-skin-diver-watch)
 
 The Dan Henry 1975 is a '70s inspired skin diving watch that can be your everyday go-to timepiece. The vintage elements of the dial are made a bit more dynamic with the bright orange second hand. The reliable Miyota 9015 automatic movement provides 42 hours of power reserve, and the case at 39 mm width makes this a perfect fit for all wrist sizes. 
 

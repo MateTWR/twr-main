@@ -36,7 +36,7 @@ VAER makes great watches in our opinion. The timepieces are durable and they go 
 
 ### Vaer D5 Meridian Navy
 
-[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfddbyv417p4eijmcvdw28nnugld18qmjw.webp/public "Vaer D5 Meridian Navy")](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfddbyv417p4eijmcvdw28nnugld18qmjw.webp/public "Vaer D5 Meridian Navy")](https://vaer-watches.sjv.io/daaZyM)
 
 **Specs:**
 
@@ -48,7 +48,7 @@ VAER makes great watches in our opinion. The timepieces are durable and they go 
 - Water Resistance: 200 m
 - Price: Around $600
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[Check Price](https://vaer-watches.sjv.io/daaZyM)
 
 The VAER D5 Meridian Navy is a serious dive watch with a touch of elegance: the warm-toned secondary colors on the dial make this timepiece a perfect choice as an everyday go-to watch as it is easy to dress up or down. Its reliable Miyota 9039 automatic movement provides a 40-hours power reserve. The combination of the sword style for the hour hand and the pencil style of the minute hand is an unusual solution, but they work really well together. The overall angles and ruggedness is counterbalanced with the lollipop second hand to provide the elegance that makes this watch a well-rounded timepiece.
 
@@ -56,7 +56,7 @@ _Read our [in-depth VAER D5 Meridian Navy review](https://www.thewatchresource.c
 
 ### Vaer C3 Atlas Black
 
-[![Vaer C3 Tradition Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-C3-Tradition-Black-q4yttk5vso768wawmqft51q0fe2e5rqbi779afhm0c.webp/public "Vaer C3 Tradition Black")](https://www.thewatchresource.com/recommends/vaer-c3-tradition-black/)
+[![Vaer C3 Tradition Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-C3-Tradition-Black-q4yttk5vso768wawmqft51q0fe2e5rqbi779afhm0c.webp/public "Vaer C3 Tradition Black")](https://vaer-watches.sjv.io/PyyggM)
 
 **Specs:**
 
@@ -67,13 +67,13 @@ _Read our [in-depth VAER D5 Meridian Navy review](https://www.thewatchresource.c
 - Water Resistance: 100 meters
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-orbit-robot-skindiver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 The Vaer C3 Atlas Black is a smaller watch - 36 mm case width - and that is exactly why we think it could a great everyday go-to watch. It's a great fit for smaller wrist sizes and will be a comfortable wear for anyone. Simple, and elegant dial design, the Vaer C3 Atlas can be easily dressed up or down.
 
 ### VAER R1 Racing Chronograph
 
-[![VAER R1 Racing Chronograph Jubilee](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-VAER-R1-Racing-Chronograph-Jubilee-q5jlwb9ji8db1fvqy77u5nzda1tajhyb51tnnezrn0.webp/public "VAER R1 Racing Chronograph Jubilee")](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph/)
+[![VAER R1 Racing Chronograph Jubilee](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-VAER-R1-Racing-Chronograph-Jubilee-q5jlwb9ji8db1fvqy77u5nzda1tajhyb51tnnezrn0.webp/public "VAER R1 Racing Chronograph Jubilee")](https://vaer-watches.sjv.io/m5OEb7)
 
 **Specs:**
 
@@ -83,13 +83,13 @@ The Vaer C3 Atlas Black is a smaller watch - 36 mm case width - and that is exac
 - Lug Distance: 20 mm
 - Price: Around $500
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph/)
+[Check Price](https://vaer-watches.sjv.io/m5OEb7)
 
 The VAER R1 Racing Chronograph is inspired by the design of the chronographs from the ‘60s. The retro-style cushion case paired with the syringe hour and minute hands create a dynamic yet elegant look. What’s interesting about the R1 is that it doesn’t have a tachymeter that we usually see on the bezel of the racing watches. We can get behind this choice as the look of the watch still feels complete, and visually strong red accent colors bring our attention to the subdials.
 
 ### VAER S3 Tradition
 
-[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://vaer-watches.sjv.io/9gZOqj)
 
 **Specs:**
 
@@ -99,13 +99,13 @@ The VAER R1 Racing Chronograph is inspired by the design of the chronographs fro
 - Lug Distance: 20 mm
 - Price: Around $100
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[Check Price](https://vaer-watches.sjv.io/9gZOqj)
 
 The [VAER S3](https://www.thewatchresource.com/vaer-a3-tradition-review/) is an affordable alternative to the Rolex Explorer. VAER watches are assembled in the USA, and they go through rigorous testing. The S3 Tradition blends class-leading durability with a combination of a rugged look and classic elements to display an evergreen design. The 36 mm case width is on the smaller size, therefore it’s a great fit for smaller wrists as well. The classic syringe hour and minute hands give a touch of elegance that can easily be further elevated with a stainless steel bracelet.
 
 ### Vaer A5 Design Navy
 
-[![Vaer A5 Design Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Vaer-A5-Design-Navy-300x300.webp/public)](https://www.thewatchresource.com/recommends/vaer-a5-design-navy/)
+[![Vaer A5 Design Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Vaer-A5-Design-Navy-300x300.webp/public)](https://vaer-watches.sjv.io/211JyO)
 
 **Specs:**
 
@@ -116,13 +116,13 @@ The [VAER S3](https://www.thewatchresource.com/vaer-a3-tradition-review/) is an 
 - Lug Width: 20 mm
 - Price: Around $450
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-a5-design-navy/)
+[Check Price](https://vaer-watches.sjv.io/211JyO)
 
 The Vaer A5 Design Navy is quickly becoming a favorite. The navy blue dial combined with the red accent color is an exciting look, and it makes the watch dynamic. The syringe hour and minute hands bring a touch of elegance to the overall look, making this watch versatile, as it can be dressed up as well. Vaer watches go through rigorous testing and they are assembled in the USA.
 
 ### VAER A5 Atlas Olive
 
-[![Vaer A5 Atlas Olive](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A5-Atlas-Olive-q4yvv33ee4umeti3ail86hs18fo09fmga4akpmgzak.webp/public "Vaer A5 Atlas Olive")](https://www.thewatchresource.com/recommends/vaer-a5-atlas-olive/)
+[![Vaer A5 Atlas Olive](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A5-Atlas-Olive-q4yvv33ee4umeti3ail86hs18fo09fmga4akpmgzak.webp/public "Vaer A5 Atlas Olive")](https://vaer-watches.sjv.io/Pyyg9j)
 
 **Specs:**
 
@@ -133,13 +133,13 @@ The Vaer A5 Design Navy is quickly becoming a favorite. The navy blue dial combi
 - Lug Width: 20 mm
 - Price: Around $650
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-a5-atlas-olive/)
+[Check Price](https://vaer-watches.sjv.io/Pyyg9j)
 
 The Vaer A5 Atlas Olive is a field watch with a beautifully elegant design. The cool olive green dial color plays really well with the stainless steel bezel and case, providing a rugged yet still classy look. The 36 mm case width is a perfect size for smaller wrists as well, and this watch can function as a real GADA (Go Anywhere Do Anything) timepiece, as it is so easy to dress up or down  the Vaer A5 Atlas. A great choice!
 
 ### Vaer D4 Meridian
 
-[![Vaer D4 Meridian Solar](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D4-Meridian-Solar-q4wron76hinks11v82wwdjf37ct8gqbjwal00gptbg.webp/public "Vaer D4 Meridian Solar")](https://www.thewatchresource.com/recommends/vaer-d4-meridian/)
+[![Vaer D4 Meridian Solar](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D4-Meridian-Solar-q4wron76hinks11v82wwdjf37ct8gqbjwal00gptbg.webp/public "Vaer D4 Meridian Solar")](https://vaer-watches.sjv.io/9ggQE3)
 
 **Specs:**
 
@@ -150,7 +150,7 @@ The Vaer A5 Atlas Olive is a field watch with a beautifully elegant design. The 
 - Water Resistance: 200 meters
 - Price: Around $350
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-d4-meridian/)
+[Check Price](https://vaer-watches.sjv.io/9ggQE3)
 
 The VAER D4 Meridian is a robust-looking dive watch. The cool tone colors of the watch represent the robustness of the timepiece. It went through rigorous testing, comes with a solar-powered movement and is ready for action. The overall width of the case is 38 mm, a comfortable wear for most wrist sizes.
 

@@ -18,7 +18,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 
 ## Hamilton Khaki Navy Scuba vs Tissot Seastar 1000 Comparison
 
- [![Hamilton Khaki Navy Scuba auto blue 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-17-at-9.46.48-PM-212x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)[Check Price ](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-T120.407.11.041.03-300x300.webp/public) ](https://amzn.to/3vax9ip)[Check Price](https://amzn.to/3vax9ip)
+ [![Hamilton Khaki Navy Scuba auto blue 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-17-at-9.46.48-PM-212x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)[Check Price ](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-T120.407.11.041.03-300x300.webp/public) ](https://amzn.to/3vax9ip)[Check Price](https://amzn.to/3vax9ip)
 
 ## At a Glance: The Quick Specs & Takeaway
 
@@ -125,7 +125,7 @@ Choose the Hamilton if:
 - You have a smaller wrist, as the Hamilton has a more comprehensive design where the dial, case, and bracelet all contribute to the same look and feel.
 - You’re looking for a watch that can be dressed up or down easily.
 
- [![Hamilton Khaki Navy Scuba auto blue 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-17-at-9.46.48-PM-212x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)[Check Price ](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-T120.407.11.041.03-300x300.webp/public) ](https://amzn.to/3vax9ip)[Check Price](https://amzn.to/3vax9ip)
+ [![Hamilton Khaki Navy Scuba auto blue 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-17-at-9.46.48-PM-212x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)[Check Price ](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-T120.407.11.041.03-300x300.webp/public) ](https://amzn.to/3vax9ip)[Check Price](https://amzn.to/3vax9ip)
 
 | Feature | Hamilton Khaki Navy Scuba (43mm) | Tissot Seastar 1000 (43mm) |
 | --- | --- | --- |

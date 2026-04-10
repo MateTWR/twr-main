@@ -76,13 +76,13 @@ The watches are inspired by the American people, culture, and geography.
 
 The back of the watches are stamped in US-sourced brass and plated with "Aged Waterbury Brass" to mimic the hue of Timex’s first brass watches. The 1854 beginnings in Waterbury, Connecticut - the "Brass City" — are commemorated in the crown design element.
 
-[![Timex American Documents 41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-TW2R82700-pjg85hlkbvz6diaypb4gf22fogo6hqcw3nfyucrphs.png/public "Timex American Documents 41")](https://www.thewatchresource.com/recommends/timex-american-documents/)
+[![Timex American Documents 41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-TW2R82700-pjg85hlkbvz6diaypb4gf22fogo6hqcw3nfyucrphs.png/public "Timex American Documents 41")](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.89A457D987EF1BC6.TW2R82700US)
 
 [Movement: Swiss Quartz  
   
-Diameter: 41 mm](https://www.thewatchresource.com/recommends/timex-american-documents/)
+Diameter: 41 mm](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.89A457D987EF1BC6.TW2R82700US)
 
-[Check Price](https://www.thewatchresource.com/recommends/timex-american-documents/)
+[Check Price](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.89A457D987EF1BC6.TW2R82700US)
 
 ## Timex Marlin
 
@@ -92,15 +92,15 @@ The series is appealing to individuals who want a nice dress watch with analog d
 
 The 40mm Marlin Automatic watch with leather band and stainless steel case is a classic. The movement's power storage capacity is up to 40 hours, and it may be wound by hand if it runs out. The watch has a dazzling see-through case back that allows the mechanism to be seen plainly.
 
-[![TW2U38400](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-TW2U38400-pjg8ed6ovk4o0xeqv59lytf5ngwz6tlmnl920fluq8.png/public "TW2U38400")](https://www.thewatchresource.com/recommends/timex-marlin/)
+[![TW2U38400](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-TW2U38400-pjg8ed6ovk4o0xeqv59lytf5ngwz6tlmnl920fluq8.png/public "TW2U38400")](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.330AF5D25EDA861F.TW2U38400ZV)
 
 [Movement: Automatic  
   
 Power Reserve: 40 hours  
   
-Diameter: 40 mm](https://www.thewatchresource.com/recommends/timex-marlin/)
+Diameter: 40 mm](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.330AF5D25EDA861F.TW2U38400ZV)
 
-[Check Price](https://www.thewatchresource.com/recommends/timex-marlin/)
+[Check Price](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.330AF5D25EDA861F.TW2U38400ZV)
 
 ## Timex Waterbury Collection
 
@@ -108,27 +108,27 @@ The Waterbury series pays homage to the company's heritage by promoting watches 
 
 The models are suitable for casual wear as well as important events. This range also includes stainless steel cases and stopwatch functionalities. 
 
-[![Timex Waterbury Traditional day date](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-TW2U90200-pjg8ngaixwkg987lt2ns2ivkdk4plho7wka10q4ukw.png/public "Timex Waterbury Traditional Day Date")](https://www.thewatchresource.com/recommends/timex-waterbury-traditional-day-date/)
+[![Timex Waterbury Traditional day date](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-TW2U90200-pjg8ngaixwkg987lt2ns2ivkdk4plho7wka10q4ukw.png/public "Timex Waterbury Traditional Day Date")](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.2EB35C65B2F42C8D.TW2U90200VQ)
 
 [Movement: Quartz  
   
 Diameter: 39 mm  
-](https://www.thewatchresource.com/recommends/timex-waterbury-traditional-day-date/)
+](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.2EB35C65B2F42C8D.TW2U90200VQ)
 
-[Check Price](https://www.thewatchresource.com/recommends/timex-waterbury-traditional-day-date/)
+[Check Price](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.2EB35C65B2F42C8D.TW2U90200VQ)
 
 ## Timex Expedition Collection
 
 Outdoor activities are the primary focus of the Timex watches from the Expedition collection. They're tough and shockproof, and they come in a variety of designs and colors to suit a wide range of tastes and desired looks.  
 Many of them have a chronograph feature, giving the tickers a variety of looks. A great collection to explore if you're looking for a timepiece to accompany you in your adventures.
 
-[![Timex Expedition Sierra](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-TW2V07100-pjg95ht04f9l3s05gdezfgz2ut7cccaqpv2jmxdt5c.png/public "Timex Expedition Sierra")](https://www.thewatchresource.com/recommends/timex-expedition-sierra/)
+[![Timex Expedition Sierra](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-TW2V07100-pjg95ht04f9l3s05gdezfgz2ut7cccaqpv2jmxdt5c.png/public "Timex Expedition Sierra")](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.6F4882F0422C7A0C.TW2V07100VQ)
 
 [Movement: Quartz  
   
-Diameter: 41 mm](https://www.thewatchresource.com/recommends/timex-expedition-sierra/)
+Diameter: 41 mm](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.6F4882F0422C7A0C.TW2V07100VQ)
 
-[Check Price](https://www.thewatchresource.com/recommends/timex-expedition-sierra/)
+[Check Price](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.6F4882F0422C7A0C.TW2V07100VQ)
 
 ## Timex Weekender Collection
 
@@ -136,13 +136,13 @@ The Timex Weekender collection is ideal for everyday casual wear since it is sty
 
 The case sizes range from medium 38mm to above-average 42mm, so all wrist sizes can find a great timepiece.
 
-[![Timex Weekender 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-T2N649-pjg8zijynd2x92otdadf2haitkoadnk7k9ocqk8yq8.png/public "Timex Weekender 38")](https://www.thewatchresource.com/recommends/timex-weekender-38/)
+[![Timex Weekender 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-T2N649-pjg8zijynd2x92otdadf2haitkoadnk7k9ocqk8yq8.png/public "Timex Weekender 38")](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.6D879BED0B42BB33.T2N6499J)
 
 [Movement: Quartz  
   
-Diameter: 38 mm](https://www.thewatchresource.com/recommends/timex-weekender-38/)
+Diameter: 38 mm](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.6D879BED0B42BB33.T2N6499J)
 
-[Check Price](https://www.thewatchresource.com/recommends/timex-weekender-38/)
+[Check Price](https://track.flexlinkspro.com/p.ashx?foc=107&fopid=1264132.170370.1.9B8A.6D879BED0B42BB33.T2N6499J)
 
 #### WRITTEN BY
 

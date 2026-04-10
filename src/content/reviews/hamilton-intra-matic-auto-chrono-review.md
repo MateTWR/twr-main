@@ -8,7 +8,7 @@ heroImage: "https://www.thewatchresource.com/wp-content/uploads/2023/03/h3841656
 
 When it comes to racing chronographs, most of the designs out there have a distinct sporty look, which of course makes perfect sense—but it also limits their wearability. While racing watches, generally speaking, are not our first choice when it comes to a formal dress code, the Hamilton Intra-Matic Auto Chronograph comes as a refreshing exception to the rule. Combining a sporty look with sophisticated elegance, this watch really has it all. Let’s take a closer look, and discuss if the Intra-Matic is indeed a worthwhile investment.
 
-[](https://www.thewatchresource.com/recommends/hamilton-intra-matic/)[](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-ss/)Previous Next
+[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416111-american-classic-intra-matic-auto-chrono.html)Previous Next
 
 **Specs:** 
 
@@ -19,8 +19,8 @@ When it comes to racing chronographs, most of the designs out there have a disti
 - Lug Distance: 20 mm
 
 [Check Price for  
-Leather](https://www.thewatchresource.com/recommends/hamilton-intra-matic/) [Check Price for  
-Stainless Steel](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-ss/)
+Leather](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html) [Check Price for  
+Stainless Steel](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416111-american-classic-intra-matic-auto-chrono.html)
 
 ## Hamilton: The Brand
 
@@ -36,7 +36,7 @@ The tachymeter, along with the bezel and the long seconds hand reminds us of a c
 
 **The Hamilton Intra-Matic is a stylish timepiece with a nod towards vintage design_._**
 
-[](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-green/)[](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-green-ss/)Previous Next
+[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416160-american-classic-intra-matic-auto-chrono-40mm.html)Previous Next
 
 **Specs:** 
 
@@ -47,8 +47,8 @@ The tachymeter, along with the bezel and the long seconds hand reminds us of a c
 - Lug Distance: 20 mm
 
 [Check Price for  
-Leather](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-green/) [Check Price for  
-Stainless Steel](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-green-ss/)
+Leather](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html) [Check Price for  
+Stainless Steel](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416160-american-classic-intra-matic-auto-chrono-40mm.html)
 
 ### Dial
 
@@ -105,7 +105,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 The Hamilton Intra-Matic Auto Chrono is an inspired reimagination of a 1968 signature timepiece that delivers a sporty yet timeless design. The 40 mm case width, the dial design working with only two colors, and having the tachymeter a part of the dial and not on the bezel makes this watch very elegant that can function as a dress chronograph as well. The automatic chronograph movement (H-31 caliber) provides a 60-hour power reserve. This timepiece is robust and graceful at the same time, and would be a great addition to any watch collection.
 
-[](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-blue/)[](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-blue-ss/)Previous Next
+[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416541-intra-matic.html)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416141-american-classic-intra-matic-auto-chrono.html)Previous Next
 
 **Specs:** 
 
@@ -116,8 +116,8 @@ The Hamilton Intra-Matic Auto Chrono is an inspired reimagination of a 1968 sign
 - Lug Distance: 20 mm
 
 [Check Price for  
-Leather](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-blue/) [Check Price for  
-Stainless Steel](https://www.thewatchresource.com/recommends/hamilton-intra-matic-auto-chrono-blue-ss/)
+Leather](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416541-intra-matic.html) [Check Price for  
+Stainless Steel](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416141-american-classic-intra-matic-auto-chrono.html)
 
 ## Other Watch Reviews
 

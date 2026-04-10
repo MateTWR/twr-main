@@ -17,7 +17,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 
 ## Vaer C5 Design Navy
 
-[![Vaer A5 Design Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Vaer-A5-Design-Navy-300x300.webp/public)](https://www.thewatchresource.com/recommends/vaer-c5-navy-design/)
+[![Vaer A5 Design Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Vaer-A5-Design-Navy-300x300.webp/public)](https://vaer-watches.sjv.io/09Rj3N)
 
 **Specs:**
 
@@ -28,7 +28,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 - Lug Width: 20 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-c5-navy-design/)
+[Check Price](https://vaer-watches.sjv.io/09Rj3N)
 
 The Vaer C5 Design Navy is quickly becoming a favorite among field watch enthusiasts—and it’s easy to see why. With its deep navy blue dial accented by a subtle pop of red, the C5 strikes a compelling balance between classic military-inspired design and modern flair. This vibrant color combination adds a sense of energy and dynamism to the dial, giving the watch a bold personality without compromising its utilitarian roots.
 
@@ -38,7 +38,7 @@ Beyond aesthetics, Vaer’s commitment to quality is what truly sets the C5 apar
 
 ## Hamilton Khaki Field Quartz
 
-[![Hamilton Khaki Field 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-Screen-Shot-2022-09-19-at-4.40.47-PM-252x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-field-quartz-40/)
+[![Hamilton Khaki Field 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-Screen-Shot-2022-09-19-at-4.40.47-PM-252x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68551833-khaki-field-quartz.html)
 
 **Specs:**
 
@@ -49,7 +49,7 @@ Beyond aesthetics, Vaer’s commitment to quality is what truly sets the C5 apar
 - Lug Width: 20 mm
 - Price: Just above $500
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-field-quartz-40/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68551833-khaki-field-quartz.html)
 
 The Hamilton Khaki Field is a true staple in the world of field watches, proudly embracing its military heritage while incorporating subtle modern updates that make it as relevant today as ever. Its design is unmistakably classic—bold Arabic numerals, 24-hour inner markings, and a clean, no-nonsense layout—but it's these timeless elements that give the watch its enduring appeal. The matte case finish and durable materials pay tribute to its utilitarian roots, originally built for toughness and readability in demanding environments.
 
@@ -59,7 +59,7 @@ Adding to its practicality is the reliable quartz movement, which provides the k
 
 ## VAER S3 Tradition
 
-[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Vaer-A3-Tradition-300x300.webp/public)](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Vaer-A3-Tradition-300x300.webp/public)](https://vaer-watches.sjv.io/9gZOqj)
 
 **Specs:**
 
@@ -69,7 +69,7 @@ Adding to its practicality is the reliable quartz movement, which provides the k
 - Lug Distance: 20 mm
 - Price: Below $200
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[Check Price](https://vaer-watches.sjv.io/9gZOqj)
 
 The [VAER S3](https://www.thewatchresource.com/vaer-s3-tradition-review/) is an impressive and affordable alternative to the Rolex Explorer, offering a thoughtfully designed timepiece that captures the essence of rugged exploration with a refined twist. As with all VAER watches, the S3 is assembled in the USA and undergoes rigorous testing to ensure it meets the brand’s high standards for durability and performance. This commitment to quality, especially at an accessible price point, makes the S3 a standout in the field watch category.
 

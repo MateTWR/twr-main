@@ -74,7 +74,7 @@ As the brand moves forward, it continues to draw on its rich heritage while embr
 
 ### Antarctic
 
-[![super-antarctic-3-6-9-tropical-nivada-grenchen-1-22662342672472\_1800x1800](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-03-super-antarctic-3-6-9-tropical-nivada-grenchen-1-22662342672472_1800x1800-225x300.webp/public)](https://www.thewatchresource.com/recommends/nivada-grenchen-super-antarctic-3-6-9-tropical/)
+[![super-antarctic-3-6-9-tropical-nivada-grenchen-1-22662342672472\_1800x1800](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-03-super-antarctic-3-6-9-tropical-nivada-grenchen-1-22662342672472_1800x1800-225x300.webp/public)](https://www.tkqlhce.com/click-100461694-15291707?url=https%3A%2F%2Fshop.hodinkee.com%2Fproducts%2Fnivada-grenchen-super-antarctic-3-6-9-tropical)
 
 **Specs:**
 
@@ -86,7 +86,7 @@ As the brand moves forward, it continues to draw on its rich heritage while embr
 - Lug-to-lug: 45 mm
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/nivada-grenchen-super-antarctic-3-6-9-tropical/)
+[Check Price](https://www.tkqlhce.com/click-100461694-15291707?url=https%3A%2F%2Fshop.hodinkee.com%2Fproducts%2Fnivada-grenchen-super-antarctic-3-6-9-tropical)
 
 The name truly encapsulates its essence. Nivada Grenchen's watches in the Antarctic collection have endured the harshest environments in the most formidable regions of the south. These timepieces have weathered snow, rain, and sleet, proving indispensable to Admiral Byrd during the challenging Operation Deep Freeze.
 
@@ -96,7 +96,7 @@ Embark on an adventure and experience the enhanced durability and reliability of
 
 ### Chronomaster Aviator Sea Diver Black Broad Arrow
 
-[![broad-arrow-manual-nivada-grenchen-25\_1800x1800](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-03-broad-arrow-manual-nivada-grenchen-25_1800x1800-225x300.webp/public)](https://www.thewatchresource.com/recommends/nivada-grenchen-chronomaster-aviator-sea-diver-black-broad-arrow/)
+[![broad-arrow-manual-nivada-grenchen-25\_1800x1800](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-03-broad-arrow-manual-nivada-grenchen-25_1800x1800-225x300.webp/public)](https://www.kqzyfj.com/click-100461694-15291707?url=https%3A%2F%2Fshop.hodinkee.com%2Fproducts%2Fnivada-grenchen-chronomaster-aviation-sea-diver-black-broad-arrow-dial-straight-link-bracelet)
 
 **Specs:**
 
@@ -108,7 +108,7 @@ Embark on an adventure and experience the enhanced durability and reliability of
 - Lug-to-lug: 46.5 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/nivada-grenchen-chronomaster-aviator-sea-diver-black-broad-arrow/)
+[Check Price](https://www.kqzyfj.com/click-100461694-15291707?url=https%3A%2F%2Fshop.hodinkee.com%2Fproducts%2Fnivada-grenchen-chronomaster-aviation-sea-diver-black-broad-arrow-dial-straight-link-bracelet)
 
 This iconic chronograph boasts an impressive array of features, powered by the Sellita SW510 BH B movement. This enables the watch to function with either automatic winding (SW510 BH b) or manual winding (SW510 M BH b). It offers a variety of hand and dial options, from Broad Arrow to Lollipop and Orange Boy to Panda, making it a timeless piece with cutting-edge customization options. As part of Nivada Grenchen's prestigious collection known for its exceptional quality, the Nivada Chronomaster stands out as a highly precise and versatile tool. It finds value across diverse fields such as sports, business, science, and professional instruction, proving its ability to meet a wide range of needs.
 
@@ -116,7 +116,7 @@ Each Nivada Chronomaster undergoes rigorous testing to ensure its quality and is
 
 ### Depthmaster
 
-[![white-pacman-depthmaster-14102a-nivada-grenchen](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-white-pacman-depthmaster-14102a-nivada-grenchen-16_1800x1800-qkmuy0j8sit6fslitsbfuo09qsqcu3ch7bxzsdjuzw.webp/public "white-pacman-depthmaster-14102a-nivada-grenchen")](https://www.thewatchresource.com/recommends/nivada-grenchen-depthmaster-white-pacman/)
+[![white-pacman-depthmaster-14102a-nivada-grenchen](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-white-pacman-depthmaster-14102a-nivada-grenchen-16_1800x1800-qkmuy0j8sit6fslitsbfuo09qsqcu3ch7bxzsdjuzw.webp/public "white-pacman-depthmaster-14102a-nivada-grenchen")](https://www.anrdoezrs.net/click-100461694-15291707?url=https%3A%2F%2Fshop.hodinkee.com%2Fproducts%2Fnivada-grenchen-depthmaster-white-pacman-on-beads-of-rice-bracelet-14102a04)
 
 **Specs:**
 
@@ -128,7 +128,7 @@ Each Nivada Chronomaster undergoes rigorous testing to ensure its quality and is
 - Lug-to-Lug Distance: 47 mm
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/nivada-grenchen-depthmaster-white-pacman/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-15291707?url=https%3A%2F%2Fshop.hodinkee.com%2Fproducts%2Fnivada-grenchen-depthmaster-white-pacman-on-beads-of-rice-bracelet-14102a04)
 
 Yet, another timepiece has gained recognition and a distinctive nickname among the elite: the Nivada Grenchen Depthmaster, known as the "Pac-Man" or, to some, the "Mini-Panerai." The range of nicknames given to the Nivada Grenchen Depthmaster speaks volumes about its significance in the world of watchmaking and its esteemed status among watch enthusiasts.
 

@@ -12,7 +12,7 @@ If you are looking for a good looking, high quality watch for everyday use, you 
 
 ## Vaer A3 Atlas Navy
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-09-Vaer-A3-Atlas-Navy-300x300.webp/public)](https://www.thewatchresource.com/recommends/vaer-a3-atlas-navy/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-09-Vaer-A3-Atlas-Navy-300x300.webp/public)](https://vaer-watches.sjv.io/rQyVkQ)
 
 **Specs:**
 
@@ -23,13 +23,13 @@ If you are looking for a good looking, high quality watch for everyday use, you 
 - Lug Width: 20 mm
 - Water Resistance: 100 meters
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-a3-atlas-navy/)
+[Check Price](https://vaer-watches.sjv.io/rQyVkQ)
 
 The Vaer A3 Atlas Navy is a smaller watch - 36 mm case width - and that is exactly why we think it could a great everyday go-to watch. It's a great fit for smaller wrist sizes and will be a comfortable wear for anyone. Simple, and elegant dial design, the Vaer A3 Atlas Navy can be easily dressed up or down.
 
 ## Hamilton Khaki Navy Scuba
 
-[![Hamilton Khaki Navy Scuba quartz grey 37](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-7.10.18-PM-195x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37/)
+[![Hamilton Khaki Navy Scuba quartz grey 37](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-7.10.18-PM-195x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211981-khaki-navy-scuba-quartz.html)
 
 **Specs:**
 
@@ -38,7 +38,7 @@ The Vaer A3 Atlas Navy is a smaller watch - 36 mm case width - and that is exact
 - Lug Width: 18 mm
 - Water Resistance: 100 meters
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211981-khaki-navy-scuba-quartz.html)
 
 The Khaki Navy Scuba Quartz 37mm, with its sporty design and great practicality, maintains perfect time at the beach or in the water. This timepiece offers a nautical touch to any outfit, therefore it could be your everyday go-to watch.
 
@@ -46,7 +46,7 @@ _Read more about the_ _[Hamilton brand](https://www.thewatchresource.com/hamilt
 
 ## Victorinox Alliance
 
-[![Victorinox Alliance Quartz black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-06-Victorinox-Alliance-Quartz-black-300x263.webp/public)](https://www.thewatchresource.com/recommends/victorinox-alliance/)
+[![Victorinox Alliance Quartz black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-06-Victorinox-Alliance-Quartz-black-300x263.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance%2Fp%2F241904)
 
 **Specs:**
 
@@ -55,7 +55,7 @@ _Read more about the_ _[Hamilton brand](https://www.thewatchresource.com/hamilt
 - Lug Distance: 21 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-alliance/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance%2Fp%2F241904)
 
 The Victorinox Alliance is exactly what you would expect from a Swiss brand for an everyday watch. A gorgeous, clean looking timepiece, with truly timeless design elements. The black dial and brushed stainless steel is a combination that is hard to beat. The reliable quartz movement is housed in a moderately sized (40 mm) case. An overall great watch.
 
@@ -66,7 +66,7 @@ _Read more:_
 
 ## Tissot T-Classic Tradition
 
-[![Tissot T-Classic Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-Screen-Shot-2021-12-05-at-7.36.52-PM-213x300.png/public)](https://www.thewatchresource.com/recommends/tissot-t-classic-tradition/)
+[![Tissot T-Classic Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-Screen-Shot-2021-12-05-at-7.36.52-PM-213x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-watch-t0636101603800.html)
 
 **Specs:**
 
@@ -75,13 +75,13 @@ _Read more:_
 - Case Width: 42 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-t-classic-tradition/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-watch-t0636101603800.html)
 
 With a vintage-style perfectly matched with classical elements and delicate finishing, the Tissot Tradition line adds a touch of nostalgia to ultra-modern watchmaking. Design features like as guilloche ornamentation on bracelet variants and a softly curved case complement the classic look in a modern setting. A classic, timeless watch by Tissot.
 
 ## Spinnaker Hull Riviera NOIRE
 
-[![Spinnaker\_Hull-Riviera-NOIRE](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Riviera-NOIRE-300x300.jpg/public)](https://www.thewatchresource.com/recommends/spinnaker-hull-riviera-noire/)
+[![Spinnaker\_Hull-Riviera-NOIRE](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Riviera-NOIRE-300x300.jpg/public)](https://solartimeltd.pxf.io/55KjV1)
 
 **Specs:**
 
@@ -91,7 +91,7 @@ With a vintage-style perfectly matched with classical elements and delicate fini
 - Case Width: 42 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-hull-riviera-noire/)
+[Check Price](https://solartimeltd.pxf.io/55KjV1)
 
 Timeless elegance and sporty flair come together beautifully in the Hull Riviera NOIRE by Spinnaker. This watch can absolutely be dressed up or down, depending on the occasion. The reliable Japanese automatic movement (by Seiko) is sure to keep you on time, and is housed in a sturdy, cushion shaped stainless steel case. The Hull Riviera is water resistant up to 100 meters, always ready for an adventure.
 
@@ -107,7 +107,7 @@ _Read more about the [Spinnaker watches](https://www.thewatchresource.com/spinna
 - Caliber: VK61
 - Case Width: 40 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-vintage-killy/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fundone.com%2Fcollections%2Furban%2Fproducts%2Furban-vintage-killy)
 
 The popular UNDONE Vintage Killy watches are custom-made vintage-inspired 40 mm Mecca-quartz timepieces.  
 Each watch in the collection is ideally suited for day-to-day wear thanks to its 40 mm size, which is perfect for almost all wrist sizes.
@@ -116,7 +116,7 @@ A collection of classic dial designs, rich in complex features and textures and 
 
 ## Seiko Essential SUR309
 
-[![Seiko\_Essential-sur309](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Seiko_Essential-sur309-196x300.png/public)](https://www.thewatchresource.com/recommends/seiko-sur309/)
+[![Seiko\_Essential-sur309](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Seiko_Essential-sur309-196x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fseiko-classic-watch-sur309p1.html)
 
 **Specs:**
 
@@ -125,13 +125,13 @@ A collection of classic dial designs, rich in complex features and textures and 
 - Case Width: 40.2 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/seiko-sur309/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fseiko-classic-watch-sur309p1.html)
 
 Seiko’s SUR309 from their Essential collection is another straight to the point watch. It has a beautiful blue dial with sunray finish, the date calendar is positioned at 3 o’clock and the 40.2 mm case width makes it a comfortable wear for all wrist sizes. The stainless steel bracelet gives this watch a classic, elegant feel, and the water resistance ensures you can use it for sport activities as well. A great choice that will stand the test of time.
 
 ## VAER DS5 Meridian Navy
 
-[![VAER DS5](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-09-DS5-MN-QR-NY-KHA-42-300x300.webp/public)](https://www.thewatchresource.com/recommends/vaer-ds5-meridian-navy/)
+[![VAER DS5](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-09-DS5-MN-QR-NY-KHA-42-300x300.webp/public)](https://vaer-watches.sjv.io/y2vzaV)
 
 **Specs:**
 
@@ -141,7 +141,7 @@ Seiko’s SUR309 from their Essential collection is another straight to the poin
 - Case Width: 42 mm
 - Water Resistance: 200 m
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-ds5-meridian-navy/)
+[Check Price](https://vaer-watches.sjv.io/y2vzaV)
 
 Vaer watches are assembled in the USA and they go through rigorous testing: the DS5 goes to the limits of real-world depth exposure, so they can be ocean-ready. While the style of this watch is distinctly military-inspired, the fine details on the dial make it an interesting cross between elegant and rugged.  The DS5 comes with the Vaer’s standard 24-month warranty, and the comfortable case size make it a perfect fit for most wrists.
 
@@ -161,7 +161,7 @@ Vaer watches are assembled in the USA and they go through rigorous testing: the 
 
 ## Jowissa LeWy 3
 
-[![Jowissa\_LeWy-3](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Jowissa_LeWy-3-202x300.png/public)](https://www.thewatchresource.com/recommends/jowissa-lewy-3/)
+[![Jowissa\_LeWy-3](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Jowissa_LeWy-3-202x300.png/public)](https://shrsl.com/345t8)
 
 **Specs:**
 
@@ -170,7 +170,7 @@ Vaer watches are assembled in the USA and they go through rigorous testing: the 
 - Lug Distance: 22 mm
 - Water Resistance: 50 m
 
-[Check Price](https://www.thewatchresource.com/recommends/jowissa-lewy-3/)
+[Check Price](https://shrsl.com/345t8)
 
 [Jowissa](https://www.thewatchresource.com/brand-reviews/jowissa-review/)’s LeWy 3 is quite simply a stunning play of hues and finishes. The brown leather strap and sable-brown dial pair beautifully with the rose gold elements. This watch is hand-assembled in Switzerland, uses a quartz movement and is offered at a great price point.
 

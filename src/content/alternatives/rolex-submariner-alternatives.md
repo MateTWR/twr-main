@@ -54,7 +54,7 @@ Whether you are a surfer looking for a reliable way to track time while chasing 
 
 ## Timex Navi XL 41 mm
 
-[![Timex Navi XL 41 mm](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Timex-Navi-XL-41-mm-250x300.webp/public)](https://www.thewatchresource.com/recommends/timex-navi-xl-41mm-blue/)
+[![Timex Navi XL 41 mm](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Timex-Navi-XL-41-mm-250x300.webp/public)](https://track.flexlinkspro.com/g.ashx?foid=1.39818&trid=1264132.170370&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.timex.com%2Fnavi-xl-41mm-silicone-strap-watch%2FNavi-XL-41mm-Silicone-Strap-Watch.html%3Fdwvar_Navi-XL-41mm-Silicone-Strap-Watch_color%3DStainless-Steel-Black-Blue%26cgid%3D%23q%3Dnavi%252Bxl%26lang%3Den_US%26start%3D1)
 
 **Specs:**
 
@@ -64,7 +64,7 @@ Whether you are a surfer looking for a reliable way to track time while chasing 
 - Water Resistance: 100 m
 - Price: Under $150
 
-[Check Price](https://www.thewatchresource.com/recommends/timex-navi-xl-41mm-blue/)
+[Check Price](https://track.flexlinkspro.com/g.ashx?foid=1.39818&trid=1264132.170370&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.timex.com%2Fnavi-xl-41mm-silicone-strap-watch%2FNavi-XL-41mm-Silicone-Strap-Watch.html%3Fdwvar_Navi-XL-41mm-Silicone-Strap-Watch_color%3DStainless-Steel-Black-Blue%26cgid%3D%23q%3Dnavi%252Bxl%26lang%3Den_US%26start%3D1)
 
 The Timex Navi XL combines design elements from the brand's first diver-style watches with a 21-jewel automatic movement, ensuring that your watch stays ticking as long as you do. The blue dial, green hour marks, and stainless steel case with a unidirectional rotating top ring give a new interpretation on this historic design.
 
@@ -123,7 +123,7 @@ The large case size on the Kanno by Orient is sure to make a statement, although
 
 ## Spinnaker Hull Diver (Cognac Brown)
 
-[![Spinnaker\_Hull-Diver-Cognac-Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Diver-Cognac-Brown-300x300.jpg/public)](https://www.thewatchresource.com/recommends/spinnaker-hull-diver-cognac-brown/)
+[![Spinnaker\_Hull-Diver-Cognac-Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Diver-Cognac-Brown-300x300.jpg/public)](https://solartimeltd.pxf.io/kOVRxV)
 
 **Specs:**
 
@@ -134,13 +134,13 @@ The large case size on the Kanno by Orient is sure to make a statement, although
 - Water Resistance: 300 m
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-hull-diver-cognac-brown/)
+[Check Price](https://solartimeltd.pxf.io/kOVRxV)
 
 The Spinnaker Hull Diver does a beautiful job of fusing vintage elements with modern edge, resulting in this eye-catching dive watch that is sure to attract compliments. The deep brown color of the dial and bezel is cleverly contrasted with a brushed stainless steel case with softly rounded corners. The reliable NH35 automatic movement and the mesmerizing sweeping second hand will keep you punctual, while the watch itself is guaranteed to keep you stylish.
 
 ## Undone Aqua 316L Steel
 
-[![Undone\_Aqua-316L-Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Undone_Aqua-316L-Steel-240x300.png/public)](https://www.thewatchresource.com/recommends/undone-aqua-ii-316l-steel/)
+[![Undone\_Aqua-316L-Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Undone_Aqua-316L-Steel-240x300.png/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faqua-II-316L-steel&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 **Specs:**
 
@@ -151,7 +151,7 @@ The Spinnaker Hull Diver does a beautiful job of fusing vintage elements with mo
 - Water Resistance: 300 m
 - Price: Under $500
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-aqua-ii-316l-steel/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faqua-II-316L-steel&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 High-capacity, high-performance. With its automated winding mechanism, sapphire crystal, and better personalization possibilities, the 43mm UNDONE Aqua tool watch is a timepiece every dive watch enthusiast should consider. The Aqua II watches have the very reliable NH35A automatic movement provided by Seiko.
 
@@ -161,7 +161,7 @@ _Read our [UNDONE brand review](https://www.thewatchresource.com/brand-reviews/
 
 ## Hamilton Khaki Navy Scuba Auto
 
-[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -173,7 +173,7 @@ _Read our [UNDONE brand review](https://www.thewatchresource.com/brand-reviews/
 - Water Resistance: 300 m
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 The Khaki Navy Scuba is Inspired by the design and function of traditional dive watches, while incorporating modern elements to make it a truly classic timepiece. Its unidirectional rotating bezel, excellent build, and simple readability provide consistent functionality, while essential features take it to the next level. For more information, read our in-depth [Khaki Navy Scuba review](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/).
 
@@ -258,7 +258,7 @@ Mido’s Ocean Star is a good looking, functional timepiece with an added GMT fu
 
 ## Oris Aquis Titanium Date
 
-[![Oris Aquis 01 733 7730 7153-07 4 24 64TEB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Aquis-01-733-7730-7153-07-4-24-64TEB-244x300.png/public)](https://www.thewatchresource.com/recommends/oris-aquis-titanium-date/)
+[![Oris Aquis 01 733 7730 7153-07 4 24 64TEB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Aquis-01-733-7730-7153-07-4-24-64TEB-244x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-01-733-7730-7153-07-4-24-64teb.html)
 
 **Specs:**
 
@@ -269,7 +269,7 @@ Mido’s Ocean Star is a good looking, functional timepiece with an added GMT fu
 - Water Resistance: 300 m
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/oris-aquis-titanium-date/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-01-733-7730-7153-07-4-24-64teb.html)
 
 We love the understated elegance of the gray elements combined with the rugged sporty look of the silicone strap. The deep black color of the dial pulls it all together just perfectly.
 

@@ -20,7 +20,7 @@ Our list features a few excellent Breitling Navitimer alternatives. Some of the 
   
 Hamilton Khaki Aviation Converter Auto
 
-[![Hamilton Khaki Aviation Converter Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-h76615530-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto/)
+[![Hamilton Khaki Aviation Converter Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-h76615530-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html)
 
 **Specs:**
 
@@ -32,7 +32,7 @@ Hamilton Khaki Aviation Converter Auto
 - Water Resistance: 100 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html)
 
 The Khaki Aviation Converter combines advanced technology with exquisite elegance. The most sophisticated anti-magnetic hairspring alloy yet created, NivachronTM, provides precision in any environment, thanks to a bi-directional, rotating slide-rule bezel that makes essential calculations and conversions simple. The 42mm sleek black dial hides an H-10 automatic movement with an 80-hour power reserve, making it ideal for the modern pilot or urban jetsetter.
 
@@ -97,7 +97,7 @@ The Navy's finest flight demonstration unit, the Blue Angels, are known for thei
 
 ## Victorinox Airboss Mechanical
 
-[![Victorinox Airboss](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-09-WAT_241973_S1-300x263.jpeg/public)](https://www.thewatchresource.com/recommends/victorinox-airboss-mechanical/)
+[![Victorinox Airboss](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-09-WAT_241973_S1-300x263.jpeg/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%27s-Watches%2FAirboss-Mechanical%2Fp%2F241973-mechanical/)
 
 **Specs:**
 
@@ -109,7 +109,7 @@ The Navy's finest flight demonstration unit, the Blue Angels, are known for thei
 - Water Resistance: 100 m
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-airboss-mechanical/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%27s-Watches%2FAirboss-Mechanical%2Fp%2F241973-mechanical/)
 
 This one is for all the watch lovers who are fascinated by movements, because the Airboss Mechanical from Victorinox has a translucent exhibition case back showing off its Sellita automatic movement. The black dial and brown leather strap is a perfect combination we can never tire of, in this case paired with the red accents–cherry on top. To sum up, a beautiful eye-catching watch with a Swiss made automatic movement, named Airboss?! Sign us up.
 

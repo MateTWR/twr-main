@@ -20,7 +20,7 @@ The Bell & Ross BR 05 is a watch that can be recognized from a distance due to t
 
 The BR 05 GMT is a very masculine watch: angular design and perfectly flat surfaces. The case width is 41 mm, which doesn’t count as a larger size, but since it’s a rectangular case, it does feel massive in the best way possible, as it can rest on your wrist very naturally.
 
-[![BR05-GMT-White-Rubber](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-05-BR05-GMT-White-Rubber-e1720804542841-193x300.webp/public)](https://www.thewatchresource.com/recommends/bell-ross-br05-gmt-white/)
+[![BR05-GMT-White-Rubber](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-05-BR05-GMT-White-Rubber-e1720804542841-193x300.webp/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-br-05-silver-tone-dial-unisex-watch-br05gsistsrb.html)
 
 **Specs:**
 
@@ -33,7 +33,7 @@ The BR 05 GMT is a very masculine watch: angular design and perfectly flat surfa
 - Water Resistance: 100 meters
 - Price: Under $4,000
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-br05-gmt-white/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-br-05-silver-tone-dial-unisex-watch-br05gsistsrb.html)
 
 ### Dial
 
@@ -108,7 +108,7 @@ The Bell & Ross BR 05 GMT possesses its own distinct character, offering a moder
 
 Undoubtedly, this watch makes a bold statement and, in my perspective, stands out as a remarkable timepiece.
 
-[![BR05-GMT-White-Rubber](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-05-BR05-GMT-White-Rubber-e1720804542841-193x300.webp/public)](https://www.thewatchresource.com/recommends/bell-ross-br05-gmt-white/)
+[![BR05-GMT-White-Rubber](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-05-BR05-GMT-White-Rubber-e1720804542841-193x300.webp/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-br-05-silver-tone-dial-unisex-watch-br05gsistsrb.html)
 
 **Specs:**
 
@@ -121,7 +121,7 @@ Undoubtedly, this watch makes a bold statement and, in my perspective, stands ou
 - Water Resistance: 100 meters
 - Price: Under $4,000
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-br05-gmt-white/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-br-05-silver-tone-dial-unisex-watch-br05gsistsrb.html)
 
 #### WRITTEN BY
 

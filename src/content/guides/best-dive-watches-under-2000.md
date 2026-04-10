@@ -52,7 +52,7 @@ Usually, I recommend dive watches as everyday watches as well, and while I love 
 
 ### Zodiac Super Sea Wolf Compression
 
-[![Zodiac Sea Wolf](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-12-Screen-Shot-2021-12-26-at-4.15.13-PM-219x300.png/public)](https://www.thewatchresource.com/recommends/zodiac-super-sea-wolf-compression/)
+[![Zodiac Sea Wolf](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-12-Screen-Shot-2021-12-26-at-4.15.13-PM-219x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=49346&murl=https://www.watchstation.com/en-gb/products/super-sea-wolf-compression-automatic-stainless-steel-watch/ZO9266.html)
 
 **Specs:**
 
@@ -62,13 +62,13 @@ Usually, I recommend dive watches as everyday watches as well, and while I love 
 - Case Width: 40 mm
 - Water Resistance: 200 m
 
-[Check Price](https://www.thewatchresource.com/recommends/zodiac-super-sea-wolf-compression/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=49346&murl=https://www.watchstation.com/en-gb/products/super-sea-wolf-compression-automatic-stainless-steel-watch/ZO9266.html)
 
 The Zodiac brand has a unique association with light travelers, explorers, as reflected in their logo, the northern arrow.Â  The Zodiac Super Sea Wolf Compression is a functional and elegantly simple timepiece that you can wear every day, or when youâ€™re out exploring. The smaller case size and rubber strap make this watch a very comfortable wear.
 
 ### Oris Aquis Titanium Date
 
-[![Oris Aquis 01 733 7730 7153-07 4 24 64TEB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Aquis-01-733-7730-7153-07-4-24-64TEB-244x300.png/public)](https://www.thewatchresource.com/recommends/oris-aquis-titanium-date/)
+[![Oris Aquis 01 733 7730 7153-07 4 24 64TEB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Aquis-01-733-7730-7153-07-4-24-64TEB-244x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-01-733-7730-7153-07-4-24-64teb.html)
 
 **Specs:**
 
@@ -78,7 +78,7 @@ The Zodiac brand has a unique association with light travelers, explorers, as re
 - Case Width: 43.5 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/oris-aquis-titanium-date/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-01-733-7730-7153-07-4-24-64teb.html)
 
 We love the understated elegance of the gray elements combined with the rugged sporty look of the silicone strap. The deep black color of the dial pulls it all together just perfectly.
 
@@ -86,7 +86,7 @@ The Oris Aquis comes with the automatic Oris 733 movement, which is based on the
 
 ### Benrus Type I
 
-[![Benrus Type I](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-04-Benrus-Type-I-225x300.png/public)](https://www.thewatchresource.com/recommends/benrus-type-i/)
+[![Benrus Type I](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-04-Benrus-Type-I-225x300.png/public)](https://www.awin1.com/cread.php?awinmid=81107&awinaffid=928721&ued=https%3A%2F%2Fbenrus.com%2Fen-ch%2Fproducts%2Ftype-i-1%3FTitle%3DDefault%2BTitle)
 
 **Specs:**
 
@@ -96,7 +96,7 @@ The Oris Aquis comes with the automatic Oris 733 movement, which is based on the
 - Case Width: 42.5 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-type-i/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=81107&awinaffid=928721&ued=https%3A%2F%2Fbenrus.com%2Fen-ch%2Fproducts%2Ftype-i-1%3FTitle%3DDefault%2BTitle)
 
 The [Benrus](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/) Type I watch was developed for the US Military in 1972. It was designed to be more durable than any previous watches and to meet the specific needs of UDT (Underwater Demolitions Team) divers and for use in the field. Although it was produced between 1972 and 1980, it was never released to the general public.
 
@@ -104,7 +104,7 @@ Today, a limited edition is available with the original design, great quality ET
 
 ### Longines HydroConquest
 
-[![Longines\_hydroconquest](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Longines_hydroconquest-300x300.png/public)](https://www.thewatchresource.com/recommends/longines-hydroconquest/)
+[![Longines\_hydroconquest](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Longines_hydroconquest-300x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-hydroconquest-automatic-blue-dial-mens-watch-l3-782-4-96-6.html)
 
 **Specs:**
 
@@ -114,13 +114,13 @@ Today, a limited edition is available with the original design, great quality ET
 - Case Width: 43 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-hydroconquest/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-hydroconquest-automatic-blue-dial-mens-watch-l3-782-4-96-6.html)
 
 One word: classy. The Longines HydroConquest strikes a perfect balance between elegance and active lifestyle. The 41mm case diameter makes it a great size for all wrists, and you can wear this classic design to a wide range of occasions, from a date night at a restaurant to a diving expedition. All around a great pick that will last you a lifetime.
 
 ### Hamilton Khaki Navy Frogman
 
-[![Hamilton Khaki Navy Frogman Auto Black 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-8.32.40-PM-244x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-black-42/)
+[![Hamilton Khaki Navy Frogman Auto Black 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-8.32.40-PM-244x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77605135-khaki-navy-frogman-auto.html)
 
 **Specs:**
 
@@ -131,7 +131,7 @@ One word: classy. The Longines HydroConquest strikes a perfect balance between e
 - Lug Distance: 20 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-black-42/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77605135-khaki-navy-frogman-auto.html)
 
 The original Hamilton Frogman was designed for the United States Navy's 'Frogman' squad and was worn by divers during WWII. The essential elements that made the watch haven't changed: the unidirectional rotating bezel, exceptional water resistance, and underwater lighting. The watch is 42 mm, so it's a great size for all wrist sizes.
 
@@ -142,7 +142,7 @@ _Read more:_
 
 ### Rado Captain Cook
 
-[![Rado Captain Cook R32505203](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Rado-Captain-Cook-R32505203-300x300.webp/public)](https://www.thewatchresource.com/recommends/rado-captain-cook-blue-ss/)
+[![Rado Captain Cook R32505203](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Rado-Captain-Cook-R32505203-300x300.webp/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Frado-captain-cook-watch-r32505203.html)
 
 **Specs:**
 
@@ -153,7 +153,7 @@ _Read more:_
 - Lug Distance: 20 mm
 - Water Resistance: 200 m
 
-[Check Price](https://www.thewatchresource.com/recommends/rado-captain-cook-blue-ss/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Frado-captain-cook-watch-r32505203.html)
 
 The Rado Captain Cook is a perfect option for modern adventurers, charting new ground in antique timepieces. It's the ideal watch for men and women because of its antique elements and modern functions.
 
@@ -161,7 +161,7 @@ The Captain Cook, Rado's renowned diving watch, was first introduced in 1962. â€
 
 ### Alpina Seastrong Diver 300
 
-[![Alpina Seastrong Diver 300](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Alpina-Seastrong-Diver-300--300x300.webp/public)](https://www.thewatchresource.com/recommends/alpina-seastrong-diver-300/)
+[![Alpina Seastrong Diver 300](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Alpina-Seastrong-Diver-300--300x300.webp/public)](https://amzn.to/3em5iT5-diver-300/)
 
 **Specs:**
 
@@ -171,13 +171,13 @@ The Captain Cook, Rado's renowned diving watch, was first introduced in 1962. â€
 - Case Width: 44 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/alpina-seastrong-diver-300/)
+[Check Price](https://amzn.to/3em5iT5-diver-300/)
 
 The Seastrong Diver 300 is a beautiful, classic diver watch. It is water resistant up to 1,000 ft and the black dial ensures optimal readability underwater. We love the red turning bezel that contrasts nicely with the stainless steel case and gives the watch a dynamic, sporty look. The 44mm case size makes this watch a perfect fit for bigger wrists.
 
 ### Longines Legend Diver
 
-[![longines-the-longines-legend-diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-longines-the-longines-legend-diver-300x300.webp/public)](https://www.thewatchresource.com/recommends/longines-legend-diver/)
+[![longines-the-longines-legend-diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-longines-the-longines-legend-diver-300x300.webp/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 **Specs:**
 
@@ -188,13 +188,13 @@ The Seastrong Diver 300 is a beautiful, classic diver watch. It is water resista
 - Lug Distance: 22 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-legend-diver/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 The [Longines Legend Diver](https://www.thewatchresource.com/review-longines-legend-diver/) is a modern interpretation of a classic 1960s diver watch that is part of the brand's Heritage collection. It maintains the same design elements as the original timepiece, but has been updated with current technical features. This vintage-inspired timepiece with the mesh bracelet is perfect as an everyday watch, and would be an excellent addition to any collection!
 
 ### Oris Divers Sixty-Five
 
-[![Oris Divers Sixty-Five 01 733 7720 4051-07 5 21 02](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Divers-Sixty-Five-01-733-7720-4051-07-5-21-02-244x300.png/public)](https://www.thewatchresource.com/recommends/oris-divers-sixty-five/)
+[![Oris Divers Sixty-Five 01 733 7720 4051-07 5 21 02](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Divers-Sixty-Five-01-733-7720-4051-07-5-21-02-244x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-watch-01-733-7720-4051-07-5-21-02.html)
 
 **Specs:**
 
@@ -205,7 +205,7 @@ The [Longines Legend Diver](https://www.thewatchresource.com/review-longines-leg
 - Lug Distance: 21 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/oris-divers-sixty-five/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-watch-01-733-7720-4051-07-5-21-02.html)
 
 The Oris Divers Sixty-Five is a retro-inspired watch that pays tribute to Oris's first divers watches, particularly a model from 1965. Our favorite detail from the vintage-inspired design is the old-school crown that provides a timeless and elegant look, and Â makes this timepiece a great go-to watch for your everyday needs.
 

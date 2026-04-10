@@ -34,7 +34,7 @@ The bezel's colored ring, which matches the dial’s color, is composed of ceram
 
 #### Hamilton Khaki Navy Scuba, Automatic Movement, 43 mm
 
-[![Hamilton Khaki Navy Scuba auto black 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-17-at-9.42.04-PM-poz4f86ds9bdqzdlh72p39fct8fwkxcn5edg8x0c0g.png/public "Hamilton Khaki Navy Scuba auto black 43")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-black-43/)
+[![Hamilton Khaki Navy Scuba auto black 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-17-at-9.42.04-PM-poz4f86ds9bdqzdlh72p39fct8fwkxcn5edg8x0c0g.png/public "Hamilton Khaki Navy Scuba auto black 43")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82515130-khaki-navy-scuba-auto.html)
 
 Movement: Automatic (H-10)  
   
@@ -42,7 +42,7 @@ Power Reserve: 80 hours
   
 Diameter: 43 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-black-43/) [![Hamilton Khaki Navy Scuba auto blue 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-17-at-9.46.48-PM-poz4mn4jp7gtc8lu6egqre29inw5ayseu3ncji0ixc.png/public "Hamilton Khaki Navy Scuba auto blue 43")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-blue-43/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82515130-khaki-navy-scuba-auto.html) [![Hamilton Khaki Navy Scuba auto blue 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-17-at-9.46.48-PM-poz4mn4jp7gtc8lu6egqre29inw5ayseu3ncji0ixc.png/public "Hamilton Khaki Navy Scuba auto blue 43")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 Movement: Automatic (H-10)  
   
@@ -50,12 +50,12 @@ Power Reserve: 80 hours
   
 Diameter: 43 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-blue-43/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 ####   
 Hamilton Khaki Navy Scuba, Automatic Movement, 40 mm
 
-[![Hamilton Khaki Navy Scuba auto green 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-5.51.14-PM-pp2bpf0x8em3dmzta5096z4mwwokejbh2xm3orhb68.png/public "Hamilton Khaki Navy Scuba auto green 40")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-green-40/)
+[![Hamilton Khaki Navy Scuba auto green 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-5.51.14-PM-pp2bpf0x8em3dmzta5096z4mwwokejbh2xm3orhb68.png/public "Hamilton Khaki Navy Scuba auto green 40")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82375161-khaki-navy-auto.html)
 
 Movement: Automatic (H-10)  
   
@@ -63,7 +63,7 @@ Power Reserve: 80 hours
   
 Diameter: 40 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-green-40/) [![Hamilton Khaki Navy Scuba auto blue 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-5.55.15-PM-pp2bvqhv6b9hf9tedvbyydq6o5je5aeim7hltq41cg.png/public "Hamilton Khaki Navy Scuba auto blue 40")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-blue-40/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82375161-khaki-navy-auto.html) [![Hamilton Khaki Navy Scuba auto blue 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-5.55.15-PM-pp2bvqhv6b9hf9tedvbyydq6o5je5aeim7hltq41cg.png/public "Hamilton Khaki Navy Scuba auto blue 40")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82345141-khaki-scuba.html)
 
 Movement: Automatic (H-10)  
   
@@ -71,36 +71,36 @@ Power Reserve: 80 hours
   
 Diameter: 40 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-blue-40/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82345141-khaki-scuba.html)
 
 ####   
 Hamilton Khaki Navy Scuba, Quartz Movement, 37 mm
 
-[![Hamilton Khaki Navy Scuba quartz grey 37](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.10.18-PM-pp2f5a79ug6dbr2lzoidrpvd0u5uqn23g0hkdftn80.png/public "Hamilton Khaki Navy Scuba quartz grey 37")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37/)
+[![Hamilton Khaki Navy Scuba quartz grey 37](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.10.18-PM-pp2f5a79ug6dbr2lzoidrpvd0u5uqn23g0hkdftn80.png/public "Hamilton Khaki Navy Scuba quartz grey 37")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211981-khaki-navy-scuba-quartz.html)
 
 Movement: Quartz  
   
 Diameter: 37 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37/) [![Hamilton Khaki Navy Scuba quartz grey 37 stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.12.47-PM-pp2f93fpk9e8etj9qbtwvr8nr3dfyg6wmvqgfu65zk.png/public "Hamilton Khaki Navy Scuba quartz grey 37 stainless steel")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37-stainless-steel/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211981-khaki-navy-scuba-quartz.html) [![Hamilton Khaki Navy Scuba quartz grey 37 stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.12.47-PM-pp2f93fpk9e8etj9qbtwvr8nr3dfyg6wmvqgfu65zk.png/public "Hamilton Khaki Navy Scuba quartz grey 37 stainless steel")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211181-khaki-navy-scuba-quartz.html)
 
 Movement: Quartz  
   
 Diameter: 37 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37-stainless-steel/) [![Hamilton Khaki Navy Scuba quartz black 37](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.14.39-PM-pp2fc2lb7dgx6d7mcm5ds077h0paby0b1m3t5draa8.png/public "Hamilton Khaki Navy Scuba quartz black 37")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-black-37/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211181-khaki-navy-scuba-quartz.html) [![Hamilton Khaki Navy Scuba quartz black 37](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.14.39-PM-pp2fc2lb7dgx6d7mcm5ds077h0paby0b1m3t5draa8.png/public "Hamilton Khaki Navy Scuba quartz black 37")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82201931-khaki-navy-scuba-quartz.html)
 
 Movement: Quartz  
   
 Diameter: 37 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-black-37/) [![Hamilton Khaki Navy Scuba quartz black 37 stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.16.20-PM-pp2fepj0dn2vqzdpy96p9u8rgxpcxdh72nzumbuits.png/public "Hamilton Khaki Navy Scuba quartz black 37 stainless steel")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-black-37-stainless-steel/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82201931-khaki-navy-scuba-quartz.html) [![Hamilton Khaki Navy Scuba quartz black 37 stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.16.20-PM-pp2fepj0dn2vqzdpy96p9u8rgxpcxdh72nzumbuits.png/public "Hamilton Khaki Navy Scuba quartz black 37 stainless steel")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82201131-khaki-navy-scuba-quartz.html)
 
 Movement: Quartz  
   
 Diameter: 37 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-black-37-stainless-steel/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82201131-khaki-navy-scuba-quartz.html)
 
 ## Hamilton Khaki Navy: Frogman
 
@@ -108,7 +108,7 @@ The original Hamilton Frogman was designed for the United States Navy's 'Frogman
 
 #### Hamilton Khaki Navy Frogman, Automatic Movement, 46 mm​
 
-[![Hamilton Khaki Navy Frogman Auto Grey 46](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.20.57-PM-pp2i7zmyrzq4qe9jjj8jfs5rqki5bajzzykb6noeds.png/public "Hamilton Khaki Navy Frogman Auto Grey 46")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-grey-46/)
+[![Hamilton Khaki Navy Frogman Auto Grey 46](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.20.57-PM-pp2i7zmyrzq4qe9jjj8jfs5rqki5bajzzykb6noeds.png/public "Hamilton Khaki Navy Frogman Auto Grey 46")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77805380-khaki-navy-frogman-titanium-auto.html)
 
 Movement: Automatic (H-10)  
   
@@ -116,7 +116,7 @@ Power Reserve: 80 hours
   
 Diameter: 46 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-grey-46/) [![Hamilton Khaki Navy Frogman Auto Black 46](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.24.51-PM-pp2ie0rompzd8bi5bn3cxrd8ykrxpdhztt9h1kqggg.png/public "Hamilton Khaki Navy Frogman Auto Black 46")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-black-46/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77805380-khaki-navy-frogman-titanium-auto.html) [![Hamilton Khaki Navy Frogman Auto Black 46](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.24.51-PM-pp2ie0rompzd8bi5bn3cxrd8ykrxpdhztt9h1kqggg.png/public "Hamilton Khaki Navy Frogman Auto Black 46")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77805335-khaki-navy-frogman-titanium-auto.html)
 
 Movement: Automatic (H-10)  
   
@@ -124,11 +124,11 @@ Power Reserve: 80 hours
   
 Diameter: 46 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-black-46/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77805335-khaki-navy-frogman-titanium-auto.html)
 
 #### Hamilton Khaki Navy Frogman, Automatic Movement, 42 mm​
 
-[![Hamilton Khaki Navy Frogman Auto Blue 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.30.24-PM-pp2imou3npukauwupdzhxkma6i1sovwvopuodfvr2o.png/public "Hamilton Khaki Navy Frogman Auto Blue 42")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-blue-42/)
+[![Hamilton Khaki Navy Frogman Auto Blue 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.30.24-PM-pp2imou3npukauwupdzhxkma6i1sovwvopuodfvr2o.png/public "Hamilton Khaki Navy Frogman Auto Blue 42")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77705145-khaki-navy-frogman-auto.html)
 
 Movement: Automatic (H-10)  
   
@@ -136,7 +136,7 @@ Power Reserve: 80 hours
   
 Diameter: 42 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-blue-42/) [![Hamilton Khaki Navy Frogman Auto Black 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.32.40-PM-pp2iqajtuus4t1ofny20hnvw5oag747u6jvolmjf80.png/public "Hamilton Khaki Navy Frogman Auto Black 42")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-black-42/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77705145-khaki-navy-frogman-auto.html) [![Hamilton Khaki Navy Frogman Auto Black 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.32.40-PM-pp2iqajtuus4t1ofny20hnvw5oag747u6jvolmjf80.png/public "Hamilton Khaki Navy Frogman Auto Black 42")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77605135-khaki-navy-frogman-auto.html)
 
 Movement: Automatic (H-10)  
   
@@ -144,7 +144,7 @@ Power Reserve: 80 hours
   
 Diameter: 42 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-black-42/) [![Hamilton Khaki Navy Frogman Auto Red 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.34.31-PM-pp2it5y2qmpoa5i8w6qz3xsli24tptmb8rn3e2a47k.png/public "Hamilton Khaki Navy Frogman Auto Red 42")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-red-42/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77605135-khaki-navy-frogman-auto.html) [![Hamilton Khaki Navy Frogman Auto Red 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-8.34.31-PM-pp2it5y2qmpoa5i8w6qz3xsli24tptmb8rn3e2a47k.png/public "Hamilton Khaki Navy Frogman Auto Red 42")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77725135-khaki-navy-frogman-auto.html)
 
 Movement: Automatic (H-10)  
   
@@ -152,7 +152,7 @@ Power Reserve: 80 hours
   
 Diameter: 42 mm
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-frogman-auto-red-42/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77725135-khaki-navy-frogman-auto.html)
 
 ## Hamilton Khaki Navy: BeLOWZERO
 
@@ -160,7 +160,7 @@ Are you up for a trip to the stars or a voyage through time? The distinctive sty
 
 Hamilton's Khaki Navy line, inspired by maritime pioneers, blends efficiency and flair to keep you on time both above and below the sea. The Khaki Navy BeLOWZERO is distinctive in its design and is an eye catcher with its amazing 46mm redesigned casing made of titanium, and a matching black rubber strap. The new BeLOWZERO is 30% lighter than the original while maintaining a comfortable and secure fit, ideal for someone who leads an active lifestyle. The hands and numerals on the watch's sleek black dial are coated in dark gray Super-LumiNova®, which improves readability in low light.
 
-[![Hamilton BeLOWZERO](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.22.28-PM-pp2foahs1u743vgmzwas6x6xhch2eaioq3f1qvn1e8.png/public "Hamilton BeLOWZERO")](https://www.thewatchresource.com/recommends/hamilton-belowzero/)
+[![Hamilton BeLOWZERO](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-19-at-7.22.28-PM-pp2foahs1u743vgmzwas6x6xhch2eaioq3f1qvn1e8.png/public "Hamilton BeLOWZERO")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh78505330.html)
 
 Movement: Automatic (H10)  
   
@@ -168,7 +168,7 @@ Power Reserve: 80 hours
   
 Diameter: 46 mm  
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-belowzero/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh78505330.html)
 
 ## SEE ALSO
 

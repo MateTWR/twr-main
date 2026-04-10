@@ -56,7 +56,7 @@ With their attention to detail, versatile design capabilities, and mastery of ho
 - Lug-to-lug: 49 mm
 - Price: Around $500
 
-[Buy from Hodinkee](https://www.thewatchresource.com/recommends/unimatic-modello-uno-u1/) [Shop on UNIMATIC.com](https://www.unimaticwatches.com/uc1/)
+[Buy from Hodinkee](https://www.dpbolvw.net/click-100461694-15291707?url=https%3A%2F%2Fshop.hodinkee.com%2Fproducts%2Fclassic-uc1) [Shop on UNIMATIC.com](https://www.unimaticwatches.com/uc1/)
 
 Unimatic’s most notable model is the Modello Uno (U1). A combination of minimalist aesthetic with practical dive watch features, this watch quickly became very popular. The case width is 40mm, a very comfortable wear for all wrist sizes. The overall design is influenced by the classic dive watch designs from the mid-20th century, making it a classic. It’s powered by the NH35A automatic movement, which provides a 41-hour power reserve.
 
@@ -74,7 +74,7 @@ Unimatic’s most notable model is the Modello Uno (U1). A combination of minima
 - Lug-to-lug: 47.5 mm
 - Price: Under $500
 
-[Buy from Hodinkee](https://www.thewatchresource.com/recommends/unimatic-modello-due-u2-classic/) [Shop on UNIMATIC.com](https://www.unimaticwatches.com/uc2/)
+[Buy from Hodinkee](https://www.tkqlhce.com/click-100461694-15291707?url=https%3A%2F%2Fshop.hodinkee.com%2Fproducts%2Fclassic-uc2) [Shop on UNIMATIC.com](https://www.unimaticwatches.com/uc2/)
 
 The Modello Due U2-C is a field watch from Unimatic, and this watch’s design has the biggest focus on minimalism. The case is reduced to its bare essentials: there are no crown guards, no rotating bezel, just the essence of a field watch. However, if we take a closer look, we see some details that are pointing to a bit more complex design planning. The case itself has a circular brushing, connecting the round dial with the clam-like shape of the more angular case. 
 
@@ -112,7 +112,7 @@ The Modello Tre is a chrono dive watch. Its overall design closely resembles the
 - Lug-to-lug: 49 mm
 - Price: Under $500
 
-[Buy from Hodinkee](https://www.thewatchresource.com/recommends/unimatic-modello-quattro-u4-classic/) [Shop on UNIMATIC.com](https://www.unimaticwatches.com/uc4/)
+[Buy from Hodinkee](https://www.anrdoezrs.net/click-100461694-15291707?url=https%3A%2F%2Fshop.hodinkee.com%2Fproducts%2Fclassic-uc4) [Shop on UNIMATIC.com](https://www.unimaticwatches.com/uc4/)
 
 The [Modello Quattro](https://www.thewatchresource.com/unimatic-u4-classic-hands-on-review/) might just be my personal favorite collection. It is a diving watch, an interesting evolution of the Modello Uno, and it’s part of the permanent Unimatic Classic collection. A timeless, modern design featuring a high legibility black matte dial. Since we’re looking at a true tool watch, it is featuring Super-LumiNova® C3 pale green for optimal performance in any condition. 
 

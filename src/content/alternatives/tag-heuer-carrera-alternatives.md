@@ -18,7 +18,7 @@ In this article, we collected watches that resemble the balance of Tag Heuer Car
 
 ## Spinnaker Hull Chronograph - Fumee Black
 
-[![Spinnaker-Hull-Chrono-Fumee-Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker-Hull-Chrono-Fumee-Black.jpg/public)](https://www.thewatchresource.com/recommends/spinnaker-hull-chronograph-fumee-black/)
+[![Spinnaker-Hull-Chrono-Fumee-Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker-Hull-Chrono-Fumee-Black.jpg/public)](https://solartimeltd.pxf.io/9L2eKE)
 
 **Specs:**
 
@@ -27,7 +27,7 @@ In this article, we collected watches that resemble the balance of Tag Heuer Car
 - Case Width: 42 mm
 - Price: Under $250
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-hull-chronograph-fumee-black/)
+[Check Price](https://solartimeltd.pxf.io/9L2eKE)
 
 Spinnaker’s Hull Chronograph Fumee Black watch has an eye-catching cushion shaped case. Adding to the list of features that make this watch unique is the matte black textured dial, giving the watch depth that attracts the eye. It is sporty and stylish mixed with the perfect amount of vintage. The case diameter is 42 mm, making it a good fit for most wrist sizes.
 
@@ -69,7 +69,7 @@ However, don't mistake the Seiko SSB031 for just a Speedmaster homage. This Seik
 
 ## Victorinox FieldForce Classic Chrono
 
-[![Victorinox FieldForce Classic Chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox-FieldForce-Classic-Chrono-300x263.jpg/public)](https://www.thewatchresource.com/recommends/victorinox-fieldforce-chrono-blue-js/)
+[![Victorinox FieldForce Classic Chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox-FieldForce-Classic-Chrono-300x263.jpg/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-chronograph-quartz-blue-dial-watch-241929.html)
 
 **Specs:**
 
@@ -79,7 +79,7 @@ However, don't mistake the Seiko SSB031 for just a Speedmaster homage. This Seik
 - Lug Distance: 21 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-fieldforce-chrono-blue-js/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-chronograph-quartz-blue-dial-watch-241929.html)
 
 Victorinox watches are known to be not just reliable, but beautifully and tastefully designed timepieces– the FieldForce Classic Chrono is no exception. A sophisticated, monochromatic dial is paired with a simple black leather band. Bringing a serious and masculine feel, the dial is perfectly balanced with the 3 subdials symmetrically placed and the calendar window at 6 o’clock position. This is a classic timepiece that will be proudly worn by generations to come.
 
@@ -87,7 +87,7 @@ _Read our [review of Victorinox watches](https://www.thewatchresource.com/brand-
 
 ## Victorinox Alliance Sport
 
-[![Victorinox-Alliance-Sport-Stainless-Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Victorinox-Alliance-Sport-Stainless-Steel-300x263.jpeg/public)](https://www.thewatchresource.com/recommends/victorinox-alliance-sport-stainless-steel-js/)
+[![Victorinox-Alliance-Sport-Stainless-Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Victorinox-Alliance-Sport-Stainless-Steel-300x263.jpeg/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-alliance-sport-watch-241816.html)
 
 **Specs:**
 
@@ -97,7 +97,7 @@ _Read our [review of Victorinox watches](https://www.thewatchresource.com/brand-
 - Water Resistance: 100 m
 - Price: Adorned $300
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-alliance-sport-stainless-steel-js/) [![Victorinox-Alliance-Sport-Leather](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Victorinox-Alliance-Sport-Leather-300x263.jpeg/public)](https://www.thewatchresource.com/recommends/victorinox-alliance-sport-leather-js/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-alliance-sport-watch-241816.html) [![Victorinox-Alliance-Sport-Leather](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Victorinox-Alliance-Sport-Leather-300x263.jpeg/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-alliance-sport-watch-241826.html)
 
 **Specs:**
 
@@ -107,7 +107,7 @@ _Read our [review of Victorinox watches](https://www.thewatchresource.com/brand-
 - Water Resistance: 100 m
 - Price: Adorned $300
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-alliance-sport-leather-js/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fvictorinox-alliance-sport-watch-241826.html)
 
 The Victorinox Alliance Sport watch is a stylish chronograph wristwatch fashioned of high-grade stainless steel. This is marketed as a sports watch that is ideal for anything and everything you can think of: cycling, trail adventures, you name it.
 
@@ -139,7 +139,7 @@ _Read our [Tissot review here](https://www.thewatchresource.com/tissot-watches-b
 
 ## Tissot PRS 516 Chronograph
 
-[![Tissot PRS 516 Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Screen-Shot-2022-01-06-at-11.14.30-AM-214x300.png/public)](https://www.thewatchresource.com/recommends/tissot-prs-516/)
+[![Tissot PRS 516 Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Screen-Shot-2022-01-06-at-11.14.30-AM-214x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-prs-516-chronograph-quartz-black-dial-mens-watch-t131-617-36-052-00.html)
 
 **Specs:**
 
@@ -149,7 +149,7 @@ _Read our [Tissot review here](https://www.thewatchresource.com/tissot-watches-b
 - Lug Distance: 22 mm
 - Price: Around $400
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-prs-516/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-prs-516-chronograph-quartz-black-dial-mens-watch-t131-617-36-052-00.html)
 
 The tachymeter on the bezel looks and feels similar to the Image Speedmaster, however, the bigger numerics on the dial is a big differentiator - giving the Tissot PRS 516 Chronograph a serious racing watch look.
 
@@ -157,7 +157,7 @@ The use of ceramic material, which Tissot is recognized for, is one of the featu
 
 ## Hamilton American Classic Pan Europ Day-Date Auto
 
-[![Hamilton-American\_Classic-Pan\_Europ](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton-American_Classic-Pan_Europ.png/public)](https://www.thewatchresource.com/recommends/hamilton-american-classic-pan-europ-day-date-auto/)
+[![Hamilton-American\_Classic-Pan\_Europ](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton-American_Classic-Pan_Europ.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh35405741-american-classic-pan-europ-day-date-auto.html)
 
 **Specs:**
 
@@ -168,7 +168,7 @@ The use of ceramic material, which Tissot is recognized for, is one of the featu
 - Lug Distance: 22 mm
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-american-classic-pan-europ-day-date-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh35405741-american-classic-pan-europ-day-date-auto.html)
 
 The American Classic Pan Europ from Hamilton is an absolute _classic_, just like the name suggests. In the true American spirit, it fuses sophisticated design elements with robust practicality effortlessly, resulting in a timepiece that is not only reliable but sure to draw compliments as well. The NATO strap it comes with ensures it will sit on your wrist comfortably and securely, and due to its classic and sophisticated dial design, this watch can easily become your everyday favorite.
 
@@ -176,7 +176,7 @@ _Read our [Hamilton brand review](https://www.thewatchresource.com/hamilton-watc
 
 ## Hamilton Broadway GMT | Limited Edition
 
-[![Hamilton Broadway GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-14-at-5.45.37-PM-222x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-broadway-gmt/)
+[![Hamilton Broadway GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-14-at-5.45.37-PM-222x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh43725131-broadway-gmt.html)
 
 **Specs:**
 
@@ -187,13 +187,13 @@ _Read our [Hamilton brand review](https://www.thewatchresource.com/hamilton-watc
 - Lug Distance: 22 mm
 - Price: Around $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-broadway-gmt/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh43725131-broadway-gmt.html)
 
 The limited edition 46 mm Broadway GMT is the ideal travel companion for well-dressed guys who prefer to travel in elegance. The distinctive new H-14 automatic movement has a power reserve of up to 80 hours, and the elegant ceramic bezel displays 24 exotic locations. The Broadway GMT assures that the urban traveler may walk out in elegance no matter where he is in the world.
 
 ## Baume et Mercier Capeland
 
-[![baume-and-mercier-capeland-black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-baume-and-mercier-capeland-black-300x300.jpg/public)](https://www.thewatchresource.com/recommends/baume-et-mercier-capeland/)
+[![baume-and-mercier-capeland-black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-baume-and-mercier-capeland-black-300x300.jpg/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-mercier-watch-m0a10003.html)
 
 **Specs:**
 
@@ -203,7 +203,7 @@ The limited edition 46 mm Broadway GMT is the ideal travel companion for well-dr
 - Lug Distance: 20 mm
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/baume-et-mercier-capeland/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-mercier-watch-m0a10003.html)
 
 Our next contender comes from Baume et Mercier, more specifically from their known and loved Capeland collection. As opposed to being on the bezel, the tachymeter is placed right on the dial, giving this watch a sleek, sophisticated look. The case diameter is 42 mm, ensuring comfortable wear for most wrist sizes. As an added and very much appreciated bonus, this Capeland has a skeleton case back, giving us a sneak peek into the inner workings of the Baume et Mercier’s in-house automatic movement. Definitely one of our favorite picks.
 

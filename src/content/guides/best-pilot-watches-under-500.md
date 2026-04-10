@@ -41,7 +41,7 @@ With its Swiss-made automatic movement, clean yet bold design, and a name as com
 
 ## Laco Zürich.2
 
-[![Laco Flieger zurich2](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-09-Laco-Flieger-zurich2-300x300.png/public)](https://www.thewatchresource.com/recommends/laco-zurich-2/)
+[![Laco Flieger zurich2](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-09-Laco-Flieger-zurich2-300x300.png/public)](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-basic%2Fzuerich-2-40)
 
 **Specs:**
 
@@ -53,7 +53,7 @@ With its Swiss-made automatic movement, clean yet bold design, and a name as com
 - Lug Distance: 18 mm
 - Price: Around $320
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-zurich-2/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-basic%2Fzuerich-2-40)
 
 When it comes to classic Flieger watches, [Laco is a brand that consistently earns a top spot](https://www.thewatchresource.com/laco-watches-brand-review/) among enthusiasts and experts alike. Their Zürich.2 model in particular, stands out as an absolute classic timepiece offered at a remarkably affordable price point.
 
@@ -188,7 +188,7 @@ Overall, Vario has carved a niche in the watch community by blending historical 
 
 ## Dan Henry 1945 WWII Chronograph
 
-[![Dan Henry 1945 WWII Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-Dan-Henry-1945-WWII-Chronograph-267x300.webp/public)](https://www.thewatchresource.com/recommends/dan-henry-1945-wwii-chronograph/)
+[![Dan Henry 1945 WWII Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-Dan-Henry-1945-WWII-Chronograph-267x300.webp/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1945-wwii-chronograph)
 
 **Specs:**
 
@@ -198,7 +198,7 @@ Overall, Vario has carved a niche in the watch community by blending historical 
 - Lug Distance: 22 mm
 - Price: Under $300
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1945-wwii-chronograph/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1945-wwii-chronograph)
 
 The Dan Henry 1945 WWII Pilot Chronograph is a remarkable timepiece that seamlessly blends vintage elegance with rugged durability, making it a fitting tribute to the daring pilots of World War II. Its striking cathedral hands, generously coated with lume for exceptional visibility in low-light conditions, exude a timeless charm that complements the watch's robust construction.
 

@@ -14,7 +14,7 @@ Moonphase watches are commonly considered a classic and elegant complication, an
 
 ### Tissot Carson Premium Gent Moon Phase
 
-[![Tissot Carson Premium Gent Moon Phase](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Tissot-Carson-Premium-Gent-Moon-Phase-300x300.webp/public)](https://www.thewatchresource.com/recommends/tissot-carson-premium-gent-moon-phase/)
+[![Tissot Carson Premium Gent Moon Phase](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Tissot-Carson-Premium-Gent-Moon-Phase-300x300.webp/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-carson-moon-phase-quartz-silver-dial-mens-watch-t1224231103300.html)
 
 **Specs:**
 
@@ -24,7 +24,7 @@ Moonphase watches are commonly considered a classic and elegant complication, an
 - Lug Distance: 20 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-carson-premium-gent-moon-phase/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-carson-moon-phase-quartz-silver-dial-mens-watch-t1224231103300.html)
 
 The Tissot Carson Premium Gent Moonphase has a distinctive and classic look. The attention is drawn to the large Roman numerals. To counterbalance this visually strong element, the leaf (or feuille) hour and minute hands have a dark blue color that ties in beautifully with the moon phase function’s blue color.
 
@@ -50,7 +50,7 @@ Our favorite feature is the hand that shows the current week’s number on the s
 
 ### Longines Master Collection Silver
 
-[![Longines Master Collection Silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Longines-Master-Collection-Silver-300x300.webp/public)](https://www.thewatchresource.com/recommends/longines-master-collection-silver/)
+[![Longines Master Collection Silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Longines-Master-Collection-Silver-300x300.webp/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-master-watch-l29194783.html)
 
 **Specs:**
 
@@ -61,7 +61,7 @@ Our favorite feature is the hand that shows the current week’s number on the s
 - Lug Distance: 21 mm
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-master-collection-silver/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-master-watch-l29194783.html)
 
 Since its inception, Longines has been producing outstanding watches as a traditional watchmaking company. Today, the Longines Master Collection is the ideal representation of this business spirit, as seen by the popularity this collection has attained since its introduction in 2005. The numerous models in this series, which are all equipped with self-winding movements, provide a variety of unique characteristics. The Longines Master Collection combines the timeless beauty and superb craftsmanship that never cease to surprise people who value fine watches. 
 
@@ -69,7 +69,7 @@ The beautiful guilloché pattern on the dial completes the classic design look a
 
 ### Montblanc Star Legacy Moon Phase
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Montblanc-Star-Legacy-Moon-Phase-224x300.webp/public)](https://www.thewatchresource.com/recommends/montblanc-star-legacy-moon-phase/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Montblanc-Star-Legacy-Moon-Phase-224x300.webp/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmontblanc-watch-118518.html)
 
 **Specs:**
 
@@ -79,7 +79,7 @@ The beautiful guilloché pattern on the dial completes the classic design look a
 - Case Width: 42 mm
 - Price: Around $2,500
 
-[Check Price](https://www.thewatchresource.com/recommends/montblanc-star-legacy-moon-phase/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmontblanc-watch-118518.html)
 
 Montblanc watches are always classy and elegant, and the Star Legacy Moonphase is no exception. The dark gray dial with silver-tone Arab numerals and leaf (or feuille) minute and hour hands is a simple and understated look. The subdial at 6 o’clock functions as the moon phase function that is combined with the date function as well.
 
@@ -87,7 +87,7 @@ Inside the rounded case, the MB 29.14 caliber automatic movement provides a 42-h
 
 ### Baume et Mercier Hampton Moon Phase
 
-[![Baume et Mercier Hampton 10666](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Baume-et-Mercier-Hampton-10666-224x300.png/public)](https://www.thewatchresource.com/recommends/baume-et-mercier-hampton-moon-phase/)
+[![Baume et Mercier Hampton 10666](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Baume-et-Mercier-Hampton-10666-224x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-hampton-moonphase-dual-time-grey-dial-mens-watch-m0a10666.html)
 
 **Specs:**
 
@@ -97,13 +97,13 @@ Inside the rounded case, the MB 29.14 caliber automatic movement provides a 42-h
 - Case Width: 31 mm x 48 mm
 - Price: Around $3,000
 
-[Check Price](https://www.thewatchresource.com/recommends/baume-et-mercier-hampton-moon-phase/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-hampton-moonphase-dual-time-grey-dial-mens-watch-m0a10666.html)
 
 The Baume et Mercier Hampton wristwatch features a black alligator strap with square scales, grey stitching, and a polished steel case for a sophisticated modern look. An opaline and grained dial with black ruthenium indexes and Arabic numbers is visible through a curved sapphire crystal. A very classy option!
 
 ### Baume et Mercier Clifton Moon Phase
 
-[![baume et mercier 10549](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-baume-et-mercier-clifton-10549-266x300.png/public)](https://www.thewatchresource.com/recommends/baume-et-mercier-clifton-chronograph-automatic-moon-phase/)
+[![baume et mercier 10549](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-baume-et-mercier-clifton-10549-266x300.png/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-clifton-chronograph-automatic-white-dial-mens-watch-10549.html)
 
 **Specs:**
 
@@ -113,7 +113,7 @@ The Baume et Mercier Hampton wristwatch features a black alligator strap with sq
 - Case Width: 42 mm
 - Price: Around $3,000
 
-[Check Price](https://www.thewatchresource.com/recommends/baume-et-mercier-clifton-chronograph-automatic-moon-phase/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-clifton-chronograph-automatic-white-dial-mens-watch-10549.html)
 
 he Baume & Mercier Clifton Chronograph is very clean looking with its stark white dial against the polished stainless steel case. The silver-toned hour indices and slim dauphine minute and hour hands add to this overall bright and polished look. The sundial’s function is a combination of the moonphase feature and the date sundial - a very elegant and efficient solution.
 
@@ -152,7 +152,7 @@ Frederique Constant always gets a seat at the table when it comes to high qualit
 
 ### Raymond Weil Maestro
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Raymond-Weil-Maestro-Moon-Phase-236x300.webp/public)](https://www.thewatchresource.com/recommends/raymond-weil-maestro-moon-phase/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Raymond-Weil-Maestro-Moon-Phase-236x300.webp/public)](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Fmaestro-2239-stc-00659%2F)
 
 **Specs:**
 
@@ -162,7 +162,7 @@ Frederique Constant always gets a seat at the table when it comes to high qualit
 - Case Width: 39.5 mm
 - Price: Around $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/raymond-weil-maestro-moon-phase/)
+[Check Price](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Fmaestro-2239-stc-00659%2F)
 
 The maestro moon phase timepiece adds a unique dimension to the concept of space and time. Its six o'clock moon phase opening infuses a touch of celestial romance to this timeless watch. The cool tones make the blue accents in the moon phase aperture and watch hands stand out against the silver dial. The moonphase function has the additional stars as design elements, and the wavy decoration of the dial’s inner round reminds us of Van Gogh’s Starry Night - we definitely think this watch qualifies as a piece of art.
 

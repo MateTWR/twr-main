@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/259ca9da-e277-484c-
 
 Our mission at The Watch Resource is to highlight timepieces that have unique character due to their outer appearance, and/or technical specifications. This never ending journey brought us to the Spinnaker Dumas. As a bonus, the price point was an additional positive factor, so of course, we decided to shine the spotlight on it. Let’s dive right in!
 
-[![Spinnaker Dumas Blue Yonder](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Spinnaker-Dumas-Blue-Yonder-q879jfy44ni10swcmeiy6zee1bw5ksqux69z7lrh64.webp/public "Spinnaker Dumas Blue Yonder")](https://www.thewatchresource.com/recommends/spinnaker-dumas-blue-yonder/)
+[![Spinnaker Dumas Blue Yonder](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Spinnaker-Dumas-Blue-Yonder-q879jfy44ni10swcmeiy6zee1bw5ksqux69z7lrh64.webp/public "Spinnaker Dumas Blue Yonder")](https://solartimeltd.pxf.io/6y7GYQ)
 
 **Specs:**
 
@@ -20,7 +20,7 @@ Our mission at The Watch Resource is to highlight timepieces that have unique ch
 - Lug-to-lug: 48 mm
 - Price: Around $400
 
-[Shop the Collection](https://www.thewatchresource.com/recommends/spinnaker-dumas-collection/)
+[Shop the Collection](https://solartimeltd.pxf.io/DyBL7b)
 
 ## Spinnaker: The Brand
 
@@ -32,7 +32,7 @@ The brand's primary objective is to preserve the beloved design elements of clas
 
 The Spinnaker Dumas watch features a bold, vintage 1970s-inspired octagonal case that is sturdy and provides the perfect frame for the bezel and dial. The stainless steel case and bracelet go well with the available dial color options that are usually paired with a dynamic secondary color to provide a very exciting contrast. A sporty watch that can be dressed up, and comes with the reliable NH35 Japanese automatic movement provided by Seiko.
 
-[![Spinnaker Dumas Blue Yonder](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Spinnaker-Dumas-Blue-Yonder-q879jfy44ni10swcmeiy6zee1bw5ksqux69z7lrh64.webp/public "Spinnaker Dumas Blue Yonder")](https://www.thewatchresource.com/recommends/spinnaker-dumas-blue-yonder/)
+[![Spinnaker Dumas Blue Yonder](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Spinnaker-Dumas-Blue-Yonder-q879jfy44ni10swcmeiy6zee1bw5ksqux69z7lrh64.webp/public "Spinnaker Dumas Blue Yonder")](https://solartimeltd.pxf.io/6y7GYQ)
 
 **Specs:**
 
@@ -44,7 +44,7 @@ The Spinnaker Dumas watch features a bold, vintage 1970s-inspired octagonal case
 - Lug-to-lug: 48 mm
 - Price: Around $400
 
-[Shop the Collection](https://www.thewatchresource.com/recommends/spinnaker-dumas-collection/)
+[Shop the Collection](https://solartimeltd.pxf.io/DyBL7b)
 
 ### Dial
 
@@ -104,7 +104,7 @@ The Spinnaker Dumas is a statement piece with its sturdy octagonal case and over
 
 The reliable NH35 automatic movement is provided by Seiko, and the 300 meters water resistance are additional technical specs that are warmly welcomed by all watch enthusiasts.
 
-[![Spinnaker Dumas Blue Yonder](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Spinnaker-Dumas-Blue-Yonder-q879jfy44ni10swcmeiy6zee1bw5ksqux69z7lrh64.webp/public "Spinnaker Dumas Blue Yonder")](https://www.thewatchresource.com/recommends/spinnaker-dumas-blue-yonder/)
+[![Spinnaker Dumas Blue Yonder](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Spinnaker-Dumas-Blue-Yonder-q879jfy44ni10swcmeiy6zee1bw5ksqux69z7lrh64.webp/public "Spinnaker Dumas Blue Yonder")](https://solartimeltd.pxf.io/6y7GYQ)
 
 **Specs:**
 
@@ -116,7 +116,7 @@ The reliable NH35 automatic movement is provided by Seiko, and the 300 meters wa
 - Lug-to-lug: 48 mm
 - Price: Around $400
 
-[Shop the Collection](https://www.thewatchresource.com/recommends/spinnaker-dumas-collection/)
+[Shop the Collection](https://solartimeltd.pxf.io/DyBL7b)
 
 ## Other Watch Reviews
 

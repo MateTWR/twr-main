@@ -11,7 +11,7 @@ A good dive watch is an absolute must in every gentleman's repertoire, as it can
 
 ## Dan Henry 1970 Automatic Diver Compressor
 
-[![Dan-Henry\_1970-Automatic-Diver Compressor](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry_1970-Automatic-Diver-Compressor-267x300.png/public)](https://www.thewatchresource.com/recommends/dan-henry-1970-automatic-diver/)
+[![Dan-Henry\_1970-Automatic-Diver Compressor](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry_1970-Automatic-Diver-Compressor-267x300.png/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1970-automatic-diver-watch&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-dive-watches%2F)
 
 **Specs:**
 
@@ -21,7 +21,7 @@ A good dive watch is an absolute must in every gentleman's repertoire, as it can
 - Case Width: 40 mm
 - Water Resistance: 200 m
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1970-automatic-diver/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1970-automatic-diver-watch&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-dive-watches%2F)
 
 The Dan Henry 1970 is a limited edition timepiece–there are only 1970 pieces out there. It provides great legibility with large handset and indexes. There are different color combinations available, and all of them have great color contrast on the dial, making them highly visible at depths where light may be limited. The 1970 has a two crown design, the 2 o’clock crown operates the inner rotating bezel while the 4 o’clock crown adjusts the date and time. A unique choice, this is not a watch you will see on every corner.
 
@@ -42,7 +42,7 @@ Whether you are a surfer looking for a reliable way to track time while chasing 
 
 ## Citizen Eco Drive PROMASTER Diver, BN0150-28E
 
-[![Citizen\_Eco-Drive-PROMASTER-Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Citizen_Eco-Drive-PROMASTER-Diver-240x300.png/public)](https://www.thewatchresource.com/recommends/citizen-eco-drive-promaster-diver/)
+[![Citizen\_Eco-Drive-PROMASTER-Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Citizen_Eco-Drive-PROMASTER-Diver-240x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcitizen-watch-bn0150-28e.html)
 
 **Specs:**
 
@@ -51,7 +51,7 @@ Whether you are a surfer looking for a reliable way to track time while chasing 
 - Case Width: 44 mm
 - Water Resistance: 200 m
 
-[Check Price](https://www.thewatchresource.com/recommends/citizen-eco-drive-promaster-diver/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcitizen-watch-bn0150-28e.html)
 
 Citizen’s watches with the Eco-Drive movement use light as a source powering them– whether natural or artificial. The energy is then stored in a rechargeable lithium-ion cell that can be charged continuously. You never have to worry about batteries again. The Promaster Diver is a great, classically designed dive watch with a durable polyurethane strap. A functional, practical choice that also happens to look great.   
 
@@ -73,7 +73,7 @@ Reliable and high quality automatic movement at a reasonable price point? Count 
 
 ## Orient Kanno
 
-[![Orient\_Kanno](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Orient_Kanno-235x300.png/public)](https://www.thewatchresource.com/recommends/orient-kanno/)
+[![Orient\_Kanno](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Orient_Kanno-235x300.png/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Forient-mako-iii-watch-ra-aa0011b19b.html)
 
 **Specs:**
 
@@ -83,7 +83,7 @@ Reliable and high quality automatic movement at a reasonable price point? Count 
 - Case Width: 44 mm
 - Water Resistance: 200 m
 
-[Check Price](https://www.thewatchresource.com/recommends/orient-kanno/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Forient-mako-iii-watch-ra-aa0011b19b.html)
 
 The large case size on the Kanno by Orient is sure to make a statement, although due to the darker hues of the dial and bezel, the overall appearance is quite understated. This watch has a great automatic movement and a power reserve of 40 hours. It really speaks for itself with not much to add, except that it is a reliable, functional choice. The silicone strap ensures a comfortable wear for every day.
 

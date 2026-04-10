@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/3604f04c-6507-4c72-
 
 When discussing Laco, their iconic aviation watch designs immediately come to mind, representing a significant aspect of the brand's legacy. Although these aviator timepieces are genuine and revered classics, our admiration for Laco stems from their dedication to crafting innovative designs without compromising the excellence they are recognized for. In this review, we are taking a closer look at the Frankfurt GMT, a great combination of classic pilot watch design elements and some modern features.
 
-[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Frankfurt-GMT-qeh4o4lkzq1tolrsf12tcfrtmawa8ykny1noyjvwdo.webp/public "Laco Frankfurt GMT")](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Frankfurt-GMT-qeh4o4lkzq1tolrsf12tcfrtmawa8ykny1noyjvwdo.webp/public "Laco Frankfurt GMT")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 **Specs:**
 
@@ -20,7 +20,7 @@ When discussing Laco, their iconic aviation watch designs immediately come to mi
 - Lug-to-Lug Distance: 50 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 ## Laco: The Brand
 
@@ -33,7 +33,7 @@ Established in 1925 as "Lacher & Co.", Laco collaborated closely with Durowe, a 
 The first thing that catches our attention is the stainless steel case, inspired by the original Laco pilot watches, sporting a dark sandblasted finish and is equipped with magnetic field protection. The dark sandblasted stainless steel case and gray dial combination is counterbalanced by the light hour and minute markers, and a very vibrant orange secondary color used for the GMT hand’s arrow tip, and the 24-hour marker for the dial’s inner rotating bezel.  
 Overall, the Laco Frankfurt GMT is a very masculine watch, featuring classic pilot watch elements combined with a decidedly modern look.
 
-[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Frankfurt-GMT-qeh4o4lkzq1tolrsf12tcfrtmawa8ykny1noyjvwdo.webp/public "Laco Frankfurt GMT")](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Frankfurt-GMT-qeh4o4lkzq1tolrsf12tcfrtmawa8ykny1noyjvwdo.webp/public "Laco Frankfurt GMT")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 **Specs:**
 
@@ -45,7 +45,7 @@ Overall, the Laco Frankfurt GMT is a very masculine watch, featuring classic pil
 - Lug-to-Lug Distance: 50 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 ### Dial
 
@@ -96,7 +96,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 Laco watches have consistently prioritized quality, durability, while maintaining a sleek design. The Laco Frankfurt GMT is a unique solution for combining traditional pilot watch design elements with modern features in an overall modern look. We like the dynamic pops of color combined with a sturdy, masculine look. While Laco is undoubtedly gaining significant recognition and admiration from watch aficionados, in our opinion it still remains one of the more underrated brands out there.
 
-[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Frankfurt-GMT-qeh4o4lkzq1tolrsf12tcfrtmawa8ykny1noyjvwdo.webp/public "Laco Frankfurt GMT")](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Frankfurt-GMT-qeh4o4lkzq1tolrsf12tcfrtmawa8ykny1noyjvwdo.webp/public "Laco Frankfurt GMT")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 **Specs:**
 
@@ -108,7 +108,7 @@ Laco watches have consistently prioritized quality, durability, while maintainin
 - Lug-to-Lug Distance: 50 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 ## Other Watch Reviews
 

@@ -15,7 +15,7 @@ Let us present (in our humble opinion) the best GMT watches under $500!
 
 ### Sternglas Taiga GMT Vintage
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Sternglas-Taiga-GMT-Vintage-300x300.webp/public)](https://www.thewatchresource.com/recommends/sternglas-taiga-gmt-vintage/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Sternglas-Taiga-GMT-Vintage-300x300.webp/public)](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftaiga-gmt-vintage)
 
 **Specs:**
 
@@ -25,7 +25,7 @@ Let us present (in our humble opinion) the best GMT watches under $500!
 - Lug-to-Lug: 52 mm
 - Lug Width: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-taiga-gmt-vintage/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftaiga-gmt-vintage)
 
 The Sternglas Taiga GMT is a minimalist timepiece with a field watch aesthetic. The Taiga GMT provides excellent utility for regular travelers with an extra time zone and easy readability. The sturdy watch is also perfect for outdoor activities thanks to its 10 ATM water resistance and scratch-resistant sapphire crystal.
 
@@ -33,7 +33,7 @@ The watch has a particularly striking appearance thanks to the tougher construct
 
 ### Victorinox FieldForce Classic GMT
 
-[![Victorinox FieldForce GMT Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-WAT_241896_S1-300x263.webp/public)](https://www.thewatchresource.com/recommends/victorinox-fieldforce-gmt-blue/)
+[![Victorinox FieldForce GMT Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-WAT_241896_S1-300x263.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FFieldforce%2Fp%2F241896)
 
 **Specs:**
 
@@ -42,7 +42,7 @@ The watch has a particularly striking appearance thanks to the tougher construct
 - Lug Width: 20 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-fieldforce-gmt-blue/) [![Victorinox FieldForce GMT White](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-WAT_241931_S1-300x263.webp/public)](https://www.thewatchresource.com/recommends/victorinox-fieldforce-gmt-white/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FFieldforce%2Fp%2F241896) [![Victorinox FieldForce GMT White](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-WAT_241931_S1-300x263.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FFieldforce%2Fp%2F241931)
 
 **Specs:**
 
@@ -51,7 +51,7 @@ The watch has a particularly striking appearance thanks to the tougher construct
 - Lug Width: 20 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-fieldforce-gmt-white/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FFieldforce%2Fp%2F241931)
 
 The Victorinox FieldForce Classic GMT has a distinctly masculine personality due to its aesthetics and cutting-edge capabilities. It’s born to be the perfect companion in exploring new terrain anytime, anywhere. It accurately tracks two different global time zones concurrently and independently due to the skillfully incorporated GMT capability. High readability is guaranteed by the curved numerals and sunray brushed finish dial.
 
@@ -72,7 +72,7 @@ Timex looked to the past, and by incorporating the stylized W from the Waterbury
 
 ### Undone Aero Worldtimer Doolittle
 
-[![Undone Aero Worldtimer Doolittle](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Undone-Aero-Worldtimer-Doolittle--240x300.webp/public)](https://www.thewatchresource.com/recommends/undone-aero-worldtimer-doolittle/)
+[![Undone Aero Worldtimer Doolittle](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Undone-Aero-Worldtimer-Doolittle--240x300.webp/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faero-worldtimer-doolittle)
 
 **Specs:**
 
@@ -82,7 +82,7 @@ Timex looked to the past, and by incorporating the stylized W from the Waterbury
 - Case Width: 40 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-aero-worldtimer-doolittle/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faero-worldtimer-doolittle)
 
 Relive the sensation of awe, daring, and inventive spirit that the pilots, engineers, watchmakers, and travelers of the past shared as they advanced watchmaking and aviation technology beyond futuristic designs. The AERO Worldtimer from UNDONE adds the iconic GMT functionality to the new AERO collection's makeover. The result is an exciting balance of modern and vintage design, and we absolutely love it.
 
@@ -105,7 +105,7 @@ The Seiko 5 SSK003 is a timepiece with a straight-to-the-point design. Functiona
 
 ### Citizen Promaster GMT
 
-[![Citizen Promaster GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Citizen-Promaster-GMT-300x300.jpg/public)](https://www.thewatchresource.com/recommends/citizen-promaster-gmt/)
+[![Citizen Promaster GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Citizen-Promaster-GMT-300x300.jpg/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcitizen-promaster-black-dial-mens-watch-bj7129-56e.html)
 
 **Specs:**
 
@@ -114,7 +114,7 @@ The Seiko 5 SSK003 is a timepiece with a straight-to-the-point design. Functiona
 - Case Width: 44 mm
 - Lug Width: 21.5 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/citizen-promaster-gmt/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcitizen-promaster-black-dial-mens-watch-bj7129-56e.html)
 
 Citizen's Promaster GMT Diver is a watch with a  bold design. Bright orange accents stand out against the black face and bezel, stainless steel band. With features like dual time zones, an anti-reflective sapphire crystal display, dive-grade bright hands and markers, and the unique Eco-Drive technology, fashion meets functionality. Anyone wishing to explore the depths without sacrificing personal flair will find it to be the ideal timepiece.
 

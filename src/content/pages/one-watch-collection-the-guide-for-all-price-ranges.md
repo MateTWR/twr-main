@@ -48,7 +48,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 
 ### Victorinox Alliance
 
-[![Victorinox Alliance Quartz](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-09-WAT_241869_S1-300x263.jpeg/public)](https://www.thewatchresource.com/recommends/victorinox-alliance/)
+[![Victorinox Alliance Quartz](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-09-WAT_241869_S1-300x263.jpeg/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance%2Fp%2F241904)
 
 **Specs:**
 
@@ -57,7 +57,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 - Lug Distance: 21 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-alliance/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance%2Fp%2F241904)
 
 The Victorinox Alliance is exactly what you would expect from a  Swiss brand for an everyday watch. A gorgeous, clean looking timepiece, with truly timeless design elements. The black dial and brushed stainless steel is a combination that is hard to beat. The reliable quartz movement is hushed in a moderately sized (40 mm) case. An overall great watch.
 
@@ -68,7 +68,7 @@ _Read more:_
 
 ### Hamilton Khaki Navy Scuba Quartz
 
-[![Hamilton Khaki Navy Scuba quartz grey 37](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-7.10.18-PM-195x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37/)
+[![Hamilton Khaki Navy Scuba quartz grey 37](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-7.10.18-PM-195x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211981-khaki-navy-scuba-quartz.html)
 
 **Specs:**
 
@@ -77,7 +77,7 @@ _Read more:_
 - Lug Distance: 18 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211981-khaki-navy-scuba-quartz.html)
 
 Usually the Khaki Field gets recommended, however, we think a field watch has its limitations when it comes to “dressing up”. So our recommendation is the Khaki Navy Scuba from Hamilton. The quartz movement ensures accurate timekeeping and since we have a beautiful classic dive watch design, most watch straps will work perfectly: are you facing an active day? NATO strap! Meeting coming up with a client? Stainless steel bracelet will support your professional outfit! The 37 mm case size is a great for all wrist sizes and will be a comfortable wear in all situations.
 
@@ -105,7 +105,7 @@ The Tissot Gentleman is a versatile watch that is always stylish and practical. 
 
 ### Hamilton Khaki Navy Scuba Auto
 
-[![Hamilton Khaki Navy Scuba auto blue 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-17-at-9.46.48-PM-212x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[![Hamilton Khaki Navy Scuba auto blue 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-17-at-9.46.48-PM-212x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -116,7 +116,7 @@ The Tissot Gentleman is a versatile watch that is always stylish and practical. 
 - Lug Distance: 22 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 Luxury meets sport in this Hamilton diver watch. Designed to be equally functional during a vacation near the beach or during deep sea exploring. The ceramic bezel protects it from corrosive elements such as sand and saltwater. With a larger 43 mm case, increased water resistance to 300 meters (30 bars), this high performance watch is ready for all your adventures! For more information, read our in-depth [Khaki Navy Scuba review](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/).
 
@@ -124,7 +124,7 @@ _Read more about the [Khaki Navy collection](https://www.thewatchresource.com/ha
 
 ### Longines HydroQuest
 
-[![Longines\_hydroconquest](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Longines_hydroconquest-300x300.png/public)](https://www.thewatchresource.com/recommends/longines-hydroconquest/)
+[![Longines\_hydroconquest](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Longines_hydroconquest-300x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-hydroconquest-automatic-blue-dial-mens-watch-l3-782-4-96-6.html)
 
 **Specs:**
 
@@ -134,7 +134,7 @@ _Read more about the [Khaki Navy collection](https://www.thewatchresource.com/ha
 - Case Width: 43 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-hydroconquest/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-hydroconquest-automatic-blue-dial-mens-watch-l3-782-4-96-6.html)
 
 One word: classy. The Longines HydroConquest strikes a perfect balance between elegance and active lifestyle. The 41 mm case diameter makes it a great size for all wrists, and you can wear this classic design to a wide range of occasions, from a date night at a restaurant to a diving expedition. All around a great pick that will last you a lifetime.
 
@@ -142,7 +142,7 @@ One word: classy. The Longines HydroConquest strikes a perfect balance between e
 
 ### Omega De Ville Prestige
 
-[![Omega DeVille Prestige](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Omega-DeVille-Prestige-218x300.png/public)](https://www.thewatchresource.com/recommends/omega-de-ville-prestige/)
+[![Omega DeVille Prestige](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Omega-DeVille-Prestige-218x300.png/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-watch-424-13-40-20-03-002.html)
 
 **Specs:**
 
@@ -152,7 +152,7 @@ One word: classy. The Longines HydroConquest strikes a perfect balance between e
 - Case Width: 39.5 mm
 - Case Thickness: 10.1 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/omega-de-ville-prestige/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-watch-424-13-40-20-03-002.html)
 
 With its timeless, exquisite appearance, the OMEGA De Ville Prestige range has gained a sizable and devoted following. These watches reflect a timeless style and are distinguished by their clean, traditional styling and luxurious finishing. 
 
@@ -178,7 +178,7 @@ Elegant men's watches like the Worldtimer FC-718MC4H6 from Frederique Constant a
 
 ### Nomos Tetra Neomatik 39 Midnight Blue
 
-[![Nomos-Tetra-Neomatik-39-422](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Nomos-Tetra-Neomatik-39-422-300x300.jpg/public)](https://www.thewatchresource.com/recommends/nomos-tetra-neomatik-39-midnight-blue/)
+[![Nomos-Tetra-Neomatik-39-422](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Nomos-Tetra-Neomatik-39-422-300x300.jpg/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fnomos-watch-422.html)
 
 **Specs:**
 
@@ -188,7 +188,7 @@ Elegant men's watches like the Worldtimer FC-718MC4H6 from Frederique Constant a
 - Case Width: 33 mm x 33 mm
 - Case Higher: 7.2 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/nomos-tetra-neomatik-39-midnight-blue/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fnomos-watch-422.html)
 
 The square NOMOS Tetra Neomatik 39 has an ultra-thin and very accurate automatic caliber. The movement itself is only 3.2 millimeters in height, and case is 7.2 millimeters, which allows the watch to fit very elegantly beneath the cuff.
 
@@ -200,7 +200,7 @@ Read our in-depth guide for the [one watch collection for $5,000](https://www.th
 
 ### Omega Seamaster Aqua Terra
 
-[![omega seamaster-aqua-terra-green-150](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-omega-seamaster-aqua-terra-green-150-200x300.png/public)](https://www.thewatchresource.com/recommends/omega-seamaster-aqua-terra-green/)
+[![omega seamaster-aqua-terra-green-150](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-omega-seamaster-aqua-terra-green-150-200x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-seamaster-aqua-terra-automatic-mens-watch-220-10-41-21-10-001.html)
 
 **Specs:**
 
@@ -210,7 +210,7 @@ Read our in-depth guide for the [one watch collection for $5,000](https://www.th
 - Case Width: 41 mm
 - Case Thickness: 13.2 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/omega-seamaster-aqua-terra-green/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-seamaster-aqua-terra-automatic-mens-watch-220-10-41-21-10-001.html)
 
 Clean, classy, and balanced. That's our preferred way of describing the Seamaster Aqua Terra watches. All of the models have received elegant updates, and as Master Chronometers, they are simply unbeatable.
 
@@ -220,7 +220,7 @@ A very classy choice.
 
 ### Breitling Superocean Heritage II
 
-[![Breitling-superocean-heritage-b20-automatic-44-ss](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Breitling-superocean-heritage-b20-automatic-44-ss-220x300.png/public)](https://www.thewatchresource.com/recommends/breitling-superocean-heritage-ii-stainless-steel/)
+[![Breitling-superocean-heritage-b20-automatic-44-ss](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Breitling-superocean-heritage-b20-automatic-44-ss-220x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-watch-ab2030161c1a1.html)
 
 **Specs:**
 
@@ -230,13 +230,13 @@ A very classy choice.
 - Case Width: 44 mm
 - Water Resistance: 200 m
 
-[Check Price](https://www.thewatchresource.com/recommends/breitling-superocean-heritage-ii-stainless-steel/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-watch-ab2030161c1a1.html)
 
 The Superocean Heritage, which was inspired by the original Superocean from the 1950s, mixes historic design elements with a contemporary touch. The Superocean Heritage strikes a unique balance between sporty and elegant. The Superocean Heritage is a classy diver's watch with the recognizable triangular-shaped hands and a unidirectional bezel with a polished ceramic ring. This timepiece comes in a multitude of styles: we picked the mesh bracelet, and a rubber strap shaped like mesh and fastened with a folding clasp. Both are absolutely great options!
 
 ### Cartier Santos Medium Automatic
 
-[![Cartier Santos Medium Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-19-at-11.22.23-AM-213x300.png/public)](https://www.thewatchresource.com/recommends/cartier-santos-medium-automatic/)
+[![Cartier Santos Medium Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-19-at-11.22.23-AM-213x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcartier-santos-watch-wssa0029.html)
 
 **Specs:**
 
@@ -246,7 +246,7 @@ The Superocean Heritage, which was inspired by the original Superocean from the 
 - Case Width: 35.1 x 41.9 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/cartier-santos-medium-automatic/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcartier-santos-watch-wssa0029.html)
 
 The Cartier Santos watch was born in 1904, the first ever men’s wrist watch, which also happened to be a pilot watch. The Cartier Santos is a fantastic timepiece, with design integrity, and construction quality. This is truly one of the most iconic timepieces.
 
@@ -256,7 +256,7 @@ Read our in-depth guide for the [one watch collection for $10,000](https://www.t
 
 ### Breitling Navitimer Chronograph
 
-[![Breitling Navitimer B01 AB0138211B1P1](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Breitling-Navitimer-B01-AB0138211B1P1-300x300.webp/public)](https://www.thewatchresource.com/recommends/breitling-navitimer-chronograph/)
+[![Breitling Navitimer B01 AB0138211B1P1](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Breitling-Navitimer-B01-AB0138211B1P1-300x300.webp/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-navitimer-chronograph-automatic-black-dial-unisex-watch-ab0138211b1p1.html)
 
 **Specs:**
 
@@ -266,13 +266,13 @@ Read our in-depth guide for the [one watch collection for $10,000](https://www.t
 - Case Width: 43 mm
 - Lug Distance: 22 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/breitling-navitimer-chronograph/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-navitimer-chronograph-automatic-black-dial-unisex-watch-ab0138211b1p1.html)
 
 The Breitling Navitimer is a classic aviation watch, and it’s the watch that most people think of when they hear “pilot’s chronograph”. The design of this unique timepiece has been very successful for nearly 60 years. When you have this watch on your wrist, it makes you feel like you’re ready to take the controls of a fighter plane.
 
 ### Tag Heuer Monaco
 
-[![TAG Heuer Monaco CBL2111.FC6453](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-TAG-Heuer-Monaco-CBL2111.FC6453-244x300.png/public)](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[![TAG Heuer Monaco CBL2111.FC6453](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-TAG-Heuer-Monaco-CBL2111.FC6453-244x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 **Specs:**
 
@@ -282,13 +282,13 @@ The Breitling Navitimer is a classic aviation watch, and it’s the watch that m
 - Case Width: 39 x 39 mm
 - Lug Distance: 22 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 The Monaco from Tag Heuer was one of the first automatic chronographs ever created, and it became an absolute favorite after the “King of Cool”, Steve McQueen wore the Heuer Monaco on his wrist in 1971 in Le Mans. This watch is an absolute classic and due to the bold geometries, we have a beautiful balance of vintage and contemporary.
 
 ### Panerai Luminor Marina 1950
 
-[![Panerai Luminor Marina 44](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Panerai-Luminor-Marina-44-300x300.webp/public)](https://www.thewatchresource.com/recommends/panerai-luminor-marina-1950/)
+[![Panerai Luminor Marina 44](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Panerai-Luminor-Marina-44-300x300.webp/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fpanerai-watch-pam01312.html)
 
 **Specs:**
 
@@ -298,7 +298,7 @@ The Monaco from Tag Heuer was one of the first automatic chronographs ever creat
 - Case Width: 44 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/panerai-luminor-marina-1950/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fpanerai-watch-pam01312.html)
 
 The Panerai Luminor’s design makes these watches instantly recognizable. Additionally, Panerai can take the credit for starting the “oversized” watch trend in the late 1990s. The watch is definitely a statement piece with a 44 mm case width, but the robust design is somewhat counterbalanced with the elegant curves of 6 and 9 numerals.
 

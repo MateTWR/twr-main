@@ -18,7 +18,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 
 ### Hamilton American Classic Boulton Mechanical
 
-[![Hamilton American Classic Boulton Mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-18-at-6.33.47-PM-254x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-american-classic-boulton-mechanical/)
+[![Hamilton American Classic Boulton Mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-18-at-6.33.47-PM-254x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh13519641-boulton-mechanical.html)
 
 **Specs:**
 
@@ -29,7 +29,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 - Lug Distance: 22 mm
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-american-classic-boulton-mechanical/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh13519641-boulton-mechanical.html)
 
 With the Hamilton Boulton Mechanical, Art Deco meets Hamilton's American Classic collection styling. Since its introduction in 1940, the Boulton has been a cornerstone of the Hamilton watches due to its unusual case yet classy form. The evergreen classic design is reimagined for the twenty-first century and driven by the incredible H-50 handwinding movement.
 
@@ -37,7 +37,7 @@ _Read our [Hamilton brand review](https://www.thewatchresource.com/hamilton-watc
 
 ### Tag Heuer Monaco
 
-[![TAG Heuer Monaco CBL2111.FC6453](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-TAG-Heuer-Monaco-CBL2111.FC6453-244x300.png/public)](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[![TAG Heuer Monaco CBL2111.FC6453](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-TAG-Heuer-Monaco-CBL2111.FC6453-244x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 **Specs:**
 
@@ -48,7 +48,7 @@ _Read our [Hamilton brand review](https://www.thewatchresource.com/hamilton-watc
 - Lug Distance: 22 mm
 - Price: $5,000 - $6,500
 
-[Check Price](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 The Monaco from Tag Heuer was one of the first automatic chronographs ever created, and it became an absolute favorite after the “King of Cool”, Steve McQueen wore the Heuer Monaco on his wrist in 1971 in Le Mans. This watch is an absolute classic and due to the bold geometries, we have a beautiful balance of vintage and contemporary.
 
@@ -126,7 +126,7 @@ The Mido Multifort TV Big Date is a watch I can’t place a definitive verdict o
 
 ### Bell & Ross BR-05
 
-[![BR05-GMT-White-Rubber](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-05-BR05-GMT-White-Rubber-e1720804542841-193x300.webp/public)](https://www.thewatchresource.com/recommends/bell-ross-br05-gmt-white/)
+[![BR05-GMT-White-Rubber](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-05-BR05-GMT-White-Rubber-e1720804542841-193x300.webp/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-br-05-silver-tone-dial-unisex-watch-br05gsistsrb.html)
 
 **Specs:**
 
@@ -137,13 +137,13 @@ The Mido Multifort TV Big Date is a watch I can’t place a definitive verdict o
 - Case Width: 41 mm
 - Price: Under $4,000
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-br05-gmt-white/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-br-05-silver-tone-dial-unisex-watch-br05gsistsrb.html)
 
 The Bell & Ross BR-05 is a character of its own that delivers a modern and unique, yet timeless design. The 40 mm case width, the monochrome design, the combination of brushed and polished stainless steel make this watch a perfect choice as an everyday go-to timepiece that can perform well in more formal situations as well. The automatic movement (BR.CAL.321. caliber) provides a 38-hour power reserve. This watch is a statement timepiece, and in my opinion, a very unique timepiece that doesn’t receive a lot of coverage. The BR-05 is more of an “urban” collection that takes inspiration from the aviation-inspired designs Bell & Ross is known for, and they created a perfect everyday watch.
 
 ### Cartier Santos
 
-[![Cartier Santos Medium Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-19-at-11.22.23-AM-213x300.png/public)](https://www.thewatchresource.com/recommends/cartier-santos-medium-automatic/)
+[![Cartier Santos Medium Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-19-at-11.22.23-AM-213x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcartier-santos-watch-wssa0029.html)
 
 **Specs:**
 
@@ -154,13 +154,13 @@ The Bell & Ross BR-05 is a character of its own that delivers a modern and uniqu
 - Water Resistance: 100 m
 - Price: $6,000 - $7,000
 
-[Check Price](https://www.thewatchresource.com/recommends/cartier-santos-medium-automatic/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcartier-santos-watch-wssa0029.html)
 
 The Cartier Santos watch was born in 1904, the first ever men’s wrist watch, which also happened to be a pilot watch. The Cartier Santos is a fantastic timepiece, with design integrity, and construction quality. This is truly one of the most iconic timepieces.
 
 ### Jaeger-LeCoultre Reverso
 
-[![Jaeger-LeCoultre Reverso Classique](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-18-at-6.59.21-PM-147x300.png/public)](https://www.thewatchresource.com/recommends/jaeger-lecoultre-reverso-classique/)
+[![Jaeger-LeCoultre Reverso Classique](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-18-at-6.59.21-PM-147x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjaeger-lecoultre-watch-q3858522.html)
 
 **Specs:**
 
@@ -170,7 +170,7 @@ The Cartier Santos watch was born in 1904, the first ever men’s wrist watch, w
 - Case Width: 27.4 x 45.6 mm
 - Price: $7,000 - $8,500
 
-[Check Price](https://www.thewatchresource.com/recommends/jaeger-lecoultre-reverso-classique/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjaeger-lecoultre-watch-q3858522.html)
 
 The Reverso was designed to stand up to the rigors of polo matches. It has become one of the most recognizable timepieces in the world because to its subtle Art Deco lines and distinctive, pioneering reversible casing. The Jaeger-LeCoultre Reverso is  passionately original and a truly outstanding timepiece.  
 The Reverso has generated countless timeless stories since its inception in 1931, cementing its status as a Jaeger-LeCoultre legend.
@@ -195,7 +195,7 @@ The coolly elegant dial in polished silver-gray is a very classy look for almost
 
 ### Baume & Mercier Hampton
 
-[![Baume et Mercier Hampton 10528](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Baume-et-Mercier-Hampton-10528-205x300.png/public)](https://www.thewatchresource.com/recommends/baumer-et-mercier-hampton/)
+[![Baume et Mercier Hampton 10528](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Baume-et-Mercier-Hampton-10528-205x300.png/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-hampton-watch-10528.html)
 
 **Specs:**
 
@@ -205,13 +205,13 @@ The coolly elegant dial in polished silver-gray is a very classy look for almost
 - Case Width: 31 x 48 mm
 - Price: $1,800 - $2,800
 
-[Check Price](https://www.thewatchresource.com/recommends/baumer-et-mercier-hampton/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-hampton-watch-10528.html)
 
 This Hampton wristwatch features a black alligator strap with square scales, grey stitching, and a polished steel case for a sophisticated modern look. An opaline and grained dial with black ruthenium indexes and Arabic numbers is visible through a curved sapphire crystal. A very classy option!
 
 ### Bell & Ross Aviation Quartz
 
-[![Bell Ross BRS-BLC-ST](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Bell-Ross-BRS-BLC-ST-167x300.webp/public)](https://www.thewatchresource.com/recommends/bell-ross-aviation-quartz/)
+[![Bell Ross BRS-BLC-ST](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Bell-Ross-BRS-BLC-ST-167x300.webp/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-brs-blc-st.html)
 
 **Specs:**
 
@@ -221,13 +221,13 @@ This Hampton wristwatch features a black alligator strap with square scales, gre
 - Water Resistance: 100 m
 - Price: $1,500 - $2,200
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-aviation-quartz/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-brs-blc-st.html)
 
 A pilot's wristwatch was supplemented with a watch mounted on the plane's dashboard. Bell & Ross drew inspiration from this when they launched their first watch, the BR01, in 1992. Bruno Belamich (Bell) and Carlos A. Rosillo (Ross) combined robust design and engineering to develop a timepiece that radiated the ruggedness and reliability of fighter aircraft cockpit instruments in both look and performance. They were successful, and Bell & Ross began an extended history of ties with several extreme professions by supplying the French Air Force with the BR01 the year it was produced, as they still do today. Since then, it has fully embraced its signature square watch design, releasing hundreds of versions in a variety of complexities and materials, all bearing the iconic Bell & Ross form.
 
 ### Shinola The Mackinac 40 mm
 
-[![Shinola The Mackinac 40 mm](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Shinola-The-Mackinac-40-mm-1-251x300.png/public)](https://www.thewatchresource.com/recommends/shinola-the-mackinac-40/)
+[![Shinola The Mackinac 40 mm](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Shinola-The-Mackinac-40-mm-1-251x300.png/public)](https://partners.shinola.com/Yg7X7m)
 
 **Specs:**
 
@@ -238,13 +238,13 @@ A pilot's wristwatch was supplemented with a watch mounted on the plane's dashbo
 - Water Resistance: 100 m
 - Price: Around $4,500
 
-[Check Price](https://www.thewatchresource.com/recommends/shinola-the-mackinac-40/)
+[Check Price](https://partners.shinola.com/Yg7X7m)
 
 The Shinola Mackinac was named after one of the longest and most challenging freshwater races in the world: the Port Huron to Mackinac Island regatta. This single-eye chronograph comes with a Swiss automatic movement (Sellita SW511). The watch comes with a texture rubber strap that is breathable and waterproof. If the canary yellow dial and strap is too much, don't forget how easy it is to change the strap!
 
 ### Oris Rectangular
 
-[![Oris Rectangular 01 561 7783 4063-07 5 19 16](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-11-31523_0156177834063-0751916_horizontale-v1-300x199.webp/public)](https://www.thewatchresource.com/recommends/shinola-the-mackinac-40/)
+[![Oris Rectangular 01 561 7783 4063-07 5 19 16](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-11-31523_0156177834063-0751916_horizontale-v1-300x199.webp/public)](https://partners.shinola.com/Yg7X7m)
 
 **Specs:**
 
@@ -255,7 +255,7 @@ The Shinola Mackinac was named after one of the longest and most challenging fre
 - Case Width: 25.50 x 38 mm
 - Price: Under $2,500
 
-[Check Price](https://www.thewatchresource.com/recommends/shinola-the-mackinac-40/)
+[Check Price](https://partners.shinola.com/Yg7X7m)
 
 Oris’s entry into the vintage and Art Deco-inspired space in 2022 with the Rectangular is both intriguing and refreshing. While its design undoubtedly draws inspiration from the 1930s and ‘40s, the four vibrant color variations feel more aligned with today’s modern trends.
 

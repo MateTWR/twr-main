@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/78d352a7-cdcd-48b4-
 
 When we decide to review a watch, we look at a number of different aspects: the overall look and feel of the watch, the details of the design, functionality, and overall value. We’re always looking for unique finds: watches possessing an ineffable quality that simply stand out. The VAER D5 Meridian Navy is one of these finds. Let’s take a closer look.
 
-[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfdhfabywffm3xpmfn2qbf1wd5oxfu1md0.webp/public "Vaer D5 Meridian Navy")](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfdhfabywffm3xpmfn2qbf1wd5oxfu1md0.webp/public "Vaer D5 Meridian Navy")](https://vaer-watches.sjv.io/daaZyM)
 
 **Specs:**
 
@@ -20,7 +20,7 @@ When we decide to review a watch, we look at a number of different aspects: the 
 - Water Resistance: 200 m
 - Price: Around $600
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[Check Price](https://vaer-watches.sjv.io/daaZyM)
 
 ## VAER: The Brand
 
@@ -32,7 +32,7 @@ VAER slowly gained the trust and support from watch enthusiasts and outdoorsmen.
 
 The VAER D5 Meridian Navy is a serious dive watch with a touch of elegance: the warm-toned gold secondary colors on the dial make this timepiece a perfect choice as an everyday go-to watch as it is easy to dress up or down. Its reliable Miyota 9039 automatic movement provides a 40-hours power reserve. The combination of the sword style for the hour hand and the pencil style of the minute hand is an unusual solution, but they work really well together. The overall angles and ruggedness is counterbalanced with the lollipop second hand to provide the elegance that makes this watch a well-rounded timepiece.
 
-[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfdhfabywffm3xpmfn2qbf1wd5oxfu1md0.webp/public "Vaer D5 Meridian Navy")](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfdhfabywffm3xpmfn2qbf1wd5oxfu1md0.webp/public "Vaer D5 Meridian Navy")](https://vaer-watches.sjv.io/daaZyM)
 
 **Specs:**
 
@@ -44,7 +44,7 @@ The VAER D5 Meridian Navy is a serious dive watch with a touch of elegance: the 
 - Water Resistance: 200 m
 - Price: Around $600
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[Check Price](https://vaer-watches.sjv.io/daaZyM)
 
 ### Dial
 
@@ -105,7 +105,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 The VAER D5 Meridian Navy is an elegant yet sporty dive watch. The combination of the navy blue as the main color with the warm-toned gold secondary color brings a hint of elegance to the otherwise sporty design, making it a very harmonic, well rounded combination. The sword hour hand and the pencil minute hand union has a very angular masculine look, but this ruggedness is counterbalanced with the lollipop second hand, providing some well-designed roundness. Its reliable Miyota 9039 automatic movement provides a 40-hours power reserve. Last but certainly not least, while still a new brand, they already had a significant impact on American watchmaking, and we wholeheartedly support their efforts!
 
-[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfdhfabywffm3xpmfn2qbf1wd5oxfu1md0.webp/public "Vaer D5 Meridian Navy")](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfdhfabywffm3xpmfn2qbf1wd5oxfu1md0.webp/public "Vaer D5 Meridian Navy")](https://vaer-watches.sjv.io/daaZyM)
 
 **Specs:**
 
@@ -117,7 +117,7 @@ The VAER D5 Meridian Navy is an elegant yet sporty dive watch. The combination o
 - Water Resistance: 200 m
 - Price: Around $600
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[Check Price](https://vaer-watches.sjv.io/daaZyM)
 
 ## Other Watch Reviews
 

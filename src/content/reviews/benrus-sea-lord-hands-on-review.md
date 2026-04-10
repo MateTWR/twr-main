@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1291cf04-c734-4418-
 
 In our continual quest for exceptional timepieces, the Sea Lord by BENRUS was sent to us on loan to review, and we were intrigued. BENRUS is an esteemed American brand that boasts a remarkable legacy in the American watch industry and is currently making a thrilling resurgence. The Sea Lord possesses a unique appearance with its strong connection to vintage-inspired design combined with modern features and details.
 
-[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -19,7 +19,7 @@ In our continual quest for exceptional timepieces, the Sea Lord by BENRUS was se
 - Lug Width: 20 mm
 - Price: Under $900
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 ## BENRUS: The Brand
 
@@ -33,7 +33,7 @@ Fortunately, a few years ago, BENRUS reintroduced their popular designs and rele
 
 The Benrus Sea Lord Diver watch, a highly sought-after timepiece in its heyday, was well-deserving of its popularity. With an unassuming simplicity, its design accentuates the timeless qualities of a sturdy dive watch. This watch's overall aesthetic versatility makes it an excellent addition to any collection, effortlessly transitioning from formal occasions (granted, formal occasions will require a different bracelet option) to casual, athletic activities. In essence, it serves as a dependable and stylish everyday timepiece. Its 39 mm case width ensures comfortable wear for wrists of all sizes. The wide baton-style hour and minute hands harmonize with the watch's understated features, while the black dial and faux patina hour markers provide a refined touch that counterbalances its ruggedness. Equipped with the Soprod P024 Swiss automatic movement, the Benrus Sea Lord offers a 38-hour power reserve, ensuring reliable performance.
 
-[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -44,7 +44,7 @@ The Benrus Sea Lord Diver watch, a highly sought-after timepiece in its heyday, 
 - Lug Width: 20 mm
 - Price: Under $900
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 ### Dial
 
@@ -103,7 +103,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 With its distinctive personality, the BENRUS Sea Lord is a beautiful vintage-inspired dive watch drawing inspiration from its illustrious heritage. Boasting a 39 mm case width and a 45 mm lug-to-lug distance, this watch strikes a harmonious balance between simplicity and sportiness. It seamlessly transitions into a versatile choice, serving as an exceptional everyday timepiece. Equipped with the automatic Swiss movement (Soprod P024 caliber), it guarantees a commendable 38-hour power reserve. This watch stands as a testament to the brand's significance in the American watch industry, an inspired reissue we are very much excited about!
 
-[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -114,7 +114,7 @@ With its distinctive personality, the BENRUS Sea Lord is a beautiful vintage-ins
 - Lug Width: 20 mm
 - Price: Under $900
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 ## Other Watch Reviews
 

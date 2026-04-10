@@ -27,7 +27,7 @@ The following decades brought additional success, as new [BENRUS](https://www.th
 
 ### Benrus Sea Lord Diver
 
-[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -39,7 +39,7 @@ The following decades brought additional success, as new [BENRUS](https://www.th
 - Water Resistance: 300 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 The [Benrus Sea Lord Diver watch](https://www.thewatchresource.com/benrus-sea-lord-hands-on-review/) was one of the most popular Benrus watches back in the day, and deservedly so. Understated in its simplicity, the design highlights the classic features of a robust dive watch. The overall design makes this watch a versatile addition to a collection as it can easily be dressed up for more formal events, or down for more casual, sporty activities. In other words, it’s  a great everyday go-to watch. The 39 mm case width makes it perfectly comfortable for all wrist sizes. The wide baton hour and minute hands pair well with the understated features of the watch, while the black dial and the faux patina for the hour markers counterbalances the ruggedness and brings a touch of elegance. The Benrus Sea Lord comes with the Soprod P024 Swiss automatic movement, providing a 38-hour power reserve.
 
@@ -51,7 +51,7 @@ So, in an attempt to create a legacy of lasting quality and design, VAER was bor
 
 ### Vaer D5 Meridian Navy
 
-[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfddbyv417p4eijmcvdw28nnugld18qmjw.webp/public "Vaer D5 Meridian Navy")](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfddbyv417p4eijmcvdw28nnugld18qmjw.webp/public "Vaer D5 Meridian Navy")](https://vaer-watches.sjv.io/daaZyM)
 
 **Specs:**
 
@@ -63,7 +63,7 @@ So, in an attempt to create a legacy of lasting quality and design, VAER was bor
 - Water Resistance: 200 m
 - Price: Around $600
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[Check Price](https://vaer-watches.sjv.io/daaZyM)
 
 The [VAER D5 Meridian Navy](https://www.thewatchresource.com/vaer-d5-meridian-navy-diver-review/) is a serious dive watch with a touch of elegance: the warm-toned secondary colors on the dial make this timepiece a perfect choice as an everyday go-to watch as it is easy to dress up or down. Its reliable Miyota 9039 automatic movement provides a 40-hours power reserve. The combination of the sword style for the hour hand and the pencil style of the minute hand is an unusual solution, but they work really well together. The overall angles and ruggedness is counterbalanced with the lollipop second hand to provide the elegance that makes this watch a well-rounded timepiece.
 
@@ -75,7 +75,7 @@ Hamilton relocated both the headquarters and the production facilities to Biel (
 
 ### Hamilton Khaki Navy Scuba Auto
 
-[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki-navy-scuba-auto-p8lwcrtn1lxcbgng60jhre8kuro5dep3zhyg9x2ch8.png/public "Hamilton_khaki-navy-scuba-auto")](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki-navy-scuba-auto-p8lwcrtn1lxcbgng60jhre8kuro5dep3zhyg9x2ch8.png/public "Hamilton_khaki-navy-scuba-auto")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -86,7 +86,7 @@ Hamilton relocated both the headquarters and the production facilities to Biel (
 - Water Resistance: 300 M
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 Luxury meets sport in this [Hamilton Khaki Navy Scuba](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/) watch. Designed to be equally functional during a vacation near the beach or during deep sea exploring. The ceramic bezel protects it from corrosive elements such as sand and saltwater. With a larger 43mm case, increased water resistance to 30 bar (300m), this high performance watch is ready for all your adventures on, in or under the water.
 
@@ -98,7 +98,7 @@ Technically, every Shinola watch is made in the United States. However, a large 
 
 ### Shinola The Runwell Chrono 41 mm
 
-[![Shinola\_runwell-chrono-41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Shinola_runwell-chrono-41-p8mfpt132s41tk65zb7uri1z942xd5vehhsrwrkecs.png/public "Shinola_runwell-chrono-41")](https://www.thewatchresource.com/recommends/shinola-the-runwell-chrono-41-mm/)
+[![Shinola\_runwell-chrono-41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Shinola_runwell-chrono-41-p8mfpt132s41tk65zb7uri1z942xd5vehhsrwrkecs.png/public "Shinola_runwell-chrono-41")](https://partners.shinola.com/ORxN6N)
 
 **Specs:**
 
@@ -107,7 +107,7 @@ Technically, every Shinola watch is made in the United States. However, a large 
 - Case Width: 41 mm
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/shinola-the-runwell-chrono-41-mm/)
+[Check Price](https://partners.shinola.com/ORxN6N)
 
 Shinola released a limited-edition watch with the name “the Runwell” in March 2013, a timepiece that perfectly encapsulated Shinola’s dedication to traditional design, high-quality craftsmanship, and American production.
 

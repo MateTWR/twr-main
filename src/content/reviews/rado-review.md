@@ -57,7 +57,7 @@ Power Reserve: 80 hours
   
 Diameter: 42 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/rado-captain-cook-automatic-blue/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Frado-captain-cook-watch-r32505203.html)
 
 ### Centrix Collection
 
@@ -71,7 +71,7 @@ Movement: Quartz
   
 Diameter: 38 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/rado-centrix-black/)
+[Check Price](https://www.kqzyfj.com/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Frado-watch-r30934712)
 
 ### True Collection
 
@@ -85,7 +85,7 @@ Movement: Quartz
   
 Diameter: 39 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/rado-true-blue/)
+[Check Price](https://www.jdoqocy.com/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Frado-watch-r27955022)
 
 ### HyperChrome Collection
 
@@ -101,7 +101,7 @@ Power Reserve: 80 hours
   
 Diameter: 44 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/rado-hyperchrome/)
+[Check Price](https://shareasale.com/r.cfm?b=1573637&u=2936025&m=99082&urllink=www%2Ewatchshopping%2Ecom%2Frado%2Dhyperchrome%2Dr32050203%2Ehtml&afftrack=)
 
 ### Ceramica Collection
 

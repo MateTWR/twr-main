@@ -20,23 +20,23 @@ The Khaki Aviation Converter combines advanced technology with exquisite eleganc
 
 #### Hamilton Khaki Aviation Converter, Automatic Movement, 42 mm
 
-[![Hamilton Khaki Aviation Converter Black Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-22-at-9.55.21-PM-pp7uc0l48b8sygcmt0w5ejp04kagiep8741lbl7snk.png/public "Hamilton Khaki Aviation Converter Black Stainless Steel")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-black-stainless-steel/)
+[![Hamilton Khaki Aviation Converter Black Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-22-at-9.55.21-PM-pp7uc0l48b8sygcmt0w5ejp04kagiep8741lbl7snk.png/public "Hamilton Khaki Aviation Converter Black Stainless Steel")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615130-khaki-aviation-converter.html)
 
 [Movement: Automatic (H-10)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-black-stainless-steel/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615130-khaki-aviation-converter.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-black-stainless-steel/) [![Hamilton Khaki Aviation Converter Blue Leather](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-22-at-9.58.56-PM-pp7uh5rbmoaahmvnrqxnjqyt5gxrms4ckkk8v3l8ls.png/public "Hamilton Khaki Aviation Converter Blue Leather")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-blue-leather/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615130-khaki-aviation-converter.html) [![Hamilton Khaki Aviation Converter Blue Leather](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-22-at-9.58.56-PM-pp7uh5rbmoaahmvnrqxnjqyt5gxrms4ckkk8v3l8ls.png/public "Hamilton Khaki Aviation Converter Blue Leather")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76645540-khaki-aviation-converter-auto.html)
 
 [Movement: Automatic (H-10)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-blue-leather/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76645540-khaki-aviation-converter-auto.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-blue-leather/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76645540-khaki-aviation-converter-auto.html)
 
 ##   
 Hamilton Khaki Aviation Converter GMT
@@ -45,23 +45,23 @@ The Khaki Aviation Converter GMT makes traveling throughout the world simple. A 
 
 #### Hamilton Khaki Aviation Converter GMT, Automatic Movement, 42 mm
 
-[![Hamilton Khaki Aviation Converter Auto GMT Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-23-at-7.11.43-PM-pp9dv7jk2zzm9cesx6qgm22obairv3cxq77ey4zqog.png/public "Hamilton Khaki Aviation Converter Auto GMT Stainless Steel")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-gmt-stainless-steel/)
+[![Hamilton Khaki Aviation Converter Auto GMT Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-23-at-7.11.43-PM-pp9dv7jk2zzm9cesx6qgm22obairv3cxq77ey4zqog.png/public "Hamilton Khaki Aviation Converter Auto GMT Stainless Steel")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76715140-khaki-aviation-converter-gmt.html)
 
 [Movement: Automatic (H-14)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-gmt-stainless-steel/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76715140-khaki-aviation-converter-gmt.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-gmt-stainless-steel/) [![Hamilton Khaki Aviation Converter Auto GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-h76715540-pix7sf9zpdoydp0jusvtb4ur5hmk2sx45i4xzue2fk.webp/public "Hamilton Khaki Aviation Converter Auto GMT")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-gmt/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76715140-khaki-aviation-converter-gmt.html) [![Hamilton Khaki Aviation Converter Auto GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-h76715540-pix7sf9zpdoydp0jusvtb4ur5hmk2sx45i4xzue2fk.webp/public "Hamilton Khaki Aviation Converter Auto GMT")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
 
 [Movement: Automatic (H-14)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-gmt/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-gmt/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
 
 ##   
 Hamilton Khaki Aviation Converter Chronograph
@@ -72,23 +72,23 @@ This beautiful 44mm pilot's watch offers everything you need for your next adven
 
 #### Hamilton Khaki Aviation Converter Chronograph, Automatic Movement, 42 mm
 
-[![Hamilton Khaki Aviation Converter Auto Chrono Stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-23-at-7.21.05-PM-pp9e9r3ntpwbw5aazz1novyf6wu7yi3fe6kv99fgeo.png/public "Hamilton Khaki Aviation Converter Auto Chrono Stainless steel")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-chrono-stainless-steel/)
+[![Hamilton Khaki Aviation Converter Auto Chrono Stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-23-at-7.21.05-PM-pp9e9r3ntpwbw5aazz1novyf6wu7yi3fe6kv99fgeo.png/public "Hamilton Khaki Aviation Converter Auto Chrono Stainless steel")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76726530-khaki-aviation-converter.html-stainless-steel/)
 
 [Movement: Automatic (H-10)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-chrono-stainless-steel/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76726530-khaki-aviation-converter.html-stainless-steel/)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-chrono-stainless-steel/) [![Hamilton Khaki Aviation Converter Auto Chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-23-at-7.23.35-PM-pp9edp1ahpaml9k4z6ebne50w3en8sqw9p36q1l0b4.png/public "Hamilton Khaki Aviation Converter Auto Chrono")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-chrono/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76726530-khaki-aviation-converter.html-stainless-steel/) [![Hamilton Khaki Aviation Converter Auto Chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-23-at-7.23.35-PM-pp9edp1ahpaml9k4z6ebne50w3en8sqw9p36q1l0b4.png/public "Hamilton Khaki Aviation Converter Auto Chrono")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76726530-khaki-aviation-converter.html)
 
 [Movement: Automatic (H-10)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-chrono/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76726530-khaki-aviation-converter.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-chrono/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76726530-khaki-aviation-converter.html)
 
 ##   
 Hamilton Khaki Aviation Pilot Pioneer
@@ -97,37 +97,37 @@ The Khaki Pilot Pioneer's striking design is a salute to Hamilton's aviation and
 
 #### Hamilton Khaki Aviation Pilot Pioneer, Automatic Movement, 38 mm
 
-[![Hamilton Khaki Aviation Pilot Pioneer Auto 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-2.43.41-PM-ppasv15u3b3bo3ry08c3yal7m3zgdmg54og4sd005s.png/public "Hamilton Khaki Aviation Pilot Pioneer Auto 38")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-auto-38/)
+[![Hamilton Khaki Aviation Pilot Pioneer Auto 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-2.43.41-PM-ppasv15u3b3bo3ry08c3yal7m3zgdmg54og4sd005s.png/public "Hamilton Khaki Aviation Pilot Pioneer Auto 38")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-auto-38/)
 
 [Movement: Automatic (H-10)  
   
 Power Reserve: 80 hours  
   
-Diameter: 38 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-auto-38/)
+Diameter: 38 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-auto-38/)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-auto-38/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-auto-38/)
 
 #### Hamilton Khaki Aviation Pilot Pioneer, Mechanical Movement, 43 mm
 
-[![Hamilton Khaki Aviation Pilot Pioneer Mechanical 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-2.47.02-PM-ppat0a3e909yhq5id004dgwv0k48csa6unkq8z7vf4.png/public "Hamilton Khaki Aviation Pilot Pioneer Mechanical 43")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-mechanical-43/)
+[![Hamilton Khaki Aviation Pilot Pioneer Mechanical 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-2.47.02-PM-ppat0a3e909yhq5id004dgwv0k48csa6unkq8z7vf4.png/public "Hamilton Khaki Aviation Pilot Pioneer Mechanical 43")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-mechanical-43/)
 
 [Movement: Mechanical (ETA 6498-1)  
   
 Power Reserve: 50 hours  
   
-Diameter: 43 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-mechanical-43/)
+Diameter: 43 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-mechanical-43/)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-mechanical-43/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-mechanical-43/)
 
 #### Hamilton Khaki Aviation Pilot Pioneer, Quartz Movement, 41 mm
 
-[![Hamilton Khaki Aviation Pilot Pioneer Quartz 41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-2.50.08-PM-ppat54xdk6xah73k03kq98sli86i4hk9iox1ig0n9s.png/public "Hamilton Khaki Aviation Pilot Pioneer Quartz 41")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-quartz-41/)
+[![Hamilton Khaki Aviation Pilot Pioneer Quartz 41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-2.50.08-PM-ppat54xdk6xah73k03kq98sli86i4hk9iox1ig0n9s.png/public "Hamilton Khaki Aviation Pilot Pioneer Quartz 41")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-quartz-41/)
 
 [Movement: Quartz  
   
-Diameter: 41 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-quartz-41/)
+Diameter: 41 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-quartz-41/)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-quartz-41/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-quartz-41/)
 
 ####   
 Hamilton Khaki Aviation Pilot Pioneer, Mechanical Movement (H-50)  
@@ -135,16 +135,16 @@ Hamilton Khaki Aviation Pilot Pioneer, Mechanical Movement (H-50)
 
 The Khaki Pilot Pioneer is a reimagining of a historic military watch created for the British Royal Air Force in 1973, powered by the incredible H-50 handwinding movement with 80 hours of power reserve. This military watch has a unique face design and a tough NATO strap, giving it great personality.
 
-[![Hamilton Khaki Aviation Pilot Pioneer Mechanical 36](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-2.57.18-PM-ppatgd3z6yal5isgfyab1essxwuc2c4ue9ftvfdcy8.png/public "Hamilton Khaki Aviation Pilot Pioneer Mechanical 36")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-mechanical-36/)
+[![Hamilton Khaki Aviation Pilot Pioneer Mechanical 36](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-2.57.18-PM-ppatgd3z6yal5isgfyab1essxwuc2c4ue9ftvfdcy8.png/public "Hamilton Khaki Aviation Pilot Pioneer Mechanical 36")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-mechanical-36/)
 
 [Movement: Mechanical (H50)  
   
 Power Reserve: 80 hours  
   
 Diameter: 36 mm x 33 mm  
-](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-mechanical-36/)
+](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-mechanical-36/)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-pioneer-mechanical-36/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76205530-khaki-aviation-pilot-pioneer.html-mechanical-36/)
 
 ##   
 Hamilton Khaki Aviation X-Wind
@@ -153,37 +153,37 @@ The Khaki Aviation X-Wind Automatic Chronograph, designed with pilots in mind an
 
 #### Hamilton Khaki Aviation X-Wind, Automatic Movement, 45 mm
 
-[![Hamilton Khaki Aviation X-Wind Auto 45](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-8.20.00-PM-ppb7hzglhog8eaciz0cosbi0gip9l0ewwupkarojww.png/public "Hamilton Khaki Aviation X-Wind Auto 45")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-x-wind-auto-45/)
+[![Hamilton Khaki Aviation X-Wind Auto 45](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-8.20.00-PM-ppb7hzglhog8eaciz0cosbi0gip9l0ewwupkarojww.png/public "Hamilton Khaki Aviation X-Wind Auto 45")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77765541-khaki-x-wind.html)
 
 [Movement: Automatic (H30)  
   
 Power Reserve: 80 hours  
   
-Diameter: 45 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-x-wind-auto-45/)
+Diameter: 45 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77765541-khaki-x-wind.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-x-wind-auto-45/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77765541-khaki-x-wind.html)
 
 #### Hamilton Khaki Aviation X-Wind Chronograph, Automatic Movement, 45 mm
 
-[![Hamilton Khaki Aviation X-Wind Auto Chrono 45](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-8.24.31-PM-ppb7p34p4m684815i2v7mize1bp3qolwk05mu15gwg.png/public "Hamilton Khaki Aviation X-Wind Auto Chrono 45")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-x-wind-auto-chrono-45/)
+[![Hamilton Khaki Aviation X-Wind Auto Chrono 45](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-8.24.31-PM-ppb7p34p4m684815i2v7mize1bp3qolwk05mu15gwg.png/public "Hamilton Khaki Aviation X-Wind Auto Chrono 45")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77906940-khaki-x-wind-auto-chrono-45mm.html)
 
 [Movement: Automatic (H-21-SI)  
   
 Power Reserve: 60 hours  
   
-Diameter: 45 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-x-wind-auto-chrono-45/)
+Diameter: 45 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77906940-khaki-x-wind-auto-chrono-45mm.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-x-wind-auto-chrono-45/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77906940-khaki-x-wind-auto-chrono-45mm.html)
 
 #### Hamilton Khaki Aviation X-Wind GMT Chronograph, Quartz Movement, 46 mm
 
-[![Hamilton Khaki Aviation X-Wind Quartz GMT Chrono 46](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-8.28.45-PM-ppb7vo00yv6hdyh32x972v7jqf9lmeq9gkjzrre9cg.png/public "Hamilton Khaki Aviation X-Wind Quartz GMT Chrono 46")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-x-wind-quartz-gmt-chrono-46/)
+[![Hamilton Khaki Aviation X-Wind Quartz GMT Chrono 46](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-24-at-8.28.45-PM-ppb7vo00yv6hdyh32x972v7jqf9lmeq9gkjzrre9cg.png/public "Hamilton Khaki Aviation X-Wind Quartz GMT Chrono 46")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77912135-khaki-aviation-x-wind-gmt-chrono-quartz.html)
 
 [Movement: Quartz  
   
-Diameter: 46 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-x-wind-quartz-gmt-chrono-46/)
+Diameter: 46 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77912135-khaki-aviation-x-wind-gmt-chrono-quartz.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-x-wind-quartz-gmt-chrono-46/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77912135-khaki-aviation-x-wind-gmt-chrono-quartz.html)
 
 ## Khaki Aviation Pilot Day Date
 
@@ -191,37 +191,37 @@ It's impossible to reproduce the sensation of being an early aviator, a pioneeri
 
 #### Hamilton Khaki Aviation Pilot Day Date, Automatic Movement, 46 mm
 
-[![Hamilton Khaki Aviation Pilot Day Date Auto 46](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-25-at-2.45.31-PM-ppcjlt7pcv6va6rublnararlpmqzh3n8cljbnvvvtc.png/public "Hamilton Khaki Aviation Pilot Day Date Auto 46")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-day-date-auto-46/)
+[![Hamilton Khaki Aviation Pilot Day Date Auto 46](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-25-at-2.45.31-PM-ppcjlt7pcv6va6rublnararlpmqzh3n8cljbnvvvtc.png/public "Hamilton Khaki Aviation Pilot Day Date Auto 46")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64715135-khaki-aviation-pilot-day-date-auto.html)
 
 [Movement: Automatic (H-30)  
   
 Power Reserve: 80 hours  
   
-Diameter: 46 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-day-date-auto-46/)
+Diameter: 46 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64715135-khaki-aviation-pilot-day-date-auto.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-day-date-auto-46/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64715135-khaki-aviation-pilot-day-date-auto.html)
 
 #### Hamilton Khaki Aviation Pilot Day Date, Automatic Movement, 42 mm
 
-[![Hamilton Khaki Aviation Pilot Day Date Auto 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-25-at-2.49.03-PM-ppcjrdfbsksxz4p0ui6u0e8s8pc60mq244hqvtn100.png/public "Hamilton Khaki Aviation Pilot Day Date Auto 42")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-day-date-auto-42/)
+[![Hamilton Khaki Aviation Pilot Day Date Auto 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-25-at-2.49.03-PM-ppcjrdfbsksxz4p0ui6u0e8s8pc60mq244hqvtn100.png/public "Hamilton Khaki Aviation Pilot Day Date Auto 42")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64615135-khaki-aviation-pilot-day-date-auto.html)
 
 [Movement: Automatic (H-40)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-day-date-auto-42/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64615135-khaki-aviation-pilot-day-date-auto.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-day-date-auto-42/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64615135-khaki-aviation-pilot-day-date-auto.html)
 
 #### Hamilton Khaki Aviation Pilot Day Date, Quartz Movement, 42 mm
 
-[![Hamilton Khaki Aviation Pilot Day Date Quartz 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-25-at-2.54.30-PM-ppcjzyo892ka2u7topv3aq7fogzxd1tqyn4hruwi4w.png/public "Hamilton Khaki Aviation Pilot Day Date Quartz 42")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-day-date-quartz-42/)
+[![Hamilton Khaki Aviation Pilot Day Date Quartz 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-25-at-2.54.30-PM-ppcjzyo892ka2u7topv3aq7fogzxd1tqyn4hruwi4w.png/public "Hamilton Khaki Aviation Pilot Day Date Quartz 42")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64611535-khaki-aviation-pilot-day-date-quartz.html)
 
 [Movement: Quartz  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-day-date-quartz-42/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64611535-khaki-aviation-pilot-day-date-quartz.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-pilot-day-date-quartz-42/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64611535-khaki-aviation-pilot-day-date-quartz.html)
 
 ## SEE ALSO
 

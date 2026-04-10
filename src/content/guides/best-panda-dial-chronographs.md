@@ -14,7 +14,7 @@ Without further ado, let’s dive in and take a closer look at our carefully cur
 
 ## Hamilton American Classic INTRA-MATIC
 
-[![Hamilton Intra-Matic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-08-Screen-Shot-2022-08-31-at-4.23.30-PM-294x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-intra-matic/)
+[![Hamilton Intra-Matic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-08-Screen-Shot-2022-08-31-at-4.23.30-PM-294x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)
 
 **Specs:** 
 
@@ -24,7 +24,7 @@ Without further ado, let’s dive in and take a closer look at our carefully cur
 - Case Width: 40 mm
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-intra-matic/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)
 
 The Hamilton Intra-Matic Auto Chrono is a new recreation of a 1968 signature timepiece that delivers a sporty yet timeless design. With its characteristic panda dial and true 1960s charm, the H-31 automatic watch is a surefire eye-catcher. It's a great watch for classic car enthusiasts as well as the tachymeter on the bezel and long seconds hand make you feel like you're looking at a dashboard of a racing car, already visualizing the checkered flag.
 
@@ -95,7 +95,7 @@ Longines watches are always classy looking timepieces with great quality, and th
 
 ## Dan Henry 1962 Racing Chronograph
 
-[![Dan Henry 1962 Racing Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Dan-Henry-1962-Racing-Chronograph-1-267x300.webp/public)](https://www.thewatchresource.com/recommends/dan-henry-1962-racing-chronograph/)
+[![Dan Henry 1962 Racing Chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Dan-Henry-1962-Racing-Chronograph-1-267x300.webp/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1962-racing-chronograph)
 
 **Specs:**
 
@@ -105,7 +105,7 @@ Longines watches are always classy looking timepieces with great quality, and th
 - Lug Distance: 20 mm
 - Price: Under $300
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1962-racing-chronograph/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1962-racing-chronograph)
 
 The Dan Henry 1962 Racing Chronograph has a 39mm diameter, which is the standard size for vintage racing chronographs. The mechanical-quartz movement combines the performance and sharp feel of a mechanical chronograph with the precision of quartz. The 31st day is highlighted in red on the 1962's optional date variant, a design choice made by illustrious brands in the past to serve as a reminder to change the date during months with 30 days.
 
@@ -129,7 +129,7 @@ The Yema Rallygraf is a beautiful vintage-inspired racing chronograph. The subdi
 
 ## Tissot Heritage 1973
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-T124.427.16.031.01_1-300x300.webp/public)](https://www.thewatchresource.com/recommends/tissot-heritage-1973-silver/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-T124.427.16.031.01_1-300x300.webp/public)](https://www.kqzyfj.com/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Ftissot-watch-t124-427-16-031-01)
 
 **Specs:**
 
@@ -140,13 +140,13 @@ The Yema Rallygraf is a beautiful vintage-inspired racing chronograph. The subdi
 - Lug Distance: 22 mm
 - Price: Around $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-heritage-1973-silver/)
+[Check Price](https://www.kqzyfj.com/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Ftissot-watch-t124-427-16-031-01)
 
 Tissot honours its historic links to motor racing with a re-issue of a seventies-style chronograph, as innovators by tradition. The Tissot Heritage 1973 is pleased to be a part of Tissot's illustrious stable. It represents the collaboration between Tissot and the Kessel Classics racing team. This 43 mm wide chronograph, with a white dial and matte black counters, meets modern and classic. The overstitched brown calfskin strap, with its huge perforations, is a replica of the one Tissot designed and patented in the 1960s. Tissot has equipped this racing machine with the Valjoux A05.H31 self-winding movement, which is a durable, powerful, and well-tested engine.
 
 ## Tudor Black Bay Chrono
 
-[![Tudor black bay chrono M79360N-0001](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Tudor-black-bay-chrono-M79360N-0001-225x300.png/public)](https://www.thewatchresource.com/recommends/tudor-black-bay-chrono-panda/)
+[![Tudor black bay chrono M79360N-0001](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Tudor-black-bay-chrono-M79360N-0001-225x300.png/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftudor-black-bay-chrono-chronograph-automatic-chronometer-black-dial-mens-watch-m79360n-0001.html)
 
 **Specs:**
 
@@ -156,7 +156,7 @@ Tissot honours its historic links to motor racing with a re-issue of a seventies
 - Case Width: 41 mm
 - Price: Under $6,000
 
-[Check Price](https://www.thewatchresource.com/recommends/tudor-black-bay-chrono-panda/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftudor-black-bay-chrono-chronograph-automatic-chronometer-black-dial-mens-watch-m79360n-0001.html)
 
 The Tudor Black Bay Fifty Eight is a classic dive watch with a 39 mm case diameter. The reason we like this Black Bay is the no-nonsense design. No unnecessary features, straight to the point. The stainless steel bracelet, the uni-directional rotating stainless steel bezel with a blue aluminum ring make it an evergreen classy watch.
 

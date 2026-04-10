@@ -12,7 +12,7 @@ When it comes to dive watches, there are a few iconic examples in most people’
 
 ## Enter the Hamilton Khaki Navy Scuba Auto
 
-[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -23,7 +23,7 @@ When it comes to dive watches, there are a few iconic examples in most people’
 - Lug Distance: 22 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 The mechanical watch that is usually recommended to people who are just starting to dip their toes in the realm of serious collecting is the Hamilton Khaki Field watch. The Khaki Field has established itself as a great entry point for those with an interest in horology since it is inexpensive, robust, looks good, and is nostalgic. While we agree with the fact the Hamilton Khaki Field watch is amazing in both style and quality, we’re always on a mission to find new angles and offer exciting alternative paths. That’s why one of our all time favorites is the Hamilton Khaki Navy Scuba Auto.
 
@@ -39,7 +39,7 @@ Here is a list of some of the reasons we think the Khaki Navy Scuba might be one
 
 Luxury meets sport in the Hamilton Khaki Navy Scuba Auto. Designed to be equally functional during a leisurely vacation in the South of France near or during deep sea exploring. The ceramic bezel protects it from corrosive elements such as sand and saltwater. With increased water resistance to 30 bar (300 M), this high performance watch is ready for all your adventures on, in or under the water.
 
-[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -50,7 +50,7 @@ Luxury meets sport in the Hamilton Khaki Navy Scuba Auto. Designed to be equally
 - Lug Distance: 22 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 ### Dial
 
@@ -124,7 +124,7 @@ The brushed stainless steel bracelet is an oyster bracelet, which contributes to
 
 The Hamilton Khaki Navy Scuba is a perfect dive watch for everyday use as well as for the wildest adventures. It perfectly and seamlessly combines a modern appearance with classic evergreen design elements. Hamilton has been very consistent with good quality, reliable timepieces and this watch is no exception. The H-10 automatic movement gives you an 80-hour power reserve, the scratch resistant sapphire crystal, and the brushed stainless steel case and bracelet make this watch a perfect everyday beater. Don’t forget, it’s a dive watch, so it will be a perfect companion for most occasions. The price of this watch is $995, and in our estimation that’s a very reasonable price point, we can only recommend it!
 
-[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -135,7 +135,7 @@ The Hamilton Khaki Navy Scuba is a perfect dive watch for everyday use as well a
 - Lug Distance: 22 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 ## Additional Designs
 
@@ -143,7 +143,7 @@ As we've mentioned, there are different size and color variations of the Khaki N
 
 ### Hamilton Khaki Navy Scuba, Automatic Movement, 43 mm
 
-[![Hamilton Khaki Navy Scuba auto black 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-17-at-9.42.04-PM-217x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-black-43/)
+[![Hamilton Khaki Navy Scuba auto black 43](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-17-at-9.42.04-PM-217x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82515130-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -154,7 +154,7 @@ As we've mentioned, there are different size and color variations of the Khaki N
 - Lug Distance: 22 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-black-43/) [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-Khaki-Navy-Scuba-Auto-White-43-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-white-43/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82515130-khaki-navy-scuba-auto.html) [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-Khaki-Navy-Scuba-Auto-White-43-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505150-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -165,12 +165,12 @@ As we've mentioned, there are different size and color variations of the Khaki N
 - Lug Distance: 22 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-white-43/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505150-khaki-navy-scuba-auto.html)
 
 ###   
 Hamilton Khaki Navy Scuba, Automatic Movement, 40 mm
 
-[![Hamilton Khaki Navy Scuba auto green 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-5.51.14-PM-220x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-green-40/)
+[![Hamilton Khaki Navy Scuba auto green 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-5.51.14-PM-220x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82375161-khaki-navy-auto.html)
 
 **Specs:**
 
@@ -181,7 +181,7 @@ Hamilton Khaki Navy Scuba, Automatic Movement, 40 mm
 - Lug Distance: 20 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-green-40/) [![Hamilton Khaki Navy Scuba auto blue 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-5.55.15-PM-209x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-blue-40/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82375161-khaki-navy-auto.html) [![Hamilton Khaki Navy Scuba auto blue 40](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-5.55.15-PM-209x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82345141-khaki-scuba.html)
 
 **Specs:**
 
@@ -192,12 +192,12 @@ Hamilton Khaki Navy Scuba, Automatic Movement, 40 mm
 - Lug Distance: 20 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto-blue-40/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82345141-khaki-scuba.html)
 
 ###   
 Hamilton Khaki Navy Scuba, Quartz Movement, 37 mm
 
-[![Hamilton Khaki Navy Scuba quartz grey 37 stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-7.12.47-PM-221x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37-stainless-steel/)
+[![Hamilton Khaki Navy Scuba quartz grey 37 stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-Screen-Shot-2022-05-19-at-7.12.47-PM-221x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211181-khaki-navy-scuba-quartz.html)
 
 **Specs:**
 
@@ -207,7 +207,7 @@ Hamilton Khaki Navy Scuba, Quartz Movement, 37 mm
 - Lug Distance: 18 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-quartz-grey-37-stainless-steel/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211181-khaki-navy-scuba-quartz.html)
 
 ## Other Watch Reviews
 

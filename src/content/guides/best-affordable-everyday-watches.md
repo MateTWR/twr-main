@@ -11,7 +11,7 @@ So you decided to embark upon a mission to find the perfect everyday, reliable t
 
 ## Dan Henry 1970 Automatic Diver Compressor
 
-[![Dan-Henry\_1970-Automatic-Diver Compressor](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry_1970-Automatic-Diver-Compressor-267x300.png/public)](https://www.thewatchresource.com/recommends/dan-henry-1970-automatic-diver/)
+[![Dan-Henry\_1970-Automatic-Diver Compressor](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry_1970-Automatic-Diver-Compressor-267x300.png/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1970-automatic-diver-watch&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-dive-watches%2F)
 
 **Specs:**
 
@@ -21,7 +21,7 @@ So you decided to embark upon a mission to find the perfect everyday, reliable t
 - Case Width: 40 mm
 - Water Resistance: 200 m
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1970-automatic-diver/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1970-automatic-diver-watch&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-dive-watches%2F)
 
 The Dan Henry 1970 is a limited edition timepiece–there are only 1970 pieces out there. It provides great legibility with large handset and indexes. There are different color combinations available, and all of them have great color contrast on the dial, making them highly visible at depths where light may be limited. The 1970 has a two crown design, the 2 o’clock crown operates the inner rotating bezel while the 4 o’clock crown adjusts the date and time. A unique choice, this is not a watch you will see on every corner.
 
@@ -42,7 +42,7 @@ The Corso by Citizen is made for the ultimate business man. Sleek, elegant, stra
 
 ## Seiko Essential SUR309
 
-[![Seiko\_Essential-sur309](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Seiko_Essential-sur309-196x300.png/public)](https://www.thewatchresource.com/recommends/seiko-sur309/)
+[![Seiko\_Essential-sur309](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Seiko_Essential-sur309-196x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fseiko-classic-watch-sur309p1.html)
 
 **Specs:**
 
@@ -51,13 +51,13 @@ The Corso by Citizen is made for the ultimate business man. Sleek, elegant, stra
 - Case Width: 40.2 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/seiko-sur309/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fseiko-classic-watch-sur309p1.html)
 
 Seiko’s SUR309 from their Essential collection is another straight to the point watch. It has a beautiful blue dial with sunray finish, the date calendar is positioned at 3 o’clock and the 40.2 mm case width makes it a comfortable wear for all wrist sizes. The stainless steel bracelet gives this watch a classic, elegant feel, and the water resistance ensures you can use it for sport activities as well. A great choice that will stand the test of time.
 
 ## Jowissa LeWy 3
 
-[![Jowissa\_LeWy-3](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Jowissa_LeWy-3-202x300.png/public)](https://www.thewatchresource.com/recommends/jowissa-lewy-3/)
+[![Jowissa\_LeWy-3](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Jowissa_LeWy-3-202x300.png/public)](https://shrsl.com/345t8)
 
 **Specs:**
 
@@ -66,7 +66,7 @@ Seiko’s SUR309 from their Essential collection is another straight to the poin
 - Lug Distance: 22 mm
 - Water Resistance: 50 m
 
-[Check Price](https://www.thewatchresource.com/recommends/jowissa-lewy-3/)
+[Check Price](https://shrsl.com/345t8)
 
 Jowissa’s LeWy 3 is quite simply a stunning play of hues and finishes. The brown leather strap and sable-brown dial pair beautifully with the rose gold elements. This watch is hand-assembled in Switzerland, uses a quartz movement and is offered at a great price point.
 

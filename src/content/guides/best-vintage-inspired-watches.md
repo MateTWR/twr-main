@@ -18,7 +18,7 @@ We have searched far and wide for the best vintage inspired designs on the marke
 
 ### Dan Henry 1975 Skin Diver
 
-[![Dan Henry 1975 Skin Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Dan-Henry-1975-Skin-Diver-267x300.webp/public)](https://www.thewatchresource.com/recommends/dan-henry-1975-skin-diver/)
+[![Dan Henry 1975 Skin Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Dan-Henry-1975-Skin-Diver-267x300.webp/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1975-skin-diver-watch)
 
 **Specs:**
 
@@ -29,13 +29,13 @@ We have searched far and wide for the best vintage inspired designs on the marke
 - Water Resistance: 150 m
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1975-skin-diver/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1975-skin-diver-watch)
 
 The Dan Henry 1975 is a '70s inspired skin diving watch that can be your everyday go-to timepiece. The vintage elements of the dial are made a bit more dynamic with the bright orange second hand. The reliable Miyota 9015 automatic movement provides 42 hours of power reserve, and the case at 39 mm width makes this a perfect fit for all wrist sizes. 
 
 ### UNDONE Urban Vintage Killy
 
-[![UNDONE Urban Vintage](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-list_killy_01_08Aug-240x300.png/public)](https://www.thewatchresource.com/recommends/undone-urban/)
+[![UNDONE Urban Vintage](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-10-list_killy_01_08Aug-240x300.png/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Furban-vintage-killy&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 **Specs:**
 
@@ -44,7 +44,7 @@ The Dan Henry 1975 is a '70s inspired skin diving watch that can be your everyda
 - Case Width: 40 mm
 - Price: Under $300
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-urban/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Furban-vintage-killy&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 The popular UNDONE Urban watches are custom-made vintage-inspired 40mm mecha-quartz timepieces.
 
@@ -54,7 +54,7 @@ A collection of classic dial designs, rich in complex features and textures and 
 
 ### Benrus Sea Lord Diver
 
-[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Benrus-Sea-Lord-Diver-236x300.png/public)](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Benrus-Sea-Lord-Diver-236x300.png/public)](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -65,7 +65,7 @@ A collection of classic dial designs, rich in complex features and textures and 
 - Lug Width: 20 mm
 - Price: Under $900
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 The [Benrus Sea Lord](https://www.thewatchresource.com/benrus-sea-lord-hands-on-review/) dive watch was one of the most popular Benrus watches back in the day, and deservedly so. Understated in its simplicity, the design highlights the classic features of a robust dive watch. The overall design makes this watch a versatile addition to a collection as it can easily be dressed up for more formal events, or down for more casual, sporty activities. In other words, it’s  a great everyday go-to watch. The 39 mm case width makes it perfectly comfortable for all wrist sizes. The wide baton hour and minute hands pair well with the understated features of the watch, while the black dial and the faux patina for the hour markers counterbalances the ruggedness and brings a touch of elegance. The Benrus Sea Lord comes with the Soprod P024 Swiss automatic movement, providing a 38-hour power reserve.
 
@@ -73,7 +73,7 @@ Read our [Benrus brand review](https://www.thewatchresource.com/benrus-watches-b
 
 ### Hamilton American Classic Pan Europ Day-Date Auto
 
-[![Hamilton-American\_Classic-Pan\_Europ](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton-American_Classic-Pan_Europ.png/public)](https://www.thewatchresource.com/recommends/hamilton-american-classic-pan-europ-day-date-auto/)
+[![Hamilton-American\_Classic-Pan\_Europ](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton-American_Classic-Pan_Europ.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh35405741-american-classic-pan-europ-day-date-auto.html)
 
 **Specs:**
 
@@ -84,13 +84,13 @@ Read our [Benrus brand review](https://www.thewatchresource.com/benrus-watches-b
 - Lug Distance: 22 mm
 - Price: Under $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-american-classic-pan-europ-day-date-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh35405741-american-classic-pan-europ-day-date-auto.html)
 
 The American Classic Pan Europ from Hamilton is an absolute _classic_, just like the name suggests. In the true American spirit, it fuses sophisticated design elements with robust practicality effortlessly, resulting in a timepiece that is not only reliable but sure to draw compliments as well. The NATO strap it comes with ensures it will sit on your wrist comfortably and securely, and due to its classic and sophisticated dial design, this watch can easily become your everyday favorite.
 
 ### Spinnaker Hull Diver (Cognac Brown)
 
-[![Spinnaker\_Hull-Diver-Cognac-Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Diver-Cognac-Brown-300x300.jpg/public)](https://www.thewatchresource.com/recommends/spinnaker-hull-diver-cognac-brown/)
+[![Spinnaker\_Hull-Diver-Cognac-Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Diver-Cognac-Brown-300x300.jpg/public)](https://solartimeltd.pxf.io/kOVRxV)
 
 **Specs:**
 
@@ -101,7 +101,7 @@ The American Classic Pan Europ from Hamilton is an absolute _classic_, just like
 - Water Resistance: 300 m
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-hull-diver-cognac-brown/)
+[Check Price](https://solartimeltd.pxf.io/kOVRxV)
 
 The Spinnaker Hull Diver does a beautiful job of fusing vintage elements with modern edge, resulting in this eye-catching dive watch that is sure to attract compliments. The deep brown color of the dial and bezel is cleverly contrasted with a brushed stainless steel case with softly rounded corners. The reliable NH35 automatic movement and the mesmerizing sweeping second hand will keep you punctual, while the watch itself is guaranteed to keep you stylish.
 
@@ -109,7 +109,7 @@ _Read more about [Spinnaker watches](https://www.thewatchresource.com/spinnaker-
 
 ### Oris Big Crown Pointer Date
 
-[![Oris Big Crown Pointer Date 01 754 7749 3167-07 5 17 69GBR](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Oris-Big-Crown-Pointer-Date-01-754-7749-3167-07-5-17-69GBR-244x300.png/public)](https://www.thewatchresource.com/recommends/oris-big-crown-pointer-date/)
+[![Oris Big Crown Pointer Date 01 754 7749 3167-07 5 17 69GBR](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Oris-Big-Crown-Pointer-Date-01-754-7749-3167-07-5-17-69GBR-244x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-big-crown-pointer-date-automatic-green-dial-mens-watch-01-754-7749-3167-07-5-17-69gbr.html)
 
 **Specs:**
 
@@ -119,7 +119,7 @@ _Read more about [Spinnaker watches](https://www.thewatchresource.com/spinnaker-
 - Case Width: 36 mm
 - Price: Around $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/oris-big-crown-pointer-date/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-big-crown-pointer-date-automatic-green-dial-mens-watch-01-754-7749-3167-07-5-17-69gbr.html)
 
 Ready for something special? A warm-toned masterpiece. Oris came out with a green dial version of their Big Crown Pointer Date classic timepiece, which pairs beautifully with the bronze case. Not something you see every day, be ready for compliments when wearing this eye-catcher. This classic is sure to withstand the test of time. 
 
@@ -143,7 +143,7 @@ PRX is an acronym for Precise, Robust, X for water resistant up to 10 bars (100 
 
 ### Shinola The Runwell Chrono 41 mm
 
-[![Shinola\_runwell-chrono-41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Shinola_runwell-chrono-41-300x300.png/public)](https://www.thewatchresource.com/recommends/shinola-the-runwell-chrono-41-mm/)
+[![Shinola\_runwell-chrono-41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Shinola_runwell-chrono-41-300x300.png/public)](https://partners.shinola.com/ORxN6N)
 
 **Specs:**
 
@@ -152,13 +152,13 @@ PRX is an acronym for Precise, Robust, X for water resistant up to 10 bars (100 
 - Case Width: 41 mm
 - Price: Under $800
 
-[Check Price](https://www.thewatchresource.com/recommends/shinola-the-runwell-chrono-41-mm/)
+[Check Price](https://partners.shinola.com/ORxN6N)
 
 Shinola watches are hand-assembled in Detroit, and the 41 mm Runwell Chrono brings us a  classic looking watch with a modern twist: the signature Arabic numerals and 2 sub-dials. The stainless steel case, blue dial and brown leather strap combination adds visual appeal and the result is a reliable, comfortable, and stylish timepiece that can be your new best friend for almost all occasions.
 
 ### Hamilton American Classic INTRA-MATIC
 
-[![Hamilton Intra-Matic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-08-Screen-Shot-2022-08-31-at-4.23.30-PM-294x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-intra-matic/)
+[![Hamilton Intra-Matic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-08-Screen-Shot-2022-08-31-at-4.23.30-PM-294x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)
 
 **Specs:**
 
@@ -168,13 +168,13 @@ Shinola watches are hand-assembled in Detroit, and the 41 mm Runwell Chrono brin
 - Case Width: 40 mm
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-intra-matic/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)
 
 The [Hamilton Intra-Matic Auto Chrono](https://www.thewatchresource.com/hamilton-intra-matic-auto-chrono-review/) is a new recreation of a 1968 signature timepiece that delivers a sporty yet timeless design. With its characteristic panda dial and true 1960s charm, the H-31 automatic watch is a surefire eye-catcher. It's a great watch for classic car enthusiasts as well as the tachymeter on the bezel and long seconds hand make you feel like you're looking at a dashboard of a racing car, already visualizing the checkered flag.
 
 ### Tag Heuer Monaco
 
-[![TAG Heuer Monaco CBL2111.FC6453](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-TAG-Heuer-Monaco-CBL2111.FC6453-244x300.png/public)](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[![TAG Heuer Monaco CBL2111.FC6453](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-TAG-Heuer-Monaco-CBL2111.FC6453-244x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 **Specs:**
 
@@ -185,13 +185,13 @@ The [Hamilton Intra-Matic Auto Chrono](https://www.thewatchresource.com/hamilton
 - Lug Distance: 22 mm
 - Price: $5,000 - $6,500
 
-[Check Price](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 The Monaco from Tag Heuer was one of the first automatic chronographs ever created, and it became an absolute favorite after the “King of Cool”, Steve McQueen wore the Heuer Monaco on his wrist in 1971 in Le Mans. This watch is an absolute classic and due to the bold geometries, we have a beautiful balance of vintage and contemporary.
 
 ### Longines Heritage Avigation
 
-[![Longines Heritage Avigation](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-Screen-Shot-2021-12-28-at-6.51.00-PM-213x300.png/public)](https://www.thewatchresource.com/recommends/longines-heritage-avigation/)
+[![Longines Heritage Avigation](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-Screen-Shot-2021-12-28-at-6.51.00-PM-213x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l28164532.html)
 
 **Specs:**
 
@@ -201,13 +201,13 @@ The Monaco from Tag Heuer was one of the first automatic chronographs ever creat
 - Case Width: 41 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-heritage-avigation/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l28164532.html)
 
 Longines has maintained a tight and long-standing relationship with the aviation industry. During the first part of the twentieth century, the brand manufactured a huge number of pilot's watches and chronographs, on-board equipment, and other navigation devices that assisted the growth of civil and military aviation. Longines is bringing this thrilling history back to life with their "Heritage Aviation" collection of timepieces. This timepiece definitely has an antique feel that guarantees an evergreen classic look. A great choice!
 
 ### Hamilton Khaki Field Murph – The Interstellar watch
 
-[![Hamilton\_khaki\_field\_interstellar\_watch](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki_field_interstellar_watch-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[![Hamilton\_khaki\_field\_interstellar\_watch](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki_field_interstellar_watch-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 **Specs:**
 
@@ -217,7 +217,7 @@ Longines has maintained a tight and long-standing relationship with the aviation
 - Case Width: 42 mm
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 We had to include this one from Hamilton. Not just any watch, mind you. This is the watch that saved the world in the movie ‘Interstellar’. The beautiful Hamilton classic that Coop (Matthew McConaughey) left for his daughter before departing on his mission to the stars. The watch was then used as a tool to communicate coordinates in Morse code from another dimension, enabling Murph Cooper (the daughter) to complete an equation and therefore save  humanity from complete destruction. As a well-deserved nod to the movie, the word “Eureka” is printed on the seconds hand in Morse code in lacquer. A great watch with an awesome background story? YES please. 
 
@@ -225,7 +225,7 @@ _The Hamilton Khaki Field Murph is part of the [Khaki Field collection.](https:/
 
 ### Bell & Ross BR05
 
-[![bell-and-ross-br05](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-bell-and-ross-br05.jpeg/public)](https://www.thewatchresource.com/recommends/bell-ross-br05/)
+[![bell-and-ross-br05](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-bell-and-ross-br05.jpeg/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-bl-st-sst.html)
 
 **Specs:**
 
@@ -236,13 +236,13 @@ _The Hamilton Khaki Field Murph is part of the [Khaki Field collection.](https:/
 - Water Resistance: 100 m
 - Price: Around $4,000
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-br05/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-bl-st-sst.html)
 
 The Bell & Ross BR05, which was unveiled in 2019, is the company's response to iconic integrated-bracelet sport watch models like the Audemars Piguet Royal Oak and the Patek Philippe Nautilus. Bell & Ross have done well to give the BR05 its own appearance and feel, making full use of B&R's trademark square case design. The BR05 showcases what Bell & Ross can offer to the market with its own iconic design of the square case and large aviation numeral dial, making it an ideal everyday sports watch that doesn't break the bank in today's ever-growing market and price for sports watch.
 
 ### Omega Seamaster Railmaster
 
-[![omega-seamaster-railmaster-22010402001001-l](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-omega-seamaster-railmaster-22010402001001-l-218x300.png/public)](https://www.thewatchresource.com/recommends/omega-seamaster-railmaster/)
+[![omega-seamaster-railmaster-22010402001001-l](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-omega-seamaster-railmaster-22010402001001-l-218x300.png/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-watch-220-10-40-20-01-001.html)
 
 **Specs:**
 
@@ -253,7 +253,7 @@ The Bell & Ross BR05, which was unveiled in 2019, is the company's response to i
 - Water Resistance: 150 m
 - Price: Around $4,000
 
-[Check Price](https://www.thewatchresource.com/recommends/omega-seamaster-railmaster/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-watch-220-10-40-20-01-001.html)
 
 A functional yet stylish anti-magnetic watch, the original OMEGA Railmaster was created in 1957 for railroad employees, or anybody else who frequently came into contact with electrical fields. These days, its inventiveness and industrial spirit have been modernized for a contemporary collection.
 

@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/92013ea4-cbe2-4e03-
 
 When it comes to Laco, we instantly think of their classic Flieger watch designs, as they play an essential part in the brand heritage. While these pilot watches are true and cherished classics, what we love about Laco is their commitment to creating new designs while maintaining the quality they are known for. In this review, we are taking a closer look at their modern Squad Watches / Sport watches collection.
 
-[![Laco Atlantik 42 MB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Atlantik-42-MB-qdf4hz0yyytqeo6h35f4m1w304ctzjzrsm43e7ig18.webp/public "Laco Atlantik 42 MB")](https://www.thewatchresource.com/recommends/laco-atlantik-42-mb/)
+[![Laco Atlantik 42 MB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Atlantik-42-MB-qdf4hz0yyytqeo6h35f4m1w304ctzjzrsm43e7ig18.webp/public "Laco Atlantik 42 MB")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fatlantik-42-mb)
 
 **Specs:**
 
@@ -20,7 +20,7 @@ When it comes to Laco, we instantly think of their classic Flieger watch designs
 - Lug Distance: 20 mm
 - Price: Around $1,200
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-atlantik-42-mb/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fatlantik-42-mb)
 
 ## Laco: The Brand
 
@@ -39,7 +39,7 @@ Overall, the Laco Squad is a very masculine-looking watch, featuring a classic a
 - Atlantik
 - Mojave
 
-[![Laco Himalaya 42 mb](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Himalaya-42-mb-qdf4ijpf5bm1i3cfqecx4wo82liwow9v7ggryans8c.webp/public "Laco Himalaya 42 mb")](https://www.thewatchresource.com/recommends/laco-himalaya-42-mb/)
+[![Laco Himalaya 42 mb](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Himalaya-42-mb-qdf4ijpf5bm1i3cfqecx4wo82liwow9v7ggryans8c.webp/public "Laco Himalaya 42 mb")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fsquad-watch-himalaya1)
 
 **Specs:**
 
@@ -51,7 +51,7 @@ Overall, the Laco Squad is a very masculine-looking watch, featuring a classic a
 - Lug Distance: 20 mm
 - Price: Around $1,200
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-himalaya-42-mb/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fsquad-watch-himalaya1)
 
 ### Dial
 
@@ -106,7 +106,7 @@ Laco watches have consistently prioritized quality, durability, while maintainin
 
 The Squad watches bring fresh design solutions combining vibrant pops of color with a sturdy, masculine look. Laco is getting a lot of attention and love from watch enthusiasts but we think they might be somewhat of an overlooked brand, definitely worth checking out.
 
-[![Laco Amazonas 42 MB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Amazonas-42-MB-qdf4kj55kqbu0ggo598keen97vqsxw5gta1ofbpv3g.webp/public "Laco Amazonas 42 MB")](https://www.thewatchresource.com/recommends/laco-amazonas-42-mb/)
+[![Laco Amazonas 42 MB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Amazonas-42-MB-qdf4kj55kqbu0ggo598keen97vqsxw5gta1ofbpv3g.webp/public "Laco Amazonas 42 MB")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Famazonas-42-mb)
 
 **Specs:**
 
@@ -118,7 +118,7 @@ The Squad watches bring fresh design solutions combining vibrant pops of color w
 - Lug Distance: 20 mm
 - Price: Around $1,200
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-amazonas-42-mb/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Famazonas-42-mb)
 
 ## All Variations of the Laco Squad Watches
 
@@ -126,7 +126,7 @@ If you like the overall design the the Laco Squad watches, and looking for the p
 
 ### Laco Atlantik 42 MB
 
-[![Laco Atlantik 42 MB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Atlantik-42-MB-qdf4hz0yyytqeo6h35f4m1w304ctzjzrsm43e7ig18.webp/public "Laco Atlantik 42 MB")](https://www.thewatchresource.com/recommends/laco-atlantik-42-mb/)
+[![Laco Atlantik 42 MB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Atlantik-42-MB-qdf4hz0yyytqeo6h35f4m1w304ctzjzrsm43e7ig18.webp/public "Laco Atlantik 42 MB")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fatlantik-42-mb)
 
 **Specs:**
 
@@ -138,11 +138,11 @@ If you like the overall design the the Laco Squad watches, and looking for the p
 - Lug Distance: 20 mm
 - Price: Around $1,200
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-atlantik-42-mb/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fatlantik-42-mb)
 
 ### Laco Amazonas 42 MB
 
-[![Laco Amazonas 42 MB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Amazonas-42-MB-qdf4kj55kqbu0ggo598keen97vqsxw5gta1ofbpv3g.webp/public "Laco Amazonas 42 MB")](https://www.thewatchresource.com/recommends/laco-amazonas-42-mb/)
+[![Laco Amazonas 42 MB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Amazonas-42-MB-qdf4kj55kqbu0ggo598keen97vqsxw5gta1ofbpv3g.webp/public "Laco Amazonas 42 MB")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Famazonas-42-mb)
 
 **Specs:**
 
@@ -154,11 +154,11 @@ If you like the overall design the the Laco Squad watches, and looking for the p
 - Lug Distance: 20 mm
 - Price: Around $1,200
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-amazonas-42-mb/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Famazonas-42-mb)
 
 ### Laco Himalaya 42 MB
 
-[![Laco Himalaya 42 mb](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Himalaya-42-mb-qdf4ijpf5bm1i3cfqecx4wo82liwow9v7ggryans8c.webp/public "Laco Himalaya 42 mb")](https://www.thewatchresource.com/recommends/laco-himalaya-42-mb/)
+[![Laco Himalaya 42 mb](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Himalaya-42-mb-qdf4ijpf5bm1i3cfqecx4wo82liwow9v7ggryans8c.webp/public "Laco Himalaya 42 mb")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fsquad-watch-himalaya1)
 
 **Specs:**
 
@@ -170,11 +170,11 @@ If you like the overall design the the Laco Squad watches, and looking for the p
 - Lug Distance: 20 mm
 - Price: Around $1,200
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-himalaya-42-mb/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fsquad-watch-himalaya1)
 
 ### Laco Mojave 42 MB
 
-[![Laco Mojave 42 mb](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Mojave-42-mb-qdf4m96i3sorapyk301xyyzofb911wzr1t3q3l5vos.webp/public "Laco Mojave 42 mb")](https://www.thewatchresource.com/recommends/laco-mojave-42-mb/)
+[![Laco Mojave 42 mb](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Mojave-42-mb-qdf4m96i3sorapyk301xyyzofb911wzr1t3q3l5vos.webp/public "Laco Mojave 42 mb")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fmojave-42-mb)
 
 **Specs:**
 
@@ -186,7 +186,7 @@ If you like the overall design the the Laco Squad watches, and looking for the p
 - Lug Distance: 20 mm
 - Price: Around $1,200
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-mojave-42-mb/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fmojave-42-mb)
 
 ## Other Watch Reviews
 

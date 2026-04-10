@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8ac414a6-abdb-4eb4-
 
 When selecting a watch for review, we pay close attention to several different factors, such as the aesthetics, design intricacies, functionality, and, most importantly, overall value. Our primary focus is to uncover unique timepieces that possess certain qualities that set them apart. We are excited to dive deeper into interesting timepieces we find, and without further ado, let’s take a look at the VAER S3.
 
-[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://vaer-watches.sjv.io/9gZOqj)
 
 **Specs:**
 
@@ -19,7 +19,7 @@ When selecting a watch for review, we pay close attention to several different f
 - Lug Distance: 20 mm
 - Price: Around $100
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[Check Price](https://vaer-watches.sjv.io/9gZOqj)
 
 ## VAER: The Brand
 
@@ -33,7 +33,7 @@ The VAER S3 Tradition has the look of a classic expedition watch. This style is 
 
 The VAER S3 Tradition stays true to its name, as there are several features the vintage watch enthusiasts will love. The width of the case is 36 mm, and the lug-to-lug distance is 43 mm. Additionally, the dial’s hour and minute indices are coated with Old Radium SuperLuminova, creating an exciting aged look.
 
-[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://vaer-watches.sjv.io/9gZOqj)
 
 **Specs:**
 
@@ -44,7 +44,7 @@ The VAER S3 Tradition stays true to its name, as there are several features the 
 - Lug Distance: 20 mm
 - Price: Around $100
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[Check Price](https://vaer-watches.sjv.io/9gZOqj)
 
 ### Dial
 
@@ -101,7 +101,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 The VAER S3 Tradition is a dressy tool watch at an excellent price point. It is not bulky, nor flashy. The 3-hand simplicity, comfortable and elegant size all make this watch a perfect everyday piece. The syringe hands, the faux patina and the smaller size all make this watch a great option for people with a preference for vintage-inspired timepieces. Its reliable Miyota 2035 quartz movement provides approximately 40 months of batter life. Last but certainly not least, while still a new brand, they already had a significant impact on American watchmaking, and we wholeheartedly support their efforts!
 
-[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://vaer-watches.sjv.io/9gZOqj)
 
 **Specs:**
 
@@ -112,7 +112,7 @@ The VAER S3 Tradition is a dressy tool watch at an excellent price point. It is 
 - Lug Distance: 20 mm
 - Price: Around $100
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[Check Price](https://vaer-watches.sjv.io/9gZOqj)
 
 ## Other Watch Reviews
 

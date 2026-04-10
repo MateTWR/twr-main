@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/16b7df32-2872-431e-
 
 On our journey to bring you watches with truly unique design and a character of their own, we present an absolute gem, the Bell & Ross BR 05 Grey Steel. Square case, monochrome design, integrated bracelet - while this combination might be divisive, we think there is a lot to unpack here, and we’re excited to share our thoughts with you!
 
-[![Bell & Ross BR 05 Grey Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Bell-Ross-BR-05-Grey-Steel-167x300.png/public)](https://www.thewatchresource.com/recommends/bell-ross-br-05-grey-steel/)
+[![Bell & Ross BR 05 Grey Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Bell-Ross-BR-05-Grey-Steel-167x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-gr-st-sst.html)
 
 **Specs:** 
 
@@ -18,7 +18,7 @@ On our journey to bring you watches with truly unique design and a character of 
 - Case Width: 40 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-br-05-grey-steel/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-gr-st-sst.html)
 
 ## Bell & Ross: The Brand
 
@@ -44,7 +44,7 @@ The Bell & Ross BR 05 Grey Steel (BR05A-GR-ST/SST) is a timepiece that can be re
 
 At first glance, this is a very masculine watch due to its angular design and the satin-finished surfaces that are perfectly flat. The case width is 40 mm, which is a perfect size for a statement piece. After further inspection, we can see how this timepiece has perfectly calculated details that all work together to create a remarkable watch that could rest on your wrist in the most natural way.
 
-[![Bell & Ross BR 05 Grey Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Bell-Ross-BR-05-Grey-Steel-167x300.png/public)](https://www.thewatchresource.com/recommends/bell-ross-br-05-grey-steel/)
+[![Bell & Ross BR 05 Grey Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Bell-Ross-BR-05-Grey-Steel-167x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-gr-st-sst.html)
 
 **Specs:** 
 
@@ -54,7 +54,7 @@ At first glance, this is a very masculine watch due to its angular design and th
 - Case Width: 40 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-br-05-grey-steel/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-gr-st-sst.html)
 
 ### Dial
 
@@ -107,7 +107,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 The Bell & Ross BR 05 Grey Steel (BR05A-GR-ST/SST) is a character of its own that delivers a modern and unique, yet timeless design. The 40 mm case width, the monochrome design, the combination of brushed and polished stainless steel make this watch a perfect choice as an everyday go-to timepiece that can perform well in more formal situations as well. The automatic movement (BR.CAL.321. caliber) provides a 38-hour power reserve. This watch is a statement timepiece, and in our opinion, a distinguished addition to any watch collection.
 
-[![Bell & Ross BR 05 Grey Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Bell-Ross-BR-05-Grey-Steel-167x300.png/public)](https://www.thewatchresource.com/recommends/bell-ross-br-05-grey-steel/)
+[![Bell & Ross BR 05 Grey Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Bell-Ross-BR-05-Grey-Steel-167x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-gr-st-sst.html)
 
 **Specs:** 
 
@@ -117,7 +117,7 @@ The Bell & Ross BR 05 Grey Steel (BR05A-GR-ST/SST) is a character of its own tha
 - Case Width: 40 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-br-05-grey-steel/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-gr-st-sst.html)
 
 ## Other Watch Reviews
 

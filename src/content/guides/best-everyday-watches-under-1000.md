@@ -34,7 +34,7 @@ The Marine Classic 36's design is both timeless and versatile. The hand-stitched
 
 ## Sternglas Marus
 
-[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Sternglas_marus-300x300.jpg/public)](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Sternglas_marus-300x300.jpg/public)](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 **Specs:**
 
@@ -43,13 +43,13 @@ The Marine Classic 36's design is both timeless and versatile. The hand-stitched
 - Power Reserve: 42 hours
 - Case Width: 42 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 The [Marus by Sternglas](https://www.thewatchresource.com/sternglas-marus-black-review/) is inspired by classic diving watches but with a minimalist, modern look.  With the classic and clean looking black and stainless steel combination, you never have to worry about not being on trend. The domed sapphire glass has a double anti-reflective coating and is scratch-resistant. We love the minimalist look of the steel bracelet as well, and as a bonus, this watch is water resistant for up to 200 meters, so you have all your bases covered.
 
 ## Victorinox Alliance Mechanical
 
-[![Victorinox\_Alliance\_mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox_Alliance_mechanical-300x263.png/public)](https://www.thewatchresource.com/recommends/victorinox-alliance-mechanical/)
+[![Victorinox\_Alliance\_mechanical](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Victorinox_Alliance_mechanical-300x263.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance-Mechanical%2Fp%2F241898)
 
 **Specs:**
 
@@ -59,13 +59,13 @@ The [Marus by Sternglas](https://www.thewatchresource.com/sternglas-marus-black-
 - Case Width: 40 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-alliance-mechanical/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.swissarmy.com%2Fus%2Fen%2FProducts%2FWatches%2FMen%2527s-Watches%2FAlliance-Mechanical%2Fp%2F241898)
 
 If you are a fan of classic watch designs and good movements, you’ll love the [Victorinox](https://www.thewatchresource.com/brand-reviews/victorinox-review/) [Alliance Mechanical](https://www.thewatchresource.com/victorinox-alliance-collection-review/). The true timeless look is paired with the ETA 2892 automatic movement, providing a 42 hour power reserve. The exhibition case back provides a sneak peek into the inner workings of the movement, and the calendar window is placed at the 6 o’clock position on the dial–giving it a well balanced look that is very pleasing to the eye. It’s quite simply the whole package, a choice you will not come to regret.
 
 ## Hamilton Khaki Field – The Interstellar watch
 
-[![Hamilton\_khaki\_field\_interstellar\_watch](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki_field_interstellar_watch-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[![Hamilton\_khaki\_field\_interstellar\_watch](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki_field_interstellar_watch-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 **Specs:**
 
@@ -75,13 +75,13 @@ If you are a fan of classic watch designs and good movements, you’ll love the 
 - Case Width: 42 mm
 - Lug Distance: 22 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 This is a very popular watch from [Hamilton](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/). Not just any watch, mind you. This is the [Hamilton Khaki Field](https://www.thewatchresource.com/hamilton-khaki-field-collection-review/) Murph, the watch that saved the world in the movie ‘Interstellar’. The beautiful Hamilton classic that Coop (Matthew McConaughey) left for his daughter before departing on his mission to the stars. The watch was then used as a tool to communicate coordinates in Morse code from another dimension, enabling Murph Cooper (the daughter) to complete an equation and therefore save  humanity from complete destruction. As a well-deserved nod to the movie, the word “Eureka” is printed on the seconds hand in Morse code in lacquer. A great watch with an awesome background story? YES please.  
 
 ## Tissot Heritage Visodate Powermatic 80
 
-[![Tissot Heritage Visodate Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-Screen-Shot-2021-12-05-at-7.32.24-PM-190x300.png/public)](https://www.thewatchresource.com/recommends/tissot-heritage-visodate-blue/)
+[![Tissot Heritage Visodate Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-Screen-Shot-2021-12-05-at-7.32.24-PM-190x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-watch-t0194301104100.html)
 
 **Specs:**
 
@@ -90,13 +90,13 @@ This is a very popular watch from [Hamilton](https://www.thewatchresource.com/ha
 - Power Reserve: 80 hours
 - Case Diameter: 42 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-heritage-visodate-blue/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-watch-t0194301104100.html)
 
 This beauty by Tissot was inspired by the Visodate Collection from the ‘50s. It merges the classic look with modern elements perfectly, making it a great choice for you as well as an heirloom for next generations.  The Powermatic 80 automatic movement will give you up to 80 hours (!) power reserve. A real gentleman’s everyday watch.
 
 ## Longines HydroQuest
 
-[![Longines\_hydroconquest](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Longines_hydroconquest-300x300.png/public)](https://www.thewatchresource.com/recommends/longines-hydroconquest/)
+[![Longines\_hydroconquest](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Longines_hydroconquest-300x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-hydroconquest-automatic-blue-dial-mens-watch-l3-782-4-96-6.html)
 
 **Specs:**
 
@@ -106,13 +106,13 @@ This beauty by Tissot was inspired by the Visodate Collection from the ‘50s. I
 - Case Width: 43 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-hydroconquest/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-hydroconquest-automatic-blue-dial-mens-watch-l3-782-4-96-6.html)
 
 One word: classy. The Longines HydroConquest strikes a perfect balance between elegance and active lifestyle. The 41 mm case diameter makes it a great size for all wrists, and you can wear this classic design to a wide range of occasions, from a date night at a restaurant to a diving expedition. All around a great pick that will last you a lifetime.
 
 ## Shinola The Runwell Chrono 41 mm
 
-[![Shinola\_runwell-chrono-41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Shinola_runwell-chrono-41-300x300.png/public)](https://www.thewatchresource.com/recommends/shinola-the-runwell-chrono-41-mm/)
+[![Shinola\_runwell-chrono-41](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Shinola_runwell-chrono-41-300x300.png/public)](https://partners.shinola.com/ORxN6N)
 
 **Specs:**
 
@@ -121,13 +121,13 @@ One word: classy. The Longines HydroConquest strikes a perfect balance between e
 - Case Width: 41 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/shinola-the-runwell-chrono-41-mm/)
+[Check Price](https://partners.shinola.com/ORxN6N)
 
 Shinola watches are hand-assembled in Detroit, and the 41 mm Runwell Chrono brings us a  classic looking watch with a modern twist: the signature Arabic numerals and 2 sub-dials. The stainless steel case, blue dial and brown leather strap combination adds visual appeal and the result is a reliable, comfortable, and stylish timepiece that can be your new best friend for almost all occasions.
 
 ## Raymond Weil Freelancer​
 
-[![Raymond Weil Freelancer](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Raymond-Weil-Freelancer-182x300.webp/public)](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-stainless-steel-black-dial/)
+[![Raymond Weil Freelancer](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Raymond-Weil-Freelancer-182x300.webp/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fraymond-weil-watch-2760-st1-20001.html%23)
 
 **Specs:** 
 
@@ -137,13 +137,13 @@ Shinola watches are hand-assembled in Detroit, and the 41 mm Runwell Chrono brin
 - Case Width: 43 mm
 - Lug Distance: 21 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-stainless-steel-black-dial/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fraymond-weil-watch-2760-st1-20001.html%23)
 
 The Freelancer collection by Raymond Weil is one of the most well known collections, and rightly so. Our pick here is a perfectly sized 42.5 mm case diameter, making it a great fit for all wrist sizes. The classic design ensures an evergreen appearance for virtually all situations. Can't go wrong with this one!
 
 ## Certina DS Action GMT
 
-[![Certina DS Action GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Certina-DS-Action-GMT-188x300.png/public)](https://www.thewatchresource.com/recommends/certina-ds-action-gmt/)
+[![Certina DS Action GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Certina-DS-Action-GMT-188x300.png/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcertina-watch-c032-429-38-051-00.html)
 
 **Specs:**
 
@@ -154,7 +154,7 @@ The Freelancer collection by Raymond Weil is one of the most well known collecti
 - Lug Width: 21 mm
 - Water Resistance: 200 m
 
-[Check Price](https://www.thewatchresource.com/recommends/certina-ds-action-gmt/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcertina-watch-c032-429-38-051-00.html)
 
 The incredibly durable DS Action GMT Automatic is the ideal travel companion since it is renowned for accuracy and exceptional toughness. The GMT hand  doesn't take the attention away from the overall design, yet remains highly visible, so it's easy to track time in a second time zone. The 80-hour power reserve is as impressive as the black and dark green combination, which makes the Certina DS Action GMT a very unique watch.
 

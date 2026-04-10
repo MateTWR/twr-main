@@ -12,7 +12,7 @@ Vero Watch Company has teamed up with Scout Motors to create the Workhorse Chron
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
 
- [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public)](https://www.thewatchresource.com/recommends/vero-scout-motors-workhorse-chrono/)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public)](https://www.thewatchresource.com/recommends/vero-scout-motors-workhorse-chrono/)
+ [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)
 
 **Specs:**
 
@@ -22,7 +22,7 @@ Vero Watch Company has teamed up with Scout Motors to create the Workhorse Chron
 - Lug-to-Lug Distance: 49.5 mm
 - Price: $450
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-scout-motors-workhorse-chrono/)
+[Check Price](https://verowatch.pxf.io/WybXKA)
 
 ### Design & Build
 
@@ -71,7 +71,7 @@ The Terra Cotta Workhorse is the wilder counterpart, showcasing a vibrant, earth
 
 **Cons:** Such a bright orange watch can be polarizing – it won’t suit every occasion or every outfit. The Terra Cotta is definitively a weekender/field watch in style; if you’re looking for one do-it-all watch, this colorway might clash in more formal or subdued settings. Its extreme limited status (150 pieces) is a double-edged sword – while it’s exciting for those who snag one, it may be frustrating for fans who prefer this version but find it sold out quickly. Additionally, down the line the Terra Cotta edition could command higher prices on the secondary market due to scarcity. Finally, the very traits that make it cool – the attention-grabbing color and chunky build – also mean it demands attention on your wrist, which not everyone will want all the time.
 
- [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public)](https://www.thewatchresource.com/recommends/vero-scout-motors-workhorse-chrono/)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public)](https://www.thewatchresource.com/recommends/vero-scout-motors-workhorse-chrono/)
+ [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)
 
 **Specs:**
 
@@ -81,7 +81,7 @@ The Terra Cotta Workhorse is the wilder counterpart, showcasing a vibrant, earth
 - Lug-to-Lug Distance: 49.5 mm
 - Price: $450
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-scout-motors-workhorse-chrono/)
+[Check Price](https://verowatch.pxf.io/WybXKA)
 
 ## Takeaway and Final Thoughts about the Vero X Scout Motors Workhorse Chronograph
 
@@ -89,7 +89,7 @@ The Vero X Scout Motors Workhorse Chronograph is a compelling blend of automotiv
 
 That said, potential buyers should consider the wrist size and aesthetic: at 44.5 mm, the Workhorse Chrono wears proudly and won’t hide under a cuff, and its design unabashedly favors casual adventure settings. If you have a smaller wrist or need a watch that transitions to business attire, this isn’t the most versatile choice. But for those who love the outdoors, appreciate a bit of vintage American automotive lore, or just want a watch that breaks the mold, the Workhorse delivers. With a price of $450, it offers a lot of functionality and a decade of guaranteed worry-free use under Vero’s warranty. Between the two versions, Moonstone Blue will appeal to the enthusiast who prefers a classic look with a twist, whereas Terra Cotta is perfect for someone who wants their watch to be bold and fun. In the end, both editions capture the collaborative spirit of Vero and Scout Motors – heritage colors, rugged engineering, and a shared love of adventure – making the Workhorse Chrono a unique and worthy addition to any watch collection.
 
- [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public)](https://www.thewatchresource.com/recommends/vero-scout-motors-workhorse-chrono/)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public)](https://www.thewatchresource.com/recommends/vero-scout-motors-workhorse-chrono/)
+ [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)
 
 **Specs:**
 
@@ -99,7 +99,7 @@ That said, potential buyers should consider the wrist size and aesthetic: at 44.
 - Lug-to-Lug Distance: 49.5 mm
 - Price: $450
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-scout-motors-workhorse-chrono/)
+[Check Price](https://verowatch.pxf.io/WybXKA)
 
 ## Other Watch Reviews
 

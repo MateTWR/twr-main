@@ -46,19 +46,19 @@ See examples below:
 - The first picture features the NATO strap and green dial, and is for a more active, adventure filled lifestyle. Alternatively, it pairs well with any casual outfit and is great for a variety of daytime events.
 - The second option with the stainless steel bracelet and black dial could function as your everyday watch, but it can also be dressed up and looks just as impressive paired with a suit.
 
-[![Hamilton Khaki Field Quartz 38 mm](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-08-at-9.34.19-PM-pojg4kost436lrjks2qsxldcngs0b5l7h7dsbdqw28.png/public "Hamilton Khaki Field Quartz 38 mm")](https://www.thewatchresource.com/recommends/hamilton-khaki-field-quartz-38/)
+[![Hamilton Khaki Field Quartz 38 mm](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-08-at-9.34.19-PM-pojg4kost436lrjks2qsxldcngs0b5l7h7dsbdqw28.png/public "Hamilton Khaki Field Quartz 38 mm")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68201063-khaki-field-quartz.html)
 
 [Movement: Quartz  
   
-Diameter: 38 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-field-quartz-38/)
+Diameter: 38 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68201063-khaki-field-quartz.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-field-quartz-38/) [![Hamilton Khaki Field Quartz 38 Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-09-at-7.17.53-PM-pol0u2ds7eqicy5vwisqcfhr6eiy1i62tne7e6t234.png/public "Hamilton Khaki Field Quartz 38 Stainless Steel")](https://www.thewatchresource.com/recommends/hamilton-khaki-field-quartz-38-stainless-steel/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68201063-khaki-field-quartz.html) [![Hamilton Khaki Field Quartz 38 Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-09-at-7.17.53-PM-pol0u2ds7eqicy5vwisqcfhr6eiy1i62tne7e6t234.png/public "Hamilton Khaki Field Quartz 38 Stainless Steel")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68551933-khaki-field-quartz.html)
 
 [Movement: Quartz  
   
-Diameter: 38 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-field-quartz-38-stainless-steel/)
+Diameter: 38 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68551933-khaki-field-quartz.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-field-quartz-38-stainless-steel/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68551933-khaki-field-quartz.html)
 
 ### Hamilton Khaki Field: Mechanical Movement, 38 mm & 42 mm
 
@@ -77,31 +77,31 @@ Our picks for the mechanical movement options in order:
 - Stainless steel bracelet with black dial and 42 mm
     - Great as an everyday watch, and it could be dressed up.
 
-[![Hamilton Khaki Field Mechanical 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-09-at-7.46.29-PM-pol22vctz42jrt2y9w0j74gqjlosy41gzevex0dhhs.png/public "Hamilton Khaki Field Mechanical 42")](https://www.thewatchresource.com/recommends/hamilton-khaki-field-mechanical-42/)
+[![Hamilton Khaki Field Mechanical 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-09-at-7.46.29-PM-pol22vctz42jrt2y9w0j74gqjlosy41gzevex0dhhs.png/public "Hamilton Khaki Field Mechanical 42")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html-42/)
 
 [Movement: Mechanical (H-50)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-field-mechanical-42/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html-42/)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-field-mechanical-42/) [![Hamilton Khaki Field Mechanical 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-09-at-7.48.29-PM-pol25z7mkebo5ekh4qd4xu8l8gdhe3dj2si70xrmxc.png/public "Hamilton Khaki Field Mechanical 38")](https://www.thewatchresource.com/recommends/hamilton-khaki-field-mechanical-38/)
-
-[Movement: Mechanical (H-50)  
-  
-Power Reserve: 80 hours  
-  
-Diameter: 38 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-field-mechanical-38/)
-
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-field-mechanical-38/) [![Hamilton Khaki Field Mechanical 42 Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-09-at-7.52.58-PM-pol2d3tke62y6y7qibaacjhfen8orgo922lr1h75qo.png/public "Hamilton Khaki Field Mechanical 42 Stainless Steel")](https://www.thewatchresource.com/recommends/hamilton-khaki-field-mechanical-42-stainless-steel/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html-42/) [![Hamilton Khaki Field Mechanical 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-09-at-7.48.29-PM-pol25z7mkebo5ekh4qd4xu8l8gdhe3dj2si70xrmxc.png/public "Hamilton Khaki Field Mechanical 38")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html-38/)
 
 [Movement: Mechanical (H-50)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-field-mechanical-42-stainless-steel/)
+Diameter: 38 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html-38/)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-field-mechanical-42-stainless-steel/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html-38/) [![Hamilton Khaki Field Mechanical 42 Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-09-at-7.52.58-PM-pol2d3tke62y6y7qibaacjhfen8orgo922lr1h75qo.png/public "Hamilton Khaki Field Mechanical 42 Stainless Steel")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html-42-stainless-steel/)
+
+[Movement: Mechanical (H-50)  
+  
+Power Reserve: 80 hours  
+  
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html-42-stainless-steel/)
+
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html-42-stainless-steel/)
 
 ### Hamilton Khaki Field: Automatic Movement, 42 mm
 
@@ -109,16 +109,16 @@ Climbing mountains, traveling through forests, or navigating the urban jungle: t
 
 The impressive H-10 automatic caliber provides up to 80 hours of power reserve.
 
-[![Hamilton Khaki Field Automatic 42 stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-10-at-2.27.52-PM-pomevltyy8wqbpbq68x88tg2iayotg5pug2e43n8i8.png/public "Hamilton Khaki Field Automatic 42 stainless steel")](https://www.thewatchresource.com/recommends/hamilton-khaki-field-automatic-42-stainless-steel/)
+[![Hamilton Khaki Field Automatic 42 stainless steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-10-at-2.27.52-PM-pomevltyy8wqbpbq68x88tg2iayotg5pug2e43n8i8.png/public "Hamilton Khaki Field Automatic 42 stainless steel")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605163-khaki-field-auto.html)
 
 [Movement: Automatic (H10)  
   
 Power Reserve: 80 hours  
   
 Diameter: 42 mm  
-](https://www.thewatchresource.com/recommends/hamilton-khaki-field-automatic-42-stainless-steel/)
+](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605163-khaki-field-auto.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-field-automatic-42-stainless-steel/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605163-khaki-field-auto.html)
 
 ### Hamilton Khaki Field Titanium Auto, 38 mm & 42 mm
 
@@ -131,37 +131,37 @@ We love the fact that this design with the titanium case is available in two siz
 - 38 mm for smaller wrists.
 - 42 mm to add to the watch’s readability.
 
-[![Hamilton Khaki Field Titanium Auto 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-10-at-2.41.33-PM-pomfh2hb02aff65euiwk6egyt16eknd2sobiljtmfk.png/public "Hamilton Khaki Field Titanium Auto 38")](https://www.thewatchresource.com/recommends/hamilton-khaki-field-titanium-auto-38/)
+[![Hamilton Khaki Field Titanium Auto 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-10-at-2.41.33-PM-pomfh2hb02aff65euiwk6egyt16eknd2sobiljtmfk.png/public "Hamilton Khaki Field Titanium Auto 38")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70545540-khaki-field-titanium-auto.html-38/)
 
 [Movement: Automatic (H-10)  
   
 Power Reserve: 80 hours  
   
-Diameter: 38 mm](https://www.thewatchresource.com/recommends/hamilton-american-classic-intra-matic-auto-chrono/)
+Diameter: 38 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-field-titanium-auto-38/) [![Hamilton Khaki Field Titanium Auto 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-10-at-2.43.45-PM-pomfkjhu911kbb3tkixxw0x9ta280e5dlv33fco9g0.png/public "Hamilton Khaki Field Titanium Auto 42")](https://www.thewatchresource.com/recommends/hamilton-khaki-field-titanium-auto-42/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70545540-khaki-field-titanium-auto.html-38/) [![Hamilton Khaki Field Titanium Auto 42](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-10-at-2.43.45-PM-pomfkjhu911kbb3tkixxw0x9ta280e5dlv33fco9g0.png/public "Hamilton Khaki Field Titanium Auto 42")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70545540-khaki-field-titanium-auto.html-42/)
 
 [Movement: Automatic (H-10)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-field-titanium-auto-42/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70545540-khaki-field-titanium-auto.html-42/)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-field-titanium-auto-42/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70545540-khaki-field-titanium-auto.html-42/)
 
 ### Bonus: Hamilton Khaki Field Murph – The Interstellar Watch
 
 Not just any watch, mind you. This is the watch that saved the world in the movie ‘Interstellar’. The beautiful Hamilton classic that Coop (Matthew McConaughey) left for his daughter before departing on his mission to the stars. The watch was then used as a tool to communicate coordinates in Morse code from another dimension, enabling Murph Cooper (the daughter) to complete an equation and therefore save humanity from complete destruction. As a well-deserved nod to the movie, the word “Eureka” is printed on the seconds hand in Morse code in lacquer. A great watch with an awesome background story? YES please.
 
-[![Hamilton\_khaki\_field\_interstellar\_watch](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki_field_interstellar_watch-p8bzbxajzsqj1yi9yadf54lrvviq0sl222yz2ah0b4.png/public "Hamilton_khaki_field_interstellar_watch")](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[![Hamilton\_khaki\_field\_interstellar\_watch](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki_field_interstellar_watch-p8bzbxajzsqj1yi9yadf54lrvviq0sl222yz2ah0b4.png/public "Hamilton_khaki_field_interstellar_watch")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 [Movement: Automatic (H10)  
   
 Power Reserve: 80 hours  
   
-Diameter: 42 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+Diameter: 42 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
-[Buy from Brand](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 ## SEE ALSO
 

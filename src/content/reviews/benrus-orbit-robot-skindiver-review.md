@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d1fe2b1f-2b2a-40d8-
 
 Our never-ending search for amazing watches brought us to the Orbit Robot from BENRUS - an American brand with a rich history in the American watch industry, and they’re making an exciting comeback. The Orbit Robot is a character of its own, marked by its simple yet eye-catching design, elevated still by the use of atypical color combinations.
 
-[![Benrus Orbit Robot Skindiver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Orbit-Robot-Skindiver-q50g5yerh7hdkdczsn42t0qb3lhe9a5my6z30zy1kc.png/public "Benrus Orbit Robot Skindiver")](https://www.thewatchresource.com/recommends/benrus-orbit-robot-skindiver/)
+[![Benrus Orbit Robot Skindiver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Orbit-Robot-Skindiver-q50g5yerh7hdkdczsn42t0qb3lhe9a5my6z30zy1kc.png/public "Benrus Orbit Robot Skindiver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -21,7 +21,7 @@ Our never-ending search for amazing watches brought us to the Orbit Robot from B
 - Water Resistance: 200 m
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-orbit-robot-skindiver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 ## BENRUS: The Brand
 
@@ -35,7 +35,7 @@ Much to our delight, a few years ago BENRUS revisited their popular designs, and
 
 The Benrus Orbit Robot is a show-stopping reissued version of the 1972 original model. The classic design is tastefully updated with modern materials to harmonize vintage and contemporary elements. The cushion case design retains the retro feel of the watch, boasting a comfortable 41 mm width, which works well for most wrist sizes. The brushed stainless steel bezel, case, and bracelet pair beautifully with the gray fumé dial. The dial has a lighter metallic color at the center—connecting it visually back to the case—while progressively getting darker towards the outer edge, providing a great contrast and visual frame. The orange wide baton hour and minute hands make the watch look very robust. It comes equipped with the Soprod P024 Swiss automatic movement, providing a 38-hour power reserve. The Orbit Robot is an elegant statement piece. 
 
-[![Benrus Orbit Robot Skindiver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Orbit-Robot-Skindiver-q50g5yerh7hdkdczsn42t0qb3lhe9a5my6z30zy1kc.png/public "Benrus Orbit Robot Skindiver")](https://www.thewatchresource.com/recommends/benrus-orbit-robot-skindiver/)
+[![Benrus Orbit Robot Skindiver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Orbit-Robot-Skindiver-q50g5yerh7hdkdczsn42t0qb3lhe9a5my6z30zy1kc.png/public "Benrus Orbit Robot Skindiver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -48,7 +48,7 @@ The Benrus Orbit Robot is a show-stopping reissued version of the 1972 original 
 - Water Resistance: 200 m
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-orbit-robot-skindiver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 ### Dial
 
@@ -108,7 +108,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 The BENRUS Orbit Robot is a character of its own that delivers a modern yet timeless design inspired by its rich heritage. The 41 mm case width, the 43 mm lug-to-lug distance, the combination of a simple and sporty dial with the jubilee bracelet make this watch a perfect choice as an everyday go-to timepiece that can perform well in more formal situations as well. The automatic Swiss movement (Soprod P024 caliber) provides a 38-hour power reserve. This watch is a statement timepiece, and an inspired re-issue of a great watch from a brand that plays an important role in the American watch industry.
 
-[![Benrus Orbit Robot Skindiver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Orbit-Robot-Skindiver-q50g5yerh7hdkdczsn42t0qb3lhe9a5my6z30zy1kc.png/public "Benrus Orbit Robot Skindiver")](https://www.thewatchresource.com/recommends/benrus-orbit-robot-skindiver/)
+[![Benrus Orbit Robot Skindiver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Orbit-Robot-Skindiver-q50g5yerh7hdkdczsn42t0qb3lhe9a5my6z30zy1kc.png/public "Benrus Orbit Robot Skindiver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -121,7 +121,7 @@ The BENRUS Orbit Robot is a character of its own that delivers a modern yet time
 - Water Resistance: 200 m
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-orbit-robot-skindiver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 ## Other Watch Reviews
 

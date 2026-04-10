@@ -70,7 +70,7 @@ Watches from this collection are available with both quartz movement and Tissot'
 
 [Movement: Quartz  
   
-Diameter: 40 mm](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation/)
+Diameter: 40 mm](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64611535-khaki-aviation-pilot-day-date-quartz.html)
 
 [Buy on Amazon](https://amzn.to/3KmtZMX) [![Tissot PRX quartz black dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-04-27-at-9.46.13-AM-pnzfzj0lg4njxf4bubymq6sowc15mxy9g4zx2f2l00.png/public "Tissot PRX quartz black dial")](https://amzn.to/3rUEW1J)
 

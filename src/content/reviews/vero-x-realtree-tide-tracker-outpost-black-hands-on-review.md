@@ -13,7 +13,7 @@ If you want a mechanical watch that (a) can take water (120m), (b) has an unusua
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
 
-[![vero realtree-outpost-black-tide-tracker](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-vero-realtree-outpost-black-tide-tracker-240x300.webp/public)](https://www.thewatchresource.com/recommends/vero-tide-tracker-outpost-black/)
+[![vero realtree-outpost-black-tide-tracker](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-vero-realtree-outpost-black-tide-tracker-240x300.webp/public)](https://verowatch.pxf.io/VOm6gO)
 
 **Specs:**
 
@@ -24,7 +24,7 @@ If you want a mechanical watch that (a) can take water (120m), (b) has an unusua
 - Lug-to-Lug Distance: 47 mm
 - Price: $550
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-tide-tracker-outpost-black/)
+[Check Price](https://verowatch.pxf.io/VOm6gO)
 
 ## Vero x Realtree: What This Watch Is Trying To Do
 
@@ -118,7 +118,7 @@ At $550 on the standard canvas strap, the Outpost Black sits in a zone where you
 
 Even customer reviews posted directly on Vero’s product page echo that “above expectations” and “useful feature” narrative—keeping in mind that brand‑hosted reviews are inherently a friendlier environment than independent forums.
 
-[![vero realtree-outpost-black-tide-tracker](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-vero-realtree-outpost-black-tide-tracker-240x300.webp/public)](https://www.thewatchresource.com/recommends/vero-tide-tracker-outpost-black/)
+[![vero realtree-outpost-black-tide-tracker](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-vero-realtree-outpost-black-tide-tracker-240x300.webp/public)](https://verowatch.pxf.io/VOm6gO)
 
 **Specs:**
 
@@ -129,7 +129,7 @@ Even customer reviews posted directly on Vero’s product page echo that “abov
 - Lug-to-Lug Distance: 47 mm
 - Price: $550
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-tide-tracker-outpost-black/)
+[Check Price](https://verowatch.pxf.io/VOm6gO)
 
 ## Pros and Cons
 
@@ -155,7 +155,7 @@ The Outpost Black colorway, in particular, is the one I’d pick if you want the
 
 For $550, backed by a 10‑year “any damage” warranty, it’s one of the rarer watches that feels both genuinely different and genuinely wearable.
 
-[![vero realtree-outpost-black-tide-tracker](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-vero-realtree-outpost-black-tide-tracker-240x300.webp/public)](https://www.thewatchresource.com/recommends/vero-tide-tracker-outpost-black/)
+[![vero realtree-outpost-black-tide-tracker](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-vero-realtree-outpost-black-tide-tracker-240x300.webp/public)](https://verowatch.pxf.io/VOm6gO)
 
 **Specs:**
 
@@ -166,7 +166,7 @@ For $550, backed by a 10‑year “any damage” warranty, it’s one of the rar
 - Lug-to-Lug Distance: 47 mm
 - Price: $550
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-tide-tracker-outpost-black/)
+[Check Price](https://verowatch.pxf.io/VOm6gO)
 
 ## Other Watch Reviews
 

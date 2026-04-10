@@ -14,7 +14,7 @@ In this article, we searched far and wide and brought to you the best the market
 
 ## Spinnaker Hull Diver Cognac Brown
 
-[![Spinnaker\_Hull-Diver-Cognac-Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Diver-Cognac-Brown-300x300.jpg/public)](https://www.thewatchresource.com/recommends/spinnaker-hull-diver-cognac-brown/)
+[![Spinnaker\_Hull-Diver-Cognac-Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Diver-Cognac-Brown-300x300.jpg/public)](https://solartimeltd.pxf.io/kOVRxV)
 
 **Specs:** 
 
@@ -25,7 +25,7 @@ In this article, we searched far and wide and brought to you the best the market
 - Water Resistance: 300 m
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-hull-diver-cognac-brown/)
+[Check Price](https://solartimeltd.pxf.io/kOVRxV)
 
 The Spinnaker Hull Diver does a beautiful job of fusing vintage elements with modern edge, resulting in this eye-catching dive watch that is sure to attract compliments. The deep brown color of the dial and bezel is cleverly contrasted with a brushed stainless steel case with softly rounded corners. The reliable NH35 automatic movement and the mesmerizing sweeping second hand will keep you punctual, while the watch itself is guaranteed to keep you stylish.
 
@@ -33,7 +33,7 @@ _Read more about [Spinnaker watches](https://www.thewatchresource.com/spinnaker-
 
 ## Hamilton Jazzmaster Gent Quartz
 
-[![Hamilton Jazzmaster Gent](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-Jazzmaster-Gent-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-jazzmaster-gent-quartz/)
+[![Hamilton Jazzmaster Gent](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-Jazzmaster-Gent-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh32451801-jazzmaster.html)
 
 **Specs:**
 
@@ -43,13 +43,13 @@ _Read more about [Spinnaker watches](https://www.thewatchresource.com/spinnaker-
 - Lug Distance: 20 mm
 - Price: Around $500
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-jazzmaster-gent-quartz/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh32451801-jazzmaster.html)
 
 The Hamilton Jazzmaster Gent is a modern interpretation of a conventional watch that is understated yet striking. This quartz watch is an elegant, sophisticated, and tastefully crafted option for the distinguished gentleman. This might be one of our favorites due to the great combination of the black leather strap and the brown dial. Due to these 2 main colors, you can wear almost any suit, as color mismatch won't be an issue.
 
 ## Hamilton Khaki Field Automatic
 
-[![Hamilton Khaki Field Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Hamilton-Khaki-Field-Automatic--300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-field-automatic-js/)
+[![Hamilton Khaki Field Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Hamilton-Khaki-Field-Automatic--300x300.webp/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fhamilton-watch-h70305993.html)
 
 **Specs:**
 
@@ -60,7 +60,7 @@ The Hamilton Jazzmaster Gent is a modern interpretation of a conventional watch 
 - Lug Width: 20 mm
 - Price: Around $500
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-field-automatic-js/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fhamilton-watch-h70305993.html)
 
 The Hamilton Khaki Field Automatic watch is a classic timepiece with a  vintage design. The 40 mm stainless steel case and durable canvas and leather combination strap give it a sturdy, durable feel, while the brown dial with light brown hour markers provide a clean look. The three-hand display and smaller case size give it a traditional feel, making it a great choice for fans of mechanical watches. Its military inspiration and heritage are kept alive.
 
@@ -84,7 +84,7 @@ The Longines Legend Diver is a modern interpretation of a classic 1960’s diver
 
 ## Oris Divers Sixty-Five Brown
 
-[![Oris Divers Sixty-Five Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Oris-Divers-Sixty-Five-Brown-244x300.png/public)](https://www.thewatchresource.com/recommends/oris-divers-sixty-five-brown/)
+[![Oris Divers Sixty-Five Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Oris-Divers-Sixty-Five-Brown-244x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-divers-automatic-brown-dial-watch-01-733-7707-4356-07-5-20-45.html)
 
 **Specs:**
 
@@ -95,13 +95,13 @@ The Longines Legend Diver is a modern interpretation of a classic 1960’s diver
 - Lug Distance: 20 mm
 - Price: Under $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/oris-divers-sixty-five-brown/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-divers-automatic-brown-dial-watch-01-733-7707-4356-07-5-20-45.html)
 
 The Oris Divers Sixty-Five is a retro-inspired watch that pays tribute to Oris’s first dive watches, particularly a model from 1965. Our favorite detail from the vintage-inspired design is the old-school crown that provides a timeless and elegant look, and makes this timepiece a great go-to watch for your everyday needs.
 
 ## Rado Captain Cook Automatic Bronze
 
-[![Rado Captain Cook Automatic Bronze](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Rado-Captain-Cook-Automatic-Bronze-180x300.webp/public)](https://www.thewatchresource.com/recommends/rado-captain-cook-automatic-bronze/)
+[![Rado Captain Cook Automatic Bronze](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Rado-Captain-Cook-Automatic-Bronze-180x300.webp/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Frado-captain-cook-brown-dial-unisex-watch-r32504306.html)
 
 **Specs:**
 
@@ -111,7 +111,7 @@ The Oris Divers Sixty-Five is a retro-inspired watch that pays tribute to Oris�
 - Case Width: 42 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/rado-captain-cook-automatic-bronze/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Frado-captain-cook-brown-dial-unisex-watch-r32504306.html)
 
 The Rado Captain Cook is a perfect option for modern adventurers, charting new ground in antique timepieces. The classic design and modern elements are both perfectly embodied in the bronze case that represents antique and timeless at the same time. The 42 mm case width is perfect for most wrist sizes, and who isn’t intrigued by the 80-hour power reserve?
 

@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/dd238818-eb0f-4cb8-
 
 BENRUS released another great reissue of one of their previous designs, the Ultra-Deep. This supercompressor dive watch brings back one of the most popular watch designs of the 1960s featuring the twin crown case. The watch itself is a beautifully versatile piece, a sports watch with a touch of class: due to the cathedral-style hour and minute hands, and the date window with an internal magnification eye, it can easily be worn in reasonably elegant settings.
 
-[![Benrus\_ULTRA-DEEP\_A](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus_ULTRA-DEEP_A_700x-copy-qdmbt2g74rv82yflosom2vgga2uzw0o9l1mdkc9uwc.webp/public "Benrus_ULTRA-DEEP_A_700x copy")](https://www.thewatchresource.com/recommends/benrus-ultra-deep-lp/)
+[![Benrus\_ULTRA-DEEP\_A](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus_ULTRA-DEEP_A_700x-copy-qdmbt2g74rv82yflosom2vgga2uzw0o9l1mdkc9uwc.webp/public "Benrus_ULTRA-DEEP_A_700x copy")](https://shrsl.com/49bc7)
 
 **Specs:**
 
@@ -20,7 +20,7 @@ BENRUS released another great reissue of one of their previous designs, the Ultr
 - Lug-to-Lug Distance: 41.5 mm
 - Price: Around $1,100
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-ultra-deep-lp/)
+[Check Price](https://shrsl.com/49bc7)
 
 ## BENRUS: The Brand
 
@@ -38,7 +38,7 @@ With the compressor, or super-compressor design becoming more popular again than
 
 Its 36.5 mm case width ensures comfortable wear for wrists of all sizes. Understated elegance equipped with the Soprod P024 Swiss automatic caliber, the BENRUS Ultra-Deep provides a 38-hour power reserve, ensuring reliable performance.
 
-[![Benrus\_ULTRA-DEEP\_A](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus_ULTRA-DEEP_A_700x-copy-qdmbt2g74rv82yflosom2vgga2uzw0o9l1mdkc9uwc.webp/public "Benrus_ULTRA-DEEP_A_700x copy")](https://www.thewatchresource.com/recommends/benrus-ultra-deep-lp/)
+[![Benrus\_ULTRA-DEEP\_A](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus_ULTRA-DEEP_A_700x-copy-qdmbt2g74rv82yflosom2vgga2uzw0o9l1mdkc9uwc.webp/public "Benrus_ULTRA-DEEP_A_700x copy")](https://shrsl.com/49bc7)
 
 **Specs:**
 
@@ -50,7 +50,7 @@ Its 36.5 mm case width ensures comfortable wear for wrists of all sizes. Underst
 - Lug-to-Lug Distance: 41.5 mm
 - Price: Around $1,100
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-ultra-deep-lp/)
+[Check Price](https://shrsl.com/49bc7)
 
 ### Dial
 
@@ -101,7 +101,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 The BENRUS Sea Lord is a beautiful vintage-inspired compressor-style dive watch drawing inspiration from the 1960’s. It’s a perfect timepiece for smaller wrists with the 36.5 mm case width and the 41.5 mm lug-to-lug distance. It seamlessly transitions into a versatile choice, serving as an exceptional everyday timepiece. Equipped with the automatic Soprod P024 Swiss movement, it guarantees a comfortable 38-hour power reserve. This timepiece serves as a remarkable testament to the brand's enduring influence within the American watch industry—an inspired reissue we absolutely love!
 
-[![Benrus\_ULTRA-DEEP\_A](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus_ULTRA-DEEP_A_700x-copy-qdmbt2g74rv82yflosom2vgga2uzw0o9l1mdkc9uwc.webp/public "Benrus_ULTRA-DEEP_A_700x copy")](https://www.thewatchresource.com/recommends/benrus-ultra-deep-lp/)
+[![Benrus\_ULTRA-DEEP\_A](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus_ULTRA-DEEP_A_700x-copy-qdmbt2g74rv82yflosom2vgga2uzw0o9l1mdkc9uwc.webp/public "Benrus_ULTRA-DEEP_A_700x copy")](https://shrsl.com/49bc7)
 
 **Specs:**
 
@@ -113,7 +113,7 @@ The BENRUS Sea Lord is a beautiful vintage-inspired compressor-style dive watch 
 - Lug-to-Lug Distance: 41.5 mm
 - Price: Around $1,100
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-ultra-deep-lp/)
+[Check Price](https://shrsl.com/49bc7)
 
 ## Other Watch Reviews
 

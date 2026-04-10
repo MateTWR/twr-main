@@ -26,7 +26,7 @@ We are huge fans of guilloche dials because of the simple sophistication it prov
 
 ### Hamilton Jazzmaster Viewmatic Auto
 
-[![Hamilton Jazzmaster Viewmatic Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-Jazzmaster-Viewmatic-Auto-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-jazzmaster-viewmatic-auto/)
+[![Hamilton Jazzmaster Viewmatic Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-Jazzmaster-Viewmatic-Auto-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh32515555-jazzmaster-day-date-auto.html)
 
 **Specs:** 
 
@@ -36,13 +36,13 @@ We are huge fans of guilloche dials because of the simple sophistication it prov
 - Case Width: 40 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-jazzmaster-viewmatic-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh32515555-jazzmaster-day-date-auto.html)
 
 The Hamilton Jazzmaster Viewmatic’s transparent case back provides a mesmerizing glimpse into modern watchmaking and fine craftsmanship coexisting in harmony. Of course, this watch’s front is equally as eye-catching as its back. The intricate guilloché pattern brings back traditional craftsmanship into a new modern design. The Hamilton jazzmaster Viewmatic Auto is one of our absolute favorites!
 
 ### Longines Master Collection Silver
 
-[![Longines Master Collection Silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Longines-Master-Collection-Silver-300x300.webp/public)](https://www.thewatchresource.com/recommends/longines-master-collection-silver/)
+[![Longines Master Collection Silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Longines-Master-Collection-Silver-300x300.webp/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-master-watch-l29194783.html)
 
 **Specs:**
 
@@ -52,7 +52,7 @@ The Hamilton Jazzmaster Viewmatic’s transparent case back provides a mesmerizi
 - Case Width: 42 mm
 - Lug Distance: 21 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-master-collection-silver/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-master-watch-l29194783.html)
 
 Since its inception, Longines has been producing outstanding watches as a traditional watchmaking company. Today, the Longines Master Collection is the ideal representation of this business spirit, as seen by the popularity this collection has attained since its introduction in 2005. The numerous models in this series, which are all equipped with self-winding movements, provide a variety of unique characteristics. The Longines Master Collection combines the timeless beauty and superb craftsmanship that never cease to surprise people who value fine watches. 
 
@@ -60,7 +60,7 @@ The beautiful guilloché pattern on the dial completes the classic design look a
 
 ### Tissot Le Locle Powermatic 80
 
-[![Tissot Le Locle Powermatic 80](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Tissot-Le-Locle-Powermatic-80-py37gtvuunzsk5ofq97li86mgroaboy8lyqnqsomyg.webp/public "Tissot Le Locle Powermatic 80")](https://www.thewatchresource.com/recommends/tissot-le-locle-powermatic-80/)
+[![Tissot Le Locle Powermatic 80](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Tissot-Le-Locle-Powermatic-80-py37gtvuunzsk5ofq97li86mgroaboy8lyqnqsomyg.webp/public "Tissot Le Locle Powermatic 80")](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-watch-t0064071103300.html)
 
 **Specs:**
 
@@ -70,7 +70,7 @@ The beautiful guilloché pattern on the dial completes the classic design look a
 - Case Width: 39.3 mm
 - Lug Distance: 19 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-le-locle-powermatic-80/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-watch-t0064071103300.html)
 
 The Tissot Le Locle Powermatic 80 is an elegant timepiece with the visual focus being on the dial exclusively. The sizable black Roman numerals against the silver dial with the thin sword hour and minute hands are very classy elements. The guilloché pattern on the dial makes the overall look a lot more exciting, but the flat smooth ring under the hour marks ensures the pattern will not be too much and overwhelming, and this nice visual break maintains the timepiece’s classic long-lasting feel.
 
@@ -92,7 +92,7 @@ The Tissot PRX is a recent release (from 2021) and it leans towards a more sport
 
 ### Frederique Constant Worldtimer
 
-[![Frederique Constant Worldtimer](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Frederique-Constant-Worldtimer-188x300.jpg/public)](https://www.thewatchresource.com/recommends/frederique-constant-worldtimer/)
+[![Frederique Constant Worldtimer](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Frederique-Constant-Worldtimer-188x300.jpg/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ffrederique-constant-watch-fc-718mc4h6.html)
 
 **Specs:**
 
@@ -102,7 +102,7 @@ The Tissot PRX is a recent release (from 2021) and it leans towards a more sport
 - Case Width: 42 mm
 - Water Resistance: 50 m
 
-[Check Price](https://www.thewatchresource.com/recommends/frederique-constant-worldtimer/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ffrederique-constant-watch-fc-718mc4h6.html)
 
 Frederique Constant is an often overlooked brand, however, they produce exceptional timepieces both in quality and design. The Worldtimer is no exception as this watch is ideal for any (including formal) occasions. Frederique Constant’s own FC-718 automatic movement provides accurate and reliable timekeeping with up to 42 hours power reserve. The 42 mm case width makes the watch big enough to make all the intricate details visible - like the guilloché pattern -, but it’s still not big enough to be a too large option for smaller wrist sizes.
 
@@ -140,7 +140,7 @@ The Raymond Weil Maestro Automatic is a true gentlemen’s watch. The rounded st
 
 ### Jaeger-LeCoultre Reverso Duoface
 
-[![Jaeger-LeCoultre Reverso Duo](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-00C9CF52-43FC-479A-A68D-1576E1203EDB-300x300.jpg/public)](https://www.thewatchresource.com/recommends/jaeger-lecoultre-reverso-duo/)
+[![Jaeger-LeCoultre Reverso Duo](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-00C9CF52-43FC-479A-A68D-1576E1203EDB-300x300.jpg/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjaeger-lecoultre-watch-q2458420.html)
 
 **Specs:** 
 
@@ -150,7 +150,7 @@ The Raymond Weil Maestro Automatic is a true gentlemen’s watch. The rounded st
 - Case Width: 42.9 x 25.5 mm
 - Lug Distance: 19 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/jaeger-lecoultre-reverso-duo/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjaeger-lecoultre-watch-q2458420.html)
 
 The Jaeger-LeCoultre Reverso was designed to stand up to the rigors of polo matches. It has become one of the most recognizable timepieces in the world because of its subtle Art Deco lines and distinctive, pioneering reversible casing. The Reverso is passionately original and a truly outstanding timepiece. This timepiece’s status as a JLC legend has been cemented in the history of horology since the Reverso’s inception in 1931.
 

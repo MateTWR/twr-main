@@ -56,7 +56,7 @@ The brand is quickly becoming popular and well-respected in the watch industry, 
 
 The Independence collection draws inspiration from the boldness required to venture into the unexpected. NORQAIN's fervor resonates within each unique and inventive Independence timepiece. These watches are meticulously crafted for the intrepid explorer who embraces the "my life, my way" philosophy, fearlessly pursuing their passions with unwavering confidence.
 
-[![Norqain N3008S03AES301\_Independence\_40mm\_Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-N3008S03AES301_Independence_40mm_Brown-q7wosdn7zxkae1698y6tbevgwu9lpnnhdi8r9bd38s.png/public "Norqain N3008S03AES301_Independence_40mm_Brown")](https://www.thewatchresource.com/recommends/norqain-independence-40-brown/)
+[![Norqain N3008S03AES301\_Independence\_40mm\_Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-N3008S03AES301_Independence_40mm_Brown-q7wosdn7zxkae1698y6tbevgwu9lpnnhdi8r9bd38s.png/public "Norqain N3008S03AES301_Independence_40mm_Brown")](https://norqain.sjv.io/LX1P4L)
 
 **Specs:**
 
@@ -68,7 +68,7 @@ The Independence collection draws inspiration from the boldness required to vent
 - Lug-to-lug: 46.3 mm
 - Price: Under $3,000
 
-[Check Price](https://www.thewatchresource.com/recommends/norqain-independence-40-brown/) [![Norqain NNQ3000QBK1AB002\_WildONE](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-NNQ3000QBK1AB002_WildONE-q7wosnzg33yfxqr8kknpku9jg2un2bsj2xf3jcxrcc.png/public "Norqain NNQ3000QBK1AB002_WildONE")](https://www.thewatchresource.com/recommends/norqain-wild-one-42-khaki/)
+[Check Price](https://norqain.sjv.io/LX1P4L) [![Norqain NNQ3000QBK1AB002\_WildONE](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-NNQ3000QBK1AB002_WildONE-q7wosnzg33yfxqr8kknpku9jg2un2bsj2xf3jcxrcc.png/public "Norqain NNQ3000QBK1AB002_WildONE")](https://norqain.sjv.io/xkv9QA)
 
 **Specs:**
 
@@ -80,13 +80,13 @@ The Independence collection draws inspiration from the boldness required to vent
 - Lug-to-lug: 49.4 mm
 - Price: Around $5,000
 
-[Check Price](https://www.thewatchresource.com/recommends/norqain-wild-one-42-khaki/)
+[Check Price](https://norqain.sjv.io/xkv9QA)
 
 ### ADVENTURE Collection
 
 The Adventure series encapsulates the exhilaration of exploring and conquering nature's vast playground, including trails, summits, and tides. These timepieces are meticulously designed to withstand whatever challenges nature presents. With their distinctive NORQAIN dial pattern, rotating bezels, and robust construction, [the Adventure watches](https://www.thewatchresource.com/norqain-adventure-sport-review/) are built to accompany you through a lifetime of thrilling moments. The collection exudes a bold and resilient character that appeals to adventurous individuals who constantly seek new challenges and embrace a sporty lifestyle.
 
-[![Norqain N1000C02AA101\_Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-N1000C02AA101_Blue-q7wp81mdwj0bw2f1rpyyvgk1c11u01ufj1o37c4vjg.png/public "Norqain N1000C02AA101_Blue")](https://www.thewatchresource.com/recommends/norqain-adventure-sport-42-blue/)
+[![Norqain N1000C02AA101\_Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-N1000C02AA101_Blue-q7wp81mdwj0bw2f1rpyyvgk1c11u01ufj1o37c4vjg.png/public "Norqain N1000C02AA101_Blue")](https://norqain.sjv.io/AWQonj)
 
 **Specs:**
 
@@ -98,7 +98,7 @@ The Adventure series encapsulates the exhilaration of exploring and conquering n
 - Lug-to-lug: 50.2 mm
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/norqain-adventure-sport-42-blue/) [![Norqain NB1200B21CB123\_Kaki](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-NB1200B21CB123_Kaki-q7wp8cwg6jfrrdynxuuhpdpkgni8kf37klhwyno5gs.png/public "Norqain NB1200B21CB123_Kaki")](https://www.thewatchresource.com/recommends/norqain-adventure-sport-chrono-44-dlc/)
+[Check Price](https://norqain.sjv.io/AWQonj) [![Norqain NB1200B21CB123\_Kaki](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-NB1200B21CB123_Kaki-q7wp8cwg6jfrrdynxuuhpdpkgni8kf37klhwyno5gs.png/public "Norqain NB1200B21CB123_Kaki")](https://norqain.sjv.io/OrZROQ)
 
 **Specs:**
 
@@ -110,13 +110,13 @@ The Adventure series encapsulates the exhilaration of exploring and conquering n
 - Lug-to-lug: 50.2 mm
 - Price: Under $4,500
 
-[Check Price](https://www.thewatchresource.com/recommends/norqain-adventure-sport-chrono-44-dlc/)
+[Check Price](https://norqain.sjv.io/OrZROQ)
 
 ## FREEDOM Collection
 
 The Freedom collection celebrates a deep connection to the beauty of nature that transcends generations. Paying homage to vintage aesthetics, the Freedom watches showcase a design that incorporates domed sapphire glass, vintage straps adorned with the distinct NORQAIN stitches, and captivating dials reminiscent of the timeless elegance of the 1960s. Crafted with wanderers and explorers in mind, the NORQAIN Freedom family is dedicated to those who cherish the liberating spirit of outdoor adventures.
 
-[![Norqain N2201\_Freedom\_60\_Chrono\_40mm\_Anthracite\_Tide](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-N2201_Freedom_60_Chrono_40mm_Anthracite_Tide-q7wp8o6igjv7mpia3zq0jav3l9yn4sbzm5bqpz7fe4.png/public "Norqain N2201_Freedom_60_Chrono_40mm_Anthracite_Tide")](https://www.thewatchresource.com/recommends/norqain-freedom-60-chrono-40/)
+[![Norqain N2201\_Freedom\_60\_Chrono\_40mm\_Anthracite\_Tide](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Norqain-N2201_Freedom_60_Chrono_40mm_Anthracite_Tide-q7wp8o6igjv7mpia3zq0jav3l9yn4sbzm5bqpz7fe4.png/public "Norqain N2201_Freedom_60_Chrono_40mm_Anthracite_Tide")](https://norqain.sjv.io/3eaPyK)
 
 **Specs:**
 
@@ -128,7 +128,7 @@ The Freedom collection celebrates a deep connection to the beauty of nature that
 - Lug-to-lug: 49.2 mm
 - Price: Under $5,000
 
-[Check Price](https://www.thewatchresource.com/recommends/norqain-freedom-60-chrono-40/)
+[Check Price](https://norqain.sjv.io/3eaPyK)
 
 _Read our [NORQAIN Freedom Chrono 60 in-depth review](https://www.thewatchresource.com/norqain-freedom-chrono-60-review/)._
 

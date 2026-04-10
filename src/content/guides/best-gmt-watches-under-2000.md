@@ -17,7 +17,7 @@ Join us for an overview of the best pieces, all of which are certain to last the
 
 ### Hamilton Khaki Aviation Converter GMT
 
-[![Hamilton Khaki Aviation Converter Auto GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-h76715540-pix7sfa0wcwo62k3guwly8fqz5q1e1icdbxyv2sg1k.webp/public "Hamilton Khaki Aviation Converter Auto GMT")](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-gmt/)
+[![Hamilton Khaki Aviation Converter Auto GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-h76715540-pix7sfa0wcwo62k3guwly8fqz5q1e1icdbxyv2sg1k.webp/public "Hamilton Khaki Aviation Converter Auto GMT")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
 
 **Specs:**
 
@@ -28,13 +28,13 @@ Join us for an overview of the best pieces, all of which are certain to last the
 - Lug Width: 22 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto-gmt/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
 
 The Khaki Aviation Converter GMT makes traveling around the world a pice of cake, as far as keeping track of  time zones is concerned. A rotating slide-rule bezel translates units in both directions, and the GMT function assures you won't be late to your engagements. This elegant 44mm pilot's watch will take you from the cockpit (or the passenger cabin) to the conference room in style, all that with an 80-hour battery reserve thanks to the reliable H-14 movement, which is a modified ETA movement.
 
 ### Laco Frankfurt GMT
 
-[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-08-Laco-Frankfurt-GMT-300x300.png/public)](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-08-Laco-Frankfurt-GMT-300x300.png/public)](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 **Specs:**
 
@@ -44,7 +44,7 @@ The Khaki Aviation Converter GMT makes traveling around the world a pice of cake
 - Case Width: 43 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 When you hear the brand name Laco, you instantly think of the oldschool pilot watches, AKA the flieger timepieces. While we absolutely love those classic designs, we wanted to show you something special; the [Laco Frankfurt GMT](https://www.thewatchresource.com/laco-frankfurt-gmt-review/).
 
@@ -52,7 +52,7 @@ The inner rotating bezel can be adjusted with the second crown, and the dial its
 
 ### Hamilton Broadway GMT | Limited Edition
 
-[![Hamilton Broadway GMT Limited](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Hamilton-Broadway-GMT-Limited-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-broadway-gmt/)
+[![Hamilton Broadway GMT Limited](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Hamilton-Broadway-GMT-Limited-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh43725131-broadway-gmt.html)
 
 **Specs:**
 
@@ -63,7 +63,7 @@ The inner rotating bezel can be adjusted with the second crown, and the dial its
 - Lug Width: 22 mm
 - Water Resistance: 50 m
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-broadway-gmt/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh43725131-broadway-gmt.html)
 
 The limited edition 46 mm Broadway GMT is the ideal travel companion for well-dressed gentlemen who prefer to travel in elegance. The distinctive new H-14 automatic movement has a power reserve of up to 80 hours, and the elegant ceramic bezel displays 24 exotic locations. We imagine The Broadway GMT is best suited to achieve that urban-elegant look, worn by busy jet setting businessmen.
 
@@ -102,7 +102,7 @@ The Yema Superman 500 GMT comes with Yema’s in-house movement: the Yema3000 ca
 
 ### BALL Engineer Master II Diver
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-BALL-Engineer-Master-II-Diver-241x300.png/public)](https://www.thewatchresource.com/recommends/ball-engineer-master-ii-diver/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-BALL-Engineer-Master-II-Diver-241x300.png/public)](https://www.jomashop.com/ball-engineer-master-ii-diver-automatic-black-dial-mens-watch-dg1020a-p3aj-bk.html)
 
 **Specs:**
 
@@ -113,13 +113,13 @@ The Yema Superman 500 GMT comes with Yema’s in-house movement: the Yema3000 ca
 - Lug Width: 20 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/ball-engineer-master-ii-diver/)
+[Check Price](https://www.jomashop.com/ball-engineer-master-ii-diver-automatic-black-dial-mens-watch-dg1020a-p3aj-bk.html)
 
 BALL watches are usually very durable, and the BALL Engineer Master II Diver is no exception. The stainless steel case is coated with black DLC.  DLC, or "Diamond Like Carbon" is a coating applied to the surface of the case using a multi-stage state of the art process, making the surface highly resistant against scratches and other potential damages. The black color of the case gives this timepiece a very no-nonse look. The white hour markers and hands make readability a breeze, and the GMT feature is highlighted with a  deeper yellow, making the overall look that much more dynamic and eye-catching.
 
 ### Oris Aquis GMT
 
-[![Oris Aquis GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Oris-Aquis-GMT-JS-pxpmlho6j9tpyvp8icenouxn4qksp3sl9bn2vxeek8.png/public "Oris Aquis GMT")](https://www.thewatchresource.com/recommends/oris-aquis-gmt/)
+[![Oris Aquis GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Oris-Aquis-GMT-JS-pxpmlho6j9tpyvp8icenouxn4qksp3sl9bn2vxeek8.png/public "Oris Aquis GMT")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-aquis-automatic-blue-dial-mens-watch-01-798-7754-4135-07-4-24-64eb.html)
 
 **Specs:**
 
@@ -129,13 +129,13 @@ BALL watches are usually very durable, and the BALL Engineer Master II Diver is 
 - Case Width: 43.5 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/oris-aquis-gmt/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-aquis-automatic-blue-dial-mens-watch-01-798-7754-4135-07-4-24-64eb.html)
 
 The Oris Aquis GMT is a sporty option for the dedicated adventure seekers out there. We love the understated elegance of the dark blue dial combined with the rugged outdoorsy look of the silicone strap. The deep black color of the bezel pulls it all together just perfectly.
 
 ### Shinola The Monster GMT
 
-[![Shinola The Monster GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Shinola-The-Monster-GMT-300x271.png/public)](https://www.thewatchresource.com/recommends/shinola-the-monster-gmt/)
+[![Shinola The Monster GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Shinola-The-Monster-GMT-300x271.png/public)](https://partners.shinola.com/jWvD9b)
 
 **Specs:**
 
@@ -145,7 +145,7 @@ The Oris Aquis GMT is a sporty option for the dedicated adventure seekers out th
 - Case Width: 40 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/shinola-the-monster-gmt/)
+[Check Price](https://partners.shinola.com/jWvD9b)
 
 Shinola recently came out with their first GMT watch, the Monster GMT. The 40 mm case width is perfect for all wrist sizes and the traditional dive watch design is paired to perfection with the classic Shinola numerals. These white numerals are very visible against the blue dial and the same color combination is found on the bezel with slightly slimmer numbers for the GMT functionality, keeping the visual focus on the dial itself. The reliable Sellita automatic movement provides a 50-hour power reserve.
 

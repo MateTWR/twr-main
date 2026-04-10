@@ -16,7 +16,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 
 ### Tag Heuer Monaco
 
-[![TAG Heuer Monaco CBL2111.FC6453](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-TAG-Heuer-Monaco-CBL2111.FC6453-244x300.png/public)](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[![TAG Heuer Monaco CBL2111.FC6453](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-TAG-Heuer-Monaco-CBL2111.FC6453-244x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 **Specs:**
 
@@ -27,13 +27,13 @@ _\*By clicking on the product links in this article, we may receive a commission
 - Lug Distance: 22 mm
 - Price: $5,000 - $6,500
 
-[Check Price](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 The Monaco from Tag Heuer was one of the first automatic chronographs ever created, and it became an absolute favorite after the “King of Cool”, Steve McQueen wore the Heuer Monaco on his wrist in 1971 in Le Mans. This watch is an absolute classic and due to the bold geometries, we have a beautiful balance of vintage and contemporary.
 
 ### Breitling Top Time B01 Ford Mustang
 
-[![Breitling Top Time B01 Ford Mustang AB01762A1L1X1](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-11-AB01762A1L1X1-300x300.webp/public)](https://www.thewatchresource.com/recommends/breitling-top-time-b01-ford-mustang/)
+[![Breitling Top Time B01 Ford Mustang AB01762A1L1X1](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-11-AB01762A1L1X1-300x300.webp/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-top-time-b01-ford-mustang-chronograph-automatic-green-dial-mens-watch-ab01762a1l1x1.html)
 
 **Specs:**
 
@@ -44,13 +44,13 @@ The Monaco from Tag Heuer was one of the first automatic chronographs ever creat
 - Lug Distance: 20 mm
 - Price: Around $6,000
 
-[Check Price](https://www.thewatchresource.com/recommends/breitling-top-time-b01-ford-mustang/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-top-time-b01-ford-mustang-chronograph-automatic-green-dial-mens-watch-ab01762a1l1x1.html)
 
 The 1960s, a time of bold experimentation, fun, and unrestrained freedom, was an era where the thrill of speeding on a motorcycle or in a sportscar symbolized living life to the fullest. Sensing this dynamic shift, Willy Breitling embarked on creating a unique chronograph that would encapsulate the era's zest. He named it the Top Time. This legacy of vibrancy is carried forward today, with Breitling collaborating with leading names in the automobile industry to craft its Top Time series. The first-generation Ford Mustang, a hallmark from 1964 to 1974, epitomized the essence of the swinging '60s in America. This iconic car, still in production, is revered, especially the early models that embodied the decade's free-spirited ethos. The Top Time B01 Ford Mustang model echoes this legacy, featuring the classic colors and emblem of the original car, along with a perforated leather racing strap, a tachymeter for speed measurement, and distinctive “squircle” subdials reminiscent of vintage car dashboards. Moreover, it boasts an impressive mechanism: the acclaimed Breitling Manufacture Caliber 01 engine.
 
 ### Hamilton American Classic INTRA-MATIC
 
-[![Hamilton Intra-Matic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-08-Screen-Shot-2022-08-31-at-4.23.30-PM-294x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-intra-matic/)
+[![Hamilton Intra-Matic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-08-Screen-Shot-2022-08-31-at-4.23.30-PM-294x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)
 
 **Specs:** 
 
@@ -60,13 +60,13 @@ The 1960s, a time of bold experimentation, fun, and unrestrained freedom, was an
 - Case Width: 40 mm
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-intra-matic/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)
 
 The [Hamilton Intra-Matic Auto Chrono](https://www.thewatchresource.com/hamilton-intra-matic-auto-chrono-review/) is a new recreation of a 1968 signature timepiece that delivers a sporty yet timeless design. With its characteristic panda dial and true 1960s charm, the H-31 automatic watch is a surefire eye-catcher. It's a great watch for classic car enthusiasts as well as the tachymeter on the bezel and long seconds hand make you feel like you're looking at a dashboard of a racing car, already visualizing the checkered flag.
 
 ### TAG Heuer Formula 1
 
-[![TAG-Heuer-Formula-1](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-TAG-Heuer-Formula-1-222x300.png/public)](https://www.thewatchresource.com/recommends/tag-heuer-formula-1/)
+[![TAG-Heuer-Formula-1](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-TAG-Heuer-Formula-1-222x300.png/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-watch-caz1010-ft8024.html)
 
 **Specs:**
 
@@ -76,13 +76,13 @@ The [Hamilton Intra-Matic Auto Chrono](https://www.thewatchresource.com/hamilton
 - Water Resistance: 200 m
 - Price: Below $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/tag-heuer-formula-1/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-watch-caz1010-ft8024.html)
 
 There is no comprehensive racing watch list that doesn’t include a TAG Heuer, and our pick is the Formula 1. This watch has a very serious, masculine look due to all black dial, bezel, and push buttons. It comes complete with all the elements of a true racing watch, including a high tech rubber band that is very comfortable on the wrist. The Formula 1 is built for durability, speed, and endurance, marked by the checkered flag engraving on the back of the case.
 
 ### VAER R1 Racing Chronograph
 
-[![VAER R1 Racing Chrono-38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-VAER-R1-Racing-Chrono-38-300x300.webp/public)](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph-2/)
+[![VAER R1 Racing Chrono-38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-VAER-R1-Racing-Chrono-38-300x300.webp/public)](https://vaer-watches.sjv.io/MmQAAM)
 
 **Specs:**
 
@@ -93,13 +93,13 @@ There is no comprehensive racing watch list that doesn’t include a TAG Heuer, 
 - Lug Width: 20 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-r1-racing-chronograph-2/)
+[Check Price](https://vaer-watches.sjv.io/MmQAAM)
 
 The [VAER R1 Racing Chronograph](https://www.thewatchresource.com/vaer-r1-racing-chronograph-review/) is a vintage-inspired statement piece. Its cushion-shaped case with the cream dial design combination definitely brings us to a ‘60 auto racing vibe. The brushed stainless steel case is 38 mm wide, a size we don’t see very often with racing chronographs, therefore it is a good, versatile size for smaller wrists as well. The vibrant red accent color on the dial gives a highly dynamic look. Overall, The VAER R1 is a classic vintage-inspired racing chronograph with features to fit the everyday practicality of our modern lives.
 
 ### Bell & Ross BR 05 Chrono
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-11-BR05C-BLC-ST_SRB-Bell-Ross-BR-05-Chrono-167x300.webp/public)](https://www.thewatchresource.com/recommends/bell-ross-br-05-chrono/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-11-BR05C-BLC-ST_SRB-Bell-Ross-BR-05-Chrono-167x300.webp/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fsearch%3Fq%3DBR05C-BLC-ST%252FSRB)
 
 **Specs:**
 
@@ -110,7 +110,7 @@ The [VAER R1 Racing Chronograph](https://www.thewatchresource.com/vaer-r1-racing
 - Lug Width: 20 mm
 - Price: Around $5,000
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-br-05-chrono/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fsearch%3Fq%3DBR05C-BLC-ST%252FSRB)
 
 The Bell & Ross BR 05 is a collection of timepieces that can be recognized from a distance, and that is hard to achieve by sticking with tasteful design features. While integrated bracelets are not the most popular solutions among watch collectors, it is an integral part of the BR 05. To quote Bruno Belamich, Bell & Ross’ co-founder and creative director: “This integration of case and bracelet is not only in line with the brand’s visual identity, it also brings another dimension to the watch: the first link forms part of the case. This type of design harks back to the Seventies, and when transposed to Bell & Ross, it creates a result with a graphic style which is both striking and modern.”
 
@@ -118,7 +118,7 @@ At first glance, this is a very masculine watch due to its angular design and th
 
 ### Sternglas Tachymeter
 
-[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-04-Sternglas-Tachymeter-Black-1-1-300x300.webp/public)](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-04-Sternglas-Tachymeter-Black-1-1-300x300.webp/public)](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 **Specs:**
 
@@ -129,7 +129,7 @@ At first glance, this is a very masculine watch due to its angular design and th
 - Lug-to-Lug Distance: 50 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 Sternglas is a new brand that's quickly becoming popular with their Bauhaus watches. While the [Sternglas Tachymeter](https://www.thewatchresource.com/sternglas-tachymeter-review/) displays some minimalist design elements, it is truly a  sporty chronograph. The 42 mm case width and 50 mm lug-to-lug distance, this watch is perfect for mid-size wrists, but could look good on smaller wrists as well as the thickness is at only 10 mm, creating a more elegant look. The dial doesn't have Arabic or Roman numerals, and for a bit of a dynamism the yellow accent color is incorporated, which we absolutely love.
 
@@ -155,7 +155,7 @@ This modern interpretation of a motoring classic is embodied in the monochrome 4
 
 ### Dan Henry 1964 Gran Turismo Chronograph
 
-[![Dan-Henry-1964-Gran-Turismo](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry-1964-Gran-Turismo-267x300.png/public)](https://www.thewatchresource.com/recommends/dan-henry-1964-gran-turismo-chronograph/)
+[![Dan-Henry-1964-Gran-Turismo](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry-1964-Gran-Turismo-267x300.png/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1964-gran-turismo-chronograph&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-racing-watches%2F)
 
 **Specs:**
 
@@ -165,7 +165,7 @@ This modern interpretation of a motoring classic is embodied in the monochrome 4
 - Lug Distance: 19 mm
 - Price: Under $300
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1964-gran-turismo-chronograph/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1964-gran-turismo-chronograph&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-racing-watches%2F)
 
 The Dan Henry 1964 Gran Turismo has a 38 mm case diameter, the size of vintage driving watches. A thinner than usual Tachymeter definitely brings back some vintage feel, and gives the watch a nice elegant flair.  As an additional tribute to driving and racing, the back of the watch has a special car icon engraved: the Aston Martin DB5. An overall great choice for the lovers of speed.
 
@@ -188,7 +188,7 @@ This Chronomaster Aviator Sea Diver is equipped with the Sellita SW510 BH B cali
 
 ### Spinnaker Hull Chronograph - Fumee Black
 
-[![Spinnaker-Hull-Chrono-Fumee-Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker-Hull-Chrono-Fumee-Black.jpg/public)](https://www.thewatchresource.com/recommends/spinnaker-hull-chronograph-fumee-black/)
+[![Spinnaker-Hull-Chrono-Fumee-Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker-Hull-Chrono-Fumee-Black.jpg/public)](https://solartimeltd.pxf.io/9L2eKE)
 
 **Specs:**
 
@@ -199,7 +199,7 @@ This Chronomaster Aviator Sea Diver is equipped with the Sellita SW510 BH B cali
 - Water Resistance: 100 m
 - Price: Around $250
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-hull-chronograph-fumee-black/)
+[Check Price](https://solartimeltd.pxf.io/9L2eKE)
 
 Spinnaker’s Hull Chronograph Fumee Black watch has an eye-catching cushion shaped case. Adding to the list of features that make this watch unique is the matte black textured dial, giving the watch depth that attracts the eye. It is sporty and stylish mixed with the perfect amount of vintage. The case diameter is 42 mm, making it a good fit for most wrist sizes.
 

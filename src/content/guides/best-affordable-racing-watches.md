@@ -11,7 +11,7 @@ Looking for a high quality racing watch that won’t break the bank but possibly
 
 ## Spinnaker Hull Chronograph - Fumee Black
 
-[![Spinnaker-Hull-Chrono-Fumee-Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker-Hull-Chrono-Fumee-Black.jpg/public)](https://www.thewatchresource.com/recommends/spinnaker-hull-chronograph-fumee-black/)
+[![Spinnaker-Hull-Chrono-Fumee-Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker-Hull-Chrono-Fumee-Black.jpg/public)](https://solartimeltd.pxf.io/9L2eKE)
 
 **Specs:**
 
@@ -22,7 +22,7 @@ Looking for a high quality racing watch that won’t break the bank but possibly
 - Water Resistance: 100 m
 - Price: Around $250
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-hull-chronograph-fumee-black/)
+[Check Price](https://solartimeltd.pxf.io/9L2eKE)
 
 Spinnaker’s Hull Chronograph Fumee Black watch has an eye-catching cushion shaped case. Adding to the list of features that make this watch unique is the matte black textured dial, giving the watch depth that attracts the eye. It is sporty and stylish mixed with the perfect amount of vintage. The case diameter is 42 mm, making it a good fit for most wrist sizes.
 
@@ -30,7 +30,7 @@ _Read our [Spinnaker Brand review](https://www.thewatchresource.com/spinnaker-wa
 
 ## Dan Henry 1964 Gran Turismo Chronograph
 
-[![Dan-Henry-1964-Gran-Turismo](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry-1964-Gran-Turismo-267x300.png/public)](https://www.thewatchresource.com/recommends/dan-henry-1964-gran-turismo-chronograph/)
+[![Dan-Henry-1964-Gran-Turismo](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Dan-Henry-1964-Gran-Turismo-267x300.png/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1964-gran-turismo-chronograph&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-racing-watches%2F)
 
 **Specs:**
 
@@ -40,7 +40,7 @@ _Read our [Spinnaker Brand review](https://www.thewatchresource.com/spinnaker-wa
 - Lug Distance: 19 mm
 - Price: Under $300
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1964-gran-turismo-chronograph/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1964-gran-turismo-chronograph&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbest-affordable-racing-watches%2F)
 
 The Dan Henry 1964 Gran Turismo has a 38 mm case diameter, the size of vintage driving watches. A thinner than usual Tachymeter definitely brings back some vintage feel, and gives the watch a nice elegant flair.  As an additional tribute to driving and racing, the back of the watch has a special car icon engraved: the Aston Martin DB5. An overall great choice for the lovers of speed.
 

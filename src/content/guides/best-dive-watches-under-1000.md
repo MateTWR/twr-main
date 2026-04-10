@@ -13,7 +13,7 @@ Below you will find our list of the best dive watches under (or around) $1,000. 
 
 ### Hamilton Khaki Navy Scuba Auto
 
-[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -25,7 +25,7 @@ Below you will find our list of the best dive watches under (or around) $1,000. 
 - Water Resistance: 300 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 Luxury meets sport in the [Hamilton Khaki Navy Scuba Auto](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/), a watch crafted for both seaside sophistication and serious underwater performance. With its 43 mm stainless-steel case, sapphire crystal, and a ceramic uni-directional bezel engineered to resist sand, saltwater and the elements — this piece seamlessly transitions from the beach cabana to the deep-sea dive. The bezel’s precisely engraved numerals add a purposeful design detail that underscores the watch’s marine-inspired roots.
 
@@ -33,7 +33,7 @@ This timepiece is not only stylish but built to go the distance: it boasts an 80
 
 ### Circula AquaSport II Blue
 
-[![AquaSport\_Diver\_Watch\_Blue\_Tropic\_1-ae-st](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-02-AquaSport_Diver_Watch_Blue_Tropic_1-ae-st-bb_1920x1920-300x300.webp/public)](https://www.thewatchresource.com/recommends/circula-aquasport-ii-blue/)
+[![AquaSport\_Diver\_Watch\_Blue\_Tropic\_1-ae-st](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-02-AquaSport_Diver_Watch_Blue_Tropic_1-ae-st-bb_1920x1920-300x300.webp/public)](https://www.awin1.com/cread.php?awinmid=111704&awinaffid=928721&ued=https%3A%2F%2Fcirculawatches.com%2Fen%2Fwatches%2Fdive-watches%2Faquasport-ii-blue%2Fae-st-bb)
 
 **Specs:**
 
@@ -45,7 +45,7 @@ This timepiece is not only stylish but built to go the distance: it boasts an 80
 - Water Resistance: 200 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/circula-aquasport-ii-blue/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=111704&awinaffid=928721&ued=https%3A%2F%2Fcirculawatches.com%2Fen%2Fwatches%2Fdive-watches%2Faquasport-ii-blue%2Fae-st-bb)
 
 With a refined 40 mm brushed-steel case and sharp lines, the AquaSport II Blue strikes a balance between subtle elegance and dive-ready capability. The vibrant blue dial, framed by a 120-click sapphire bezel adorned with Swiss Super-LumiNova® indices, gives the piece a contemporary flair while staying grounded in technical detail. Its screw-down crown, 20 ATM (200 m) water-resistance and slightly curved sapphire crystal with anti-reflective treatment underline the watch’s real-world readiness.
 
@@ -55,7 +55,7 @@ For those of you looking for a dive-watch that doesn’t shout “tool watch” 
 
 ### VERO Open Water Daybreak
 
-[![open-water-41-daybreakvero-watch-company-780455](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-02-open-water-41-daybreakvero-watch-company-780455-300x300.webp/public)](https://www.thewatchresource.com/recommends/vero-open-water-daybreak/)
+[![open-water-41-daybreakvero-watch-company-780455](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-02-open-water-41-daybreakvero-watch-company-780455-300x300.webp/public)](https://verowatch.pxf.io/QjmzM3)
 
 **Specs:**
 
@@ -67,7 +67,7 @@ For those of you looking for a dive-watch that doesn’t shout “tool watch” 
 - Water Resistance: 200 m
 - Price: Under $900
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-open-water-daybreak/)
+[Check Price](https://verowatch.pxf.io/QjmzM3)
 
 The Vero Open Water 41 “Daybreak” blends classic dive-watch utility with a notably slim, modern profile that sets it apart from many bulkier tool watches in this category. Housed in a bead-blasted 316L stainless steel case measuring roughly 40–41 mm wide and just 11 mm thick, it wears exceptionally comfortably for a dive watch, slipping easily under a cuff while still offering strong wrist presence. A flat sapphire crystal with anti-reflective coating, a 60-click DLC-coated unidirectional bezel, and Super-LumiNova on the dial, hands, and bezel ensure excellent legibility in all lighting conditions. With 200 meters of water resistance and a screw-down crown using a triple-gasket seal, it meets the practical requirements of a true everyday diver.
 
@@ -77,7 +77,7 @@ While its 200 m depth rating positions it more as a versatile daily diver than a
 
 ### Tissot Seastar 1000
 
-[![Tissot\_seastar-1000](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Tissot_seastar-1000-300x300.png/public)](https://www.thewatchresource.com/recommends/tissot-seastar-1000/)
+[![Tissot\_seastar-1000](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Tissot_seastar-1000-300x300.png/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-seastar-1000-watch-t1204071704100.html)
 
 **Specs:**
 
@@ -89,7 +89,7 @@ While its 200 m depth rating positions it more as a versatile daily diver than a
 - Water Resistance: 300 m
 - Price: Around $500
 
-[Check Price](https://www.thewatchresource.com/recommends/tissot-seastar-1000/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-seastar-1000-watch-t1204071704100.html)
 
 If you’re after a dive watch that blends robust performance with sleek design, the Tissot Seastar 1000 43 mm delivers exactly that. Encased in 316L stainless steel and crowned with a resilient ceramic unidirectional bezel, it’s purpose-built for underwater excursions. With water-resistance up to 30 bar (300 m / 1,000 ft), a screw-down crown and caseback for optimal security, and a sapphire crystal with anti-reflective coating, this timepiece is engineered for real-world depths.
 
@@ -99,7 +99,7 @@ Ideal for everything from weekend boat trips to serious reef dives, the Seastar 
 
 ### Mido Ocean Star GMT
 
-[![Mido\_ocean-star-gmt](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Mido_ocean-star-gmt-300x300.png/public)](https://www.thewatchresource.com/recommends/mido-ocean-star-gmt-automatic/)
+[![Mido\_ocean-star-gmt](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Mido_ocean-star-gmt-300x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmido-ocean-star-automatic-black-dial-mens-watch-m0266291705100.html%3Fsrsltid%3DAfmBOoqirSb7tUVz3hBu1vLkpqPd9oJ11P6iAyL_0kNk8TOBsSZbEFrk)
 
 **Specs:**
 
@@ -111,7 +111,7 @@ Ideal for everything from weekend boat trips to serious reef dives, the Seastar 
 - Water Resistance: 200 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/mido-ocean-star-gmt-automatic/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmido-ocean-star-automatic-black-dial-mens-watch-m0266291705100.html%3Fsrsltid%3DAfmBOoqirSb7tUVz3hBu1vLkpqPd9oJ11P6iAyL_0kNk8TOBsSZbEFrk)
 
 The Ocean Star GMT from Mido immediately conveys both purposeful function and refined appeal. Measuring 44 mm in diameter with robust stainless steel construction and a ceramic unidirectional bezel, it maintains solid diver credentials—including 200 m (20 bar) water resistance and a screw-down crown—while adding the handy ability to track a second time zone. The black dial features a subtle 24-hour scale along its flange and a distinctively coloured GMT hand, making location-time reading intuitive at a glance.
 
@@ -121,7 +121,7 @@ In short: if your lifestyle runs from surfing a remote reef to hopping time zone
 
 ### Victorinox Journey 1884 Automatic
 
-[![Victorinox Journey 1884 Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Victorinox-Journey-1884-Automatic-300x263.webp/public)](https://www.thewatchresource.com/recommends/victorinox-journey-1884-automatic/)
+[![Victorinox Journey 1884 Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Victorinox-Journey-1884-Automatic-300x263.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884-Automatic%2Fp%2F241980.1)
 
 **Specs:**
 
@@ -133,7 +133,7 @@ In short: if your lifestyle runs from surfing a remote reef to hopping time zone
 - Water Resistance: 200 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-journey-1884-automatic/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884-Automatic%2Fp%2F241980.1)
 
 With its commanding 43 mm case and signature industrial design cues, the [Journey 1884 Automatic](https://www.thewatchresource.com/victorinox-journey-1884-review-a-partner-for-all-adventures/) is engineered for both rugged terrain and polished everyday wear. The unidirectional bezel with high-end ceramic inlay lends a bold visual presence while delivering durability for outdoor environments. The watch is rated for 20 ATM (200 m) of water resistance and features ISO-certified shock resistance—or in the official specs, “ISO-certified shock resistance watch with Swiss-made automatic movement.” Design details such as the engraved material codes, the screw-down caseback and the Swiss-Army-knife-inspired shape reinforce the watch’s utilitarian heritage.
 
@@ -143,7 +143,7 @@ In short: if you’re after a timepiece that channels the spirit of adventure—
 
 ### Certina DS Action Diver
 
-[![Certina DS Action Diver C0326071109100](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Certina-DS-Action-Diver-C0326071109100-182x300.webp/public)](https://www.thewatchresource.com/recommends/certina-ds-action-diver/)
+[![Certina DS Action Diver C0326071109100](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Certina-DS-Action-Diver-C0326071109100-182x300.webp/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcertina-ds-action-diver-automatic-green-dial-mens-watch-c0326071109100.html)
 
 **Specs:**
 
@@ -154,7 +154,7 @@ In short: if you’re after a timepiece that channels the spirit of adventure—
 - Water Resistance: 300 m
 - Price: Around $700
 
-[Check Price](https://www.thewatchresource.com/recommends/certina-ds-action-diver/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcertina-ds-action-diver-automatic-green-dial-mens-watch-c0326071109100.html)
 
 Built with purpose and polish, this dive tool blends serious marine credentials with refined everyday style. The 43 mm 316L stainless-steel case houses a robust unidirectional bezel, and under scratch-resistant sapphire crystal lies a vivid dial ready for action. Certified to the ISO 6425 standard for divers’ watches, it delivers 300 m (30 bar) water-resistance — a depth rating that ensures reliable performance whether you’re at the reef or walking city streets.
 

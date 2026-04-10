@@ -36,7 +36,7 @@ The new Cahill has been updated to 43mm and has been polished in every way to ma
 
 The Cahill has a water resistance rating of 300 meters. The Cahill's precise engineering and design allow it to achieve underwater endurance without sacrificing comfort or wearability.
 
-[![Spinnaker Cahill 300 Carbon Black Leather](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-Spinnaker-Cahill-300-Carbon-Black-Leather-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-cahill-300-carbon-black-leather/)
+[![Spinnaker Cahill 300 Carbon Black Leather](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-Spinnaker-Cahill-300-Carbon-Black-Leather-300x300.webp/public)](https://solartimeltd.pxf.io/JKBqM2)
 
 **Specs:**
 
@@ -46,7 +46,7 @@ The Cahill has a water resistance rating of 300 meters. The Cahill's precise eng
 - Case Width: 43 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-cahill-300-carbon-black-leather/)
+[Check Price](https://solartimeltd.pxf.io/JKBqM2)
 
 ### Hull Collection
 
@@ -56,7 +56,7 @@ Spinnaker’s Hull Chronograph Fumee Black watch has an eye-catching cushion sha
 
 This is a long-lasting, effortlessly attractive wristwatch.
 
-[![Spinnaker-Hull-Chrono-Fumee-Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker-Hull-Chrono-Fumee-Black.jpg/public)](https://www.thewatchresource.com/recommends/spinnaker-hull-chronograph-fumee-black/)
+[![Spinnaker-Hull-Chrono-Fumee-Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker-Hull-Chrono-Fumee-Black.jpg/public)](https://solartimeltd.pxf.io/9L2eKE)
 
 **Specs:**
 
@@ -65,13 +65,13 @@ This is a long-lasting, effortlessly attractive wristwatch.
 - Case Width: 42 mm
 - Water Resistance: 100 m
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-hull-chronograph-fumee-black/)
+[Check Price](https://solartimeltd.pxf.io/9L2eKE)
 
 #### Hull Diver
 
 The Spinnaker Hull Diver does a beautiful job of fusing vintage elements with modern edge, resulting in this eye-catching dive watch that is sure to attract compliments. The deep brown color of the dial and bezel is cleverly contrasted with a brushed stainless steel case with softly rounded corners. The reliable NH35 automatic movement and the mesmerizing sweeping second hand will keep you punctual, while the watch itself is guaranteed to keep you stylish.
 
-[![Spinnaker\_Hull-Diver-Cognac-Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Diver-Cognac-Brown-300x300.jpg/public)](https://www.thewatchresource.com/recommends/spinnaker-hull-diver-cognac-brown/)
+[![Spinnaker\_Hull-Diver-Cognac-Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Spinnaker_Hull-Diver-Cognac-Brown-300x300.jpg/public)](https://solartimeltd.pxf.io/kOVRxV)
 
 **Specs:**
 
@@ -81,13 +81,13 @@ The Spinnaker Hull Diver does a beautiful job of fusing vintage elements with mo
 - Case Width: 42 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-hull-diver-cognac-brown/)
+[Check Price](https://solartimeltd.pxf.io/kOVRxV)
 
 ### Dumas Collection
 
 The Dumas has a powerful, vintage-inspired form from the 1970s. The octagon case is bold and durable, and it provides the perfect backdrop for the bezel and dial.
 
-[![Spinnaker Dumas Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-Spinnaker-Dumas-Blue-288x300.png/public)](https://www.thewatchresource.com/recommends/spinnaker-dumas-coral-blue/)
+[![Spinnaker Dumas Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-09-Spinnaker-Dumas-Blue-288x300.png/public)](https://solartimeltd.pxf.io/Vxg47j)
 
 **Specs:**
 
@@ -97,13 +97,13 @@ The Dumas has a powerful, vintage-inspired form from the 1970s. The octagon case
 - Case Width: 44 mm
 - Water Resistance: 300 m
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-dumas-coral-blue/)
+[Check Price](https://solartimeltd.pxf.io/Vxg47j)
 
 ### Bradner Collection
 
 The Bradner is a fascinating, performance sports watch that is quickly becoming an iconic timepiece. It's known for its three-dimensional inner rotating diver bezel and neo-vintage appearance, all wrapped in a watch that's always dependable, sturdy, and attractive.
 
-[![Spinnaker Bradner Tidal Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-04-Screen-Shot-2022-04-10-at-3.03.55-PM-226x300.png/public)](https://www.thewatchresource.com/recommends/spinnaker-bradner-tidal-blue/)
+[![Spinnaker Bradner Tidal Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-04-Screen-Shot-2022-04-10-at-3.03.55-PM-226x300.png/public)](https://solartimeltd.pxf.io/RGKRQX)
 
 **Specs:**
 
@@ -113,7 +113,7 @@ The Bradner is a fascinating, performance sports watch that is quickly becoming 
 - Case Width: 42 mm
 - Water Resistance: 180 m
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-bradner-tidal-blue/)
+[Check Price](https://solartimeltd.pxf.io/RGKRQX)
 
 _Read our in-depth [Spinnaker Bradner Review](https://www.thewatchresource.com/spinnaker-bradner-quality-dive-watch-at-an-affordable-price/)._
 
@@ -121,7 +121,7 @@ _Read our in-depth [Spinnaker Bradner Review](https://www.thewatchresource.com/s
 
 The Piccard is re-establishing a new style in diving watch design, combining classic appearance with the discipline of modern watchmaking. With an undeniable bold presence, it nonetheless fits comfortably on the wrist and provides readability and function, making it a true outstanding watch in any collection.
 
-[![Spinnaker Piccard Dark Cerulean](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-04-Screen-Shot-2022-04-10-at-3.10.57-PM-220x300.png/public)](https://www.thewatchresource.com/recommends/spinnaker-piccard-dark-cerulean/)
+[![Spinnaker Piccard Dark Cerulean](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-04-Screen-Shot-2022-04-10-at-3.10.57-PM-220x300.png/public)](https://solartimeltd.pxf.io/gOJo22)
 
 **Specs:**
 
@@ -131,13 +131,13 @@ The Piccard is re-establishing a new style in diving watch design, combining cla
 - Case Width: 45 mm
 - Water Resistance: 550 m
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-piccard-dark-cerulean/)
+[Check Price](https://solartimeltd.pxf.io/gOJo22)
 
 ### Croft Collection
 
 A comprehensive piece of timekeeping is anchored by a 40mm diameter case form. The Croft Mid-Size is an all-rounder of horological substance, perfectly proportioned, designed, and made to stringent naval engineering requirements.
 
-[![Spinnaker Croft Elemental](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-04-Screen-Shot-2022-04-10-at-3.20.15-PM-236x300.png/public)](https://www.thewatchresource.com/recommends/spinnaker-croft-elemental/)
+[![Spinnaker Croft Elemental](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-04-Screen-Shot-2022-04-10-at-3.20.15-PM-236x300.png/public)](https://solartimeltd.pxf.io/o4Vnko)
 
 **Specs:**
 
@@ -147,7 +147,7 @@ A comprehensive piece of timekeeping is anchored by a 40mm diameter case form. T
 - Case Width: 40 mm
 - Water Resistance: 150 m
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-croft-elemental/)
+[Check Price](https://solartimeltd.pxf.io/o4Vnko)
 
 #### WRITTEN BY
 

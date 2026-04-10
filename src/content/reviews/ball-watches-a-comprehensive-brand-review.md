@@ -44,7 +44,7 @@ I personally love the brand, and will highlight some of my favorites below. In m
 
 The  [BALL Engineer Hydrocarbon](https://www.thewatchresource.com/ball-engineer-hydrocarbon-original-hands-on-review/) is the Ultimate Explorer’s Watch benefiting from exceptional resistance and exclusive patented innovations such  as the triple folding buckle and the crown protection. The Engineer Hydrocarbon collection by BALL is probably the most representative of what the brand stands for: innovation and exceptional quality. These are robust timepieces, built to handle the pressure of the deep sea.
 
-[![BALL Engineer Hydrocarbon Original green-min](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-08-BALL-Engineer-Hydrocarbon-Original-green-min-241x300.webp/public)](https://www.thewatchresource.com/recommends/ball-trainmaster-cannonball-chronograph/)
+[![BALL Engineer Hydrocarbon Original green-min](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-08-BALL-Engineer-Hydrocarbon-Original-green-min-241x300.webp/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fball-watch-cm1052d-s3j-bk.html)
 
 **Specs:**
 
@@ -63,7 +63,7 @@ Official Railroad Watch
 
 A watchmaking tribute to railroad history, the Official Railroad Watches are perpetuating the timeless attributes of elegance, lightness and simplicity of the early BALL timekeepers. A classical railroad heritage, the "Trainmaster" timepieces are made in the absolute respect for the values of precision, reliability and tradition of the BALL legacy. They feature a sapphire crystal case back.
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-04-CM1052D-S3J-BK-1-173x300.webp/public)](https://www.thewatchresource.com/recommends/ball-trainmaster-cannonball-chronograph/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-04-CM1052D-S3J-BK-1-173x300.webp/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fball-watch-cm1052d-s3j-bk.html)
 
 **Specs:**
 
@@ -74,7 +74,7 @@ A watchmaking tribute to railroad history, the Official Railroad Watches are per
 - Case Width: 43 mm
 - Price: Under $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/ball-trainmaster-cannonball-chronograph/) [Visit the Collection](https://www.ballwatch.com/global/en/collections/series/official-railroad-watch---31.html)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fball-watch-cm1052d-s3j-bk.html) [Visit the Collection](https://www.ballwatch.com/global/en/collections/series/official-railroad-watch---31.html)
 
 ###   
 Engineer II

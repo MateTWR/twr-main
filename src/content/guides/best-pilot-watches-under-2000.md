@@ -24,7 +24,7 @@ Let’s take a look at the best pilot watches under the $2,000 price point.
 
 ## Hamilton Khaki Aviation Converter GMT
 
-[![Hamilton Khaki Aviation Converter Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-h76615530-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto/)
+[![Hamilton Khaki Aviation Converter Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-h76615530-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html)
 
 **Specs:**
 
@@ -37,7 +37,7 @@ Let’s take a look at the best pilot watches under the $2,000 price point.
 - Water Resistance: 100 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-aviation-converter-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html)
 
 The Hamilton Khaki Aviation Converter seamlessly merges advanced technology with a refined aesthetic, making it a perfect tool watch for both pilots and modern urban professionals.  
 An interesting feature of this watch I wanted to mention is its incorporation of Nivachron™, an innovative anti-magnetic hairspring alloy. This cutting-edge material ensures exceptional precision and reliability.
@@ -50,7 +50,7 @@ Overall, the Hamilton Khaki Aviation Converter is a unique timepiece from the [K
 
 ## Laco Frankfurt GMT
 
-[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-08-Laco-Frankfurt-GMT-300x300.png/public)](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[![Laco Frankfurt GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-08-Laco-Frankfurt-GMT-300x300.png/public)](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 **Specs:**
 
@@ -61,7 +61,7 @@ Overall, the Hamilton Khaki Aviation Converter is a unique timepiece from the [K
 - Case Width: 43 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/laco-frankfurt-gmt/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fpilot-watches-special-models%2Ffrankfurt-gmt-grau)
 
 The [Laco Frankfurt GMT](https://www.thewatchresource.com/laco-frankfurt-gmt-review/) is a very masculine watch, featuring classic pilot watch elements combined with a decidedly modern look. The stainless steel case, inspired by the original Laco pilot watches, sporting a dark sandblasted finish and is equipped with magnetic field protection. The dark sandblasted stainless steel case and gray dial combination is counterbalanced by the light hour and minute markers, and a very vibrant orange secondary color used for the GMT hand’s arrow tip, and the 24-hour marker for the dial’s inner rotating bezel.
 
@@ -94,7 +94,7 @@ Every detail, from the onion-shaped crown to the minimal branding, speaks to STO
 
 ## Oris Big Crown Pointer Date
 
-[![Oris Big Crown Pointer Date 01 754 7749 3167-07 5 17 69GBR](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Oris-Big-Crown-Pointer-Date-01-754-7749-3167-07-5-17-69GBR-244x300.png/public)](https://www.thewatchresource.com/recommends/oris-big-crown-pointer-date/)
+[![Oris Big Crown Pointer Date 01 754 7749 3167-07 5 17 69GBR](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Oris-Big-Crown-Pointer-Date-01-754-7749-3167-07-5-17-69GBR-244x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-big-crown-pointer-date-automatic-green-dial-mens-watch-01-754-7749-3167-07-5-17-69gbr.html)
 
 **Specs:**
 
@@ -105,7 +105,7 @@ Every detail, from the onion-shaped crown to the minimal branding, speaks to STO
 - Case Width: 36 mm
 - Price: Around $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/oris-big-crown-pointer-date/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-big-crown-pointer-date-automatic-green-dial-mens-watch-01-754-7749-3167-07-5-17-69gbr.html)
 
 The Oris Big Crown Pointer Date, with its new green dial and bronze case, is a truly unique and eye-catching timepiece. The warm tones of the bronze case perfectly complement the rich green of the dial, creating a watch that is both classic and contemporary. This combination is not too common, making it a unique and very tasteful statement. My favorite part of this watch is that the bronze case will develop a patina over time, adding to its character and charm. This timepiece is not only visually stunning but also built to last. The Big Crown Pointer Date is a classic design that has been proven to stand the test of time, and the use of high-quality materials ensures that this watch will be a treasured possession for years to come.
 
@@ -130,7 +130,7 @@ The Sinn 104 St Sa comes equipped with the Sellita SW220-1 automatic movement, w
 
 ## Alpina Startimer Pilot Chronograph
 
-[![alpina-startimer-pilot-chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-07-alpina-startimer-pilot-chronograph-black-dial-automatic-mens-watch-al860b4s6-300x300.jpeg/public)](https://www.thewatchresource.com/recommends/alpina-startimer-pilot-chronograph-black/)
+[![alpina-startimer-pilot-chronograph](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-07-alpina-startimer-pilot-chronograph-black-dial-automatic-mens-watch-al860b4s6-300x300.jpeg/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Falpina-watch-al-860b4s6.html)
 
 **Specs:**
 
@@ -141,7 +141,7 @@ The Sinn 104 St Sa comes equipped with the Sellita SW220-1 automatic movement, w
 - Case Width: 44 mm
 - Price: Around $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/alpina-startimer-pilot-chronograph-black/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Falpina-watch-al-860b4s6.html)
 
 The Alpina Startimer Pilot Chronograph watch boasts a striking retro aesthetic, evoking the golden age of aviation with a bold design that commands attention. Its generous 44mm case size aligns with the expectations for a pilot's watch that draws inspiration from vintage elements. This substantial presence on the wrist ensures clear legibility and echoes the robust construction required of timepieces designed for the rigors of flight.
 
@@ -149,7 +149,7 @@ Beyond its size and styling, the Alpina Startimer Pilot Chronograph likely incor
 
 ## Hamilton Khaki Field Murph – The Interstellar watch
 
-[![Hamilton\_khaki\_field\_interstellar\_watch](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki_field_interstellar_watch-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[![Hamilton\_khaki\_field\_interstellar\_watch](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki_field_interstellar_watch-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 **Specs:**
 
@@ -160,7 +160,7 @@ Beyond its size and styling, the Alpina Startimer Pilot Chronograph likely incor
 - Case Width: 42 mm
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 This Hamilton Khaki Field watch, featured in the movie "Interstellar” with a key role, quickly became a popular timepiece.
 
@@ -195,7 +195,7 @@ Overall, the Alpina Startimer Pilot Heritage GMT is a compelling choice for watc
 
 ## Longines Heritage Avigation
 
-[![Longines Heritage Avigation](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-Screen-Shot-2021-12-28-at-6.51.00-PM-213x300.png/public)](https://www.thewatchresource.com/recommends/longines-heritage-avigation/)
+[![Longines Heritage Avigation](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-11-Screen-Shot-2021-12-28-at-6.51.00-PM-213x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l28164532.html)
 
 **Specs:**
 
@@ -206,7 +206,7 @@ Overall, the Alpina Startimer Pilot Heritage GMT is a compelling choice for watc
 - Case Width: 41 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-heritage-avigation/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l28164532.html)
 
 Longines, a brand with a rich history intertwined with aviation, has played a significant role in the evolution of flight. During the early 1900s, Longines was a key manufacturer of pilot's watches, chronographs, and other navigational instruments that were essential for both civil and military aviation. 
 

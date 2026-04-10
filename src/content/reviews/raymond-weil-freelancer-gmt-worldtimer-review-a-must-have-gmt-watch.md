@@ -12,7 +12,7 @@ The new timepiece that grabbed our attention this time was the Freelancer GMT Wo
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
 
-[![RW Freelancer GMT Worldtimer Green Dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-RW-Freelancer-GMT-Worldtimer-Green-Dial-804x1024.webp/public)](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-green/)
+[![RW Freelancer GMT Worldtimer Green Dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-RW-Freelancer-GMT-Worldtimer-Green-Dial-804x1024.webp/public)](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-worldtimer-green-leather-watch-41mm%2F)
 
 **Specs:**
 
@@ -23,7 +23,7 @@ The new timepiece that grabbed our attention this time was the Freelancer GMT Wo
 - Case Thickness: 9.7 mm
 - Water Resistance: 100 m / 330 ft
 
-[Check Price](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-green/)
+[Check Price](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-worldtimer-green-leather-watch-41mm%2F)
 
 ## Raymond Weil: The Brand
 
@@ -43,7 +43,7 @@ The case combines stainless steel and bronze, a refreshing and elegant solution,
 
 The overall look of the watch with the two crowns at 2 o’clock and 4 o’clock positions reminds us of the look of a vintage skin dive watch. The red triangle at the end of the GMT hand makes the dial more dynamic and brings our attention to the GMT functionality, combining vintage elements with today’s modern life where everything is connected. It is one of our favorite finds, as the Freelancer GMT Worldtimer has everything we could possibly want in a watch.  Let’s take a look at the details!
 
-[![RW Freelancer GMT Worldtimer Green Dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-RW-Freelancer-GMT-Worldtimer-Green-Dial-804x1024.webp/public)](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-green/)
+[![RW Freelancer GMT Worldtimer Green Dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-RW-Freelancer-GMT-Worldtimer-Green-Dial-804x1024.webp/public)](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-worldtimer-green-leather-watch-41mm%2F)
 
 **Specs:**
 
@@ -54,7 +54,7 @@ The overall look of the watch with the two crowns at 2 o’clock and 4 o’clock
 - Case Thickness: 9.7 mm
 - Water Resistance: 100 m / 330 ft
 
-[Check Price](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-green/)
+[Check Price](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-worldtimer-green-leather-watch-41mm%2F)
 
 ### Dial
 
@@ -112,7 +112,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 The Raymond Weil Freelancer GMT Worldtimer is a stunning watch for everyday use for the modern businessman. It perfectly balances a more active overall design and an elegant modern appearance to make it a suitable pick as an everyday go-to watch. The very reliable Swiss RW 3230 (based on Sellita SW330-2) automatic movement with the 50-hour power reserve, combined with the usual scratch resistant sapphire crystal, make this watch an excellent choice in our opinion. The unusual all-green look is well balanced with the stainless steel and bronze combination case. We think this is an absolute must have for anyone who’s looking for excellent quality with a truly unique design.
 
-[![RW Freelancer GMT Worldtimer Green Dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-RW-Freelancer-GMT-Worldtimer-Green-Dial-804x1024.webp/public)](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-green/)
+[![RW Freelancer GMT Worldtimer Green Dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-RW-Freelancer-GMT-Worldtimer-Green-Dial-804x1024.webp/public)](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-worldtimer-green-leather-watch-41mm%2F)
 
 **Specs:**
 
@@ -123,13 +123,13 @@ The Raymond Weil Freelancer GMT Worldtimer is a stunning watch for everyday use 
 - Case Thickness: 9.7 mm
 - Water Resistance: 100 m / 330 ft
 
-[Check Price](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-green/)
+[Check Price](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-worldtimer-green-leather-watch-41mm%2F)
 
 ## Additional variations of the Raymond Weil Freelancer GMT Worldtimer
 
 ### Raymond Weil Freelancer GMT Worldtimer Black
 
-[![Raymond Weil Freelancer GMT Worldtimer Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Raymond-Weil-Freelancer-GMT-Worldtimer-Black-804x1024.webp/public)](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-black/)
+[![Raymond Weil Freelancer GMT Worldtimer Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Raymond-Weil-Freelancer-GMT-Worldtimer-Black-804x1024.webp/public)](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-worldtimer-black-leather-watch-41mm%2F)
 
 **Specs:**
 
@@ -140,7 +140,7 @@ The Raymond Weil Freelancer GMT Worldtimer is a stunning watch for everyday use 
 - Case Thickness: 9.7 mm
 - Water Resistance: 100 m / 330 ft
 
-[Check Price](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-black/)
+[Check Price](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-worldtimer-black-leather-watch-41mm%2F)
 
 For watch enthusiasts who are not fans of colorful designs, the all black version of the Freelancer GMT Worldtimer might be the suitable perfect option.
 
@@ -150,7 +150,7 @@ This solution - in our opinion - makes this watch a bit more rugged looking than
 
 ### Raymond Weil Freelancer GMT Worldtimer Blue
 
-[![Raymond Weil Freelancer GMT Worldtimer Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Raymond-Weil-Freelancer-GMT-Worldtimer-Blue-804x1024.webp/public)](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-blue/)
+[![Raymond Weil Freelancer GMT Worldtimer Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Raymond-Weil-Freelancer-GMT-Worldtimer-Blue-804x1024.webp/public)](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-blue-leather-watch-41mm%2F)
 
 **Specs:**
 
@@ -161,7 +161,7 @@ This solution - in our opinion - makes this watch a bit more rugged looking than
 - Case Thickness: 9.7 mm
 - Water Resistance: 100 m / 330 ft
 
-[Check Price](https://www.thewatchresource.com/recommends/raymond-weil-freelancer-gmt-worldtimer-blue/)
+[Check Price](https://track.flexlinkspro.com/g.ashx?foid=156052.9394&trid=1264132.205635&foc=17&fot=9999&fos=1&url=https%3A%2F%2Fwww.raymond-weil.us%2Fproduct%2Ffreelancer-gmt-blue-leather-watch-41mm%2F)
 
 Blue is always a popular choice when it comes to watches, and luckily the Freelancer GMT Worldtimer is available in an all-blue version.
 

@@ -27,7 +27,7 @@ On paper, the specs hit a sweet spot for daily wear. The stainless steel case me
   
 It’s robust and legible enough to be a sport watch, yet there’s a certain understated dressiness in the polished bezel and indices that gives it a dash of sophistication. As we dive into the details – the dial, case, bracelet, movement, and on-wrist feel – I’ll share more of these first-hand impressions.
 
-[![Longines Conquest 41 green L3.830.4.02.6](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-06-Longines-Conquest-41-green-L3.830.4.02.6-209x300.webp/public)](https://www.thewatchresource.com/recommends/longines-conquest-41-green/)
+[![Longines Conquest 41 green L3.830.4.02.6](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-06-Longines-Conquest-41-green-L3.830.4.02.6-209x300.webp/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-conquest-green-dial-unisex-watch-l38304026.html%3Fsrsltid%3DAfmBOopjdqNMtZAxNr8L1_bylCXpctZtiLAw6eumQAmYcg4jPWotaq1J)
 
 **Specs:**
 
@@ -40,7 +40,7 @@ It’s robust and legible enough to be a sport watch, yet there’s a certain un
 - Water Resistance: 100 meters
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-conquest-41-green/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-conquest-green-dial-unisex-watch-l38304026.html%3Fsrsltid%3DAfmBOopjdqNMtZAxNr8L1_bylCXpctZtiLAw6eumQAmYcg4jPWotaq1J)
 
 ### Dial
 
@@ -110,7 +110,7 @@ Speaking of price, at around **$2,000 USD** (retail is about $2,200 on bracelet)
 
 The Conquest 41 mm is a confident all-rounder that brings together Longines’ sporty DNA and modern watchmaking upgrades in a compelling package. It has the kind of subtle character that grows on you with each wear – not a loud attention-grabber, but a watch that exudes a quiet confidence on the wrist. If you’re after a single watch that can seamlessly transition from work to play, from poolside to dinner table, all while delivering genuine mechanical pedigree and classic good looks, the Longines Conquest should be high on your list. It certainly earned a place on mine.
 
-[![Longines Conquest 41 green L3.830.4.02.6](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-06-Longines-Conquest-41-green-L3.830.4.02.6-209x300.webp/public)](https://www.thewatchresource.com/recommends/longines-conquest-41-green/)
+[![Longines Conquest 41 green L3.830.4.02.6](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-06-Longines-Conquest-41-green-L3.830.4.02.6-209x300.webp/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-conquest-green-dial-unisex-watch-l38304026.html%3Fsrsltid%3DAfmBOopjdqNMtZAxNr8L1_bylCXpctZtiLAw6eumQAmYcg4jPWotaq1J)
 
 **Specs:**
 
@@ -123,7 +123,7 @@ The Conquest 41 mm is a confident all-rounder that brings together Longines’ s
 - Water Resistance: 100 meters
 - Price: Around $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-conquest-41-green/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-conquest-green-dial-unisex-watch-l38304026.html%3Fsrsltid%3DAfmBOopjdqNMtZAxNr8L1_bylCXpctZtiLAw6eumQAmYcg4jPWotaq1J)
 
 ### Written by
 

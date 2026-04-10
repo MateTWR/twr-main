@@ -25,7 +25,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 
 ### Breitling Navitimer Chronograph
 
-[![Breitling-Navitimer](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Breitling-Navitimer-1-p951ohcwro5jbkk6gu4ewt4vh3u96wce9h9swzkv90.jpg/public "Breitling-Navitimer")](https://www.thewatchresource.com/recommends/breitling-navitimer-chronograph/)
+[![Breitling-Navitimer](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Breitling-Navitimer-1-p951ohcwro5jbkk6gu4ewt4vh3u96wce9h9swzkv90.jpg/public "Breitling-Navitimer")](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-navitimer-chronograph-automatic-black-dial-unisex-watch-ab0138211b1p1.html)
 
 Movement: Swiss Automatic  
   
@@ -33,13 +33,13 @@ Power Reserve: 70 hours
   
 Diameter: 43 mm  
 
-[Check Price](https://www.thewatchresource.com/recommends/breitling-navitimer-chronograph/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-navitimer-chronograph-automatic-black-dial-unisex-watch-ab0138211b1p1.html)
 
 The Breitling Navitimer is a classic aviation watch, and it’s the watch that most people think of when they hear “pilot’s chronograph”. The design of this unique timepiece has been very successful for nearly 60 years. When you have this watch on your wrist, it makes you feel like you’re ready to take the controls of a fighter plane.
 
 ### Tag Heuer Monaco
 
-[![Tag Heuer Monaco](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-06-19-at-12.57.47-PM-pqjxiueoqihzqwp6p0mxfb4jpouhzz7gdtkfa56ur8.png/public "Tag Heuer Monaco")](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[![Tag Heuer Monaco](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-06-19-at-12.57.47-PM-pqjxiueoqihzqwp6p0mxfb4jpouhzz7gdtkfa56ur8.png/public "Tag Heuer Monaco")](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 Movement: Swiss Automatic  
   
@@ -47,13 +47,13 @@ Power Reserve: 80 hours
   
 Diameter: 39 x 39 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/tag-heuer-monaco/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftag-heuer-monaco-watch-cbl2111-fc6453.html)
 
 The Monaco from Tag Heuer was one of the first automatic chronographs ever created, and it became an absolute favorite after the “King of Cool”, Steve McQueen wore the Heuer Monaco on his wrist in 1971 in Le Mans. This watch is an absolute classic and due to the bold geometries, we have a beautiful balance of vintage and contemporary.
 
 ### Panerai Luminor Marina 1950
 
-[![panerai-luminor-marina-1950](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-panerai-luminor-marina-1950-pudmpq9k5d9cil7n5cov8bx251pv51lyjaij60f7zo.jpeg/public "panerai-luminor-marina-1950")](https://www.thewatchresource.com/recommends/panerai-luminor-marina-1950/)
+[![panerai-luminor-marina-1950](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-panerai-luminor-marina-1950-pudmpq9k5d9cil7n5cov8bx251pv51lyjaij60f7zo.jpeg/public "panerai-luminor-marina-1950")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fpanerai-watch-pam01312.html)
 
 Movement: Swiss Automatic  
   
@@ -61,13 +61,13 @@ Power Reserve: 72 hours
   
 Diameter: 44 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/panerai-luminor-marina-1950/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fpanerai-watch-pam01312.html)
 
 The Panerai Luminor’s design makes these watches instantly recognizable. Additionally, Panerai can take the credit for starting the “oversized” watch trend in the late 1990s. The watch is definitely a statement piece with a 44 mm case width, but the robust design is somewhat counterbalanced with the elegant curves of 6 and 9 numerals.
 
 ### Blancpain Fifty Fathoms
 
-[![blancpain-fifty-fathoms](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-blancpain-fifty-fathoms-puoynuaostftzotcki6rpcb1unqpeqgfospj8t6eyc.jpeg/public "blancpain-fifty-fathoms")](https://www.thewatchresource.com/recommends/blancpain-fifty-fathoms/)
+[![blancpain-fifty-fathoms](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-blancpain-fifty-fathoms-puoynuaostftzotcki6rpcb1unqpeqgfospj8t6eyc.jpeg/public "blancpain-fifty-fathoms")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fblancpain-fifty-fathoms-automatic-grey-dial-mens-watch-5000-1210-g52a.html)
 
 Movement: Swiss Automatic  
   
@@ -75,13 +75,13 @@ Power Reserve: 120 hours
   
 Diameter: 43 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/blancpain-fifty-fathoms/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fblancpain-fifty-fathoms-automatic-grey-dial-mens-watch-5000-1210-g52a.html)
 
 The original Blancpain Fifty Fathoms was first introduced in 1953 and is now considered one of the most storied and influential divers' watches ever made. The watch was worn by the French navy as well as ocean explorer Jacques Cousteau and introduced the now-ubiquitous unidirectional rotating bezel for setting dive times. This version's  grey titanium case and the grey canvas strap make the watch a perfect timepiece that has it all for all situations. 
 
 ### Jaeger-LeCoultre Reverso Duoface
 
-[![Jaeger-LeCoultre Reverso Duo](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-00C9CF52-43FC-479A-A68D-1576E1203EDB-puqntncqexcxnpcyst6zp8agvi2wb2gzpx2rqmfltg.jpg/public "Jaeger-LeCoultre Reverso Duo")](https://www.thewatchresource.com/recommends/jaeger-lecoultre-reverso-duo/)
+[![Jaeger-LeCoultre Reverso Duo](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-00C9CF52-43FC-479A-A68D-1576E1203EDB-puqntncqexcxnpcyst6zp8agvi2wb2gzpx2rqmfltg.jpg/public "Jaeger-LeCoultre Reverso Duo")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjaeger-lecoultre-watch-q2458420.html)
 
 Movement: Swiss Manually Wound  
   
@@ -89,13 +89,13 @@ Power Reserve: 42 hours
   
 Diameter: 42.9 x 25.5 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/jaeger-lecoultre-reverso-duo/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjaeger-lecoultre-watch-q2458420.html)
 
 The Reverso was designed to stand up to the rigors of polo matches. It has become one of the most recognizable timepieces in the world because to its subtle Art Deco lines and distinctive, pioneering reversible casing. The Jaeger-LeCoultre Reverso is passionately original and a truly outstanding timepiece. The Reverso has generated countless timeless stories since its inception in 1931, cementing its status as a JLC legend.
 
 ### Chopard Mille Miglia GT XL Chronograph
 
-[![chopard-mille-miglia-gt-xl-chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-chopard-mille-miglia-gt-xl-chrono-puqo9c9pxb11q9ruxj4si9horzyxgqrw8ee2dv9pv8.jpeg/public "chopard-mille-miglia-gt-xl-chrono")](https://www.thewatchresource.com/recommends/chopard-mille-miglia-gt-xl-chronograph/)
+[![chopard-mille-miglia-gt-xl-chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-chopard-mille-miglia-gt-xl-chrono-puqo9c9pxb11q9ruxj4si9horzyxgqrw8ee2dv9pv8.jpeg/public "chopard-mille-miglia-gt-xl-chrono")](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fchopard-mille-miglia-gt-xl-grey-dial-unisex-watch-168571-3009.html)
 
 Movement: Swiss Automatic  
   
@@ -103,13 +103,13 @@ Power Reserve: 48 hours
   
 Diameter: 44 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/chopard-mille-miglia-gt-xl-chronograph/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fchopard-mille-miglia-gt-xl-grey-dial-unisex-watch-168571-3009.html)
 
 A variety of sleek, motorsport-inspired wristwatches with a decidedly masculine appeal have resulted from Chopard's decades-long connection with the Mille Miglia series of vintage automobile races. A racing-inspired tachymeter scale on bezel, the three subdials for running seconds, chronograph hours, and chronograph minutes give a very dynamic and sporty feel, while we still have a dial that's not too crowded, achieving an elegant balance at the same time. As an extra for car enthusiasts, the black rubber strap has a textured pattern reminiscent of the tread of Dunlop racing tires.
 
 ### Hublot Classic Fusion Blue Sunray
 
-[![hublot-classic-fusion-blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-hublot-classic-fusion-blue-puqop408l8m8iqv6ucjgca83kq8mlxdrqgfc8zvxh0.jpeg/public "hublot-classic-fusion-blue")](https://www.thewatchresource.com/recommends/hublot-classic-fusion-blue-sunray/)
+[![hublot-classic-fusion-blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-hublot-classic-fusion-blue-puqop408l8m8iqv6ucjgca83kq8mlxdrqgfc8zvxh0.jpeg/public "hublot-classic-fusion-blue")](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fhublot-watch-542-nx-7071-lr.html-blue-sunray/)
 
 Movement: Swiss Automatic (HUB1112)  
   
@@ -117,13 +117,13 @@ Power Reserve: 42 hours
   
 Diameter: 45 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/hublot-classic-fusion-blue-sunray/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fhublot-watch-542-nx-7071-lr.html-blue-sunray/)
 
 Hublot's Classic Fusion watches resemble the initial Hublot watches of the 1980s, which made history as the first gold watches on rubber straps. The six visible H-shaped screws on the bezel, and the seamlessly integrated lined blue rubber strap are all signature Hublot features on this blue-dialed model. It is a very appropriate choice for a one watch collection.
 
 ### Zenith El Primero Chronometer White
 
-[![zenith-el-primero-chronomaster](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-zenith-el-primero-chronomaster-puqpsrt2ykwsef988zpr1rx9x0r6e5u1irdw8b2wxg.jpeg/public "zenith-el-primero-chronomaster")](https://www.thewatchresource.com/recommends/zenith-el-primero-chronometer-white/)
+[![zenith-el-primero-chronomaster](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-zenith-el-primero-chronomaster-puqpsrt2ykwsef988zpr1rx9x0r6e5u1irdw8b2wxg.jpeg/public "zenith-el-primero-chronomaster")](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fzenith-chronomaster-chronograph-automatic-white-dial-mens-watch-03-3200-3600-69-m3200.html)
 
 Movement: Swiss Automatic  
   
@@ -131,13 +131,13 @@ Power Reserve: 60 hours
   
 Diameter: 38 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/zenith-el-primero-chronometer-white/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fzenith-chronomaster-chronograph-automatic-white-dial-mens-watch-03-3200-3600-69-m3200.html)
 
 The Zenith El Primero Chronomaster Original was one of the first timepieces to feature that ground-breaking high-frequency automatic movement, and it was brought back for a contemporary audience. The watch's 38mm steel casing is designed to resemble the size of the vintage Zenith El Primero, and the three subdials' tricolor design in blue, silver, and gray are now the signature design of the El Primero.
 
 ### Omega Speedmaster Professional
 
-[![omega-speedmaster-professional](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-omega-speedmaster-professional-puqq98x8r1gpwdbp1m3c9494r5jsb68o4b1a1wnhv8.jpeg/public "omega-speedmaster-professional")](https://www.thewatchresource.com/recommends/omega-speedmaster-professional/)
+[![omega-speedmaster-professional](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-omega-speedmaster-professional-puqq98x8r1gpwdbp1m3c9494r5jsb68o4b1a1wnhv8.jpeg/public "omega-speedmaster-professional")](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-speedmaster-chronograph-hand-wind-black-dial-mens-watch-31032425001001.html)
 
 Movement: Swiss Automatic  
   
@@ -145,7 +145,7 @@ Power Reserve: 50 hours
   
 Diameter: 42 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/omega-speedmaster-professional/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-speedmaster-chronograph-hand-wind-black-dial-mens-watch-31032425001001.html)
 
 Omega's "Moonwatch" is probably one of the most desired watches. The Swiss watchmaker's Speedmaster Professional Chronograph was first introduced in 1957 as a racing watch and has become one of the brightest stars in the watch firmament, having been worn by astronauts on six lunar missions, including Apollo 11 in 1969, when Buzz Aldrin and Neil Armstrong became the first men to walk on the moon.
 

@@ -44,7 +44,7 @@ Longer answer: BENRUS watches are great watches in our opinion. Their movements 
 
 ### Benrus Orbit Robot Skindiver
 
-[![Benrus Orbit Robot Skindiver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Orbit-Robot-Skindiver-q50g5yerh7hdkdczsn42t0qb3lhe9a5my6z30zy1kc.png/public "Benrus Orbit Robot Skindiver")](https://www.thewatchresource.com/recommends/benrus-orbit-robot-skindiver/)
+[![Benrus Orbit Robot Skindiver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Orbit-Robot-Skindiver-q50g5yerh7hdkdczsn42t0qb3lhe9a5my6z30zy1kc.png/public "Benrus Orbit Robot Skindiver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -56,7 +56,7 @@ Longer answer: BENRUS watches are great watches in our opinion. Their movements 
 - Water Resistance: 200 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-orbit-robot-skindiver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 The Benrus Orbit Robot Skindiver is a show-stopping reissued version of the 1972 original model. The classic design is tastefully updated with modern materials to harmonize vintage and contemporary elements. The cushion case design retains the retro feel of the watch, boasting a comfortable 41 mm width, which works well for most wrist sizes. The brushed stainless steel bezel, case, and bracelet pair beautifully with the grey fumé dial. The dial has a lighter metallic color at the center—connecting it visually back to the case—while progressively getting darker towards the outer edge, providing a great contrast and visual frame. The orange wide baton hour and minute hands make the watch look very robust. It comes equipped with the Soprod P024 Swiss automatic movement, providing a 38-hour power reserve. The Orbit Robot Skindiver is an elegant statement piece.
 
@@ -64,7 +64,7 @@ _Read our [BENRUS Orbit Robot hands-on review](https://www.thewatchresource.com/
 
 ### Benrus Sea Lord Diver
 
-[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -76,13 +76,13 @@ _Read our [BENRUS Orbit Robot hands-on review](https://www.thewatchresource.com/
 - Water Resistance: 300 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 The [Benrus Sea Lord Diver watch](https://www.thewatchresource.com/benrus-sea-lord-hands-on-review/) was one of the most popular Benrus watches back in the day, and deservedly so. Understated in its simplicity, the design highlights the classic features of a robust dive watch. The overall design makes this watch a versatile addition to a collection as it can easily be dressed up for more formal events, or down for more casual, sporty activities. In other words, it’s  a great everyday go-to watch. The 39 mm case width makes it perfectly comfortable for all wrist sizes. The wide baton hour and minute hands pair well with the understated features of the watch, while the black dial and the faux patina for the hour markers counterbalances the ruggedness and brings a touch of elegance. The Benrus Sea Lord comes with the Soprod P024 Swiss automatic movement, providing a 38-hour power reserve.
 
 ### Benrus Type I
 
-[![Benrus Type I](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-04-Benrus-Type-I-225x300.png/public)](https://www.thewatchresource.com/recommends/benrus-type-i/)
+[![Benrus Type I](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-04-Benrus-Type-I-225x300.png/public)](https://www.awin1.com/cread.php?awinmid=81107&awinaffid=928721&ued=https%3A%2F%2Fbenrus.com%2Fen-ch%2Fproducts%2Ftype-i-1%3FTitle%3DDefault%2BTitle)
 
 **Specs:**
 
@@ -93,7 +93,7 @@ The [Benrus Sea Lord Diver watch](https://www.thewatchresource.com/benrus-sea-lo
 - Water Resistance: 300 m
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-type-i/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=81107&awinaffid=928721&ued=https%3A%2F%2Fbenrus.com%2Fen-ch%2Fproducts%2Ftype-i-1%3FTitle%3DDefault%2BTitle)
 
 The Benrus Type I watch was developed for the US Military in 1972. It was designed to be more durable than any previous watches and to meet the specific needs of UDT (Underwater Demolitions Team) divers, as well as for use in the field. Although it was produced between 1972 and 1980, it was never released to the general public.
 
@@ -101,7 +101,7 @@ Today, a limited edition is available with the original design, great quality ET
 
 ### Benrus DTU-2A/P
 
-[![Benrus DTU-2A/P](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-DTU-2AP-q55e9qtqp0qlmzvng68j70zrgel89oikhlrd6lmhf0.png/public "Benrus DTU-2A:P")](https://www.thewatchresource.com/recommends/benrus-dtu-2a-p/)
+[![Benrus DTU-2A/P](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-DTU-2AP-q55e9qtqp0qlmzvng68j70zrgel89oikhlrd6lmhf0.png/public "Benrus DTU-2A:P")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Fdtu%2D2a%2Dp%2Dfield%2Dwatch&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -113,7 +113,7 @@ Today, a limited edition is available with the original design, great quality ET
 - Water Resistance: 50 m
 - Price: Around $600
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-dtu-2a-p/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Fdtu%2D2a%2Dp%2Dfield%2Dwatch&afftrack=TheWatchResource)
 
 The Benrus DTU is a field watch with bona fide military heritage, originally issued in 1964 when the US military requested the combat watch with extended service life. This DTU 2A/P field watch is revisited today and is available again with the Sellita SW200 Swiss automatic movement, providing a 38-hour power reserve. The syringe hour and minute hands are an elegant choice for the classic field watch dial design. The double domed acrylic crystal provides an element of vintage, and we absolutely love the removable military compass attached to the NATO strap.
 

@@ -22,7 +22,7 @@ The Spinnaker Bradner is an affordable solution for people who are just starting
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
 
-[![Spinnaker Bradner Pacific Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Pacific-Blue-1024x1024.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-bradner-pacific-blue/)
+[![Spinnaker Bradner Pacific Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Pacific-Blue-1024x1024.webp/public)](https://solartimeltd.pxf.io/Z6qraK)
 
 **Specs:**
 
@@ -33,7 +33,7 @@ The Spinnaker Bradner is an affordable solution for people who are just starting
 - Lug Distance: 20 mm
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-bradner-pacific-blue/)
+[Check Price](https://solartimeltd.pxf.io/Z6qraK)
 
 ### Dial
 
@@ -117,7 +117,7 @@ The Spinnaker Bradner is a great quality and surprisingly stunning dive watch fo
 
 ### Spinnaker Bradner Pacific Blue
 
-[![Spinnaker Bradner Pacific Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Pacific-Blue-1024x1024.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-bradner-pacific-blue/)
+[![Spinnaker Bradner Pacific Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Pacific-Blue-1024x1024.webp/public)](https://solartimeltd.pxf.io/Z6qraK)
 
 **Specs:**
 
@@ -128,7 +128,7 @@ The Spinnaker Bradner is a great quality and surprisingly stunning dive watch fo
 - Lug Distance: 20 mm
 - Price: Under $400
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-bradner-pacific-blue/)
+[Check Price](https://solartimeltd.pxf.io/Z6qraK)
 
 ## Additional Designs
 
@@ -136,19 +136,19 @@ As we've mentioned, there are different color variations of the Spinnaker Bradne
 
 ### Spinnaker Bradner Emerald Green
 
- [![Spinnaker Bradner Emerald Green](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Emerald-Green-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-bradner-emerald-green/)[Check Price](https://www.thewatchresource.com/recommends/spinnaker-bradner-emerald-green/)
+ [![Spinnaker Bradner Emerald Green](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Emerald-Green-300x300.webp/public)](https://solartimeltd.pxf.io/raRgdj)[Check Price](https://solartimeltd.pxf.io/raRgdj)
 
 ### Spinnaker Bradner Petrol Black
 
- [![Spinnaker Bradner Petrol Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Petrol-Black-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-bradner-petrol-black/)[Check Price](https://www.thewatchresource.com/recommends/spinnaker-bradner-petrol-black/)
+ [![Spinnaker Bradner Petrol Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Petrol-Black-300x300.webp/public)](https://solartimeltd.pxf.io/EE2qBW)[Check Price](https://solartimeltd.pxf.io/EE2qBW)
 
 ### Spinnaker Bradner Tidal Blue
 
- [![Spinnaker Bradner Tidal Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Tidal-Blue-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-bradner-tidal-blue/)[Check Price](https://www.thewatchresource.com/recommends/spinnaker-bradner-tidal-blue/)
+ [![Spinnaker Bradner Tidal Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Tidal-Blue-300x300.webp/public)](https://solartimeltd.pxf.io/RGKRQX)[Check Price](https://solartimeltd.pxf.io/RGKRQX)
 
 ### Spinnaker Bradner Atlantic Blue
 
- [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Atlantic-Blue-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-bradner-atlantic-blue/)[Check Price](https://www.thewatchresource.com/recommends/spinnaker-bradner-atlantic-blue/)
+ [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Atlantic-Blue-300x300.webp/public)](https://solartimeltd.pxf.io/55KjJo)[Check Price](https://solartimeltd.pxf.io/55KjJo)
 
 ## Other Watch Reviews
 

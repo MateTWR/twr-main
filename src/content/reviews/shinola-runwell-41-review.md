@@ -18,7 +18,7 @@ That said, let’s dive into the specifics, and decide for ourselves whether or 
 
 ## Shinola Runwell 41: Overview
 
-[![Shinola Runwell 41 Green](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Shinola-Runwell-41-Green-1-qdc0kxlke3dk966ozzjd5tz3adqwyes5kqq317dzr6.webp/public "Shinola Runwell 41 Green (1)")](https://www.thewatchresource.com/recommends/shinola-runwell-41-green/)
+[![Shinola Runwell 41 Green](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Shinola-Runwell-41-Green-1-qdc0kxlke3dk966ozzjd5tz3adqwyes5kqq317dzr6.webp/public "Shinola Runwell 41 Green (1)")](https://partners.shinola.com/y2EZdN)
 
 **Specs:**
 
@@ -29,7 +29,7 @@ That said, let’s dive into the specifics, and decide for ourselves whether or 
 - Lug Distance: 20 mm
 - Price: Around $700
 
-[Check Price](https://www.thewatchresource.com/recommends/shinola-runwell-41-green/)
+[Check Price](https://partners.shinola.com/y2EZdN)
 
 Shinola released a limited-edition watch with the name “the Runwell” in March of 2013, a timepiece that perfectly encapsulated Shinola’s dedication to traditional design, high-quality craftsmanship, and American production. Since then, Runwell watches became very popular and they are Shinola's flagship collection.
 
@@ -90,7 +90,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 As we’ve mentioned, Shinola is a brand that some watch enthusiasts love to hate. We are focusing on this specific watch: its design, features, characteristics, and technical specs. We think it’s truly a unique design, with very impressive color choices. Creating a watch that can be recognized from a distance is not easy, and Shinola definitely did it. If you like the design, and it’s within your budget, we can only recommend it, as it is a very comfortable wear, with a classic look - from an American company.
 
-[![Shinola Runwell 41 Green](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Shinola-Runwell-41-Green-1-qdc0kxlke3dk966ozzjd5tz3adqwyes5kqq317dzr6.webp/public "Shinola Runwell 41 Green (1)")](https://www.thewatchresource.com/recommends/shinola-runwell-41-green/)
+[![Shinola Runwell 41 Green](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Shinola-Runwell-41-Green-1-qdc0kxlke3dk966ozzjd5tz3adqwyes5kqq317dzr6.webp/public "Shinola Runwell 41 Green (1)")](https://partners.shinola.com/y2EZdN)
 
 **Specs:**
 
@@ -101,7 +101,7 @@ As we’ve mentioned, Shinola is a brand that some watch enthusiasts love to hat
 - Lug Distance: 20 mm
 - Price: Around $700
 
-[Check Price](https://www.thewatchresource.com/recommends/shinola-runwell-41-green/)
+[Check Price](https://partners.shinola.com/y2EZdN)
 
 ## Other Watch Reviews
 

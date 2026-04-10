@@ -10,7 +10,7 @@ On our journey to bring you high quality unique timepieces that are not receivin
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
 
-[![Victorinox Journey 1884 Quartz Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Victorinox-Journey-1884-Quartz-Stainless-Steel-1024x896.webp/public)](https://www.thewatchresource.com/recommends/victorinox-journey-1884-collection/)
+[![Victorinox Journey 1884 Quartz Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Victorinox-Journey-1884-Quartz-Stainless-Steel-1024x896.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FJourney-1884%2Fcollection%2Ftp-collection%2Ftimepieces_collection_WAT-C2633%3FScrollPosition%3D368%26maxResults%3D30)
 
 **Specs:**
 
@@ -21,7 +21,7 @@ On our journey to bring you high quality unique timepieces that are not receivin
 - Lug Distance: 21 mm
 - Price: $650 - $1,050
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-journey-1884-collection/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FJourney-1884%2Fcollection%2Ftp-collection%2Ftimepieces_collection_WAT-C2633%3FScrollPosition%3D368%26maxResults%3D30)
 
 ## Victorinox: The Brand
 
@@ -39,7 +39,7 @@ The Victorinox Journey 1884 is an amazing solution for people who are looking fo
 
 To sum up, this timepiece comes with all the design elements that other dive watches can bring as well, BUT the quality of the Journey 1884 ensures it can really take a beating, and that is something where competitors might come up short.
 
-[![Victorinox Journey 1884 Quartz Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Victorinox-Journey-1884-Quartz-Stainless-Steel-1024x896.webp/public)](https://www.thewatchresource.com/recommends/victorinox-journey-1884-collection/)
+[![Victorinox Journey 1884 Quartz Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Victorinox-Journey-1884-Quartz-Stainless-Steel-1024x896.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FJourney-1884%2Fcollection%2Ftp-collection%2Ftimepieces_collection_WAT-C2633%3FScrollPosition%3D368%26maxResults%3D30)
 
 **Specs:**
 
@@ -50,7 +50,7 @@ To sum up, this timepiece comes with all the design elements that other dive wat
 - Lug Distance: 21 mm
 - Price: $650 - $1,050
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-journey-1884-collection/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FJourney-1884%2Fcollection%2Ftp-collection%2Ftimepieces_collection_WAT-C2633%3FScrollPosition%3D368%26maxResults%3D30)
 
 ### Dial
 
@@ -60,7 +60,7 @@ The unique shape of the hands represents the essence of the watch: at first glan
 
 The inner sub-dial displays hours in military time, and the second hand’s red color gives an excitingly dynamic look and feel.
 
-[![Victorinox Journey 1884 Dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Victorinox-Journey-1884-Dial-q2fyasa1nlrtzajho53olaa9jscmakozntsil5hrao.webp/public "Victorinox Journey 1884 Dial")](https://www.thewatchresource.com/recommends/victorinox-journey-1884-quartz-leather/)
+[![Victorinox Journey 1884 Dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Victorinox-Journey-1884-Dial-q2fyasa1nlrtzajho53olaa9jscmakozntsil5hrao.webp/public "Victorinox Journey 1884 Dial")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241976.1)
 
 ## Bezel
 
@@ -68,7 +68,7 @@ The bezel’s design might just be our favorite detail: the serrated rotating be
 
 The overall design of the watch is definitely sporty in style, and make no mistake, this watch IS built for never-ending adventures. But due to the toned down metallic colors that are used, it remains silently elegant. The overall messaging coming through the design reads something like this: it doesn’t have to scream it’s ready for an adventure, rather, adventure is its essence.
 
-[![Victorinoz Journey 1884 Bezel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Victorinoz-Journey-1884-Bezel-q2fyctlggok74vkzs0skzrs7vub8yys1xwoe0qh1tc.webp/public "Victorinoz Journey 1884 Bezel")](https://www.thewatchresource.com/recommends/victorinox-journey-1884-quartz-rubber/)
+[![Victorinoz Journey 1884 Bezel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Victorinoz-Journey-1884-Bezel-q2fyctlggok74vkzs0skzrs7vub8yys1xwoe0qh1tc.webp/public "Victorinoz Journey 1884 Bezel")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241975)
 
 ## Case
 
@@ -80,7 +80,7 @@ The material of the crystal is sapphire, therefore the watch will have a solid s
 
 Additionally, the back of the case has a unique touch: as the Journey 1884 is a tribute to the company’s journey since 1884, the silhouette of a Swiss Army Knife is engraved on the back.
 
-[![Victorinox Journey 1884 Case](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Victorinox-Journey-1884-Case-q2fyeobzxx3k16w1ybn3esxy276b5h4zv2zv3dq3jk.webp/public "Victorinox Journey 1884 Case")](https://www.thewatchresource.com/recommends/victorinox-journey-1884-automatic-wood/)
+[![Victorinox Journey 1884 Case](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Victorinox-Journey-1884-Case-q2fyeobzxx3k16w1ybn3esxy276b5h4zv2zv3dq3jk.webp/public "Victorinox Journey 1884 Case")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884-Automatic%2Fp%2F241980.1)
 
 ## Movement
 
@@ -98,7 +98,7 @@ The accuracy range is within +/- 12 seconds per day under normal conditions.
 
 The see-through caseback provides a mesmerizing view of the movement.
 
-[![Victorinox Journey 1884 Automatic Movement](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Victorinox-Journey-1884-Automatic-Movement-1024x896.webp/public)](https://www.thewatchresource.com/recommends/victorinox-journey-1884-automatic-wood/)
+[![Victorinox Journey 1884 Automatic Movement](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Victorinox-Journey-1884-Automatic-Movement-1024x896.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884-Automatic%2Fp%2F241980.1)
 
 ## Strap / Stainless Steel Bracelet
 
@@ -148,7 +148,7 @@ The Victorinox Journey 1884 is a stunning watch for everyday use as well as for 
 
 ### Victorinox Journey 1884 Automatic Options
 
-[](https://www.thewatchresource.com/recommends/victorinox-journey-1884-automatic-wood/)[](https://www.thewatchresource.com/recommends/victorinox-journey-1884-automatic-stainless-steel/)Previous Next
+[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884-Automatic%2Fp%2F241980.1)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884-Automatic%2Fp%2F241981)Previous Next
 
 **Specs:**
 
@@ -159,11 +159,11 @@ The Victorinox Journey 1884 is a stunning watch for everyday use as well as for 
 - Lug Distance: 21 mm
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-journey-1884-automatic-wood/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884-Automatic%2Fp%2F241980.1)
 
 ### Victorinox Journey 1884 Quartz Options
 
-[](https://www.thewatchresource.com/recommends/victorinox-journey-1884-quartz-rubber/)[](https://www.thewatchresource.com/recommends/victorinox-journey-1884-quartz-black-rubber/)[](https://www.thewatchresource.com/recommends/victorinox-journey-1884-quartz-leather/)Previous Next
+[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241975)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241982)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241976.1)Previous Next
 
 **Specs:**
 
@@ -173,11 +173,11 @@ The Victorinox Journey 1884 is a stunning watch for everyday use as well as for 
 - Lug Distance: 21 mm
 - Price: Around $500 - $650
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-journey-1884-quartz-rubber/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241975)
 
 ### Victorinox Journey 1884 Stainless Steel Quartz Options
 
-[](https://www.thewatchresource.com/recommends/victorinox-journey-1884-quartz-stainless-steel-blue/)[](https://www.thewatchresource.com/recommends/victorinox-journey-1884-quartz-stainless-steel-black/)Previous Next
+[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241978)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F242009)Previous Next
 
 **Specs:**
 
@@ -187,7 +187,7 @@ The Victorinox Journey 1884 is a stunning watch for everyday use as well as for 
 - Lug Distance: 21 mm
 - Price: Under $700
 
-[Check Price](https://www.thewatchresource.com/recommends/victorinox-journey-1884-quartz-stainless-steel-blue/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241978)
 
 ## Other Watch Reviews
 

@@ -15,7 +15,7 @@ In no particular order, may we present our winners!
 
 ## Hamilton Jazzmaster Viewmatic Auto
 
-[![Hamilton Jazzmaster Viewmatic Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-Jazzmaster-Viewmatic-Auto-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-jazzmaster-viewmatic-auto/)
+[![Hamilton Jazzmaster Viewmatic Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-Jazzmaster-Viewmatic-Auto-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh32515555-jazzmaster-day-date-auto.html)
 
 **Specs:** 
 
@@ -25,7 +25,7 @@ In no particular order, may we present our winners!
 - Case Width: 40 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-jazzmaster-viewmatic-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh32515555-jazzmaster-day-date-auto.html)
 
 The Hamilton Jazzmaster Viewmatic's transparent case back provides the ideal view of modern watchmaking and fine craftsmanship coexisting in harmony. Fortunately, this watch's front is equally as eye-catching as its back. The intricate guilloche (also called engine-turning) pattern brings back traditional craftsmanship into a new modern design. The Hamilton Jazzmaster Viewmatic Auto is an absolute favorite!
 
@@ -54,7 +54,7 @@ The Marine Classic 36's design is both timeless and versatile. The hand-stitched
 
 ## Longines La Grande Presence
 
-[![L4.921.4.11.2 Presence](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-longines-pr-sence-l4-921-4-11-2-2000x2000-1667511027.png-300x300.webp/public)](https://www.thewatchresource.com/recommends/longines-la-grande-presence/)
+[![L4.921.4.11.2 Presence](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-longines-pr-sence-l4-921-4-11-2-2000x2000-1667511027.png-300x300.webp/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l49214112.html)
 
 **Specs:** 
 
@@ -64,13 +64,13 @@ The Marine Classic 36's design is both timeless and versatile. The hand-stitched
 - Case Width: 38.5 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-la-grande-presence/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l49214112.html)
 
 The Présence collection honors the traditional, enduring elegance that distinguishes the Swiss watch brand Longines. Its structured case with elegant lines makes it a remarkable dress watch. The Roman numerals on the dial combines style and readability. A beautiful and classy watch!
 
 ## Junghans Max Bill Auto
 
-[![junghans-max-bill-automatic-silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-junghans-max-bill-automatic-silver-300x300.jpeg/public)](https://www.thewatchresource.com/recommends/junghans-max-bill-automatic/)
+[![junghans-max-bill-automatic-silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-junghans-max-bill-automatic-silver-300x300.jpeg/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjunghans-max-bill-watch-027-3501-04.html)
 
 **Specs:**
 
@@ -80,13 +80,13 @@ The Présence collection honors the traditional, enduring elegance that distingu
 - Case Width: 38 mm
 - Lug Distance: 18 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/junghans-max-bill-automatic/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjunghans-max-bill-watch-027-3501-04.html)
 
 The Junghans Max Bill has a timeless minimalist design with no over complications and comes with a reliable automatic movement. Junghans own J800.1 automatic movement provide a 38-hour power reserve. The 38 mm case width is ideal for most wrist sizes, and the 10 mm case thickness will ensure a classy appearance!
 
 ## Hamilton American Classic Boulton Mechanical
 
-[![Hamilton American Classic Boulton Mechanical Green](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-18-at-6.37.55-PM-242x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-american-classic-boulton-mechanical/)
+[![Hamilton American Classic Boulton Mechanical Green](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-06-Screen-Shot-2022-06-18-at-6.37.55-PM-242x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh13519641-boulton-mechanical.html)
 
 **Specs:**
 
@@ -96,13 +96,13 @@ The Junghans Max Bill has a timeless minimalist design with no over complication
 - Case Width: 34.5 x 38 mm
 - Lug Distance: 22 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-american-classic-boulton-mechanical/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh13519641-boulton-mechanical.html)
 
 With the Hamilton Boulton Mechanical, Art Deco meets Hamilton's American Classic collection styling. Since its introduction in 1940, the Boulton has been a cornerstone of the Hamilton watches due to its unusual case yet classy form. The evergreen classic design is reimagined for the twenty-first century and driven by the incredible H-50 handwinding movement.
 
 ## Mido Baroncelli Heritage Gent
 
-[![Mido Baroncelli Heritage Gent](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Mido-Baroncelli-Heritage-Gent-300x300.webp/public)](https://www.thewatchresource.com/recommends/mido-baroncelli-heritage-gent/)
+[![Mido Baroncelli Heritage Gent](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Mido-Baroncelli-Heritage-Gent-300x300.webp/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmido-watch-m027-407-16-010-00.html)
 
 **Specs:**
 
@@ -112,13 +112,13 @@ With the Hamilton Boulton Mechanical, Art Deco meets Hamilton's American Classic
 - Diameter: 39 mm
 - Lug Distane: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/mido-baroncelli-heritage-gent/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmido-watch-m027-407-16-010-00.html)
 
 The double-sided hands of the Baroncelli Heritage Swiss watches, which were created as a pair, give them their distinctive lightness, slimness, and exceedingly clean lines. These elegant and traditional watches, which have automatic movements, are the ideal representation of Mido's expertise. This evergreen timepiece has a 39 mm case width, which makes it a very elegant fit for almost all wrist sizes.
 
 ## Raymond Weil Maestro Automatic
 
-[![Raymond Weil Maestro Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Raymond-Weil-Maestro-Automatic-176x300.jpg/public)](https://www.thewatchresource.com/recommends/raymond-weil-maestro/)
+[![Raymond Weil Maestro Automatic](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Raymond-Weil-Maestro-Automatic-176x300.jpg/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fraymond-weil-watch-2837-stc-65001.html)
 
 **Specs:**
 
@@ -128,13 +128,13 @@ The double-sided hands of the Baroncelli Heritage Swiss watches, which were crea
 - Case Width: 39.5 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/raymond-weil-maestro/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fraymond-weil-watch-2837-stc-65001.html)
 
 The Maestro, which means "master," was introduced in 2010 to highlight Raymond Weil's mastery of Swiss horology while also honoring the realm of classical music and the admiration demanded by a great personality, composer, or conductor. This mechanical watch line blends beauty and sophistication with innovation, and includes some of the most well-known technical complexities from the Swiss watchmaking heritage.
 
 ## Montblanc Meisterstuck Heritage
 
-[![Montblanc Meisterstuck Heritage](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Montblanc-Meisterstuck-Heritage-300x300.jpeg/public)](https://www.thewatchresource.com/recommends/montblanc-meisterstuck-heritage/)
+[![Montblanc Meisterstuck Heritage](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Montblanc-Meisterstuck-Heritage-300x300.jpeg/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmontblanc-110695.html)
 
 **Specs:**
 
@@ -144,13 +144,13 @@ The Maestro, which means "master," was introduced in 2010 to highlight Raymond W
 - Case Width: 41 mm
 - Lug Distance: 19 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/montblanc-meisterstuck-heritage/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmontblanc-110695.html)
 
 The brand name Montblanc already equals to evergreen elegance, but the Montblanc Mesiterstuck Heritage still delivers and hits already high expectations. The beautiful silver-tone dial and rose gold hands and index hour markers combination is topped with the Roman numeral at only the 12 o'clock position.
 
 ## Seiko Presage Automatic Brown
 
-[![SPB115J1 Seiko Presage Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-SPB115J1-300x300.png/public)](https://www.thewatchresource.com/recommends/seiko-presage-brown/)
+[![SPB115J1 Seiko Presage Brown](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-SPB115J1-300x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fseiko-presage-automatic-brown-dial-mens-watch-spb115j1.html)
 
 **Specs:**
 
@@ -160,7 +160,7 @@ The brand name Montblanc already equals to evergreen elegance, but the Montblanc
 - Case Width: 40 mm
 - Lug Distance: 20 mm
 
-[Check Price](https://www.thewatchresource.com/recommends/seiko-presage-brown/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fseiko-presage-automatic-brown-dial-mens-watch-spb115j1.html)
 
 A watch from Seiko usually makes most "best of" articles, and for obvious reasons: reliable brand with precise movements, impressive design at a very reasonable price point. The Seiko Presage Automatic Brown is a great dress watch option. A classy design with reliable automatic movement that gives you 70 hours power reserve. The case has a subtle brown undertone, which makes it a perfect timepiece for almost all suit color combination.
 

@@ -10,7 +10,7 @@ Vero Watch Company may be a relatively young brand (founded in 2015 in Portland,
 
 Realtree’s influence is immediately apparent in the aesthetic. The Compass Blue variant features an original Realtree pattern canvas strap in a watery blue tone.It’s a look that stands out without being gaudy - more on that in a moment. Vero, for its part, brings the watchmaking chops: a robust stainless steel case, reliable automatic movement, and thoughtful design details geared toward adventurers. The partnership aims to create a tool watch that “blends naturally into any setting” – tough enough for the water and trail, yet refined enough for the office. I rarely write reviews about collaborations, but this one really caught my eye, so let’s take a closer look.
 
-[![Vero x Realtree Tide Tracker Compass Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vero-x-Realtree-Tide-Tracker-Compass-Blue-re9ysw8d8roq3w8d823kqa5ytnajy8vmdnki1quawc.webp/public "Vero x Realtree Tide Tracker Compass Blue")](https://www.thewatchresource.com/recommends/vero-realtree-tide-tracker-compass-blue/)
+[![Vero x Realtree Tide Tracker Compass Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vero-x-Realtree-Tide-Tracker-Compass-Blue-re9ysw8d8roq3w8d823kqa5ytnajy8vmdnki1quawc.webp/public "Vero x Realtree Tide Tracker Compass Blue")](https://verowatch.pxf.io/mOQQbq)
 
 **Specs:**
 
@@ -21,7 +21,7 @@ Realtree’s influence is immediately apparent in the aesthetic. The Compass Blu
 - Lug-to-Lug Distance: 47 mm
 - Price: $550
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-realtree-tide-tracker-compass-blue/)
+[Check Price](https://verowatch.pxf.io/mOQQbq)
 
 ## Vero Tide Tracker Compass Blue: Overview
 
@@ -29,7 +29,7 @@ The Realtree Tide Tracker Compass Blue is an automatic dive watch built to move 
 
 The Tide Tracker feels like a true go-anywhere tool watch. It’s not a robust dive watch per se (with 120 m water resistance rather than 200 m) but it should handle splashes and submersion without issues. The size and specs also hit a sweet spot that will appeal to many enthusiasts, as summarized below.
 
-[![Vero x Realtree Tide Tracker Compass Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vero-x-Realtree-Tide-Tracker-Compass-Blue-re9ysw8d8roq3w8d823kqa5ytnajy8vmdnki1quawc.webp/public "Vero x Realtree Tide Tracker Compass Blue")](https://www.thewatchresource.com/recommends/vero-realtree-tide-tracker-compass-blue/)
+[![Vero x Realtree Tide Tracker Compass Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vero-x-Realtree-Tide-Tracker-Compass-Blue-re9ysw8d8roq3w8d823kqa5ytnajy8vmdnki1quawc.webp/public "Vero x Realtree Tide Tracker Compass Blue")](https://verowatch.pxf.io/mOQQbq)
 
 **Specs:**
 
@@ -40,7 +40,7 @@ The Tide Tracker feels like a true go-anywhere tool watch. It’s not a robust d
 - Lug-to-Lug Distance: 47 mm
 - Price: $550
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-realtree-tide-tracker-compass-blue/)
+[Check Price](https://verowatch.pxf.io/mOQQbq)
 
 ### Dial and Legibility
 
@@ -110,7 +110,7 @@ Of course, this watch won’t be for everyone and that’s okay. It’s not tryi
 
 In summary, the Vero x Realtree Tide Tracker Compass Blue is far more than a novelty. It’s a well-executed, robust timepiece that delivers on its promises and then some. Strapping it on, you will feel ready for anything – whether it’s timing the next big wave, hiking along the coastline, or simply tackling the workday knowing that somewhere the tides are turning, right on time.
 
-[![Vero x Realtree Tide Tracker Compass Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vero-x-Realtree-Tide-Tracker-Compass-Blue-re9ysw8d8roq3w8d823kqa5ytnajy8vmdnki1quawc.webp/public "Vero x Realtree Tide Tracker Compass Blue")](https://www.thewatchresource.com/recommends/vero-realtree-tide-tracker-compass-blue/)
+[![Vero x Realtree Tide Tracker Compass Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vero-x-Realtree-Tide-Tracker-Compass-Blue-re9ysw8d8roq3w8d823kqa5ytnajy8vmdnki1quawc.webp/public "Vero x Realtree Tide Tracker Compass Blue")](https://verowatch.pxf.io/mOQQbq)
 
 **Specs:**
 
@@ -121,7 +121,7 @@ In summary, the Vero x Realtree Tide Tracker Compass Blue is far more than a nov
 - Lug-to-Lug Distance: 47 mm
 - Price: $550
 
-[Check Price](https://www.thewatchresource.com/recommends/vero-realtree-tide-tracker-compass-blue/)
+[Check Price](https://verowatch.pxf.io/mOQQbq)
 
 ## Other Watch Reviews
 

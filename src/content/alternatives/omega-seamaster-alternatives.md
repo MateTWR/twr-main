@@ -22,7 +22,7 @@ The Omega Seamaster is a wonderful choice whether you're a seasoned diver, a Jam
 
 ## Vaer D5 Meridian Navy
 
-[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Vaer-D5-Meridian-Navy-300x300.webp/public)](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Vaer-D5-Meridian-Navy-300x300.webp/public)](https://vaer-watches.sjv.io/daaZyM)
 
 **Specs:**
 
@@ -34,7 +34,7 @@ The Omega Seamaster is a wonderful choice whether you're a seasoned diver, a Jam
 - Water Resistance: 200 m
 - Price: Around $600
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-d5-meridian-navy/)
+[Check Price](https://vaer-watches.sjv.io/daaZyM)
 
 Vaer watches are assembled in the USA and they go through rigorous testing: the D5 goes to the limits of real-world depth exposure, so they can be ocean-ready. While the style of this watch is distinctly military-inspired, the fine details on the dial make it an interesting cross between elegant and rugged.  The D5 comes with the Vaer’s standard 24-month warranty, and the comfortable case size make it a perfect fit for most wrists.
 
@@ -111,7 +111,7 @@ The Kanno by Orient is on the larger side (44 mm case diameter), although due to
 
 ## Spinnaker Dumas
 
-[![Spinnaker Dumas](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-SP-5081-GG-Q_1800x1800-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-dumas-coral-blue/)
+[![Spinnaker Dumas](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-SP-5081-GG-Q_1800x1800-300x300.webp/public)](https://solartimeltd.pxf.io/Vxg47j)
 
 **Specs:**
 
@@ -122,7 +122,7 @@ The Kanno by Orient is on the larger side (44 mm case diameter), although due to
 - Water Resistance: 300 m
 - Price: $400
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-dumas-coral-blue/)
+[Check Price](https://solartimeltd.pxf.io/Vxg47j)
 
 A great option from Spinnaker: the Dumas. The Spinnaker Dumas Harbour Blue has a powerful, vintage-inspired form from the 1970s. The octagon case is bold and durable, and it provides the perfect backdrop for the bezel and dial.
 
@@ -132,7 +132,7 @@ _Read our [UNDONE brand review](https://www.thewatchresource.com/spinnaker-watc
 
 ## Benrus Sea Lord Diver
 
-[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Benrus-Sea-Lord-Diver-236x300.png/public)](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Benrus-Sea-Lord-Diver-236x300.png/public)](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -143,13 +143,13 @@ _Read our [UNDONE brand review](https://www.thewatchresource.com/spinnaker-watc
 - Lug Width: 20 mm
 - Price: Under $900
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 The [Benrus Sea Lord Diver watch](https://www.thewatchresource.com/benrus-sea-lord-hands-on-review/) was one of the most popular Benrus watches back in the day, and deservedly so. Understated in its simplicity, the design highlights the classic features of a robust dive watch. The overall design makes this watch a versatile addition to a collection as it can easily be dressed up for more formal events, or down for more casual, sporty activities. In other words, it’s  a great everyday go-to watch. The 39 mm case width makes it perfectly comfortable for all wrist sizes. The wide baton hour and minute hands pair well with the understated features of the watch, while the black dial and the faux patina for the hour markers counterbalances the ruggedness and brings a touch of elegance. The Benrus Sea Lord comes with the Soprod P024 Swiss automatic movement, providing a 38-hour power reserve.
 
 ## Hamilton Khaki Navy Scuba Auto
 
-[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Hamilton_khaki-navy-scuba-auto-300x300.png/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 **Specs:**
 
@@ -161,7 +161,7 @@ The [Benrus Sea Lord Diver watch](https://www.thewatchresource.com/benrus-sea-lo
 - Water Resistance: 300 m
 - Pirce: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-navy-scuba-auto/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 The Khaki Navy Scuba is Inspired by the design and function of traditional dive watches, while incorporating modern elements to make it a truly classic timepiece. Its unidirectional rotating bezel, excellent build, and simple readability provide consistent functionality, while essential features take it to the next level. For more information, read our in-depth [Khaki Navy Scuba review](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/).
 
@@ -224,7 +224,7 @@ Mido’s Ocean Star is a very impressive, functional timepiece with an added GMT
 
 ## Oris Aquis Titanium Date
 
-[![Oris Aquis 01 733 7730 7153-07 4 24 64TEB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Aquis-01-733-7730-7153-07-4-24-64TEB-244x300.png/public)](https://www.thewatchresource.com/recommends/oris-aquis-titanium-date/)
+[![Oris Aquis 01 733 7730 7153-07 4 24 64TEB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Aquis-01-733-7730-7153-07-4-24-64TEB-244x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-01-733-7730-7153-07-4-24-64teb.html)
 
 **Specs:**
 
@@ -235,7 +235,7 @@ Mido’s Ocean Star is a very impressive, functional timepiece with an added GMT
 - Water Resistance: 300 m
 - Price: Under $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/oris-aquis-titanium-date/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-01-733-7730-7153-07-4-24-64teb.html)
 
 We love the understated elegance of the gray elements combined with the rugged sporty look of the silicone strap. The deep black color of the dial pulls it all together just perfectly.
 

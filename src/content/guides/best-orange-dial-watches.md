@@ -12,7 +12,7 @@ Psychologically speaking, we tend to gravitate toward the color orange when in n
 
 ## Spinnaker Dumas Tangerine
 
-[![Spinnaker Dumas Tangerine](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Spinnaker-Dumas-Tangerine-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-dumas-tangerine/)
+[![Spinnaker Dumas Tangerine](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Spinnaker-Dumas-Tangerine-300x300.webp/public)](https://solartimeltd.pxf.io/092YVN)
 
 **Specs:** 
 
@@ -22,13 +22,13 @@ Psychologically speaking, we tend to gravitate toward the color orange when in n
 - Case Width: 44 mm
 - Price: Under $450
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-dumas-tangerine/)
+[Check Price](https://solartimeltd.pxf.io/092YVN)
 
 The Spinnaker Dumas Tangerina watch features a bold, vintage 1970s-inspired octagonal case that is sturdy and provides the perfect frame for the bezel and dial. The stainless steel case and bracelet make the orange dial pop, and to make the look of the watch even more dynamic, the hour markers and the minute hand are further highlighted with a secondary vibrant light blue color. A classy and sporty option with a reliable Japanese automatic movement (NH35) provided by Seiko.
 
 ## Vaer A3 Atlas Orange
 
-[![Vaer A3 Atlas Orange](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Vaer-A3-Atlas-Orange-300x300.webp/public)](https://www.thewatchresource.com/recommends/vaer-a3-atlas-orange/)
+[![Vaer A3 Atlas Orange](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Vaer-A3-Atlas-Orange-300x300.webp/public)](https://vaer-watches.sjv.io/nLLvzV)
 
 **Specs:**
 
@@ -39,13 +39,13 @@ The Spinnaker Dumas Tangerina watch features a bold, vintage 1970s-inspired octa
 - Lug Distance: 20 mm
 - Price: Around $600
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-a3-atlas-orange/)
+[Check Price](https://vaer-watches.sjv.io/nLLvzV)
 
 As most orange dial watches are dial watches, we are delighted to present a field watch with orange dial: the Vaer A3 Atlas. Vaer watches are assembled in the USA, and the Vaer A3 blends class-leading durability with a combination of a rugged look and classic elements to display an evergreen field watch design. The 36 mm case width is on the smaller side (like the classic field watches), therefore it's a great fit for smaller wrists as well.
 
 ## Spinnaker Boettger Coral Orange
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Spinnaker-Boettger-Coral-Orange-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-boettger-coral-orange/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Spinnaker-Boettger-Coral-Orange-300x300.webp/public)](https://solartimeltd.pxf.io/Oez1AK)
 
 **Specs:** 
 
@@ -56,7 +56,7 @@ As most orange dial watches are dial watches, we are delighted to present a fiel
 - Water Resistance: 300 m
 - Price: $480
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-boettger-coral-orange/)
+[Check Price](https://solartimeltd.pxf.io/Oez1AK)
 
 The Spinnaker Boettger comes with an integrated strap, which is a light solution for serious divers, but the stainless steel bracelet is also included so this timepiece can be an everyday go-to choice. The crown located at the 4 o’clock position gives this watch a dynamic and sporty design. The reliable Miyota 9015 automatic movement provides a 42 hour power reserve. A gret choice!
 
@@ -80,7 +80,7 @@ Bulova’s eye-catching Oceanographer watch is a great blend of function and sty
 
 ## Dan Henry 1975 Skin Diver
 
-[![Dan\_Henry\_1975\_Skin\_Diver\_Automatic\_39mm\_Orange\_Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Dan_Henry_1975_Skin_Diver_Automatic_39mm_Orange_Steel-267x300.webp/public)](https://www.thewatchresource.com/recommends/dan-henry-1975-skin-diver/)
+[![Dan\_Henry\_1975\_Skin\_Diver\_Automatic\_39mm\_Orange\_Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Dan_Henry_1975_Skin_Diver_Automatic_39mm_Orange_Steel-267x300.webp/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1975-skin-diver-watch)
 
 **Specs:**
 
@@ -92,7 +92,7 @@ Bulova’s eye-catching Oceanographer watch is a great blend of function and sty
 - Water Resistance: 150 m
 - Price: Under $500
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1975-skin-diver/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1975-skin-diver-watch)
 
 The Dan Henry 1975 is a '70s inspired skin diving watch that can be your everyday go-to timepiece. The vintage elements of the dial are made a bit more dynamic with the bright orange second hand. The reliable Miyota 9015 automatic movement provides 42 hours of power reserve, and the case at 39 mm width makes this a perfect fit for all wrist sizes. 
 
@@ -131,7 +131,7 @@ The eye-catching Certina DS Super PH500M is guaranteed to draw attention with it
 
 ## Breitling Superocean Automatic 36
 
-[![Breitling Superocean Automatic 36](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Breitling-Superocean-Automatic-36-1-198x300.png/public)](https://www.thewatchresource.com/recommends/breitling-superocean-automatic-36/)
+[![Breitling Superocean Automatic 36](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-01-Breitling-Superocean-Automatic-36-1-198x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-superocean-automatic-chronometer-mens-watch-a17377211o1s1.html)
 
 **Specs:**
 
@@ -141,7 +141,7 @@ The eye-catching Certina DS Super PH500M is guaranteed to draw attention with it
 - Case Width: 36 mm
 - Price: Around $4,000
 
-[Check Price](https://www.thewatchresource.com/recommends/breitling-superocean-automatic-36/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbreitling-superocean-automatic-chronometer-mens-watch-a17377211o1s1.html)
 
 The Breitling Superocean watch is inspired by the 1960s dive watch design, Don’t let the high-contrast dial ring with the playful orange color mislead you: this serious watch is water resistant up to 300 meters, shockproof, sandproof, and saltwater resistant. The Superocean watch is versatile, suitable for diving, surfing, swimming and going out for dinner - however, the vibrant color brings an element of casualness in our opinion. It is a perfect blend of nostalgia and a fresh new look.
 

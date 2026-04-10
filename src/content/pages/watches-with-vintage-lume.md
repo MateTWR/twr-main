@@ -33,7 +33,7 @@ So without further ado, let’s take a look at the best faux-patina watches that
 
 ### Benrus Sea Lord Diver
 
-[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 **Specs:**
 
@@ -44,13 +44,13 @@ So without further ado, let’s take a look at the best faux-patina watches that
 - Lug Width: 20 mm
 - Price: Under $900
 
-[Check Price](https://www.thewatchresource.com/recommends/benrus-sea-lord-diver/)
+[Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 The [Benrus Sea Lord Diver watch](https://www.thewatchresource.com/benrus-sea-lord-hands-on-review/) was one of the most popular Benrus watches back in the day, and deservedly so. Understated in its simplicity, the design highlights the classic features of a robust dive watch. The overall design makes this watch a versatile addition to a collection as it can easily be dressed up for more formal events, or down for more casual, sporty activities. In other words, it’s  a great everyday go-to watch. The 39 mm case width makes it perfectly comfortable for all wrist sizes. The wide baton hour and minute hands pair well with the understated features of the watch, while the black dial and the faux patina for the hour markers counterbalances the ruggedness and brings a touch of elegance. The Benrus Sea Lord comes with the Soprod P024 Swiss automatic movement, providing a 38-hour power reserve.
 
 ### Vaer S3 Tradition
 
-[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://vaer-watches.sjv.io/9gZOqj)
 
 **Specs:**
 
@@ -60,13 +60,13 @@ The [Benrus Sea Lord Diver watch](https://www.thewatchresource.com/benrus-sea-lo
 - Lug Distance: 20 mm
 - Price: Around $100
 
-[Check Price](https://www.thewatchresource.com/recommends/vaer-s3-tradition-36/)
+[Check Price](https://vaer-watches.sjv.io/9gZOqj)
 
 The [VAER S3](https://www.thewatchresource.com/vaer-a3-tradition-review/) is an affordable alternative to the Rolex Explorer. VAER watches are assembled in the USA, and they go through rigorous testing. The S3 Tradition blends class-leading durability with a combination of a rugged look and classic elements to display an evergreen design. The 36 mm case width is on the smaller size, therefore it’s a great fit for smaller wrists as well. The classic syringe hour and minute hands give a touch of elegance that can easily be further elevated with a stainless steel bracelet.
 
 ### Longines Legend Diver
 
-[![Longines Legend Diver L3.774.4.70.2](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Legend-Diver-L3.774.4.70.2-q701m6ldlvkjr9a7pv3gr8fp6w4d56zjha19rb6jsc.png/public "Longines Legend Diver L3.774.4.70.2")](https://www.thewatchresource.com/recommends/longines-legend-diver-faux-patina/)
+[![Longines Legend Diver L3.774.4.70.2](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Legend-Diver-L3.774.4.70.2-q701m6ldlvkjr9a7pv3gr8fp6w4d56zjha19rb6jsc.png/public "Longines Legend Diver L3.774.4.70.2")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-heritage-classic-grey-dial-unisex-watch-l37744702.html)
 
 **Specs:**
 
@@ -78,13 +78,13 @@ The [VAER S3](https://www.thewatchresource.com/vaer-a3-tradition-review/) is an 
 - Water Resistance: 300 m
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-legend-diver-faux-patina/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-heritage-classic-grey-dial-unisex-watch-l37744702.html)
 
 The Longines Legend Diver is a modern interpretation of a classic 1960s diver watch that is part of the brand's Heritage collection. It maintains the same design elements as the original timepiece, but has been updated with current technical features. This vintage-inspired timepiece with the mesh bracelet is perfect as an everyday watch, and would be an excellent addition to any collection!
 
 ### Dan Henry 1975 Skin Diver
 
-[![Dan Henry 1975 Skin Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Dan-Henry-1975-Skin-Diver-267x300.webp/public)](https://www.thewatchresource.com/recommends/dan-henry-1975-skin-diver/)
+[![Dan Henry 1975 Skin Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-Dan-Henry-1975-Skin-Diver-267x300.webp/public)](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1975-skin-diver-watch)
 
 **Specs:**
 
@@ -96,13 +96,13 @@ The Longines Legend Diver is a modern interpretation of a classic 1960s diver wa
 - Water Resistance: 150 m
 - Price: Under $300
 
-[Check Price](https://www.thewatchresource.com/recommends/dan-henry-1975-skin-diver/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fdanhenrywatches.com%2Fproducts%2F1975-skin-diver-watch)
 
 The Dan Henry 1975 is a '70s inspired skin diving watch that can be your everyday go-to timepiece. The vintage elements of the dial are made a bit more dynamic with the bright orange second hand. The reliable Miyota 9015 automatic movement provides 42 hours of power reserve, and the case at 39 mm width makes this a perfect fit for all wrist sizes. 
 
 ### Spinnaker Fleuss Black
 
-[![Spinnaker Fleuss Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-Spinnaker-Fleuss-Black-300x300.webp/public)](https://www.thewatchresource.com/recommends/spinnaker-fleuss-black/)
+[![Spinnaker Fleuss Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-Spinnaker-Fleuss-Black-300x300.webp/public)](https://solartimeltd.pxf.io/7adbY5)
 
 **Specs:** 
 
@@ -112,13 +112,13 @@ The Dan Henry 1975 is a '70s inspired skin diving watch that can be your everyda
 - Case Width: 43 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/spinnaker-fleuss-black/)
+[Check Price](https://solartimeltd.pxf.io/7adbY5)
 
 The Spinnaker Fleuss is built with a nostalgic nod to the golden age of the dive watch. It's a tough, dependable timepiece that goes from beach to boardroom with ease, thanks to the best in watchmaking techniques. The deep, dark red tones come alive with a sunray treated dial, bringing boldness to your wrist.
 
 ### Hamilton Khaki Field Murph – The Interstellar watch
 
-[![Hamilton Khaki Field Murph 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Hamilton-Khaki-Field-Murph-38-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[![Hamilton Khaki Field Murph 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Hamilton-Khaki-Field-Murph-38-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 **Specs:**
 
@@ -128,13 +128,13 @@ The Spinnaker Fleuss is built with a nostalgic nod to the golden age of the dive
 - Case Width: 42 mm
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-khaki-field-murph/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 We had to include this one from Hamilton. Not just any watch, mind you. This is the watch that saved the world in the movie ‘Interstellar’. The beautiful Hamilton classic that Coop (Matthew McConaughey) left for his daughter before departing on his mission to the stars. The watch was then used as a tool to communicate coordinates in Morse code from another dimension, enabling Murph Cooper (the daughter) to complete an equation and therefore save  humanity from complete destruction. As a well-deserved nod to the movie, the word “Eureka” is printed on the seconds hand in Morse code in lacquer. A great watch with an awesome background story? YES please. 
 
 ### Omega Seamaster Railmaster
 
-[![omega-seamaster-railmaster-22010402001001-l](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-omega-seamaster-railmaster-22010402001001-l-218x300.png/public)](https://www.thewatchresource.com/recommends/omega-seamaster-railmaster/)
+[![omega-seamaster-railmaster-22010402001001-l](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-omega-seamaster-railmaster-22010402001001-l-218x300.png/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-watch-220-10-40-20-01-001.html)
 
 **Specs:**
 
@@ -145,7 +145,7 @@ We had to include this one from Hamilton. Not just any watch, mind you. This is 
 - Water Resistance: 150 m
 - Price: Around $4,000
 
-[Check Price](https://www.thewatchresource.com/recommends/omega-seamaster-railmaster/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-watch-220-10-40-20-01-001.html)
 
 A functional yet stylish anti-magnetic watch, the original OMEGA Railmaster was created in 1957 for railroad employees, or anybody else who frequently came into contact with electrical fields. These days, its inventiveness and industrial spirit have been modernized for a contemporary collection.
 
@@ -155,7 +155,7 @@ The Omega Seamaster Railmaster is often overlooked but it's a wonderful timepiec
 
 ### Bell & Ross BR V2-92 Steel Heritage
 
-[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-BR_V2-92_Steel_Heritage_tropic-167x300.webp/public)](https://www.thewatchresource.com/recommends/bell-ross-br-v2-92-steel-heritage/)
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-BR_V2-92_Steel_Heritage_tropic-167x300.webp/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-brv292-her-st-srb.html)
 
 **Specs:**
 
@@ -166,13 +166,13 @@ The Omega Seamaster Railmaster is often overlooked but it's a wonderful timepiec
 - Water Resistance: 100 m
 - Price: Around $2,500
 
-[Check Price](https://www.thewatchresource.com/recommends/bell-ross-br-v2-92-steel-heritage/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-brv292-her-st-srb.html)
 
 When it comes to Bell & Ross, we usually think of their iconic square case models. However, the brand has other equally impressive designs, and the BR V2-92 Steel Heritage is a great example. A classic design with black bezel and dial combined with the sand colored numerals as if aged by the patina of time. The case itself is using a mix if polished and satin-finished stainless steel to provide a very elegant look to counterbalance the retro dial.
 
 ### Oris Divers Sixty-Five
 
-[![Oris Divers Sixty-Five 01 733 7720 4051-07 5 21 02](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Divers-Sixty-Five-01-733-7720-4051-07-5-21-02-244x300.png/public)](https://www.thewatchresource.com/recommends/oris-divers-sixty-five/)
+[![Oris Divers Sixty-Five 01 733 7720 4051-07 5 21 02](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-Oris-Divers-Sixty-Five-01-733-7720-4051-07-5-21-02-244x300.png/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-watch-01-733-7720-4051-07-5-21-02.html)
 
 **Specs:**
 
@@ -184,13 +184,13 @@ When it comes to Bell & Ross, we usually think of their iconic square case model
 - Water Resistance: 100 m
 - Price: Under $1,500
 
-[Check Price](https://www.thewatchresource.com/recommends/oris-divers-sixty-five/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Foris-watch-01-733-7720-4051-07-5-21-02.html)
 
 The Oris Divers Sixty-Five is a retro-inspired watch that pays tribute to Oris's first divers watches, particularly a model from 1965. Our favorite detail from the vintage-inspired design is the old-school crown that provides a timeless and elegant look, and  makes this timepiece a great go-to watch for your everyday needs.
 
 ### Certina DS PH200M
 
-[![Certina DS PH200M](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-Certina-DS-PH200M-172x300.png/public)](https://www.thewatchresource.com/recommends/certina-ds-ph200m/)
+[![Certina DS PH200M](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-05-Certina-DS-PH200M-172x300.png/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcertina-watch-c036-407-11-050-01.html)
 
 **Specs:**
 
@@ -201,7 +201,7 @@ The Oris Divers Sixty-Five is a retro-inspired watch that pays tribute to Oris's
 - Water Resistance: 200 m
 - Price: Around $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/certina-ds-ph200m/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcertina-watch-c036-407-11-050-01.html)
 
 The Certina DS PH200M is a contemporary re-edition of a classic dive watch. With its characteristic domed ceramic bezel and vintage charm, this dive watch is definitely an attention-grabber and a statement piece. The watch is on the larger side of things with its 42.8 mm case width. The dark dial and black bezel is broken up by a silver ring between them, a very interesting and effective design solution to visually separate elements.
 

@@ -47,73 +47,73 @@ Each watch in the Urban line is ideally suited for day-to-day wear thanks to its
 
 A collection of classic dial designs, rich in complex features and textures and presented in a color palette that commands respect and class. A classic timepiece with understated flair for the modern gent.
 
-[![UNDONE Urban Vintage](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-list_killy_01_08Aug-pedlqwyhriupcd4yc6ytqkk1cp8fiptsth6hugg6og.png/public "list_killy_01_08Aug")](https://www.thewatchresource.com/recommends/undone-urban/)
+[![UNDONE Urban Vintage](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-list_killy_01_08Aug-pedlqwyhriupcd4yc6ytqkk1cp8fiptsth6hugg6og.png/public "list_killy_01_08Aug")](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Furban-vintage-killy&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 [Movement: Japanese TMI VK61 Mechanical-Quartz  
   
-Diameter: 40 mm](https://www.thewatchresource.com/recommends/undone-urban/)
+Diameter: 40 mm](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Furban-vintage-killy&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-urban/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Furban-vintage-killy&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 ### Basecamp Collection
 
 UNDONE automatic Basecamp wristwatches are tough, beautiful, and perfect for everyday use, with classic aesthetics and modern performance. The traditional components are polished and recomposed into a contemporary version of everything you know and love about timekeeping. These timepieces are housed in a casing that is ergonomically designed for everyday use and will stay by your side no matter what the occasion is.
 
-[![list\_Undone\_Basecamp\_Bronze\_Classic\_01](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-list_Undone_Basecamp_Bronze_Classic_01-pedlx7hlilgt2dzwlevwxhe4ik7w1rt40meii54b0w.png/public "list_Undone_Basecamp_Bronze_Classic_01")](https://www.thewatchresource.com/recommends/undone-basecamp-classic-bronze/)
+[![list\_Undone\_Basecamp\_Bronze\_Classic\_01](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-list_Undone_Basecamp_Bronze_Classic_01-pedlx7hlilgt2dzwlevwxhe4ik7w1rt40meii54b0w.png/public "list_Undone_Basecamp_Bronze_Classic_01")](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fbasecamp-classic-bronze&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 [Movement: Japanese Automatic (NH35A)  
   
-Diameter: 40 mm](https://www.thewatchresource.com/recommends/undone-basecamp-classic-bronze/)
+Diameter: 40 mm](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fbasecamp-classic-bronze&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-basecamp-classic-bronze/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fbasecamp-classic-bronze&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 ### Aqua II Collection
 
 High-capacity, high-performance. With its automated winding mechanism, sapphire crystal, and better personalization possibilities, the 43mm UNDONE Aqua tool watch is a timepiece every dive watch enthusiast should consider. The Aqua II watches have the very reliable NH35A automatic movement provided by Seiko.
 
-[![Undone\_Aqua-316L-Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Undone_Aqua-316L-Steel-p8kspd2sqxatvuf5ezvt3yhz4ozkpas7kr357xuztc.png/public "Undone_Aqua-316L-Steel")](https://www.thewatchresource.com/recommends/undone-aqua-ii-316l-steel/)
+[![Undone\_Aqua-316L-Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Undone_Aqua-316L-Steel-p8kspd2sqxatvuf5ezvt3yhz4ozkpas7kr357xuztc.png/public "Undone_Aqua-316L-Steel")](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faqua-II-316L-steel&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 [Movement: Japanese Automatic (NH35A)  
   
-Diameter: 43 mm](https://www.thewatchresource.com/recommends/undone-aqua-ii-316l-steel/)
+Diameter: 43 mm](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faqua-II-316L-steel&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-aqua-ii-316l-steel/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faqua-II-316L-steel&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 ### Terra Collection
 
 The Terra Daybreak is a versatile piece that may be worn in a variety of ways. Choose from a variety of strap materials, including suede, cordura, and leather, to complement your style and mood. The Terra watches have a 37mm casing, which is classic in size, and are suitable for both men and women. The tartaruga-shaped case hugs the wrist, and the dial style is ageless - a true classic.
 
-[![list\_Terra\_sil\_B\_01](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-list_Terra_sil_B_01-pedm46gi7d0d69vcvxdax8274fuw4yhfz4l5n0s6vk.png/public "list_Terra_sil_B_01")](https://www.thewatchresource.com/recommends/undone-terra-daybreak-suede/)
+[![list\_Terra\_sil\_B\_01](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-list_Terra_sil_B_01-pedm46gi7d0d69vcvxdax8274fuw4yhfz4l5n0s6vk.png/public "list_Terra_sil_B_01")](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fterra-daybreak-suede&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 [Movement: Japanese Automatic (NH35A)  
   
-Diameter: 37 mm](https://www.thewatchresource.com/recommends/undone-terra-daybreak-suede/)
+Diameter: 37 mm](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fterra-daybreak-suede&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-terra-daybreak-suede/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fterra-daybreak-suede&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 ### Aero Collection
 
 The AERO series, with its wide bezel and tiny dial aperture, continues to take design influences from vintage watches. The double-domed Lexan crystal, which has a curved side profile, adds depth without taking away from the vintage flair.
 
-[![UNDONE Scientific](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Undone_aero_scientific-p8btzs48xzpfrjluxqdvy44odcklk6scn24sf1d68g.png/public "Undone_aero_scientific")](https://www.thewatchresource.com/recommends/undone-aero-scientific/)
+[![UNDONE Scientific](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Undone_aero_scientific-p8btzs48xzpfrjluxqdvy44odcklk6scn24sf1d68g.png/public "Undone_aero_scientific")](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faero-scientific&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 [Movement: Japanese Automatic (NH35A)  
   
-Diameter: 40 mm](https://www.thewatchresource.com/recommends/undone-aero-scientific/)
+Diameter: 40 mm](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faero-scientific&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-aero-scientific/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Faero-scientific&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 ### Urban 34 Collection
 
 UNDONE introduced their first collection for women after the successful Urban collection: a smaller and more elegant version. This casing, a contemporary reinterpretation of a classic style, raises the standard for what feminine watches in this price range should provide. The watch oozes individuality with its ivory color, accentuated by blue and red accents, and is inspired by beautiful case and dial styles from the mid-1900s.
 
-[![UNDONE Urban 34 Ladies](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-list_undone_wonder_woman_red_01-pedma7l8239lo73yo184f79ocg4oj1ffszabhxu8y8.png/public "list_undone_wonder_woman_red_01")](https://www.thewatchresource.com/recommends/undone-urban-34-wonder-woman-1984/)
+[![UNDONE Urban 34 Ladies](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-list_undone_wonder_woman_red_01-pedma7l8239lo73yo184f79ocg4oj1ffszabhxu8y8.png/public "list_undone_wonder_woman_red_01")](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fwonder-woman-84-ruby&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 [Movement: Japanese TMI VH31 Quartz  
   
-Diameter: 34 mm](https://www.thewatchresource.com/recommends/undone-urban-34-wonder-woman-1984/)
+Diameter: 34 mm](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fwonder-woman-84-ruby&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
-[Check Price](https://www.thewatchresource.com/recommends/undone-urban-34-wonder-woman-1984/)
+[Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fwonder-woman-84-ruby&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 #### WRITTEN BY
 

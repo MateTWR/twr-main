@@ -8,7 +8,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d82acb1a-e6f2-4f8c-
 
 Longines is a brand with unparalleled heritage in the watchmaking world. Aside from the beloved classics, they also keep the inventory fresh with beautiful new designs, such as the HydroConquest or the Spirit Zulu Time collection. In this article, we are taking a closer look at one of the revived classics, the Legend Diver. It undoubtedly has its place in the brand’s Heritage collection, and we love this reinterpretation of a 1960s diver watch.  The Longines Legend Diver is a true classic with refreshing modern features.
 
-[![Longines Legend Diver Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Legend-Diver-Stainless-Steel-q7f64omymrx0o5k1vni0b40f07vymgk3kngh6scvxo.png/public "Longines Legend Diver Stainless Steel")](https://www.thewatchresource.com/recommends/longines-legend-diver-stainless-steel/)
+[![Longines Legend Diver Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Legend-Diver-Stainless-Steel-q7f64omymrx0o5k1vni0b40f07vymgk3kngh6scvxo.png/public "Longines Legend Diver Stainless Steel")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 **Specs:**
 
@@ -19,7 +19,7 @@ Longines is a brand with unparalleled heritage in the watchmaking world. Aside f
 - Lug Width: 22 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-legend-diver-stainless-steel/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 ## Longines: The Brand
 
@@ -37,7 +37,7 @@ The Longines Legend Diver is an updated, modernized re-issued version of a super
 
 The width of the Legend Diver is at 42 mm, and the height is 12.7 mm. The comfortable, middle of the road dimensions ensure the Longines Legend Diver is a good fit for most wrist sizes. Powered by the L888 caliber Swiss automatic movement, it has a reliable 72-hour power reserve. The Legend Diver is a modern timepiece with modern dimensions and materials, reviving the design of the ‘60s super compressor diver watch, and the end result is an attention grabbing statement piece.
 
-[![Longines Legend Diver Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Legend-Diver-Stainless-Steel-q7f64omymrx0o5k1vni0b40f07vymgk3kngh6scvxo.png/public "Longines Legend Diver Stainless Steel")](https://www.thewatchresource.com/recommends/longines-legend-diver-stainless-steel/)
+[![Longines Legend Diver Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Legend-Diver-Stainless-Steel-q7f64omymrx0o5k1vni0b40f07vymgk3kngh6scvxo.png/public "Longines Legend Diver Stainless Steel")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 **Specs:**
 
@@ -48,7 +48,7 @@ The width of the Legend Diver is at 42 mm, and the height is 12.7 mm. The comfor
 - Lug Width: 22 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-legend-diver-stainless-steel/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 ### Dial
 
@@ -106,7 +106,7 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 With its distinctive character, the Longines Legend Diver is a statement piece that retains the timelessly elegant look. Its vintage-inspired diver watch design is using understated and dark colors for the dial that is counterbalanced by the polished stainless steel case and mesh bracelet. Boasting a 42 mm case and a 12.7 mm case height, this watch is a comfortable wear for wrists around 7 inches and above. The reliable L88 automatic Swiss movement should give you a solid 72-hour power reserve. Overall, the Longines Legend Diver is a modern timepiece with modern dimensions and materials, reviving the design of the ‘60s super compressor diver watch, and the end result is an attention grabbing statement piece that will remain a classy choice for decades to come.
 
-[![Longines Legend Diver Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Legend-Diver-Stainless-Steel-q7f64omymrx0o5k1vni0b40f07vymgk3kngh6scvxo.png/public "Longines Legend Diver Stainless Steel")](https://www.thewatchresource.com/recommends/longines-legend-diver-stainless-steel/)
+[![Longines Legend Diver Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Legend-Diver-Stainless-Steel-q7f64omymrx0o5k1vni0b40f07vymgk3kngh6scvxo.png/public "Longines Legend Diver Stainless Steel")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 **Specs:**
 
@@ -117,7 +117,7 @@ With its distinctive character, the Longines Legend Diver is a statement piece t
 - Lug Width: 22 mm
 - Price: Under $2,000
 
-[Check Price](https://www.thewatchresource.com/recommends/longines-legend-diver-stainless-steel/)
+[Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 ## Other Watch Reviews
 

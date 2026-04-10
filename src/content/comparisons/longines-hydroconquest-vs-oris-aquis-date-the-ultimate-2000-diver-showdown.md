@@ -19,7 +19,7 @@ _\*By clicking on the product links in this article, we may receive a commission
 
 ## Longines HydroConquest vs. Oris Aquis Date: Which Swiss Diver Wins?
 
- [![longines-hydroconquest-l3-782-4-96-6](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-longines-hydroconquest-l3-782-4-96-6-2000x2000-1667517491-300x300.webp/public)](https://www.thewatchresource.com/recommends/mido-ocean-star-200/)[Check Price ](https://www.thewatchresource.com/recommends/longines-hydroconquest/)[![Oris Aquis Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-07-Oris-Aquis-Blue-41.5-244x300.png/public) ](https://www.thewatchresource.com/recommends/oris-aquis-blue/)[Check Price](https://www.thewatchresource.com/recommends/oris-aquis-blue/)
+ [![longines-hydroconquest-l3-782-4-96-6](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-longines-hydroconquest-l3-782-4-96-6-2000x2000-1667517491-300x300.webp/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmido-watch-m026-430-11-041-00.html)[Check Price ](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-hydroconquest-automatic-blue-dial-mens-watch-l3-782-4-96-6.html)[![Oris Aquis Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-07-Oris-Aquis-Blue-41.5-244x300.png/public) ](https://www.anrdoezrs.net/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Foris-watch-01-400-7769-4135-07-8-22-09peb)[Check Price](https://www.anrdoezrs.net/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Foris-watch-01-400-7769-4135-07-8-22-09peb)
 
 ## At a Glance: The Quick Specs & Takeaway
 
@@ -109,7 +109,7 @@ This is usually the "make or break" point for buyers:
 
 **Editor's Tip:** If you have smaller wrists, don't let the 43.5mm size of the Oris scare you off. Because of the integrated lugs, it actually wears closer to a 41mm watch. Always try them both on if you can!
 
- [![longines-hydroconquest-l3-782-4-96-6](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-longines-hydroconquest-l3-782-4-96-6-2000x2000-1667517491-300x300.webp/public)](https://www.thewatchresource.com/recommends/mido-ocean-star-200/)[Check Price ](https://www.thewatchresource.com/recommends/longines-hydroconquest/)[![Oris Aquis Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-07-Oris-Aquis-Blue-41.5-244x300.png/public) ](https://www.thewatchresource.com/recommends/oris-aquis-blue/)[Check Price](https://www.thewatchresource.com/recommends/oris-aquis-blue/)
+ [![longines-hydroconquest-l3-782-4-96-6](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-11-longines-hydroconquest-l3-782-4-96-6-2000x2000-1667517491-300x300.webp/public)](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fmido-watch-m026-430-11-041-00.html)[Check Price ](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-hydroconquest-automatic-blue-dial-mens-watch-l3-782-4-96-6.html)[![Oris Aquis Blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-07-Oris-Aquis-Blue-41.5-244x300.png/public) ](https://www.anrdoezrs.net/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Foris-watch-01-400-7769-4135-07-8-22-09peb)[Check Price](https://www.anrdoezrs.net/click-100461694-13109758?url=https%3A%2F%2Fwww.watchmaxx.com%2Foris-watch-01-400-7769-4135-07-8-22-09peb)
 
 | Feature | Longines HydroConquest (L3.782.4.96.6) | Oris Aquis Calibre 400 (01 400 7769 4135-07 8 22 09PEB) |
 | --- | --- | --- |

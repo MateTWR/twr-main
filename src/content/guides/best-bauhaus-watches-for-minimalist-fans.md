@@ -28,7 +28,7 @@ The minimalist dials usually come with slim cases that do not take the focus off
 
 ### Sternglas Hamburg Automatik
 
-[![Sternglas Hamburg Automatik silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Sternglas-Hamburg-Automatik-silver-300x300.webp/public)](https://www.thewatchresource.com/recommends/sternglas-hamburg-automatik/)
+[![Sternglas Hamburg Automatik silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Sternglas-Hamburg-Automatik-silver-300x300.webp/public)](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fcollections%2Fmen%2Fproducts%2Fhamburg-automatik-silver)
 
 **Specs:**
 
@@ -40,7 +40,7 @@ The minimalist dials usually come with slim cases that do not take the focus off
 - Lug Width: 20 mm
 - Price: Under $500
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-hamburg-automatik/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fcollections%2Fmen%2Fproducts%2Fhamburg-automatik-silver)
 
 The Sternglas Hamburg Automatik is highlighting Hamurg's importance. The 42 mm casing does a good job of emphasizing the design, which was inspired by marine measurement tools. 
 
@@ -48,7 +48,7 @@ The Hamburg Automatic Edition has a great vintage appearance in conjunction with
 
 ### Hamilton American Classic Intra-Matic Auto
 
-[![Hamilton American Classic Intra-Matic Auto Silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-American-Classic-Intra-Matic-Auto-Silver-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-american-classic-intra-matic-auto-silver/)
+[![Hamilton American Classic Intra-Matic Auto Silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-American-Classic-Intra-Matic-Auto-Silver-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38755751-american-classic-intra-matic-auto.html)
 
 **Specs:**
 
@@ -59,7 +59,7 @@ The Hamburg Automatic Edition has a great vintage appearance in conjunction with
 - Lug Width: 22 mm
 - Price: $800 - 1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-american-classic-intra-matic-auto-silver/) [![Hamilton American Classic Intra-Matic Auto 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-American-Classic-Intra-Matic-Auto-38-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-american-classic-intra-matic-auto-38/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38755751-american-classic-intra-matic-auto.html) [![Hamilton American Classic Intra-Matic Auto 38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Hamilton-American-Classic-Intra-Matic-Auto-38-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38455501-american-classic-intra-matic-auto.html)
 
 **Specs:**
 
@@ -70,7 +70,7 @@ The Hamburg Automatic Edition has a great vintage appearance in conjunction with
 - Lug Width: 20 mm
 - Price: $800 - 1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-american-classic-intra-matic-auto-38/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38455501-american-classic-intra-matic-auto.html)
 
 The Hamilton Intra-Matic is a perfect illustration of how classic design will always be timeless and in style. Hamilton is using the beauty of monochrome as a guide, and we picked two different looks:
 
@@ -81,7 +81,7 @@ Both are great choices!
 
 ### Sternglas Marus
 
-[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Sternglas_marus-300x300.jpg/public)](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2021-06-Sternglas_marus-300x300.jpg/public)](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 **Specs:**
 
@@ -93,7 +93,7 @@ Both are great choices!
 - Water Resistance: 200 meters
 - Price: Under $550
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 The Marus by Sternglas is inspired by classic dive watches but with a minimalist, modern look. The classic and clean looking stainless steel case and bezel is made a lot more exciting with the dark black dial color with concentric pattern. The domed sapphire glass has a double anti-reflective coating and is scratch-resistant. We love the minimalist look of the steel bracelet as well, and as a bonus, the watch is water resistant up to 200 meter.
 
@@ -101,7 +101,7 @@ Read our [in-depth Sternglas Marus review](https://www.thewatchresource.com/ster
 
 ### Junghans Max Bill Auto
 
-[![junghans-max-bill-automatic-silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-junghans-max-bill-automatic-silver-300x300.jpeg/public)](https://www.thewatchresource.com/recommends/junghans-max-bill-automatic/)
+[![junghans-max-bill-automatic-silver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-junghans-max-bill-automatic-silver-300x300.jpeg/public)](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjunghans-max-bill-watch-027-3501-04.html)
 
 **Specs:**
 
@@ -112,13 +112,13 @@ Read our [in-depth Sternglas Marus review](https://www.thewatchresource.com/ster
 - Case Thickness: 10 mm
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/junghans-max-bill-automatic/)
+[Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fjunghans-max-bill-watch-027-3501-04.html)
 
 The Junghans Max Bill has a timeless minimalist design with no over complications and comes with a reliable automatic movement. Junghans own J800.1 automatic movement provide a 38-hour power reserve. The 38 mm case width is ideal for most wrist sizes, and the 10 mm case thickness will ensure a classy appearance!
 
 ### Omega De Ville Prestige
 
-[![omega-de-ville-prestige](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-omega-de-ville-prestige-218x300.png/public)](https://www.thewatchresource.com/recommends/omega-de-ville-prestige/)
+[![omega-de-ville-prestige](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-omega-de-ville-prestige-218x300.png/public)](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-watch-424-13-40-20-03-002.html)
 
 **Specs:**
 
@@ -129,7 +129,7 @@ The Junghans Max Bill has a timeless minimalist design with no over complication
 - Lug Width: 20 mm
 - Price: $2,500 - $3,500
 
-[Check Price](https://www.thewatchresource.com/recommends/omega-de-ville-prestige/)
+[Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fomega-watch-424-13-40-20-03-002.html)
 
 With its timeless, exquisite appearance, the OMEGA De Ville Prestige range has gained a sizable and devoted following. These watches reflect a timeless style and are distinguished by their clean, traditional styling and luxurious finishing. 
 
@@ -139,7 +139,7 @@ A 39.5 mm stainless steel case makes it a perfect size for all wrists in all sit
 
 ### Nomos Zürich 806
 
-[![Nomos Zurich 806](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Nomos-Zurich-806-300x300.jpg/public)](https://www.thewatchresource.com/recommends/nomos-zurich-806/)
+[![Nomos Zurich 806](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Nomos-Zurich-806-300x300.jpg/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fnomos-zurich-watch-806.html)
 
 **Specs:**
 
@@ -151,7 +151,7 @@ A 39.5 mm stainless steel case makes it a perfect size for all wrists in all sit
 - Case Height: 9.6 mm
 - Price: $2,800 - $4,000
 
-[Check Price](https://www.thewatchresource.com/recommends/nomos-zurich-806/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fnomos-zurich-watch-806.html)
 
 Hannes Wettstein, a Swiss industrial designer who has won several awards, created this beautiful automatic watch for NOMOS Glashütte. It has been a classic for a long time as  its thin bezel, excitingly intricate casing, and white silver-plated dial make this timepiece an evergreen design. The coolly elegant dial in polished silver-gray is a very classy look for almost any occasion!
 
@@ -168,7 +168,7 @@ Hannes Wettstein, a Swiss industrial designer who has won several awards, create
 - Lug Width: 20 mm
 - Price: Under $3,500
 
-[Check Price](https://amzn.to/3n1Q9e4) [![Nomos-Tetra-Neomatik-39-422](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Nomos-Tetra-Neomatik-39-422-300x300.jpg/public)](https://www.thewatchresource.com/recommends/nomos-tetra-neomatik-39-midnight-blue/)
+[Check Price](https://amzn.to/3n1Q9e4) [![Nomos-Tetra-Neomatik-39-422](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Nomos-Tetra-Neomatik-39-422-300x300.jpg/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fnomos-watch-422.html)
 
 **Specs:**
 
@@ -179,14 +179,14 @@ Hannes Wettstein, a Swiss industrial designer who has won several awards, create
 - Lug Width: 20 mm
 - Price: Under $3,500
 
-[Check Price](https://www.thewatchresource.com/recommends/nomos-tetra-neomatik-39-midnight-blue/)
+[Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fnomos-watch-422.html)
 
 The square NOMOS Tetra Neomatik 39 has an ultra-thin and very accurate automatic caliber. The movement itself is only 3.2 millimeters in height, and case is 7.2 millimeters, which allows the watch to fit very elegantly beneath the cuff.  
 The coolly elegant dial in polished silver-gray is a very classy look for almost any occasion!
 
 ### Skagen Quartz SIGNATUR Grey
 
-[![Skagen Quartz Signatur grey](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Skagen-Quartz-Signatur-grey-259x300.jpg/public)](https://www.thewatchresource.com/recommends/skagen-quartz-signature-grey/)
+[![Skagen Quartz Signatur grey](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Skagen-Quartz-Signatur-grey-259x300.jpg/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fskagen-quartz-mens-watch-skw6578.html)
 
 **Specs:**
 
@@ -196,7 +196,7 @@ The coolly elegant dial in polished silver-gray is a very classy look for almost
 - Water Resistance: 30 meters
 - Price: Under $100
 
-[Check Price](https://www.thewatchresource.com/recommends/skagen-quartz-signature-grey/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fskagen-quartz-mens-watch-skw6578.html)
 
 Skagen watches are based on Danish design, and their watches are understated, elegant, and functional. The 40 mm case width makes this watch a great fit for most wrist sizes, and the slim look and feel is perfect for a modern lifestyle with classic elements. Skagen takes pride in their sustainable practices, the SIGNATUR collection is made from at least 50% recycled stainless steel.
 

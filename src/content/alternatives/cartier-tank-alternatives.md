@@ -35,7 +35,7 @@ No watch lists can be complete without featuring a Seiko, so we deliver. The Sei
 
 ## Hamilton American Classic Boulton Mechanical
 
-[![Hamilton American Classic Boulton Mechanical White](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Hamilton-American-Classic-Boulton-Mechanical-White-300x300.webp/public)](https://www.thewatchresource.com/recommends/hamilton-american-classic-boulton-mechanical-white/)
+[![Hamilton American Classic Boulton Mechanical White](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Hamilton-American-Classic-Boulton-Mechanical-White-300x300.webp/public)](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh13519711-boulton-mechanical.html)
 
 **Specs:**
 
@@ -46,7 +46,7 @@ No watch lists can be complete without featuring a Seiko, so we deliver. The Sei
 - Lug Distance: 22 mm
 - Price: Under $1,000
 
-[Check Price](https://www.thewatchresource.com/recommends/hamilton-american-classic-boulton-mechanical-white/)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh13519711-boulton-mechanical.html)
 
 With the Hamilton Boulton Mechanical, Art Deco meets Hamilton's American Classic collection styling. Since its introduction in 1940, the Boulton has been a cornerstone of the Hamilton watches due to its unusual case yet classy form. The evergreen classic design is reimagined for the twenty-first century and driven by the incredible H-50 handwinding movement.
 
@@ -112,7 +112,7 @@ Bulova's watches in the Classic collection are inspired by vintage design, have 
 
 ## Baume & Mercier Hampton
 
-[![Baume et Mercier Hampton 10528](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Baume-et-Mercier-Hampton-10528-205x300.png/public)](https://www.thewatchresource.com/recommends/baumer-et-mercier-hampton/)
+[![Baume et Mercier Hampton 10528](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-10-Baume-et-Mercier-Hampton-10528-205x300.png/public)](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-hampton-watch-10528.html)
 
 **Specs:**
 
@@ -122,7 +122,7 @@ Bulova's watches in the Classic collection are inspired by vintage design, have 
 - Case Width: 31 x 48 mm
 - Price: $1,800 - $2,800
 
-[Check Price](https://www.thewatchresource.com/recommends/baumer-et-mercier-hampton/)
+[Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-et-mercier-hampton-watch-10528.html)
 
 The Baume et Mercier Hampton wristwatch features a black alligator strap with square scales, grey stitching, and a polished steel case for a sophisticated modern look. An opaline and grained dial with black ruthenium indexes and Arabic numbers is visible through a curved sapphire crystal. A very classy option!
 

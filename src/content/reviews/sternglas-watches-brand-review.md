@@ -54,7 +54,7 @@ Sternglas offers a range of collections, each with its own identity yet unmistak
 - Lug Width: 20 mm
 - Price: Under $500
 
-[Check Price for Automatic](https://www.thewatchresource.com/recommends/sternglas-hamburg-automatik/) [Check Price for Quartz](https://www.thewatchresource.com/recommends/sternglas-hamburg-quartz/)
+[Check Price for Automatic](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fcollections%2Fmen%2Fproducts%2Fhamburg-automatik-silver) [Check Price for Quartz](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fhamburg-silver)
 
 The Sternglas Hamburg is a striking embodiment of elegance and Bauhaus design. The design of the Hamburg Automatik is a nod to the clean, minimalist principles of Bauhaus, featuring a sleek case that exudes sophistication. The watch face is marked by its simplicity, with understated hour markers and hands that ensure readability and timeless appeal. Encased in polished stainless steel and protected by a scratch-resistant sapphire crystal, the Hamburg is designed to withstand the test of time. This watch is a perfect example of Sternglas's ability to merge the technical intricacies with the minimalist design ethos, creating a piece that is both functional and fashion-forward.
 
@@ -62,7 +62,7 @@ Tha Hamburg is available with both automatic and quartz movements. The automatic
 
 ### Naos
 
-[![Sternglas Naos Bronze](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Naos-Bronze-qjz6n1h37m4rl3buuehfewpd3f7dld2f0plqr1i3sc.webp/public "Sternglas Naos Bronze")](https://www.thewatchresource.com/recommends/sternglas-naos-auto-bronze/)
+[![Sternglas Naos Bronze](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Naos-Bronze-qjz6n1h37m4rl3buuehfewpd3f7dld2f0plqr1i3sc.webp/public "Sternglas Naos Bronze")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fus.sternglas.com%2Fproducts%2Fnaos-automatik-edition-bronze)
 
 **Specs:**
 
@@ -74,7 +74,7 @@ Tha Hamburg is available with both automatic and quartz movements. The automatic
 - Lug Width: 20 mm
 - Price: Under $500
 
-[Check Price for Automatic](https://www.thewatchresource.com/recommends/sternglas-naos-auto-bronze/) [Check Price for Quartz](https://www.thewatchresource.com/recommends/sternglas-naos-quartz/)
+[Check Price for Automatic](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fus.sternglas.com%2Fproducts%2Fnaos-automatik-edition-bronze) [Check Price for Quartz](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fus.sternglas.com%2Fproducts%2Fnaos-white)
 
 The Sternglas Naos epitomizes the essence of minimalist design , while embracing the core functionality that watch enthusiasts appreciate. The Naos White's design is deeply influenced by the Bauhaus principle of "form follows function," featuring a very clean dial that offers clarity and ease of reading at a glance. The watch's dial is elegantly simple, adorned with slender hour markers and hands that embody the minimalist aesthetic, making it a versatile piece suitable for both casual and formal wear. Housed in a polished stainless steel case and covered by a durable sapphire crystal, the Naos is built to last. 
 
@@ -82,7 +82,7 @@ The Naos is available with quartz and automatic movements. The quartz movement i
 
 ### Tachymeter
 
-[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Black-1-1-q9qtow2rljj3xqyudnkbp5qhhk7dpmdt31w0pwkfqk.webp/public "Sternglas Tachymeter Black (1)")](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Black-1-1-q9qtow2rljj3xqyudnkbp5qhhk7dpmdt31w0pwkfqk.webp/public "Sternglas Tachymeter Black (1)")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 **Specs:**
 
@@ -93,7 +93,7 @@ The Naos is available with quartz and automatic movements. The quartz movement i
 - Lug-to-Lug Distance: 50 mm
 - Price: Around $300
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-tachymeter-black/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)
 
 While the [Sternglas Tachymeter](https://www.thewatchresource.com/sternglas-tachymeter-review/) displays some minimalist design elements, it is truly a  sporty chronograph. The 42 mm case width and 50 mm lug-to-lug distance, this watch is perfect for mid-size wrists, but could look good on smaller wrists as well as the thickness is at only 10 mm, creating a more elegant look. The dial doesn't have Arabic or Roman numerals, and for a bit of a dynamism the yellow accent color is incorporated, which we absolutely love.
 
@@ -101,7 +101,7 @@ The movement is the reliable Miyota 0S20 quartz movement.
 
 ### Taiga GMT
 
-[![Sternglas Taiga GMT Vintage](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Taiga-GMT-Vintage-pxlxqf3o3tk111gihsiobe1op3u0jxxtl7qp0sjovg.webp/public "Sternglas Taiga GMT Vintage")](https://www.thewatchresource.com/recommends/sternglas-taiga-gmt-vintage/)
+[![Sternglas Taiga GMT Vintage](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Taiga-GMT-Vintage-pxlxqf3o3tk111gihsiobe1op3u0jxxtl7qp0sjovg.webp/public "Sternglas Taiga GMT Vintage")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftaiga-gmt-vintage)
 
 **Specs:**
 
@@ -112,7 +112,7 @@ The movement is the reliable Miyota 0S20 quartz movement.
 - Lug Width: 20 mm
 - Price: Under $300
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-taiga-gmt-vintage/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftaiga-gmt-vintage)
 
 The Sternglas Taiga GMT is a minimalist timepiece with a field watch aesthetic. The Taiga GMT provides excellent utility for regular travelers with an extra time zone and easy readability. The sturdy watch is also perfect for outdoor activities thanks to its 10 ATM water resistance and scratch-resistant sapphire crystal.
 
@@ -120,7 +120,7 @@ The watch has a particularly striking appearance thanks to the tougher construct
 
 ### Marus
 
-[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas_marus-p8mftdsz330c04z43cvqr3k4mwg7np2mn76ano9goc.jpg/public "Sternglas_marus")](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas_marus-p8mftdsz330c04z43cvqr3k4mwg7np2mn76ano9goc.jpg/public "Sternglas_marus")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 **Specs:**
 
@@ -131,7 +131,7 @@ The watch has a particularly striking appearance thanks to the tougher construct
 - Lug-to-Lug: 53.8 mm
 - Price: Under $500
 
-[Check Price](https://www.thewatchresource.com/recommends/sternglas-marus-ss/)
+[Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 The [Marus](https://www.thewatchresource.com/sternglas-marus-black-review/) is inspired by classic diving watches but with a minimalist, modern look.  With the classic and clean looking black and stainless steel combination, you never have to worry about not being on trend. The domed sapphire glass has a double anti-reflective coating and is scratch-resistant. We love the minimalist look of the steel bracelet as well, and as a bonus, this watch is water resistant for up to 200 meters, so you have all your bases covered. 
 
