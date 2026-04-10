@@ -3,7 +3,8 @@ import { getCollection, render } from 'astro:content';
 import ArticlePage from '../../components/ArticlePage.astro';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('reviews', ({ data }) => !data.draft);
+  const INDEX_SLUGS = new Set(['in-depth-watch-reviews', 'brand-reviews']);
+  const entries = await getCollection('reviews', ({ data, id }) => !data.draft && !INDEX_SLUGS.has(id));
   return entries.map(entry => ({ params: { slug: entry.id }, props: { entry } }));
 }
 
