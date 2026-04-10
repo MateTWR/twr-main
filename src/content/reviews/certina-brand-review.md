@@ -3,6 +3,7 @@ title: "Certina Brand Review"
 date: 2024-04-17
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/14bce6ff-ebe2-48a4-aa07-173729f2fb00/public"
 ---
 
 Certina is a prominent Swiss watch brand renowned for its exceptional craftsmanship, innovative technology, rich heritage, and commitment to sustainability. 

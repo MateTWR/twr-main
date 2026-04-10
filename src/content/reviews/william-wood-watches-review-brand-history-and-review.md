@@ -3,6 +3,7 @@ title: "William Wood Watches Review: Brand History and Review"
 date: 2022-09-01
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/9c13e963-aeba-46b2-f0bc-bcaa3a172200/public"
 ---
 
 ## The History of William Wood Watches

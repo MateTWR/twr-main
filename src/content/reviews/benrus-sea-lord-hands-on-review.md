@@ -3,6 +3,7 @@ title: "BENRUS Sea Lord Hands-On Review"
 date: 2023-05-24
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1291cf04-c734-4418-2cb2-4efd11f69200/public"
 ---
 
 In our continual quest for exceptional timepieces, the Sea Lord by BENRUS was sent to us on loan to review, and we were intrigued. BENRUS is an esteemed American brand that boasts a remarkable legacy in the American watch industry and is currently making a thrilling resurgence. The Sea Lord possesses a unique appearance with its strong connection to vintage-inspired design combined with modern features and details.

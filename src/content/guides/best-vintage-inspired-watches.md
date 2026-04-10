@@ -3,6 +3,7 @@ title: "Best Vintage-Inspired Watches"
 date: 2023-04-17
 categories: 
   - "watch-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/80af2db1-c523-4b4f-011f-ff16e4802d00/public"
 ---
 
 When it comes to picking out the perfect watch for most occasions, there is a plethora of details to consider: what kind of strap should I be looking for? What color dial? From the overall style of the watch to functionality, the questions are endless. 

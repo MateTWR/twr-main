@@ -3,6 +3,7 @@ title: "Unimatic U4 Classic - UC4 Hands-On Review"
 date: 2025-05-27
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/402aee22-5dd8-4d1a-2ed3-38ad41909600/public"
 ---
 
 ## Unimatic: The Brand

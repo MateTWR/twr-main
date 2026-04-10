@@ -3,6 +3,7 @@ title: "Furlan Marri Watches: Brand Review"
 date: 2025-07-07
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/542cbf26-19be-498a-8308-7218332f5600/public"
 ---
 
 ## Brand History

@@ -3,6 +3,7 @@ title: "Vero x Realtree Tide Tracker Outpost Black Hands‑On Review"
 date: 2026-03-05
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/cfeefbde-8851-44cb-a73c-efd559024d00/public"
 ---
 
 After a few weeks living with the Tide Tracker Realtree Outpost Black, my headline takeaway is simple: this is a legitimately useful “nature-timed” tool watch that doesn’t feel gimmicky in daily wear. The watch’s core idea—mechanically tracking tidal shifts with a dual‑bezel system tied to the lunar cycle—actually works, and the execution feels thoughtfully engineered rather than novelty‑driven.

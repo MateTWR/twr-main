@@ -3,6 +3,7 @@ title: "Best Super Compressor-Style Dive Watches"
 date: 2025-10-30
 categories: 
   - "dive-watches"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a36e6da2-ee5d-4e19-0780-476dd2243b00/public"
 ---
 
 When the majority of people envision a dive watch, the initial association is often the visually strong serrated bezel. However, there emerged another style of diver during the early days of recreational diving that gained significant popularity - the Super Compressor. It's important to clarify that the Super Compressor was not a watch itself but rather a patented watch case design utilized by numerous watch companies.

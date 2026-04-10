@@ -3,6 +3,7 @@ title: "Sinn 104 St Sa | W (104.012) In-Depth Review"
 date: 2025-07-17
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1be26238-32f4-4a8c-b403-106f9e125400/public"
 ---
 
 ## Sinn: The Brand

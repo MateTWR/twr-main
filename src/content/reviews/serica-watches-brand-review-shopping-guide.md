@@ -3,6 +3,7 @@ title: "Serica Watches: Brand Review & Buying Guide"
 date: 2022-10-13
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/26117ac7-4a93-49d4-570d-814979ceaa00/public"
 ---
 
 ## The History of Serica

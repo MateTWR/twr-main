@@ -3,6 +3,7 @@ title: "NORQAIN Freedom Chrono 60 Review"
 date: 2023-07-14
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b2240d3a-29b3-4a2f-dbf3-faf344ddf300/public"
 ---
 
 At The Watch Resource, our ultimate goal is to present you with captivating timepieces from brands that excel in both quality and design. With a keen eye for understated elegance, we have discovered a remarkable gem in NORQAIN's Freedom Chrono 60.

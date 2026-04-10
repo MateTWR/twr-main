@@ -3,6 +3,7 @@ title: "NORQAIN Wild One 42 mm Khaki Review"
 date: 2024-06-08
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/06fdf4ea-d196-4ae3-5ff1-8a8e70dfbf00/public"
 ---
 
 I’ve been following NORQAIN since the brand was founded in 2018, and always had a feeling they would make it big in the industry. In time, I saw their vision grow in popularity, their designs evolve, and a comprehensive brand identity was born.

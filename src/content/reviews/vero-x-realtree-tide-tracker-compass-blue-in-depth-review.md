@@ -3,6 +3,7 @@ title: "Vero x Realtree Tide Tracker Compass Blue In-Depth Review"
 date: 2025-11-05
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ad9824a6-2571-4fc6-12b1-ff4135652800/public"
 ---
 
 Vero Watch Company may be a relatively young brand (founded in 2015 in Portland, Oregon), but it has quickly built a reputation for well-built, adventure-ready timepieces. Their latest project is a collaboration with Realtree, the famed camouflage pattern maker known to outdoor enthusiasts. The result is the Vero x Realtree Tide Tracker – a field watch that merges rugged outdoors functionality with everyday wearability. This in-depth review is focusing on the Compass Blue edition of the Tide Tracker.

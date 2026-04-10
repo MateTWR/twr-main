@@ -6,6 +6,7 @@ categories:
 tags: 
   - "hamilton-khaki-navy-comparison"
   - "longines-hydroconquest-comparison"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/cf747579-d993-489f-382c-ee66b7e90800/public"
 ---
 
 Choosing between the Hamilton Khaki Navy Scuba (Ref. H82505140) and the Longines HydroConquest (Ref. L3.782.4.96.6) is more than just a spec-sheet battle; it is a choice between two different tiers of Swiss watchmaking.

@@ -3,6 +3,7 @@ title: "ZRC Watches: Brand Review & Buyer's Guide"
 date: 2022-10-16
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/238d6e8e-45c8-4798-9692-908b71d38300/public"
 ---
 
 ## The History of ZRC

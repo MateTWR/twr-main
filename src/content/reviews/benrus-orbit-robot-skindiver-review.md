@@ -3,6 +3,7 @@ title: "BENRUS Orbit Robot Skindiver Hands-On Review"
 date: 2023-05-16
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d1fe2b1f-2b2a-40d8-f4a3-9181d1a92200/public"
 ---
 
 Our never-ending search for amazing watches brought us to the Orbit Robot from BENRUS - an American brand with a rich history in the American watch industry, and they’re making an exciting comeback. The Orbit Robot is a character of its own, marked by its simple yet eye-catching design, elevated still by the use of atypical color combinations.

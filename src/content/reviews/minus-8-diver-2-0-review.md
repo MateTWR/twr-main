@@ -3,6 +3,7 @@ title: "MINUS-8 Diver 2.0 Review"
 date: 2024-02-08
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8f452f1f-c962-4ef9-5b3a-4e3efd140e00/public"
 ---
 
 We're drawn to watches with a distinctive design, and it's particularly appealing when they're crafted by a brand that often flies under the radar. That's precisely the case here, so let us introduce you to the Diver 2.0 from MINUS-8.

@@ -3,6 +3,7 @@ title: "Zodiac Watches: Brand Review, History & Everything You Need To Know"
 date: 2023-11-26
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/cb226c04-6826-4425-2fa7-b986090f2d00/public"
 ---
 
 ## The History of Zodiac Watches

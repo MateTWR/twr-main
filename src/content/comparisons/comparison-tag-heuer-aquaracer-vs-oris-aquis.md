@@ -6,6 +6,7 @@ categories:
 tags: 
   - "oris-aquis-comparison"
   - "tag-heuer-aquaracer-comparison"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/897b2f01-273c-4d6f-5e53-ce2e15248400/public"
 ---
 
 For many collectors, the $2,500 to $4,000 price bracket is the "sweet spot" of Swiss horology. It is where you move beyond entry-level pieces and begin to see true luxury finishing and advanced mechanical engineering.

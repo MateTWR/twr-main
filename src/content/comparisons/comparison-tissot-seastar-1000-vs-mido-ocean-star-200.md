@@ -6,6 +6,7 @@ categories:
 tags: 
   - "mido-ocean-star-comparison"
   - "tissot-seastar-comparison"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/299dd12c-512a-4019-860d-3fdf06c4e600/public"
 ---
 
 In the world of Swiss-made dive watches, the sub-$1,000 category is where the real competition lives. Two of the most frequently compared heavyweights are the Tissot Seastar 1000 (Ref. T120.407.11.041.03) and the Mido Ocean Star 200 (Ref. M026.430.11.041.00).

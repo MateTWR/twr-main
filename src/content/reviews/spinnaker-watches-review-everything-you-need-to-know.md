@@ -3,6 +3,7 @@ title: "Spinnaker Watches Review: Everything You Need To Know"
 date: 2023-08-04
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/73f836b3-0ef9-4266-74d9-1a9145f0e500/public"
 ---
 
 ## About Spinnaker Watches

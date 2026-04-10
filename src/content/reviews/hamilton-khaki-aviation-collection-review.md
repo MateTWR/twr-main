@@ -3,6 +3,7 @@ title: "Hamilton Khaki Aviation Collection Review"
 date: 2022-08-25
 categories: 
   - "collection-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ec5e5b17-c187-4eb6-b86f-3fe2c7009e00/public"
 ---
 
 ## Hamilton Khaki Aviation Collection

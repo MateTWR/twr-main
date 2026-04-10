@@ -3,6 +3,7 @@ title: "Kuoe Old Smith 90-007 In-Depth Review"
 date: 2025-08-30
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/839298f1-e09c-415d-d348-8ce361a5e900/public"
 ---
 
 ## KUOE: The Brand

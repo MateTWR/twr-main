@@ -6,6 +6,7 @@ categories:
 tags: 
   - "hamilton-khaki-navy-comparison"
   - "mido-ocean-star-comparison"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f2e35987-1f79-4c43-2003-84504b48e700/public"
 ---
 
 Comparing the Hamilton Khaki Navy Scuba (Ref: H82505140) to the Mido Ocean Star 200 (Ref: M026.430.11.041.00) is a classic "sibling rivalry." Both brands belong to the Swatch Group, and both watches offer incredible Swiss-made value for around $1,000.

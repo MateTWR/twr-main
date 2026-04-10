@@ -3,6 +3,7 @@ title: "Best Bauhaus Watches For Minimalist Fans"
 date: 2023-04-23
 categories: 
   - "watch-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a767b935-1dcd-42c9-970e-6be0ac58c200/public"
 ---
 
 ## What is Bauhaus?

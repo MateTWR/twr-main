@@ -4,6 +4,7 @@ date: 2025-11-19
 categories: 
   - "500"
   - "dive-watches"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/77c8a898-0687-47cb-14c4-e2a0c6ae8c00/public"
 ---
 
 When compiling this list of our favorite dive watches under $500, we made sure to include timepieces that are well worth your money insofar as quality, craftsmanship, and design. Beyond the price tag, we looked for the fundamentals that make a diver dependable: at least 200 meters of water resistance, a secure screw-down crown, a solid, confidence-inspiring bezel action, and lume that stays legible when the sun dips below the horizon. Where possible, we favored sapphire crystals, thoughtful case finishing, and bracelets or straps that can handle daily wear as well as a weekend in the surf.

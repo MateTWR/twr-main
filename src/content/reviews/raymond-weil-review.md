@@ -3,6 +3,7 @@ title: "Raymond Weil Watches: Brand History and Review"
 date: 2023-03-17
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/02c46ca8-719c-47c7-d614-48b82170d800/public"
 ---
 
 ## The History of Raymond Weil

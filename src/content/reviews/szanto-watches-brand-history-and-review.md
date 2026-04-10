@@ -3,6 +3,7 @@ title: "Szanto Watches: Brand History and Review"
 date: 2023-11-25
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/fedc694d-a1ec-4b96-1bb3-075096364e00/public"
 ---
 
 ## The History of Szanto Watches

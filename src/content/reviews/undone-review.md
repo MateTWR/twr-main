@@ -3,6 +3,7 @@ title: "UNDONE Watches Review: Everything You Need To Know"
 date: 2022-08-30
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/269af9fe-ff62-4be9-50f7-dce89f499900/public"
 ---
 
 ## The History of UNDONE

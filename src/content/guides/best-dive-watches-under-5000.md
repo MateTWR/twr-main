@@ -4,6 +4,7 @@ date: 2025-01-29
 categories: 
   - "5000"
   - "dive-watches"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/88f1e5fc-f699-4c6f-7fdd-55570723c800/public"
 ---
 
 There is a multitude of high quality divers watches on the market today as they are by far the most popular watch category. This is due to their versatile design and look as they can be your companion in almost all situations. Finding the perfect dive watch under $5,000 is a very exciting project, so we compiled a list where we feature the best of the best. Happy hunting!

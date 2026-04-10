@@ -3,6 +3,7 @@ title: "Sternglas Tachymeter Review"
 date: 2023-07-25
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/607449a7-2488-4e5e-fa76-c58973f98500/public"
 ---
 
 As you must be used to by now, we at The Watch Resource are always looking to introduce and highlight timepieces with exciting and unique features, from brands we love and recommend to all watch enthusiasts. This never-ending journey brought us to today’s contender, the Sternglas Tachymeter.

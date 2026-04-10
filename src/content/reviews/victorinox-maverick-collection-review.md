@@ -3,6 +3,7 @@ title: "Victorinox Maverick Collection Review"
 date: 2022-08-25
 categories: 
   - "collection-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/96afa08f-9cea-45ba-060b-d54e2b454f00/public"
 ---
 
 ## Victorinox Maverick Collection

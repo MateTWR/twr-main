@@ -3,6 +3,7 @@ title: "Hamilton Intra-Matic Auto Chrono Review: Sporty and Timeless"
 date: 2023-03-23
 categories: 
   - "watch-review"
+heroImage: "https://www.thewatchresource.com/wp-content/uploads/2023/03/h38416560_lifestyle1.jpg"
 ---
 
 When it comes to racing chronographs, most of the designs out there have a distinct sporty look, which of course makes perfect sense—but it also limits their wearability. While racing watches, generally speaking, are not our first choice when it comes to a formal dress code, the Hamilton Intra-Matic Auto Chronograph comes as a refreshing exception to the rule. Combining a sporty look with sophisticated elegance, this watch really has it all. Let’s take a closer look, and discuss if the Intra-Matic is indeed a worthwhile investment.

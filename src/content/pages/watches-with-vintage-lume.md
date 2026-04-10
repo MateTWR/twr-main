@@ -4,6 +4,7 @@ date: 2024-01-03
 categories: 
   - "everyday-watches"
   - "watch-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d787185b-d1a0-4bcf-36c9-9f1ef0923100/public"
 ---
 
 Vintage-inspired watches are very popular today, and for a good reason. Vintage styles still popular today are designed with such timelessness, their track record reaches back over decades, often centuries. 

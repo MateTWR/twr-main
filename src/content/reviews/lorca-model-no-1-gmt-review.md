@@ -3,6 +3,7 @@ title: "Lorca Model No.1 GMT Review"
 date: 2024-04-19
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/60134215-7499-4d08-7cde-209d3cb07000/public"
 ---
 
 Lorca is a new microbrand that made a splash with their first model launched in 2023, the Model No.1. This first model became an instant crowd favorite thanks to its striking design and a size that’s smaller than usual. Let’s take a closer look at it!

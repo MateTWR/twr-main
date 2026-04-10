@@ -3,6 +3,7 @@ title: "Longines Conquest 41 mm (L3.830.4.02.6) Review"
 date: 2025-06-13
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4c8d2484-ed86-4ecf-1477-c8be47cab700/public"
 ---
 
 ## Longines Conquest: The Collection

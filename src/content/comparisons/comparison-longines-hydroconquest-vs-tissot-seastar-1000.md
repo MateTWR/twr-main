@@ -6,6 +6,7 @@ categories:
 tags: 
   - "longines-hydroconquest-comparison"
   - "tissot-seastar-comparison"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/20109d40-8a8e-4fc0-be9d-45996f99c000/public"
 ---
 
 This is a classic "Big Brother vs. Little Brother" matchup within the Swatch Group hierarchy. Comparing the Longines HydroConquest (Ref: L3.782.4.96.6) to the Tissot Seastar 1000 (Ref: T120.407.11.041.03) is a study in diminishing returns: is the Longines twice as good as the Tissot, given that it costs nearly double?

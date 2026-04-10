@@ -3,6 +3,7 @@ title: "Rado Watch Review"
 date: 2022-04-08
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/aa6afc20-2967-451a-3261-85fd5dc91100/public"
 ---
 
 ## The History of Rado Watches

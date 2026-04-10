@@ -4,6 +4,7 @@ date: 2025-03-20
 categories: 
   - "500"
   - "pilot-watches"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/65ca5015-4788-4630-607b-fea74408ba00/public"
 ---
 
 In our pursuit to discover the finest pilot watches, I aimed to bring to you a selection of brands that you might not encounter every day. This list showcases the best pilot watches available for under $500. Carefully curated to feature timepieces that are built to last, both in terms of design and the quality of their movements, it’s important to ensure that you receive exceptional value for your money.

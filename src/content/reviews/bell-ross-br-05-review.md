@@ -3,6 +3,7 @@ title: "Bell & Ross BR 05 Grey Steel Review"
 date: 2023-04-06
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/16b7df32-2872-431e-c27b-5b2b3b66bc00/public"
 ---
 
 On our journey to bring you watches with truly unique design and a character of their own, we present an absolute gem, the Bell & Ross BR 05 Grey Steel. Square case, monochrome design, integrated bracelet - while this combination might be divisive, we think there is a lot to unpack here, and we’re excited to share our thoughts with you!

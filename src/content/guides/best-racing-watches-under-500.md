@@ -4,6 +4,7 @@ date: 2025-03-27
 categories: 
   - "500"
   - "racing-watches"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/dd568d44-e1f3-4e12-572d-affeba5a1200/public"
 ---
 
 The realm of racing watches offers a plethora of exceptional timepieces, and narrowing down the finest racing watches under $500 is no small challenge. In curating this list, I examined each contender, focusing on the intricacies of its movement, the overall craftsmanship, and the enduring elegance of its design.

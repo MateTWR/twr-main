@@ -3,6 +3,7 @@ title: "Timex Watches Review: Brand History and Review"
 date: 2022-08-09
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e9a01317-1d6a-4aa5-b265-28774fad7b00/public"
 ---
 
 ## The History of Timex

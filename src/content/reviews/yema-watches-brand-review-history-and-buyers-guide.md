@@ -3,6 +3,7 @@ title: "Yema Watches Brand Review: History and Buyer’s Guide"
 date: 2023-12-24
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a4962a30-9d5e-4c6f-6be6-118162744300/public"
 ---
 
 ## The History of Yema Watches

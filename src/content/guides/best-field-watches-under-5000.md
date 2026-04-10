@@ -4,6 +4,7 @@ date: 2024-05-17
 categories: 
   - "5000"
   - "field-watches"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1a2d5605-4348-4537-102d-0dc39fe9b700/public"
 ---
 
 Finding a perfect watch is always a fun but somewhat challenging project. But you're here, so that means you've already identified the design you're looking for, and your price range. That's an excellent start, so let's dig in!

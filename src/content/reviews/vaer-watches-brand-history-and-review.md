@@ -3,6 +3,7 @@ title: "VAER Watches: Brand History and Review"
 date: 2023-04-24
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/c2ab5e44-8e6c-46b6-005f-ed130aee4900/public"
 ---
 
 ## The History of VAER

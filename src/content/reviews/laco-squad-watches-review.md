@@ -3,6 +3,7 @@ title: "Laco Squad Watches Review: Himalaya, Amazonas, Atlantik, Mojave"
 date: 2023-10-06
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/92013ea4-cbe2-4e03-c7d7-78f13bea0b00/public"
 ---
 
 When it comes to Laco, we instantly think of their classic Flieger watch designs, as they play an essential part in the brand heritage. While these pilot watches are true and cherished classics, what we love about Laco is their commitment to creating new designs while maintaining the quality they are known for. In this review, we are taking a closer look at their modern Squad Watches / Sport watches collection.

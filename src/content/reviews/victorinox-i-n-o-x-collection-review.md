@@ -3,6 +3,7 @@ title: "Victorinox I.N.O.X. Collection Review"
 date: 2022-08-30
 categories: 
   - "collection-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b92841eb-9532-4589-bc13-0c33e3703c00/public"
 ---
 
 ## Victorinox I.N.O.X. Collection

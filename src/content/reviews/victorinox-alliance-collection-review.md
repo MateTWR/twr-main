@@ -3,6 +3,7 @@ title: "Victorinox Alliance Collection Review"
 date: 2022-08-21
 categories: 
   - "collection-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/28a5c18e-8631-47d0-ed95-fdc57649f500/public"
 ---
 
 ## Victorinox Alliance Collection

@@ -3,6 +3,7 @@ title: "Rolex Submariner Alternatives"
 date: 2024-11-06
 categories: 
   - "alternatives"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/27241f92-9a66-496f-86d5-8ab6ea852300/public"
 ---
 
 The Rolex Submariner is, without a doubt, the most well-known watch in the world. It has become the go-to luxury sports watch, and the first watch that people think of when they think of a dive watch, thanks to its legendary reputation.

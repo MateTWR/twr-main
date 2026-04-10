@@ -3,6 +3,7 @@ title: "Best Pilot Watches Under $2,000"
 date: 2025-05-31
 categories: 
   - "pilot-watches"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/daef0a9b-b0b2-4a1b-3584-e87bab8bf600/public"
 ---
 
 A pilot watch is more than just a timepiece; it's a symbol of adventure, a testament to timeless design, and an essential companion for the modern gentleman. Whether you're navigating the skies or simply navigating your day, a pilot watch offers a blend of functionality and style that few other watches can match.

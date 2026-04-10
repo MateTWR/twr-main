@@ -4,6 +4,7 @@ date: 2022-06-06
 categories: 
   - "collections"
   - "one-watch-collection"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/78687db2-20e6-4a06-a59d-d6049b061900/public"
 ---
 
 A watch collection is often built in stages, starting with the acquisition of a few affordable favorites and progressing toward the search for more expensive and sought-after models as one's expertise and disposable income increase. We've featured many admirable watches in a variety of price ranges, but many people believe that the sweet spot between $5,000 and roughly $10,000 is the best place to look for some of the Holy Grail watches, from the most prestigious watch brands in the world. Here is our take on the greatest watches under $10,000, the best of the best if you're wanting to purchase your first "iconic" watch and have an epic one watch collection.

@@ -3,6 +3,7 @@ title: "Le Forban Sécurité Mer The Malouine Review"
 date: 2024-04-08
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4afe1450-5e57-4d00-2753-86b2d9ff9e00/public"
 ---
 
 ## Review: The Malouine from Le Forban Sécurité Mer Elegant French Design

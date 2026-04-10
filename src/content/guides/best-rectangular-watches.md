@@ -3,6 +3,7 @@ title: "Best Square & Rectangular Watches"
 date: 2024-12-26
 categories: 
   - "watch-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e206cb96-90c3-4bd7-d75a-f3102ded9f00/public"
 ---
 
 When we think about watches (and we do think about watches...a LOT), we usually have a mental picture of watches with round dials. While we can all agree on that it makes sense, it is interesting to note that one of the earliest wristwatches ever made was the Cartier Santos, and it's rectangular.

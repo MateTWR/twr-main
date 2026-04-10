@@ -3,6 +3,7 @@ title: "Mühle-Glashütte Teutonia Sport II “Racing Green” (M1-29-74-LB-B) I
 date: 2025-07-05
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1978ad5a-b4f6-43ad-1dc6-bb25ecfe2300/public"
 ---
 
 ## Mühle-Glashütte: The Brand

@@ -3,6 +3,7 @@ title: "Hamilton Watches: Brand History and Review"
 date: 2022-10-10
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4684dc01-e82c-4c52-2e78-cd50f64c0c00/public"
 ---
 
 ## The History of Hamilton Watches

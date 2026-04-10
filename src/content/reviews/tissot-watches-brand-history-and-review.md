@@ -3,6 +3,7 @@ title: "Tissot Watches: Brand Review, Collections & History"
 date: 2022-09-01
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/37b68b9f-f2f5-4b77-9f1c-8f5b66f31400/public"
 ---
 
 ## The History of Tissot Watches

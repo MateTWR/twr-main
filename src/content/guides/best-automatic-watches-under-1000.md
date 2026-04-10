@@ -4,6 +4,7 @@ date: 2023-05-30
 categories: 
   - "1000"
   - "watch-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/68890e50-eeba-4419-eadb-dea10c302900/public"
 ---
 
 Buying an automatic watch is an exciting endeavor—it is an essential for most watch enthusiasts. There is undoubtedly something magical about the tiny parts clicking-clacking together in perfect harmony, powering the watch seemingly forever. No wonder: automatic movement is where a watchmaking skill can really shine. It is a nod to tradition, and high-level skilled craftsmanship. 

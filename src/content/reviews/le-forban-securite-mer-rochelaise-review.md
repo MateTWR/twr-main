@@ -3,6 +3,7 @@ title: "Le Forban Sécurité Mer Rochelaise Review: Revisiting the Style of Skin
 date: 2024-01-23
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/6cdc36f7-c82e-461d-3000-1ee54c20a100/public"
 ---
 
 We love watches with a unique design, and it's even better if that watch is created by a brand that doesn't receive a lot of spotlight. That is the exact scenario here.

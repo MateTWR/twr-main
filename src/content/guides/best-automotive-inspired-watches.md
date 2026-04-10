@@ -3,6 +3,7 @@ title: "Best Automotive-Inspired Watches: Watches for Car Lovers & Enthusiasts"
 date: 2023-12-08
 categories: 
   - "racing-watches"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8fc1f091-f4ea-44f9-61cf-5b8a09f4b600/public"
 ---
 
 Cars and watches, despite their different uses, share a deep-rooted connection that began with the advent of the automobile. Racing watches were created for a very specific purpose: to measure time for horse, car, motorbike, and other races where accurate timekeeping was instrumental. Therefore, naturally, the most important distinguishing feature of a racing watch is the presence of a stopwatch function. For this reason, most chronographs on the market today can be categorized as racing watches, with the tachymeter on the bezel as an additional identifying element, which is a useful tool in the calculation of time and distance. 

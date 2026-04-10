@@ -3,6 +3,7 @@ title: "MAEN Manhattan 37 M2 “Grey Ice” Hands-On Review"
 date: 2025-08-19
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/3340552e-178f-4def-e75f-33ffb66d5000/public"
 ---
 
 ## Maen: The Brand

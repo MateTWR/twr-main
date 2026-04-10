@@ -5,6 +5,7 @@ categories:
   - "1000"
   - "collections"
   - "one-watch-collection"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/32b0a4bc-d781-41c7-3e96-287348884e00/public"
 ---
 
 While watch enthusiasts and collectors often end up with more than one timepiece in their collection, we all look for that one watch that can be our go-to choice in almost all situations. And more often than not, we also have a budget in mind. With that in mind, we set out to  collect the highest quality watches with reliable movements and versatile design. The price point we're looking at is around $1,000.

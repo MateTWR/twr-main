@@ -6,6 +6,7 @@ categories:
 tags: 
   - "longines-hydroconquest-comparison"
   - "mido-ocean-star-comparison"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/62cf568f-7915-40ba-de27-98b5173e8b00/public"
 ---
 
 When you graduate from entry-level Seiko or Orient divers and look toward Switzerland, two names consistently dominate the conversation: Longines and Mido.

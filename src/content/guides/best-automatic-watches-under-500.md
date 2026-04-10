@@ -4,6 +4,7 @@ date: 2024-05-31
 categories: 
   - "500"
   - "watch-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/507b3751-2179-43c2-edfe-740fabd0c200/public"
 ---
 
 ## The Best Automatic Watches Under $500

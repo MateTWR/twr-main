@@ -4,6 +4,7 @@ date: 2025-05-31
 categories: 
   - "1000"
   - "pilot-watches"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ce2025ab-f0ee-442a-d147-35ad14bcc900/public"
 ---
 
 In my quest to curate a collection of the finest pilot watches available under $1,000, I unearthed a treasure trove of timepieces that (in my opinion) will attain the status of future classics. These watches marry exceptional quality with aesthetically pleasing and meticulously thought-out design elements. Allow us to delve deeper into the specifics of the top selections and elucidate why I perceive them as not merely purchases, but good investments that will stand the test of time.

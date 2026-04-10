@@ -3,6 +3,7 @@ title: "Longines Legend Diver Review [L3.774.4.50.6]"
 date: 2023-06-03
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d82acb1a-e6f2-4f8c-2db0-893c3e10d700/public"
 ---
 
 Longines is a brand with unparalleled heritage in the watchmaking world. Aside from the beloved classics, they also keep the inventory fresh with beautiful new designs, such as the HydroConquest or the Spirit Zulu Time collection. In this article, we are taking a closer look at one of the revived classics, the Legend Diver. It undoubtedly has its place in the brand’s Heritage collection, and we love this reinterpretation of a 1960s diver watch.  The Longines Legend Diver is a true classic with refreshing modern features.

@@ -3,6 +3,7 @@ title: "BENRUS Watches: Brand History and Review"
 date: 2023-04-20
 categories: 
   - "brand-reviews"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e7c02d80-fe1b-4884-c76f-7cc4df1c4b00/public"
 ---
 
 ## The History of BENRUS

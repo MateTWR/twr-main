@@ -3,6 +3,7 @@ title: "Victorinox FieldForce Collection Review"
 date: 2022-08-28
 categories: 
   - "collection-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/5352ef60-79cd-4f98-7e84-a8080a8c1400/public"
 ---
 
 ## Victorinox FieldForce Collection

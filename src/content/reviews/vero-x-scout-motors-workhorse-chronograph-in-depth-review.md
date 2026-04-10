@@ -3,6 +3,7 @@ title: "Vero X Scout Motors Workhorse Chronograph In-Depth Review"
 date: 2025-12-16
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/5d595f38-4a03-40a1-eac0-44ed7449d500/public"
 ---
 
 Vero Watch Company has teamed up with Scout Motors to create the Workhorse Chronograph, a rugged limited-edition timepiece offered in two striking colorways. This collaboration infuses Vero’s durable Workhorse design with Scout’s heritage automotive colors and adventurous spirit. In total, only 500 of these watches will be made – split between the Moonstone Blue and Terra Cotta editions – making each variant quite exclusive. Each colorway draws directly from a classic International Scout vehicle paint code: the deep Moonstone Blue comes from a 1965 Scout 80, while the bold Terra Cotta originates from a later Scout II model. Let’s take a closer look. 

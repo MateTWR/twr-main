@@ -3,6 +3,7 @@ title: "BENRUS Ultra-Deep Review"
 date: 2025-10-30
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/dd238818-eb0f-4cb8-3d03-f5a083d3ef00/public"
 ---
 
 BENRUS released another great reissue of one of their previous designs, the Ultra-Deep. This supercompressor dive watch brings back one of the most popular watch designs of the 1960s featuring the twin crown case. The watch itself is a beautifully versatile piece, a sports watch with a touch of class: due to the cathedral-style hour and minute hands, and the date window with an internal magnification eye, it can easily be worn in reasonably elegant settings.

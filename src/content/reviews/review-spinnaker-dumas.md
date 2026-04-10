@@ -3,6 +3,7 @@ title: "Spinnaker Dumas Review"
 date: 2023-06-19
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/259ca9da-e277-484c-0bca-890098ebbe00/public"
 ---
 
 Our mission at The Watch Resource is to highlight timepieces that have unique character due to their outer appearance, and/or technical specifications. This never ending journey brought us to the Spinnaker Dumas. As a bonus, the price point was an additional positive factor, so of course, we decided to shine the spotlight on it. Let’s dive right in!

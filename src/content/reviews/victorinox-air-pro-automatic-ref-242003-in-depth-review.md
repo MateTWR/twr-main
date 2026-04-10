@@ -3,6 +3,7 @@ title: "Victorinox Air Pro Automatic (Ref. 242003) In-Depth Review"
 date: 2025-12-23
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/913765bb-76cb-46c9-d2b8-44e8d56adb00/public"
 ---
 
 Victorinox is a brand synonymous with Swiss Army Knives and robust, utilitarian design, but it also has a solid footing in watchmaking dating back to 1989. The Air Pro Automatic represents the latest evolution of their pilot’s watches, essentially picking up the torch from the legendary Airboss line. This new model is built with pilots and world travelers in mind, blending classic aviation styling with modern engineering for optimal usability, and the end result is something very fresh and unique.  

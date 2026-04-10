@@ -6,6 +6,7 @@ categories:
 tags: 
   - "longines-hydroconquest-comparison"
   - "oris-aquis-comparison"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8373565e-46b3-463f-9f52-a4a10cfdd600/public"
 ---
 
 If you’ve spent any time looking for a "one-and-done" Swiss diver that can handle a boardroom meeting on Monday and a boat deck on Saturday, you’ve hit the ultimate crossroads: the Longines HydroConquest vs. the Oris Aquis Date.

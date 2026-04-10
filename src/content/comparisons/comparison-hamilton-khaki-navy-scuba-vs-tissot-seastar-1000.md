@@ -6,6 +6,7 @@ categories:
 tags: 
   - "hamilton-khaki-navy-comparison"
   - "tissot-seastar-comparison"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f9d5d1e5-4421-4160-a18b-1462968f1400/public"
 ---
 
 When you have [$1,000 to spend on a Swiss diver](https://www.thewatchresource.com/best-dive-watches-under-1000/), two names inevitably rise to the top: the Hamilton Khaki Navy Scuba and the Tissot Seastar 1000. 

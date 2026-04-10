@@ -3,6 +3,7 @@ title: "Laco Frankfurt GMT Review"
 date: 2023-10-27
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/3604f04c-6507-4c72-eda4-3069d2b33800/public"
 ---
 
 When discussing Laco, their iconic aviation watch designs immediately come to mind, representing a significant aspect of the brand's legacy. Although these aviator timepieces are genuine and revered classics, our admiration for Laco stems from their dedication to crafting innovative designs without compromising the excellence they are recognized for. In this review, we are taking a closer look at the Frankfurt GMT, a great combination of classic pilot watch design elements and some modern features.

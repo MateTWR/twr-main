@@ -3,6 +3,7 @@ title: "echo/neutra Cortina 1956 3H Review"
 date: 2025-03-29
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e38b7950-3b8d-4107-3b7c-b520e6a5ea00/public"
 ---
 
 If you’re interested in truly unique watch brands who create distinctive designs, you came to the right place, as we’re always looking to shine some well deserved spotlight on these often overlooked gems. This brings us to Echo/Neutra’s Cortina 1956 3H.

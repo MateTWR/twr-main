@@ -3,6 +3,7 @@ title: "Zodiac Super Sea Wolf Pro-Diver Review"
 date: 2023-11-04
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d5c84d89-6461-4697-048d-32436496fd00/public"
 ---
 
 Zodiac is a brand most of us are already familiar with, so we thought it best to showcase them through a specific watch that represents one of their most popular collections, the Super Sea Wolf Pro-Diver. Inspired by the initial design from the ‘50s, this particular timepiece is equipped with some modern features and elements resulting in an evergreen classic dive watch. Let’s take a closer look!

@@ -3,6 +3,7 @@ title: "Alpina Alpiner 4 Automatic Blue (AL-525NS5AQ6) Review"
 date: 2024-01-31
 categories: 
   - "watch-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2cb8118b-329c-490e-b5e9-890c6340a500/public"
 ---
 
 Alpina, established in 1883 by mountaineers aiming to create exceptionally durable watches for outdoor use, pioneered the development of anti-shock, anti-magnetic, stainless steel, and waterproof timepieces. The brand's production facilities are located in Geneva, Switzerland. With a heritage spanning over 130 years in watchmaking, Alpina is committed to crafting luxury sports watches that offer utmost precision and dependability under the most challenging sporting conditions.

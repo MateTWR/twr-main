@@ -6,6 +6,7 @@ categories:
 tags: 
   - "oris-aquis-comparison"
   - "tag-heuer-aquaracer-comparison"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/346b4abb-4bf1-46ea-f6e9-aca4148f3800/public"
 ---
 
 I’ve spent a lot of time debating the "one-watch collection" dilemma. For most of us, that search leads straight to a versatile, steel-on-steel diver. Today, I'm pitting two heavy hitters against each other that represent two very different philosophies of modern luxury.

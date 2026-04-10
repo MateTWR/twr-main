@@ -3,6 +3,7 @@ title: "Tag Heuer Carrera Alternatives"
 date: 2024-11-05
 categories: 
   - "alternatives"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b1a0211e-6e3d-4ee9-f2eb-c999a5809800/public"
 ---
 
 TAG Heuer Carrera was born on the racetracks in 1963 and represents the spirit of endurance and great performance on your wrist.

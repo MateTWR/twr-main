@@ -3,6 +3,7 @@ title: "Hamilton Khaki Navy Collection Review"
 date: 2022-10-10
 categories: 
   - "collection-review"
+heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8e2e66bc-92ce-44e7-742a-3106e3ee9f00/public"
 ---
 
 ## Hamilton Khaki Navy Collection
