@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/fedc694d-a1ec-4b96-1bb3-075096364e00/public"
 ---
+
 ## The History of Szanto Watches
 
 Szanto is a relatively new watch company based in California. It was launched in 2013 under the umbrella company Time Concepts. The man behind Time Concepts is Barry Cohen, who created Luminox back in 1989 with the goal to bring the self illuminating watch technology to life. 
@@ -108,31 +109,3 @@ The Desert Sands is quartz powered chronograph with large Arabic numerals. The t
 [Check Price](https://szantotime.com/products/heritage-aviator/?ref=ZO7GfbiC2nhcAq)
 
 The Heritage Aviator is a traditional pilot watch design that’s available in different color combinations. The case width is 41 mm, a good size for all wrists. The outer rim of the dial has the minute markers, and the inner circle marks the hours in smaller arabic numerals. The classic pencil hour and minute hands are combined with a subdial for the seconds.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [VAER Reivew](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

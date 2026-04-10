@@ -9,6 +9,7 @@ tags:
   - "tag-heuer-aquaracer-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/346b4abb-4bf1-46ea-f6e9-aca4148f3800/public"
 ---
+
 I’ve spent a lot of time debating the "one-watch collection" dilemma. For most of us, that search leads straight to a versatile, steel-on-steel diver. Today, I'm pitting two heavy hitters against each other that represent two very different philosophies of modern luxury.
 
 On one side, we have the TAG Heuer Aquaracer Professional 200 (Ref. WBP2111.BA0627)—a sleek, angular, and surprisingly elegant take on the dive watch.
@@ -97,20 +98,3 @@ Personally? I love the way the light hits that blue TAG dial, but the T-fit clas
 | Lug-to-Lug Distance | 46.6 mm | 49.3 mm |
 | Case Thickness | 11.5 mm | 13.6 mm |
 | Price | ~ $2,800 | ~ $4,400 |
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

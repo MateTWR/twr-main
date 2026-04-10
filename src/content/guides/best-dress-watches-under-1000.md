@@ -7,6 +7,7 @@ categories:
   - "dress-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d56760c9-9534-4f86-ccd9-ec2ea3884100/public"
 ---
+
 In our search to find the best dress watch under $1,000, we found some classics with elegant and powerful design, and great quality.  
 The $1,000 price point provides some interesting features with all watches, but we're looking at dress watches here, therefore we eliminated watches with "unnecessary" complications as we want to keep our dress watches simple and elegant. The selected timepieces will usually have automatic movements, sleek design, and excellent quality.  
 In no particular order, may we present our winners!
@@ -163,20 +164,3 @@ The brand name Montblanc already equals to evergreen elegance, but the Montblanc
 [Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fseiko-presage-automatic-brown-dial-mens-watch-spb115j1.html)
 
 A watch from Seiko usually makes most "best of" articles, and for obvious reasons: reliable brand with precise movements, impressive design at a very reasonable price point. The Seiko Presage Automatic Brown is a great dress watch option. A classy design with reliable automatic movement that gives you 70 hours power reserve. The case has a subtle brown undertone, which makes it a perfect timepiece for almost all suit color combination.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

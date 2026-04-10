@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/86c4d9aa-ab9f-403a-28f7-89ea21508200/public"
 ---
+
 We’re always on the hunt to find unique watches that deserve some additional attention and spotlight. Raymond Weil has been on a lot of people’s radar for a long time now (rightly so), and they have added truly breathtaking watches to their already most popular collection, the Freelancer.
 
 The new timepiece that grabbed our attention this time was the Freelancer GMT Worldtimer’s green version. Let’s see what we have!
@@ -170,16 +171,3 @@ The case itself has the same 40.5 mm width as the green and black versions.
 The GMT functionality is changed only in design, not in functionality: the prominent cities of each time zone are not present on the inner rotating track on the blue version. This design solution makes the dial a bit more airy and less busy, therefore it’s a perfect design for people who are looking for a GMT watch with a relatively simple design.
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

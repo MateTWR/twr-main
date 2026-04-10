@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/839298f1-e09c-415d-d348-8ce361a5e900/public"
 ---
+
 ## KUOE: The Brand
 
 KUOE is a Japanese microbrand founded in 2020 by designer Kenji Uchimura in Kyoto, Japan. The brand's concept traces back to 2010 when Uchimura, then a university student in London, was captivated by a collection of antique hand-wound watches from the 1940s to 1970s. This experience ignited his passion for classic design, leading him to establish KUOE with the vision of offering timeless, high-quality watches that blend traditional aesthetics with modern craftsmanship.
@@ -103,16 +104,3 @@ This is a watch with real character. It’s not loud or high-tech or trying to g
 ### Written by
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

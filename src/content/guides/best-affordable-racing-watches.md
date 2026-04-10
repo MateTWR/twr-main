@@ -5,6 +5,7 @@ date: 2023-08-01
 categories: 
   - "racing-watches"
 ---
+
 Looking for a high quality racing watch that won’t break the bank but possibly _will_ break speed records? We hope you enjoy picking out your new driving companion as much as we enjoyed putting together this ultimate list of winners when it comes to value and quality.
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
@@ -91,26 +92,3 @@ The Fossil Machine Chronograph in this dark brown leather edition is one of our 
 [Check Price](https://hoffmanwatches.com/products/racing-40-octane)
 
 For those of you who like a little pop of color on your wrist, we just had to feature the Octane by Hoffman. A subtle and gorgeous shade of yellow pairs beautifully with the otherwise subtle and classic looking design elements, thus the black sub-dials become the visual focus with their cool accentuated circular pattern. One of our favorite unique finds!
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Best Racing Watches Under $500](https://www.thewatchresource.com/best-racing-watches-under-500/)
-- [Best Racing Watches Under $2,000](https://www.thewatchresource.com/best-racing-watches-under-2000/)
-- [Best Affordable Dive Watches](https://www.thewatchresource.com/best-affordable-dive-watches/)
-- [Best Affordable Everyday Watches](https://www.thewatchresource.com/best-affordable-everyday-watches/)
-- [Best Affordable Pilot Watches](https://www.thewatchresource.com/best-affordable-pilot-watches/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

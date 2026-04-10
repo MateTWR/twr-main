@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d1fe2b1f-2b2a-40d8-f4a3-9181d1a92200/public"
 ---
+
 Our never-ending search for amazing watches brought us to the Orbit Robot from BENRUS - an American brand with a rich history in the American watch industry, and they’re making an exciting comeback. The Orbit Robot is a character of its own, marked by its simple yet eye-catching design, elevated still by the use of atypical color combinations.
 
 [![Benrus Orbit Robot Skindiver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Orbit-Robot-Skindiver-q50g5yerh7hdkdczsn42t0qb3lhe9a5my6z30zy1kc.png/public "Benrus Orbit Robot Skindiver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
@@ -124,16 +125,3 @@ The BENRUS Orbit Robot is a character of its own that delivers a modern yet time
 [Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

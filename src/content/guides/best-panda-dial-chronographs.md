@@ -6,6 +6,7 @@ categories:
   - "dial-color-or-design"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4c595b6c-ab5d-420f-301a-7916a73f8b00/public"
 ---
+
 On the topic of color dials, or at least the visually exciting ones, this article will focus on the so-called “panda dials”. As the name suggests, the overall visual effect resembles a black and white face of a panda. While it may sound playful, panda dials possess a certain sophistication, owing to the dominant black and white hues and classic chronograph dial design. As far as design variation within the relatively fixed parameters of a “panda dial”, think of black subdials on a fresh white dial, or the reverse, a moody dark dial broken up with bright subdials. In any case, the wearer will enjoy high visual contrast in a dynamic design, ensuring a stunning wrist-statement. 
 
 Without further ado, let’s dive in and take a closer look at our carefully curated favorites.
@@ -177,27 +178,3 @@ The Tudor Black Bay Fifty Eight is a classic dive watch with a 39 mm case diamet
 All PRX models have a '70s vibe, and this chrono with the rose gold hands and index hour markers further adds to that feel. But the classic racing chronograph dial design with the high contrast black subdials counterbalances the “all out ‘70s style” and the result is a beautiful, timeless, vintage-inspired look.
 
 The PRX Chrono comes with the Valjoux A05.H31 caliber, which gives the classic 3, 6, and 9 chronograph dial configuration as well as a 60-hour power reserve.
-
-#### WRITTEN BY
-
-### YOU MIGHT BE INTERESTED IN:
-
-- [Best Brown Dial Watches](https://www.thewatchresource.com/best-brown-dial-watches/)
-- [Best Gray Dial Watches](https://www.thewatchresource.com/best-gray-dial-watches/)
-- [Best White Dial Watches](https://www.thewatchresource.com/best-white-dial-watches/)
-- [Best Green Dial Watches](https://www.thewatchresource.com/best-green-dial-watches/)
-- [Best Red Dial Watches](https://www.thewatchresource.com/best-red-dial-watches/)
-- [Best Orange Dial Watches](https://www.thewatchresource.com/best-orange-dial-watches/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

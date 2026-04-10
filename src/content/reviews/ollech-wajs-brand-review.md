@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a396c7a4-6b1b-4602-6502-26f7e71b5500/public"
 ---
+
 In the realm of horology, certain names resonate with a legacy of craftsmanship, precision, and enduring design. Ollech & Wajs, a Swiss watch brand, stands out as a beacon of such qualities, marrying the rich tradition of Swiss watchmaking with the innovation of modern design. This article delves into the history of Ollech & Wajs, exploring its unique aspects, watch designs, and movements that set it apart in the world of timepieces.
 
 ## The History of Ollech & Wajs
@@ -144,20 +145,3 @@ Commemorating the 50th anniversary of this landmark timepiece, we've introduced 
 [Check Price](https://ow-watch.ch/collections/ollech-wajs-watches/products/ow-ocean-graph-1)
 
 The OW Ocean Graph pays homage to the 1968 Ollech & Wajs Ocean Graph and the esteemed dive watches of the 'Precision' line. These timepieces featured patented decompression bezels, crucial for the safety of divers exploring deep waters. The contemporary OW Ocean Graph draws its color scheme and striking triangular markers from the unique graphic designs of classic OW models.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/26117ac7-4a93-49d4-570d-814979ceaa00/public"
 ---
+
 ## The History of Serica
 
 SERICA was established in 2019 with the straightforward goal of designing unique timepieces that are both robust and elegant. Watches we would be comfortable wearing wherever life takes us. As founder Jérome Burgert said, they “found it increasingly difficult to find a proper daily mechanical watch”. Serica watches are on a mission to embody timepieces that stand the test of time both in its design and performance. “A watch that could travel to the edge of the world if needed.”
@@ -85,31 +86,3 @@ Power Reserve: 40 hours
 Diameter: 39 mm
 
 [Check Price](https://www.serica-watches.com/en/product/serica-8315-gmt-chronometre/)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [VAER Reivew](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Victorinox Review](https://www.thewatchresource.com/brand-reviews/victorinox-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Raymond Weil Review](https://www.thewatchresource.com/raymond-weil-review/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

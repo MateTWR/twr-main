@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/92013ea4-cbe2-4e03-c7d7-78f13bea0b00/public"
 ---
+
 When it comes to Laco, we instantly think of their classic Flieger watch designs, as they play an essential part in the brand heritage. While these pilot watches are true and cherished classics, what we love about Laco is their commitment to creating new designs while maintaining the quality they are known for. In this review, we are taking a closer look at their modern Squad Watches / Sport watches collection.
 
 [![Laco Atlantik 42 MB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Laco-Atlantik-42-MB-qdf4hz0yyytqeo6h35f4m1w304ctzjzrsm43e7ig18.webp/public "Laco Atlantik 42 MB")](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fatlantik-42-mb)
@@ -189,16 +190,3 @@ If you like the overall design the the Laco Squad watches, and looking for the p
 [Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fmojave-42-mb)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

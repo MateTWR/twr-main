@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/9c13e963-aeba-46b2-f0bc-bcaa3a172200/public"
 ---
+
 ## The History of William Wood Watches
 
 The brand is built upon the familial legacy of courage and dependability. William Wood spent 25 years in the British Fire Service, and is a true hero, as well as the grandfather of the founder of the brand. William Wood Watches founder Johnny had this to say about his grandfather:
@@ -139,31 +140,3 @@ A rare limited edition commemorative coin crafted from an actual melted-down 192
 Diameter: 41 mm](https://williamwoodwatches.com/collections/chivalrouscollection/products/peacock-edition)
 
 [Check Price](https://williamwoodwatches.com/collections/chivalrouscollection/products/peacock-edition)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [VAER Reivew](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Victorinox Review](https://www.thewatchresource.com/brand-reviews/victorinox-review/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

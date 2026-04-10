@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/542cbf26-19be-498a-8308-7218332f5600/public"
 ---
+
 ## Brand History
 
 Furlan Marri is a Swiss-based microbrand founded in 2021 by designer Andrea Furlan and collector Hamad Al Marri. The partnership uniquely bridges Swiss design expertise and Middle Eastern collector passion, resulting in a brand devoted to vintage-inspired watchmaking with extreme attention to detail. Conceived during the late 2010s and officially launched via a Kickstarter campaign in 2021, Furlan Marri’s debut was nothing short of meteoric. The inaugural project – a 38mm mecha-quartz chronograph line – hit its funding goal (CHF 75,000) in under one minute and ultimately raised over CHF 1 million from 2,000+ backers, an overwhelming success that far exceeded expectations. This stunning launch laid the groundwork for Furlan Marri’s identity as a community-driven brand with a knack for capturing horological nostalgia.
@@ -95,20 +96,3 @@ First, be aware of the movement and function of the specific model you’re eyei
 Second, availability and buying channels: Furlan Marri primarily sells through its official website (often via pre-order windows for new models, and direct stock for the permanent collection). Popular limited editions can sell out in a very short time, so if there’s a hyped release (e.g. a collab chronograph), be prepared to act fast or potentially miss out.
 
 Lastly, think about your own preferences in size and style. All Furlan Marri watches as of now are on the smaller, vintage side of the spectrum – 37-38mm cases, with designs that are more dressy or retro than sporty. They typically have modest water resistance (e.g. 50m) – fine for daily wear and the occasional splash, but they’re not dive watches or rugged beaters. So if you regularly go swimming or need a lume-soaked tool watch, these are not built for that purpose. However, for daily office wear, casual outings, or adding a tasteful touch to your attire, they excel.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

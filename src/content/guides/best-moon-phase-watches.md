@@ -6,6 +6,7 @@ categories:
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a8e6341b-424c-4d76-2c83-c1383f517700/public"
 ---
+
 Moonphase watches are commonly considered a classic and elegant complication, and have been popular among watch enthusiasts and collectors for many years. In addition to its functional purpose, the moon phase display adds a decorative element to the watch's dial, and can be found in a variety of styles and designs. Without further ado, let’s take a look at our expertly curated list of the (in our opinion) best moon phase watches on the market today, spanning a wide range of price points!
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
@@ -197,32 +198,3 @@ The moon phase display is usually adjusted through a small pusher. To set the mo
 Why are Moon Phase Watches Expensive?
 
 Moonphase watches are often considered to be more complicated and sophisticated than other types of watches, as they require additional gearing and engineering to create the moon phase display. They are typically more expensive than simpler watches as a result.
-
-  
-  
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Best Automatic Watches Under $500](https://www.thewatchresource.com/best-automatic-watches-under-500/)
-- [Best Automatic Watches Under $1,000](https://www.thewatchresource.com/best-automatic-watches-under-1000/)
-- [Best Vintage-Inspired Watches](https://www.thewatchresource.com/best-vintage-inspired-watches/)
-- [Best Bauhaus Watches](https://www.thewatchresource.com/best-bauhaus-watches-for-minimalist-fans/)
-- [Best Rectangular & Square Watches](https://www.thewatchresource.com/best-rectangular-watches/)
-- [Best American Watch Bands](https://www.thewatchresource.com/best-american-watch-brands/)
-- [Best Guilloche Dial Watches](https://www.thewatchresource.com/best-guilloche-dial-watches/)
-- [Best One Watch Collection: The Guide for All Price Points](https://www.thewatchresource.com/one-watch-collection-the-guide-for-all-price-ranges/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

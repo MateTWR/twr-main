@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/238d6e8e-45c8-4798-9692-908b71d38300/public"
 ---
+
 ## The History of ZRC
 
 Edmond Zuccolo and Joseph Rochet started ZRC in 1904 in Geneva, and since then, the company has continuously evolved by developing diving watches, bracelets, and straps. In 1909 ZRC was incorporated in Geneva and it was given the No. 52 when the Geneva Trade and Companies Register was formed.
@@ -98,30 +99,3 @@ A colorful dial, Magnum-style hands, and a "lollipop" direct-drive are shielded 
 [Check Price](https://zrc1904.com/product/1964-spirit-gf40215/)
 
 The 1964 Spirit series of Grands Fonds 300 dive watches, all of which have the same DNA, carries on the spirit of the very first Grands Fonds model developed back in 1964. For two decades, this reliable timepiece complied with the standards set by the French National Navy for the equipment used by its clearance divers. As we expect from ZRC watches, the essential Magnum-style hands, the indexes, and the direct-drive with a "lollipop" design are all incorporated into this reimagined watch, that is so much more than a recycled version of an older design. This is a great vintage-inspired modern timepiece.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [VAER Reivew](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Victorinox Review](https://www.thewatchresource.com/brand-reviews/victorinox-review/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

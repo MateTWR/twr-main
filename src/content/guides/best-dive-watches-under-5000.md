@@ -7,6 +7,7 @@ categories:
   - "dive-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/88f1e5fc-f699-4c6f-7fdd-55570723c800/public"
 ---
+
 There is a multitude of high quality divers watches on the market today as they are by far the most popular watch category. This is due to their versatile design and look as they can be your companion in almost all situations. Finding the perfect dive watch under $5,000 is a very exciting project, so we compiled a list where we feature the best of the best. Happy hunting!
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
@@ -194,20 +195,3 @@ One word: classy. The Longines HydroConquest strikes a perfect balance between e
 Let's finish with a sporty option for the dedicated adventure seekers out there. We love the understated elegance of the gray elements combined with the rugged sporty look of the silicone strap. The deep black color of the dial pulls it all together just perfectly.
 
 The model featured here has a black rubber strap, orange aluminum bezel and black dial in a fiber glass case.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

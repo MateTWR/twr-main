@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/06fdf4ea-d196-4ae3-5ff1-8a8e70dfbf00/public"
 ---
+
 I’ve been following NORQAIN since the brand was founded in 2018, and always had a feeling they would make it big in the industry. In time, I saw their vision grow in popularity, their designs evolve, and a comprehensive brand identity was born.
 
 In earlier articles, I shared my thoughts on two NORQAIN models, the Adventure Sport and the Freedom Chrono 60. Immediately upon opening the box, I was struck by the beautiful design, as well as the perceivably high quality manufacturing. 
@@ -98,20 +99,3 @@ NORQAIN’s Wild ONE was introduced as the ultimate high-performance sports watc
 - Price: Around $5,500
 
 [Check Price](https://norqain.sjv.io/xkv9QA)
-
-#### WRITTEN BY
-
-## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

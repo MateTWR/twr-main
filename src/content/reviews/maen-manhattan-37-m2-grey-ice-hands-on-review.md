@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/3340552e-178f-4def-e75f-33ffb66d5000/public"
 ---
+
 ## Maen: The Brand
 
 Maen is a young independent watch brand with a vision of blending vintage inspiration with modern execution. Founded in 2017 by two Dutch watch enthusiasts, the company (now based in Stockholm) focuses on quality materials, and delivering great value watches. In fact, the name MAEN is the old Dutch word for “moon,” symbolizing the passage of time. Maen’s design philosophy is all about capturing the charm of the past, then blending it with modern technology.
@@ -103,16 +104,3 @@ If you’re looking for a versatile steel bracelet watch with a bit of retro fla
 ### Written by
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

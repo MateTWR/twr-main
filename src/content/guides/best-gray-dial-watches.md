@@ -6,6 +6,7 @@ categories:
   - "dial-color-or-design"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2a445820-d98c-404b-e4f7-36baf6bdba00/public"
 ---
+
 For the collector that enjoys a good sleek, sophisticated look, silver/grey dials are a good place to start the search. As far as styling, it goes with absolutely everything, and can transition from formal to informal quite easily. It is the ultimate elegant timepiece that never screams, always whispers. Because of the understated dial, these watches often feature tasteful pops of color, such as in the seconds hand, while maintaining the classic sophistication overall. 
 
 In this article, we’ve collected the (in our humble opinion) best gray dial / silver dial watches, spanning a wide variety of design choices and price ranges. Let’s take a look:
@@ -271,27 +272,3 @@ The TAG Heuer Carrera was the first chronograph particularly intended for profes
 [Check Price](https://www.certina.com/en/watch/ds-podium/c0344514408700)
 
 The Certina DS Podium brings an exceptionally clean dial, the date window at the 6 o'clock position gives it a particularly balanced look. The elegant dial is combined with a thinner bezel, and the bezel’s minute markers give an excitingly dynamic look to this otherwise elegant timepiece. A very interesting overall design, and a great choice!
-
-#### WRITTEN BY
-
-### YOU MIGHT BE INTERESTED IN:
-
-- [Best Brown Dial Watches](https://www.thewatchresource.com/best-brown-dial-watches/)
-- [Best White Dial Watches](https://www.thewatchresource.com/best-white-dial-watches/)
-- [Best Green Dial Watches](https://www.thewatchresource.com/best-green-dial-watches/)
-- [Best Orange Dial Watches](https://www.thewatchresource.com/best-orange-dial-watches/)
-- [Best Red Dial Watches](https://www.thewatchresource.com/best-red-dial-watches/)
-- [Best Panda Dial Watches](https://www.thewatchresource.com/best-panda-dial-chronographs/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

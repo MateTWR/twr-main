@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ad9824a6-2571-4fc6-12b1-ff4135652800/public"
 ---
+
 Vero Watch Company may be a relatively young brand (founded in 2015 in Portland, Oregon), but it has quickly built a reputation for well-built, adventure-ready timepieces. Their latest project is a collaboration with Realtree, the famed camouflage pattern maker known to outdoor enthusiasts. The result is the Vero x Realtree Tide Tracker – a field watch that merges rugged outdoors functionality with everyday wearability. This in-depth review is focusing on the Compass Blue edition of the Tide Tracker.
 
 Realtree’s influence is immediately apparent in the aesthetic. The Compass Blue variant features an original Realtree pattern canvas strap in a watery blue tone.It’s a look that stands out without being gaudy - more on that in a moment. Vero, for its part, brings the watchmaking chops: a robust stainless steel case, reliable automatic movement, and thoughtful design details geared toward adventurers. The partnership aims to create a tool watch that “blends naturally into any setting” – tough enough for the water and trail, yet refined enough for the office. I rarely write reviews about collaborations, but this one really caught my eye, so let’s take a closer look.
@@ -124,16 +125,3 @@ In summary, the Vero x Realtree Tide Tracker Compass Blue is far more than a nov
 [Check Price](https://verowatch.pxf.io/mOQQbq)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

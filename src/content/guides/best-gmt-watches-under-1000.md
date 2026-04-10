@@ -7,6 +7,7 @@ categories:
   - "gmt"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4fcacc9c-c656-41d7-543c-249fd13edd00/public"
 ---
+
 Below you will find our list of the best GMT watches under (or around) $1,000.
 
 We carefully considered the watches' quality, the timelessness of the design, and the overall value for your money, and came up with the cream of the crop when it comes to GMT features around the $1k price point. To assist you in finding your new favorite timepiece, we have included a brief description of the model and brand in question, along with the most interesting specs and details.
@@ -104,20 +105,3 @@ The incredibly durable DS Action GMT Automatic is the ideal travel companion sin
 [Check Price](https://www.jdoqocy.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fzeno-magellano-silver-tone-dial-mens-watch-6069gmt-g3.html)
 
 We all love watches with great stories. The Zeno Magellano GMT is a tribute Ferdinand Magellan, the Portuguese explorer who lead the expedition in the early 1500's to go around the globe. The design of the Zeno Magellano GMT is the original design from the 1970's, and it comes with the reliable ETA 2893 automatic movement. Vintage design made for the modern explorer; we love it!
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

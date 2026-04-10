@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d82acb1a-e6f2-4f8c-2db0-893c3e10d700/public"
 ---
+
 Longines is a brand with unparalleled heritage in the watchmaking world. Aside from the beloved classics, they also keep the inventory fresh with beautiful new designs, such as the HydroConquest or the Spirit Zulu Time collection. In this article, we are taking a closer look at one of the revived classics, the Legend Diver. It undoubtedly has its place in the brand’s Heritage collection, and we love this reinterpretation of a 1960s diver watch.  The Longines Legend Diver is a true classic with refreshing modern features.
 
 [![Longines Legend Diver Stainless Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Legend-Diver-Stainless-Steel-q7f64omymrx0o5k1vni0b40f07vymgk3kngh6scvxo.png/public "Longines Legend Diver Stainless Steel")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
@@ -120,16 +121,3 @@ With its distinctive character, the Longines Legend Diver is a statement piece t
 [Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

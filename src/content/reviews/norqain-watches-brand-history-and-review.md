@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d02f65b5-605c-457a-2a70-1e158d931600/public"
 ---
+
 NORQAIN is a new and exciting brand that’s quickly becoming popular thanks to their unique watches that are perfect for the lovers of adventure, and all kinds of outdoor activities you can think of. Inspired by the quintessential Swiss lifestyle, the design beautifully reflects the pristine lakes, green pastures and formidable mountain peaks. 
 
 Without further ado, let’s take a closer look at what NORQAIN has to offer.
@@ -131,20 +132,3 @@ The Freedom collection celebrates a deep connection to the beauty of nature that
 [Check Price](https://norqain.sjv.io/3eaPyK)
 
 _Read our [NORQAIN Freedom Chrono 60 in-depth review](https://www.thewatchresource.com/norqain-freedom-chrono-60-review/)._
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

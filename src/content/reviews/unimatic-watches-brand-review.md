@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/04b6ff54-35af-4cfa-b97d-cb337bf1f600/public"
 ---
+
 Today’s topic of discussion is a brand that might just fit the bill of “one-of-a-kind”. Let’s dive in.
 
 UNIMATIC watches are known for their precision and craftsmanship, but the most interesting aspect of the brand is how they excel in fulfilling the demand for custom, small-batch timepieces tailored to private commissions for military, public, or corporate clients.
@@ -121,20 +122,3 @@ The solid 316 brushed stainless steel case is now paired with a brushed stainles
 The screw-down caseback is engraved with the 'Rosa dei Venti' (wind rose) diagram - this was a tool used by seafarers before the compass.
 
 The Modello Quattro is equipped with the reliable NH35A automatic movement, providing 41 hours of power reserve.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

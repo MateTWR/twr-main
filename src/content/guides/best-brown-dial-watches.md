@@ -6,6 +6,7 @@ categories:
   - "dial-color-or-design"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8617e9b0-2d8e-472a-0bea-52f10673aa00/public"
 ---
+
 When it comes to men’s fashion, brown is an essential color most of us like to incorporate into our everyday looks. No wonder— the color brown reminds us of earthy warmth, it holds us grounded, exudes reliability and stability. When worn on the wrist (our favorite way of course), it provides the perfect amount of unexpectedness: the curiosity of a colored dial, yet understated and classy. Because it is such an earthy and elegant hue, a brown dial looks great on sporty as well as dress watches. 
 
 In this article, we searched far and wide and brought to you the best the market has to offer. Let’s take a look at our favorites, in no particular order:
@@ -163,28 +164,4 @@ A watch from Seiko usually makes most "best of" articles, and for obvious reason
 
 [Check Price](https://www.oris.ch/en/watch/big-crown-bronze-pointer-date/01-754-7741-3166-07-5-20-74br)
 
-Ready for something special? A warm-toned masterpiece. Oris came out with a brown dial version of the iconic Big Crown Pointer Date  timepiece, which pairs beautifully with the bronze case. Not something you see every day, be ready for compliments when wearing this eye-catcher. This classic is sure to withstand the test of time. 
-
-#### WRITTEN BY
-
-### YOU MIGHT BE INTERESTED IN:
-
-- [Best Gray Dial Watches](https://www.thewatchresource.com/best-gray-dial-watches/)
-- [Best White Dial Watches](https://www.thewatchresource.com/best-white-dial-watches/)
-- [Best Green Dial Watches](https://www.thewatchresource.com/best-green-dial-watches/)
-- [Best Orange Dial Watches](https://www.thewatchresource.com/best-orange-dial-watches/)
-- [Best Red Dial Watches](https://www.thewatchresource.com/best-red-dial-watches/)
-- [Best Panda Dial Watches](https://www.thewatchresource.com/best-panda-dial-chronographs/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter
+Ready for something special? A warm-toned masterpiece. Oris came out with a brown dial version of the iconic Big Crown Pointer Date  timepiece, which pairs beautifully with the bronze case. Not something you see every day, be ready for compliments when wearing this eye-catcher. This classic is sure to withstand the test of time.

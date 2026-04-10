@@ -6,6 +6,7 @@ categories:
   - "pilot-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/daef0a9b-b0b2-4a1b-3584-e87bab8bf600/public"
 ---
+
 A pilot watch is more than just a timepiece; it's a symbol of adventure, a testament to timeless design, and an essential companion for the modern gentleman. Whether you're navigating the skies or simply navigating your day, a pilot watch offers a blend of functionality and style that few other watches can match.
 
 For those considering investing in a pilot watch, the array of options can be overwhelming. Prices can range from a few hundred dollars to tens of thousands, depending on factors such as brand, materials, complications, and historical significance. This article aims to simplify the search by focusing on the best pilot watches available for under $2,000.
@@ -236,26 +237,3 @@ This C65 Cranwell pays homage to the golden era of pilot watches with the Royal 
 Christopher Ward utilizes premium materials and movements, ensuring accurate and reliable timekeeping.
 
 For those seeking a sophisticated and timeless pilot watch, the Christopher Ward C65 Cranwell is an impeccable choice. Its blend of classic design, modern functionality, and historical significance makes it a standout option in its price range.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Best Affordable Pilot Watches](https://www.thewatchresource.com/best-affordable-pilot-watches/)
-- [Best Pilot Watches Under $500](https://www.thewatchresource.com/best-pilot-watches-under-500/)
-- [Best Pilot Watches Under $1,000](https://www.thewatchresource.com/best-pilot-watches-under-1000/)
-- [Best Dive Watches Under $2,000](https://www.thewatchresource.com/best-dive-watches-under-2000/)
-- [Best Racing Watches Under $2,000](https://www.thewatchresource.com/best-racing-watches-under-2000/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -7,6 +7,7 @@ categories:
   - "gmt"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e2ddd5ae-82cd-4825-0392-66ff62563900/public"
 ---
+
 A well selected GMT watch belongs in every gentleman’s collection, as it is most certainly a classic, timeless piece. GMT watches are suitable for a variety of events and activities, and therefore serve as the ideal wristwatch and travel companion for the modern explorer and international businessman. 
 
 Selecting the perfect GMT watch under $2,000 is an exciting undertaking, as it is a substantial budget providing access to a wide array of options. 
@@ -148,20 +149,3 @@ The Oris Aquis GMT is a sporty option for the dedicated adventure seekers out th
 [Check Price](https://partners.shinola.com/jWvD9b)
 
 Shinola recently came out with their first GMT watch, the Monster GMT. The 40 mm case width is perfect for all wrist sizes and the traditional dive watch design is paired to perfection with the classic Shinola numerals. These white numerals are very visible against the blue dial and the same color combination is found on the bezel with slightly slimmer numbers for the GMT functionality, keeping the visual focus on the dial itself. The reliable Sellita automatic movement provides a 50-hour power reserve.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

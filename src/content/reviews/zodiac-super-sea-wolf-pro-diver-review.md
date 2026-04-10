@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d5c84d89-6461-4697-048d-32436496fd00/public"
 ---
+
 Zodiac is a brand most of us are already familiar with, so we thought it best to showcase them through a specific watch that represents one of their most popular collections, the Super Sea Wolf Pro-Diver. Inspired by the initial design from the ‘50s, this particular timepiece is equipped with some modern features and elements resulting in an evergreen classic dive watch. Let’s take a closer look!
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
@@ -120,16 +121,3 @@ It has a versatile design, you can easily dress the Super Sea Wolf Pro-Diver up 
 [Check Price](https://amzn.to/3VPTYpd)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

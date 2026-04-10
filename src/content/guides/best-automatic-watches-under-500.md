@@ -7,6 +7,7 @@ categories:
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/507b3751-2179-43c2-edfe-740fabd0c200/public"
 ---
+
 ## The Best Automatic Watches Under $500
 
 Collecting watches is an expensive hobby. No matter your tax bracket, watches in general are (rightfully) considered to be functional pieces of art, and good art is, well…expensive.
@@ -228,28 +229,3 @@ The Seiko 5 SSK003 is a timepiece with a straight-to-the-point design. Functiona
 [Check Price](https://amzn.to/33Xz4vB)
 
 The Phoibos Wave Master diver watch has all the features a classic dive watch should have. Reliable automatic movement (provided by Seiko), anti-reflection coating sapphire crystal dial window, and a three-fold clasp with push button release. To top it off, the Phoibos logo is absolutely badass, and the colorful hands and hour marks provide the perfect pop of color to ensure the eye-catching factor. Definitely one of our favorites.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-You Might Also Like:
-
-- [Best Automatic Watches Under $1,000](https://www.thewatchresource.com/best-automatic-watches-under-1000/)
-- [Best One Watch Collection: The Guide for All Price Points](https://www.thewatchresource.com/one-watch-collection-the-guide-for-all-price-ranges/)
-- [Best Bauhaus Inspired Watches](https://www.thewatchresource.com/best-bauhaus-watches-for-minimalist-fans/)
-- [Best Rectangular Watches](https://www.thewatchresource.com/best-rectangular-watches/)
-- [Best Vintage Inspired Watches](https://www.thewatchresource.com/best-vintage-inspired-watches/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

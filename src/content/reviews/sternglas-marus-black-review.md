@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/37da128a-6769-4333-a0c9-5bb738388700/public"
 ---
+
 As we carefully survey the feelings among watch enthusiasts, a growing need for versatile “urban-style” timepieces started to take on a shape: watches that can be your everyday go-to, and can be dressed up or down, but with relatively simplified features and appearance. Following a thread along that line, we stumbled upon a real gem: let’s dive into the beautiful Sternglas Marus Black.
 
 [![Sternglas\_marus](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas_marus-p8mftdsz330c04z43cvqr3k4mwg7np2mn76ano9goc.jpg/public "Sternglas_marus")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
@@ -123,16 +124,3 @@ The Sternglas Marus Black is a refreshing modern urban watch, combining the clas
 [Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

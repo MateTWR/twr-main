@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/664eaa5e-dc97-4f66-d905-5b049b9faa00/public"
 ---
+
 Welcome back to TheWatchResource.com, and come along on an exciting journey to learn more about BALL watches. BALL, a brand with a long standing legacy of uncompromising quality, also has one of the most fascinating origin stories. Let’s dive in!
 
 ## BALL: The Brand
@@ -105,16 +106,3 @@ The Engineer Hydrocarbon Original is a very cool, remarkable quality dive watch.
 [Check Price](https://shop.ballwatch.ch/en/ball-watches/EH/DM2218B?model=DM2218B-P2CJ-GR)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

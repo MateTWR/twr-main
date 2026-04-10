@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8f452f1f-c962-4ef9-5b3a-4e3efd140e00/public"
 ---
+
 We're drawn to watches with a distinctive design, and it's particularly appealing when they're crafted by a brand that often flies under the radar. That's precisely the case here, so let us introduce you to the Diver 2.0 from MINUS-8.
 
 A modern monochrome dive watch - a lot to unpack here, so let’s dive into the details.
@@ -113,16 +114,3 @@ An inspired reimagination of a dive watch, bringing the core features into a mod
 [Check Price](https://www.minus8watch.com/products/diver-2-0?variant=43208590393564)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

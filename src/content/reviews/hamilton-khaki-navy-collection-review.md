@@ -6,6 +6,7 @@ categories:
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8e2e66bc-92ce-44e7-742a-3106e3ee9f00/public"
 ---
+
 ## Hamilton Khaki Navy Collection
 
 ![Hamilton Khaki Navy Collection](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-10816-min-1024x767.jpeg/public)
@@ -186,16 +187,3 @@ Similar Brands:
 - [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
 - [Tissot Review](https://www.thewatchresource.com/tissot-watches-brand-history-and-review/)
 - [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

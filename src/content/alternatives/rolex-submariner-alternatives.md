@@ -6,6 +6,7 @@ categories:
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/27241f92-9a66-496f-86d5-8ab6ea852300/public"
 ---
+
 The Rolex Submariner is, without a doubt, the most well-known watch in the world. It has become the go-to luxury sports watch, and the first watch that people think of when they think of a dive watch, thanks to its legendary reputation.
 
 The Submariner has had a tremendous effect on the sports and dive watch industries, and has become synonymous with diving watches. As a result, many other manufacturers have taken notice of the renowned Submariner's design and drawn influence from it. Many individuals dream of owning a Submariner because of its legendary status. Others, who are planning to get their first luxury sports watch, are naturally drawn to the Submariner as the first choice.
@@ -292,27 +293,3 @@ Not that we pick favorites, but the Aquaracer has a special place in our hearts.
 Reading in low light or under water is made easier by special luminescence markers on the hands and indexes, as well as a yellow-tipped center hand. At 3 o’clock, the angled date aperture is enlarged.
 
 You can absolutely not go wrong with this classic.
-
-#### WRITTEN BY
-
-### YOU MIGHT BE INTERESTED IN:
-
-- [Breitling Navitimer Alternatives](https://www.thewatchresource.com/breitling-navitimer-alternatives/)
-- [Omega Speedmaster Alternatives](https://www.thewatchresource.com/omega-speedmaster-alternatives/)
-- [Omega Seamaster Alternatives](https://www.thewatchresource.com/omega-seamaster-alternatives/)
-- [Tag Heuer Carrera Alternatives](https://www.thewatchresource.com/tag-heuer-carrera-alternatives/)
-- [Audemars Piguet Royal Oak Alternatives](https://www.thewatchresource.com/audemars-piguet-royal-oak-alternatives/)
-- [Cartier Tank Alternatives](https://www.thewatchresource.com/cartier-tank-alternatives/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

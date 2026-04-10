@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e38b7950-3b8d-4107-3b7c-b520e6a5ea00/public"
 ---
+
 If you’re interested in truly unique watch brands who create distinctive designs, you came to the right place, as we’re always looking to shine some well deserved spotlight on these often overlooked gems. This brings us to Echo/Neutra’s Cortina 1956 3H.
 
 ## Echo/Neutra: The Brand
@@ -102,16 +103,3 @@ The Echo/Neutra Cortina 1956 3H is a vintage-style timepiece inspired by the 50�
 [Check Price](https://echoneutra.com/cortina-1956-3-hands/)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -7,6 +7,7 @@ categories:
   - "dive-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/6065fad5-bdbc-4596-4412-4dfc13db5f00/public"
 ---
+
 Below you will find our list of the best dive watches under (or around) $1,000. We paid close attention to quality, the timelessness of the design and the overall value for your dollar. We provided a brief overview of the particular model and brand, followed by the relevant specs to help you find your new favorite timepiece. The featured watches are from a variety of brands: you'll find Swiss brands, American brands, Japanese brands, micro-brands using Swiss movements. So without further ado, let's take a look at our comprehensive list of best dive watches under $1,000.
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
@@ -310,20 +311,3 @@ There are a few things you should be expecting when considering to buy a dive wa
 - Reliable movement. 
 - Excellent top quality materials.
 - A screw-down crown is a nice to have, but not a requirement.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2980bcc7-71b3-445c-0d7b-fd8910e21900/public"
 ---
+
 ## Is it Victorinox or Swiss Army?
 
 It’s both, as in “Victorinox Swiss Army”. But what is the origin of the name? Let’s take a look at some stainless steel-history for clues.
@@ -222,31 +223,3 @@ _Read our in-depth [Victorinox Airboss Collection review.](https://www.thewatchr
 The FieldForce Collection, which combines classic design with a gear-shifting display technology, is a unique force. Bold, unmistakable numbers and generously proportioned hands coupled with Super-LumiNova® for 24-hour, day-and-night clarity make it easy to read. While some models provide great multifunctionality with chronograph and tachymeter features, others incorporate a GMT function that maintains track of two time zones. Every FieldForce item has a self-assured, vintage aesthetic that pays homage to its illustrious Swiss Army Knife legacy.
 
 _Read our in-depth [Victorinox FieldForce Collection review](https://www.thewatchresource.com/victorinox-fieldforce-collection-review/)._
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [VAER Reivew](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -6,6 +6,7 @@ categories:
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a767b935-1dcd-42c9-970e-6be0ac58c200/public"
 ---
+
 ## What is Bauhaus?
 
 From 1919 through 1933, the German art school Bauhaus, which means "building home”, united the sophistication of fine arts with the useful practicality of crafts. The university rose to fame for its design philosophy, which sought to marry the principles of mass production with unique, creative vision.
@@ -199,29 +200,3 @@ The coolly elegant dial in polished silver-gray is a very classy look for almost
 [Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fskagen-quartz-mens-watch-skw6578.html)
 
 Skagen watches are based on Danish design, and their watches are understated, elegant, and functional. The 40 mm case width makes this watch a great fit for most wrist sizes, and the slim look and feel is perfect for a modern lifestyle with classic elements. Skagen takes pride in their sustainable practices, the SIGNATUR collection is made from at least 50% recycled stainless steel.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Best Automatic Watches Under $500](https://www.thewatchresource.com/best-automatic-watches-under-500/)
-- [Best Automatic Watches Under $1,000](https://www.thewatchresource.com/best-automatic-watches-under-1000/)
-- [Best Rectangular & Square Watches](https://www.thewatchresource.com/best-rectangular-watches/)
-- [Best Vintage Inspired Watches](https://www.thewatchresource.com/best-vintage-inspired-watches/)
-- [Best American Watch Bands](https://www.thewatchresource.com/best-american-watch-brands/)
-- [Best Guilloche Dial Watches](https://www.thewatchresource.com/best-guilloche-dial-watches/)
-- [Best Moon Phase Watches](https://www.thewatchresource.com/best-moon-phase-watches/)
-- [Best One Watch Collection: The Guide for All Price Points](https://www.thewatchresource.com/one-watch-collection-the-guide-for-all-price-ranges/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

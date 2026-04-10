@@ -6,6 +6,7 @@ categories:
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e206cb96-90c3-4bd7-d75a-f3102ded9f00/public"
 ---
+
 When we think about watches (and we do think about watches...a LOT), we usually have a mental picture of watches with round dials. While we can all agree on that it makes sense, it is interesting to note that one of the earliest wristwatches ever made was the Cartier Santos, and it's rectangular.
 
 Since then different case shapes were introduced, some became more popular than others, but the square or rectangular watches always remained in style.
@@ -264,28 +265,3 @@ Oris stayed with the classic dimensions with the case measuring a modest 25.5mm 
 On the dial, Oris combines retro charm with clean simplicity. Wide sword hands pair beautifully with the vintage-style railroad minute track, while Arabic numerals in a nostalgic font mark 12, 3, and 9. At 6 o’clock, a discreet date window adds a practical touch without disrupting the dial’s symmetry.
 
 Powering the Rectangular is an ETA-based automatic caliber, visible through the mineral crystal caseback. Completing the look, each model comes mounted on a soft, color-coordinated leather strap that complements the watch’s personality.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Best Automatic Watches Under $500](https://www.thewatchresource.com/best-automatic-watches-under-500/)
-- [Best Automatic Watches Under $1,000](https://www.thewatchresource.com/best-automatic-watches-under-1000/)
-- [Best Bauhaus Watches](https://www.thewatchresource.com/best-bauhaus-watches-for-minimalist-fans/)
-- [Best Vintage Inspired Watches](https://www.thewatchresource.com/best-vintage-inspired-watches/)
-- [Best American Watch Bands](https://www.thewatchresource.com/best-american-watch-brands/)
-- [Best Guilloche Dial Watches](https://www.thewatchresource.com/best-guilloche-dial-watches/)
-- [Best Moon Phase Watches](https://www.thewatchresource.com/best-moon-phase-watches/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

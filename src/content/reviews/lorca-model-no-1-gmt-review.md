@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/60134215-7499-4d08-7cde-209d3cb07000/public"
 ---
+
 Lorca is a new microbrand that made a splash with their first model launched in 2023, the Model No.1. This first model became an instant crowd favorite thanks to its striking design and a size that’s smaller than usual. Let’s take a closer look at it!
 
 ## About The Lorca Brand
@@ -116,20 +117,3 @@ A truly inspiring and refreshing design, the Lorca Model No.1 GMT got great atte
 - Price: $1,750
 
 [Check Price](https://lorcawatches.com/products/model-no-1-gmt)
-
-#### WRITTEN BY
-
-## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

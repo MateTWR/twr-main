@@ -9,6 +9,7 @@ tags:
   - "tissot-seastar-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/299dd12c-512a-4019-860d-3fdf06c4e600/public"
 ---
+
 In the world of Swiss-made dive watches, the sub-$1,000 category is where the real competition lives. Two of the most frequently compared heavyweights are the Tissot Seastar 1000 (Ref. T120.407.11.041.03) and the Mido Ocean Star 200 (Ref. M026.430.11.041.00).
 
 Both brands belong to the Swatch Group, and both watches offer an incredible amount of "watch" for the money. However, they are designed for two different types of collectors. One is a bold, modern, and aggressive tool watch; the other is a refined, slim, and architecturally-inspired daily wearer.
@@ -104,20 +105,3 @@ However, if you want a watch that you can wear every single day, from the beach 
 | Lug-to-Lug Distance | 49.6 mm | 49 mm |
 | Case Thickness | 12.7 mm | 11.8 mm |
 | Price | $875 | $950 - $1,050 |
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

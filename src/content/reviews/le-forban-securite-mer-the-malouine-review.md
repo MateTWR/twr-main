@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4afe1450-5e57-4d00-2753-86b2d9ff9e00/public"
 ---
+
 ## Review: The Malouine from Le Forban Sécurité Mer Elegant French Design
 
 When it comes to dive watches, most of the designs out there have a distinct sporty look, which of course makes sense as these timepieces have to be functional and durable in and around the water. While a dive watch can be dressed up and makes for a wonderfully versatile accessory, Le Forban Sécurité Mer attempted to take it a step further, and envisioned an elegant timepiece that has all the functionality of a dive watch but also stands its ground in a more elegant setting, due to an understated and elegant dial design. This vision came to life in the Malouine, and it wasn’t long before it caught our watchful eye. Let’s take a closer look, and discuss if the Le Forban Malouine is truly as good as it looks.
@@ -121,16 +122,3 @@ An inspired reimagination of a design from the ‘60s / ‘70s, the Malouine is 
 #### Add Your Heading Text Here
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d14ace7c-6722-4b59-9548-13b64fb76500/public"
 ---
+
 We’re all familiar with Seiko and their watches, as it is undoubtedly one of the most commonly recommended brands in the world of watches.  They are well known for providing reliable, high quality watches at affordable price points.
 
 Seiko has timepieces that are intriguing for both beginner watch enthusiasts and seasoned veterans, and for that reason, the brand successfully created a passionate follower base —rightly so. 
@@ -242,20 +243,3 @@ This limited edition watch brings some ‘70s nostalgia alive with the bracelet 
 - Price: $450
 
 [Check Price](https://www.seikowatches.com/us-en/products/5sports/srpl05)
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

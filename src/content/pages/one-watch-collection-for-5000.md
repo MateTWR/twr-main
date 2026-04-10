@@ -8,6 +8,7 @@ categories:
   - "one-watch-collection"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1436f217-0a43-48f6-7f97-6eafad47b000/public"
 ---
+
 Objectively speaking, $5,000 is serious money spent on a watch, and pieces in this price range should be of the utmost quality, as well as visual works of art. This category boasts a wide variety of high-performers, so we set out to find the all-around perfect options without any compromise when it comes to quality. In order to avoid creating a too overwhelming list, we are featuring watches based on the following requirements:
 
 - High-end brands.
@@ -169,16 +170,3 @@ Diameter: 40 x 40 mm
 The Bell & Ross BR05, which was unveiled in 2019, is the company's response to iconic integrated-bracelet sport watch models like the Audemars Piguet Royal Oak and the Patek Philippe Nautilus. Bell & Ross have done well to give the BR05 its own appearance and feel, making full use of B&R's trademark square case design. The BR05 showcases what Bell & Ross can offer to the market with its own iconic design of the square case and large aviation numeral dial, making it an ideal everyday sports watch that doesn't break the bank in today's ever-growing market and price for sports watch.
 
 ### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

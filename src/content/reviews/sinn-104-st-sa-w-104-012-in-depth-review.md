@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1be26238-32f4-4a8c-b403-106f9e125400/public"
 ---
+
 ## Sinn: The Brand
 
 Sinn is a German watchmaker established in 1961 by pilot and flight instructor Helmut Sinn, and it has since become arguably one of the most renowned tool watch manufacturers in the industry. The company definitely has a cult following thanks to its relentlessly over-engineered designs. Sinn watches often have unique technical innovations to survive adverse conditions.
@@ -127,16 +128,3 @@ The Sinn 104 St Sa I W is a triumph of balance: it’s a tool watch that doesn�
 ### Written by
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

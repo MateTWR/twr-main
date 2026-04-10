@@ -6,6 +6,7 @@ categories:
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ec5e5b17-c187-4eb6-b86f-3fe2c7009e00/public"
 ---
+
 ## Hamilton Khaki Aviation Collection
 
 ![Hamilton Khaki Aviation collection](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-9638-1024x331.jpeg/public)
@@ -239,16 +240,3 @@ Similar Brands
 - [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
 - [Tissot Review](https://www.thewatchresource.com/tissot-watches-brand-history-and-review/)
 - [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

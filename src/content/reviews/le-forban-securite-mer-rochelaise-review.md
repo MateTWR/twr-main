@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/6cdc36f7-c82e-461d-3000-1ee54c20a100/public"
 ---
+
 We love watches with a unique design, and it's even better if that watch is created by a brand that doesn't receive a lot of spotlight. That is the exact scenario here.
 
 By now, we are used to the elegant designs of the Le Forban watches, and the new Rochelaise is no exception. 
@@ -151,16 +152,3 @@ An inspired reimagination of a design from the ‘60s / ‘70s, the Rochelaise i
 [Check Price](https://leforbansecuritemer.com/en/la-rochelaise/)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

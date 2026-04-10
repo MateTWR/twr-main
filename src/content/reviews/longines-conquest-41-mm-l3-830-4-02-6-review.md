@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4c8d2484-ed86-4ecf-1477-c8be47cab700/public"
 ---
+
 ## Longines Conquest: The Collection
 
 Longines’ Conquest collection dates back to 1954, making it one of the brand’s longest-running lines. From the beginning, the Conquest concept has been about an “everyday” sports watch that blends performance with a touch of elegance. Over the years the line evolved, encompassing everything from high-precision quartz models to serious dive-capable automatics, yet it always stayed true to a certain sporty refinement and Longines’ commitment to exceptional quality.  
@@ -128,16 +129,3 @@ The Conquest 41 mm is a confident all-rounder that brings together Longines’ s
 ### Written by
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

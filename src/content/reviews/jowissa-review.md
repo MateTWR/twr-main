@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/de9d12ae-351e-4bfa-19c5-98a4b4551b00/public"
 ---
+
 The Jowissa brand has been producing complex Swiss timepieces of excellent quality since 1951. The brand has remained faithful to its principles, which were initially formed in the serene surroundings of Bettlach, in the canton of Solothurn, as an independent family business now in its third generation. Great workmanship and cutting-edge production come together in this collection to create elegant watches that are both stylish and sophisticated. Jowissa delivers exceptional value for money in addition to a sophisticated sense of style as a high-quality "Swiss Made" watch brand.
 
 The name Jowissa is a mix of the company's founder Josef Wyss' first name and last name.
@@ -202,30 +203,3 @@ The AnWy women's watch collection is a lovely celebration of pattern and accurac
 - Band Width: 18 mm
 
 [Check Price](https://shareasale.com/r.cfm?b=1535540&u=2936025&m=97151&urllink=us%2Ejowissa%2Ecom%2Fproducts%2Fanwy%2Dswiss%2Dladies%2Dwatch%2Dj6%2D229%2Dl&afftrack=)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Victorinox Review](https://www.thewatchresource.com/brand-reviews/victorinox-review/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

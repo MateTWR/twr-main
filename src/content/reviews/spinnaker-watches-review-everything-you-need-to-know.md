@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/73f836b3-0ef9-4266-74d9-1a9145f0e500/public"
 ---
+
 ## About Spinnaker Watches
 
 Spinnaker is a brand born out of a man’s love for adventure, the blue seas, diving, and chasing the horizon across the endless waves. The name itself–  ‘spinnaker’– comes from a specific type of sail on a racing boat. Designed to sportsman perfection, Spinnaker took inspiration from many ultra-high end diving watchmakers and finished it off with their own unique spin, resulting in a recognizable yet timeless, elegant look.
@@ -148,33 +149,3 @@ A comprehensive piece of timekeeping is anchored by a 40mm diameter case form. T
 - Water Resistance: 150 m
 
 [Check Price](https://solartimeltd.pxf.io/o4Vnko)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [VAER Reivew](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Victorinox Review](https://www.thewatchresource.com/brand-reviews/victorinox-review/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [UNDONE Watch Review](https://www.thewatchresource.com/undone-review/)
-- [Timex Review](https://www.thewatchresource.com/timex-watches-review-brand-history-and-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

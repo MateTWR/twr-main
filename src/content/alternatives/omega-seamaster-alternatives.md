@@ -6,6 +6,7 @@ categories:
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ee93db30-e419-490a-2ac5-fec569af3b00/public"
 ---
+
 The Omega Seamaster is one of the most well-known dive watches in the world.
 
 In 1948, Omega released the first Seamaster watch to celebrate the company's 100th anniversary. The Seamaster was inspired by the military timepieces Omega delivered to the British Military of Defense during WWII, and Omega marketed it to civilians as a water-resistant watch designed for an active lifestyle.
@@ -256,27 +257,3 @@ The model featured here has a black rubber strap, orange aluminum bezel and blac
 
 The Aquaracer has a special place in our hearts. The 43 mm case size makes it a very comfortable wear, yet due to its clean design the dial remains perfectly readable at a glance. The stainless steel rotating bezel has a slightly angular shape, which gives it a very cool, masculine look.  
 At 3 o’clock, the angled date aperture is enlarged.
-
-#### WRITTEN BY
-
-### YOU MIGHT BE INTERESTED IN:
-
-- [Breitling Navitimer Alternatives](https://www.thewatchresource.com/breitling-navitimer-alternatives/)
-- [Omega Speedmaster Alternatives](https://www.thewatchresource.com/omega-speedmaster-alternatives/)
-- [Rolex Submariner Alternatives](https://www.thewatchresource.com/rolex-submariner-alternatives/)
-- [Tag Heuer Carrera Alternatives](https://www.thewatchresource.com/tag-heuer-carrera-alternatives/)
-- [Audemars Piguet Royal Oak Alternatives](https://www.thewatchresource.com/audemars-piguet-royal-oak-alternatives/)
-- [Cartier Tank Alternatives](https://www.thewatchresource.com/cartier-tank-alternatives/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

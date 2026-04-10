@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4684dc01-e82c-4c52-2e78-cd50f64c0c00/public"
 ---
+
 ## The History of Hamilton Watches
 
 Founded in Lancaster, Pennsylvania in 1892, Hamilton has been at the forefront of groundbreaking developments ever since. In the early days of American railroads, Hamilton pocket watches were used for accurate timing to avoid rail accidents. This earned them the distinguished title of “The Watch of Railroad Accuracy”. 
@@ -173,20 +174,3 @@ Movement: Quartz
 Diameter: 40 mm
 
 [Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh43311985-broadway-day-date-quartz.html)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

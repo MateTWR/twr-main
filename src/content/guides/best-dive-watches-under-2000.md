@@ -7,6 +7,7 @@ categories:
   - "dive-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b469796b-5074-4f60-1f06-089c48a81c00/public"
 ---
+
 A diver watch is a gentleman’s favorite accessory due to its versatile use: they are appropriate for a number of occasions and activities. It can be your go-to timepiece at the office, on a dinner date, while hiking–you name it. For this reason, it’s completely reasonable to consider your diver watch an investment, and spend a little more.  Finding the perfect diver watch under the $2,000 threshold is an exciting adventure. We have plenty of choices from well-known brands, where functionality, reliability and prestige all play a significant factor in finalizing our pick. With this in mind, let’s take a look at the best of the best–fair warning, you might find it hard to narrow down to just one choice. Shall we also include a list of legitimate reasons to add _two_ of these to your collection? Check back–we’ll work on it.
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
@@ -254,20 +255,3 @@ There are a few things you should be expecting when considering to buy a dive wa
 - Reliable Swiss automatic movement. 
 - Excellent top quality materials.
 - A screw-down crown is a nice to have, but not a requirement.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

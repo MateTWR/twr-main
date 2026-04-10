@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8ac414a6-abdb-4eb4-6a35-51e4cf999200/public"
 ---
+
 When selecting a watch for review, we pay close attention to several different factors, such as the aesthetics, design intricacies, functionality, and, most importantly, overall value. Our primary focus is to uncover unique timepieces that possess certain qualities that set them apart. We are excited to dive deeper into interesting timepieces we find, and without further ado, let’s take a look at the VAER S3.
 
 [![Vaer A3 Tradition](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-A3-Tradition-q4xak8ifpcyqulwmvu6h41oksb6tmo95bymz2h2ung.webp/public "Vaer A3 Tradition")](https://vaer-watches.sjv.io/9gZOqj)
@@ -115,16 +116,3 @@ The VAER S3 Tradition is a dressy tool watch at an excellent price point. It is 
 [Check Price](https://vaer-watches.sjv.io/9gZOqj)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

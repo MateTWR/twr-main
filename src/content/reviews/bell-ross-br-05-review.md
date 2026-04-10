@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/16b7df32-2872-431e-c27b-5b2b3b66bc00/public"
 ---
+
 On our journey to bring you watches with truly unique design and a character of their own, we present an absolute gem, the Bell & Ross BR 05 Grey Steel. Square case, monochrome design, integrated bracelet - while this combination might be divisive, we think there is a lot to unpack here, and we’re excited to share our thoughts with you!
 
 [![Bell & Ross BR 05 Grey Steel](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-12-Bell-Ross-BR-05-Grey-Steel-167x300.png/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-gr-st-sst.html)
@@ -120,16 +121,3 @@ The Bell & Ross BR 05 Grey Steel (BR05A-GR-ST/SST) is a character of its own tha
 [Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-gr-st-sst.html)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

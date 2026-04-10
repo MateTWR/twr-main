@@ -9,6 +9,7 @@ tags:
   - "tag-heuer-aquaracer-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/897b2f01-273c-4d6f-5e53-ce2e15248400/public"
 ---
+
 For many collectors, the $2,500 to $4,000 price bracket is the "sweet spot" of Swiss horology. It is where you move beyond entry-level pieces and begin to see true luxury finishing and advanced mechanical engineering.
 
 The TAG Heuer Aquaracer Professional 200 and the Oris Aquis Calibre 400 are the two dominant titans in this category. While they are both Swiss-made blue-dial sports watches, they offer vastly different experiences on the wrist. One is a sleek, 40mm "Go-Anywhere, Do-Anything" (GADA) watch; the other is a robust, over-engineered diving machine with a movement that puts many watches twice its price to shame.
@@ -108,20 +109,3 @@ The **Oris Aquis Date Calibre 400** is the "Enthusiast’s" choice. It is the wa
 | Case Thickness | 11.5 mm | 13.5 mm |
 | Warranty | 2 Years | 10 Years |
 | Price | ~ $2,800 | ~ $3,500 |
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

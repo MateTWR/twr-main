@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/37b68b9f-f2f5-4b77-9f1c-8f5b66f31400/public"
 ---
+
 ## The History of Tissot Watches
 
 Tissot was founded in 1853 by Charles-Félicien Tissot and his son Charles-Émile Tissot, and as such is one of the oldest watch legacy brands still available today. The father-son duo started Tissot out of their home in Le Locle, Switzerland, with a big section of the house converted into a watch making factory. Charles-Émile showed interest and considerable skill in watchmaking at an early age, and by 1858 the first signs of the success to come became tangible with his trip to Russia; he was able to sell the savonnette pocket watches all across the Russian Empire. 
@@ -133,31 +134,3 @@ Power Reserve: 80 hours
 Diameter: 40 mm](https://amzn.to/3OXIWbM)
 
 [Buy on Amazon](https://amzn.to/3OXIWbM)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [VAER Reivew](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [Victorinox Review](https://www.thewatchresource.com/victorinox-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

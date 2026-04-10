@@ -6,6 +6,7 @@ categories:
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/28a5c18e-8631-47d0-ed95-fdc57649f500/public"
 ---
+
 ## Victorinox Alliance Collection
 
 ![Victorinox Alliance Collection](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-WAT_241823_B1-min-scaled-pqr47qvbfbodqwisicrd3sd2l616sawpm1b2ybx2sw.jpg/public "Victorinox Alliance Collection")
@@ -116,16 +117,3 @@ Similar Brands
 - [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
 - [Tissot Review](https://www.thewatchresource.com/tissot-watches-brand-history-and-review/)
 - [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/aa6afc20-2967-451a-3261-85fd5dc91100/public"
 ---
+
 ## The History of Rado Watches
 
 Fritz, Ernst, and Werner Schlup, brothers, made a decision in 1917 that would transform their lives and the lives of future generations: they decided to become watchmakers. In the Swiss town of Lengnau, their modest workshop was housed in a renovated portion of their parents' home. Schlup & Co. got off to a good start, establishing deals with a diverse range of importers all over the world, thanks to their unrelenting energy and remarkable ability to discover fresh possibilities.
@@ -108,29 +109,3 @@ Diameter: 44 mm
 For modern wearers, the legendary Rado Ceramica has been redesigned with a fresh new appearance. The brand's expertise of cutting-edge design and materials is demonstrated by these distinctively square timepieces in avant-garde high-tech ceramic.
 
 Because they are constructed of the same material and have the same black glossy surface, the Ceramica's case and strap are the same width, discreetly connected, and create one continuous bracelet. In addition, the all-black design includes a dial with no indexes that is kept to a bare minimum. The watch's appeal stems from its little details: The delicate hour, minute, and second hands stand out, while the Rado logo and symmetrically positioned date display blend into the horizontal-vertical grid unobtrusively. Between the light-reflecting surface and the darker slots, the horizontal splices between the regularly spaced bracelet links create a regular rhythm.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [VAER Reivew](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Victorinox Review](https://www.thewatchresource.com/brand-reviews/victorinox-review/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

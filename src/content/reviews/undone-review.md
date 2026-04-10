@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/269af9fe-ff62-4be9-50f7-dce89f499900/public"
 ---
+
 ## The History of UNDONE
 
 UNDONE was founded by designer Michael Young in 2016 with the help of a Kickstarter campaign. It was envisioned as a mid-range brand with luxury preferences, and Young's distinctive minimalist, streamlined aesthetic was prominently included into the designs.
@@ -114,30 +115,3 @@ UNDONE introduced their first collection for women after the successful Urban co
 Diameter: 34 mm](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fwonder-woman-84-ruby&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
 
 [Check Price](https://go.skimresources.com?id=201750X1680336&xs=1&url=https%3A%2F%2Fwww.undone.com%2Fen%2Fwatch-detail%2Fwonder-woman-84-ruby&sref=https%3A%2F%2Fwww.thewatchresource.com%2Fbrand-reviews%2Fundone-review%2F)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Victorinox Review](https://www.thewatchresource.com/brand-reviews/victorinox-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

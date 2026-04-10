@@ -6,6 +6,7 @@ categories:
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d31cf366-9ec6-431c-2519-f8369a2a8900/public"
 ---
+
 Omega's "Moonwatch" is probably one of the most desired watches. The Swiss watchmaker's Speedmaster Professional Chronograph (to give it its technical name) was first introduced in 1957 as a racing watch and has become one of the brightest stars in the watch firmament, having been worn by astronauts on six lunar missions, including Apollo 11 in 1969, when Buzz Aldrin and Neil Armstrong became the first men to walk on the moon.
 
 In an era before digital watches, the Speedmaster Chronograph was the timepiece chosen most fit to accompany men into space - and that is pretty cool.
@@ -156,27 +157,3 @@ Our favorite part: the revolutionary Maserati Tipo 60 "Birdcage" sports car's si
 This is not the closest Omega Speedmaster alternative if we're looking at functionality of the timepiece, but the overall look of the watch feels similar. Citizen markets this watch as a wristwatch for frequent travelers, claiming that it can keep atomic time in 26 different time zones. With a black dial and sapphire crystal, the watch has a stainless steel case and strap. There is no tachymeter scale on this watch, but it does include chronograph capabilities.
 
 Citizen's Eco-Drive technology, which allows the watch to work without a battery, is also used. To work, it merely requires any type of light (natural or artificial).
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Breitling Navitimer Alternatives](https://www.thewatchresource.com/breitling-navitimer-alternatives/)
-- [Rolex Submariner Alternatives](https://www.thewatchresource.com/rolex-submariner-alternatives/)
-- [Omega Seamaster Alternatives](https://www.thewatchresource.com/omega-seamaster-alternatives/)
-- [Tag Heuer Carrera Alternatives](https://www.thewatchresource.com/tag-heuer-carrera-alternatives/)
-- [Audemars Piguet Royal Oak Alternatives](https://www.thewatchresource.com/audemars-piguet-royal-oak-alternatives/)
-- [Cartier Tank Alternatives](https://www.thewatchresource.com/cartier-tank-alternatives/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

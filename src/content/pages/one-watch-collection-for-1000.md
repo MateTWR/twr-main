@@ -8,6 +8,7 @@ categories:
   - "one-watch-collection"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/32b0a4bc-d781-41c7-3e96-287348884e00/public"
 ---
+
 While watch enthusiasts and collectors often end up with more than one timepiece in their collection, we all look for that one watch that can be our go-to choice in almost all situations. And more often than not, we also have a budget in mind. With that in mind, we set out to  collect the highest quality watches with reliable movements and versatile design. The price point we're looking at is around $1,000.
 
 So let's take a look at different options for a one watch collection for $1,000.
@@ -186,16 +187,3 @@ The square NOMOS Tetra Neomatik 39 has an ultra-thin and very accurate automatic
 The vibrant orange seconds hand and green minute marks look stunning against the midnight blue dial.
 
 ### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

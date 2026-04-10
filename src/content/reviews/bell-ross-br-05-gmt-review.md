@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/828d93aa-0e18-4273-20eb-db54df270900/public"
 ---
+
 I love reviewing watches with unique designs, and that is why our next stop is the Bell & Ross BR 05 GMT White. The reason I picked this watch today is that GMT functions are exciting features for watches, however, it poses a few challenges from a design perspective, as the additional complication can make the dial very busy. Because of this, most GMT watches look very sporty. Well, that’s not the case with the Bell & Ross BR 05 GMT White (BR05G-SI-ST/SST). It’s a very elegant watch, with perfect dimensions.
 
 ## Bell & Ross: The Brand
@@ -122,20 +123,3 @@ Undoubtedly, this watch makes a bold statement and, in my perspective, stands ou
 - Price: Under $4,000
 
 [Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-br-05-silver-tone-dial-unisex-watch-br05gsistsrb.html)
-
-#### WRITTEN BY
-
-## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -9,6 +9,7 @@ tags:
   - "mido-ocean-star-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/62cf568f-7915-40ba-de27-98b5173e8b00/public"
 ---
+
 When you graduate from entry-level Seiko or Orient divers and look toward Switzerland, two names consistently dominate the conversation: Longines and Mido.
 
 The Longines HydroConquest (Ref. L3.782.4.96.6) is a global powerhouse—a watch that signals "I've arrived" without the five-figure price tag of a Rolex. Meanwhile, the Mido Ocean Star 200 (Ref. M026.430.11.041.00) is the "enthusiast’s secret," offering finishing and features that punching way above its $1,000 weight class.
@@ -122,20 +123,3 @@ The Mido Ocean Star 200 is the "value play." It gives you 80% of the luxury expe
 | Lug-to-Lug Distance | 52 mm | 49 mm |
 | Case Thickness | 11.9 mm | 11.8 mm |
 | Price | $1,775 | $950 - $1,050 |
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

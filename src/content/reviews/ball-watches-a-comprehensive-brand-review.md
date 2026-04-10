@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://www.thewatchresource.com/wp-content/uploads/2024/04/Engineer-M-Challenger-_1_-1800x1013.webp"
 ---
+
 Most of us are familiar with BALL as a brand, might even know of some of their collections, such as the ‘Engineer’. Even though BALL does not exactly fly under the radar, I believe their history deserves some time in the spotlight, as this is a brand synonymous with precision, durability, and innovation. Since its inception in 1891, BALL has been at the forefront of watchmaking, delivering timepieces that withstand the test of time and environment.
 
 ## The History of BALL Watches
@@ -188,20 +189,3 @@ Named for those who are in charge of guiding railroad infrastructure, the Roadma
 - Price: Under $3,500
 
 [Visit the Collection](https://www.ballwatch.com/global/en/collections/series/roadmaster---94.html)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

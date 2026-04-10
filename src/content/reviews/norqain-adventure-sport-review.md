@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/c7f080ac-1a15-4139-b353-ab50b8ebca00/public"
 ---
+
 At The Watch Resource, we always strive to bring you exciting timepieces from brands that are perhaps under the radar, but an absolute standout in quality and design alike. On a constant lookout for quiet luxury, we landed on an exciting piece from NORQAIN, the Adventure Sport. 
 
 [![NORQAIN Adventure Sport Review](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-NORQAIN-Adventure-Sport-Review--q93zzpi4zj4e09aapix8yd8jzo370k50dsj4uuvr1o.webp/public "NORQAIN Adventure Sport Review")](https://norqain.sjv.io/AWQonj)
@@ -141,16 +142,3 @@ The Adventure collection captures the excitement of venturing into nature's real
 [Check Price](https://norqain.sjv.io/AWQonj)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

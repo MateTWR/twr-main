@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d6ffc724-1339-4c02-4b38-d9dd0c36f200/public"
 ---
+
 Hamilton is a brand that needs no introduction. They have amazing watches, and several Hamilton watches are very popular, and well-known, such as the Khaki Field, Jazzmaster pieces, and the list goes on.  
 However, there are some gems in my opinion that are not receiving the deserved spotlight. So I decided to spend some time with the Khaki Aviation Pioneer (H76205530), a truly remarkable pilot watch with some beautiful details.
 
@@ -98,16 +99,3 @@ The Hamilton Khaki Aviation Pilot Pioneer (Ref # H76205530) successfully bridges
 ### Written by
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

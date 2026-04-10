@@ -4,6 +4,7 @@ description: "Enjoying the great outdoors is something we all do – some of us 
 date: 2025-12-05
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ed527514-4bd9-40ef-9b60-e012fd491900/public"
 ---
+
 Enjoying the great outdoors is something we all do – some of us frequently and willingly, others occasionally, or when dragged on a \*fun adventure\* by the hiker friend. In any case, having the right equipment for the job is half the struggle, and lucky for you, outdoor watches fall neatly into this category. Whether you’re getting ready to climb a mountain, play a round of golf, or just spend time by the beach, having a good, reliable watch is as much functional as it is stylish. 
 
 ### What to Look for in an Outdoor Watch?
@@ -368,20 +369,3 @@ The Smiths Everest PRS-25 Honeycomb evokes the spirit of mid-20th-century expedi
 What sets this version apart (and what _you_ chose it for) is the black honeycomb-pattern dial: the textured surface catches the light in a way flat dials simply do not, giving the watch a distinctive personality and a palpable sense of depth. The white minute track and logo balance the dial cleanly, while the lighter-toned Super-LumiNova “Light Old Radium” on the triangle, numerals and indices nods to vintage lume styling. The silver “Mercedes”-style hands filled with the same lume complete the tool-watch aesthetic with a refined twist.
 
 Inside beats the Miyota 9039 automatic movement—24 jewels, 28,800 vph, and paired with a solid bracelet (jubilee style, tapering from 20mm to 16mm with screwed links and signed push-button clasp) for a classic look that mixes versatility and wearability. Overall, this version of the Everest is a strong choice for someone who values heritage styling, quality build and that subtle dial texture that makes it quietly stand out.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

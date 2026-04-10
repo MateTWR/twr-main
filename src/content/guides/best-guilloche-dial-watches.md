@@ -6,6 +6,7 @@ categories:
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/932ecf4d-cad1-40d5-aa0e-502f2b455d00/public"
 ---
+
 When examining what single factor makes or breaks the successful design on a timepiece, it overwhelmingly comes down to the dial. No wonder; the dial is the one component where creativity can expand without bounds, therefore rendering the dial the absolute center piece of the watch. It is also utilized for the sophisticated display of branding, not just in the form of a logo, but through recognizable design patterns the customers immediately associate with a particular brand. 
 
 Today we are going to be focusing on one of the classic, widely used design elements that not many people even considered has a name: Guilloché.
@@ -200,30 +201,3 @@ The Baume et Mercier Classima 10707 is powered by a self-winding movement with a
 [Check Price](https://www.seikowatches.com/us-en/products/presage/spb167j1)
 
 Seiko watches are always a popular choice, and rightly so. A Seiko watch is usually reasonably priced, and comes with a reliable movement and the Seiko Presage SPB167 is no exception. The automatic movement provides an impressive 70-hour power reserve.  The 39.3 mm case width is on the smaller side, and simplified functionality of the watch (only a date window at 3 o’clock position) is counterbalanced and offset by the visually interesting guilloché dial texture.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-You Might Also Like:
-
-- [Best Automatic Watches Under $500](https://www.thewatchresource.com/best-automatic-watches-under-500/)
-- [Best Automatic Watches Under $1,000](https://www.thewatchresource.com/best-automatic-watches-under-1000/)
-- [Best One Watch Collection: The Guide for All Price Points](https://www.thewatchresource.com/one-watch-collection-the-guide-for-all-price-ranges/)
-- [Best Bauhaus Inspired Watches](https://www.thewatchresource.com/best-bauhaus-watches-for-minimalist-fans/)
-- [Best Rectangular Watches](https://www.thewatchresource.com/best-rectangular-watches/)
-- [Best Vintage Inspired Watches](https://www.thewatchresource.com/best-vintage-inspired-watches/)
-- [Best Moon Phase Watches](https://www.thewatchresource.com/best-moon-phase-watches/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

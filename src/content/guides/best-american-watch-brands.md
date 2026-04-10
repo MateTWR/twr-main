@@ -7,6 +7,7 @@ categories:
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/bed43a3e-b8d7-407c-ee8c-5f8565027600/public"
 
 ---
+
 Since the 1940s, when renowned US watchmakers were obliged to convert their facilities to wartime manufacturing because their businesses were already in decline, watchmaking in America has been dormant. Due to Switzerland's success as a neutral nation during World War II, American watch brands never recovered.
 
 Finally, in the past decade or so, the watch landscape in the United States started on a journey of rapid evolution after a period of relative dormancy. That said, American watchmaking is facing its own set of challenges; the industry is tightly regulated, and as it happens, American watchmakers are facing some of the strictest regulations regarding the manufacturing process. 
@@ -277,30 +278,3 @@ The RGM Model 150 brings back elements from the classic pilot watches. The dial 
 By repairing old, vintage watches with American-made straps, cases, spacers, and crystals, Vortic adds a clever twist to the history of American watchmaking. The creators made the decision to concentrate on giving worn items a new life after being inspired by the millions of American-made timepieces that were formerly produced on US soil and passed down to newer generations. 
 
 Vortic is also in the business of purchasing unwanted or no longer needed heirlooms. So, whether you want to sell an heirloom or are wanting to buy a completely unique and locally crafted timepiece, [Vortic](https://vorticwatches.com/collections/watches) will be at your service.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Best Automatic Watches Under $500](https://www.thewatchresource.com/best-automatic-watches-under-500/)
-- [Best Automatic Watches Under $1,000](https://www.thewatchresource.com/best-automatic-watches-under-1000/)
-- [Best Bauhaus Watches](https://www.thewatchresource.com/best-bauhaus-watches-for-minimalist-fans/)
-- [Best Rectangular & Square Watches](https://www.thewatchresource.com/best-rectangular-watches/)
-- [Best Vintage Inspired Watches](https://www.thewatchresource.com/best-vintage-inspired-watches/)
-- [Best Guilloche Dial Watches](https://www.thewatchresource.com/best-guilloche-dial-watches/)
-- [Best Racing Watches Under $2,000](https://www.thewatchresource.com/best-racing-watches-under-2000/)
-- [Best Dive Watches Under $2,000](https://www.thewatchresource.com/best-dive-watches-under-2000/)
-- [Best Pilot Watches Under $2,000](https://www.thewatchresource.com/best-pilot-watches-under-2000/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

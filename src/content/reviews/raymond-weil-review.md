@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/02c46ca8-719c-47c7-d614-48b82170d800/public"
 ---
+
 ## The History of Raymond Weil
 
 To get a good understanding of how RAYMOND WEIL came to be such a recognized name in the exclusive industry of watchmaking, we must take a look at a bit of history first. The year is 1976 and we are in Switzerland, the home of horological innovation. The ‘70s have been a tough year for watchmaking as the _quartz crisis_ turned the whole industry upside down. When such a disruption occurs, it inevitably opens the door for the new and fresh to come, improving upon the old. Mr. Raymond Weil recognized the historical moment, and set out to establish his idea of the new Swiss watchmaking, by offering a new dimension to the industry. 
@@ -238,31 +239,3 @@ This beautiful and timeless collection pays homage to the Brand's creative and m
 - Case Width: 25 mm x 35 mm
 
 [Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fraymond-weil-toccata-quartz-white-dial-ladies-watch-5925-st-00300.html)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [VAER Reivew](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Victorinox Review](https://www.thewatchresource.com/brand-reviews/victorinox-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

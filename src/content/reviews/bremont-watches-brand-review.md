@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/92c9299b-46cd-4eac-0b74-835652f18500/public"
 ---
+
 The origin of a brand, more specifically the country the timepieces are manufactured and assembled in, is always a focal topic when discussing watches. Swiss watch brands are always highly sought after, Japanese brands became very popular around the 1970s, and of course several German watch brands are widely recognized as well.
 
 When it comes to Britain, we know Rolex was a British company originally, but we might have trouble naming other well-established British watch brands that are producing excellent quality timepieces.
@@ -140,20 +141,3 @@ The Terra Nova collection is created for the modern explorer. These pieces are m
 The Terra Nova collection is inspired by the military pocket watches of the early 20th century. They encompass essential functionality with unexpected style and elegance.
 
 The new collection has Bremont’s new logo, the “Wayfinder”, reiterating the brand’s dedication to adventure and exploration.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

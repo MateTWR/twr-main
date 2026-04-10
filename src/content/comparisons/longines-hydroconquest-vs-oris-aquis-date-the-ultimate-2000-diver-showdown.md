@@ -9,6 +9,7 @@ tags:
   - "oris-aquis-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8373565e-46b3-463f-9f52-a4a10cfdd600/public"
 ---
+
 If you’ve spent any time looking for a "one-and-done" Swiss diver that can handle a boardroom meeting on Monday and a boat deck on Saturday, you’ve hit the ultimate crossroads: the Longines HydroConquest vs. the Oris Aquis Date.
 
 Both sit comfortably in that "sweet spot" of luxury—roughly $1,700 to $2,300—where you stop paying for just the name and start paying for serious horological hardware. I’ve spent a lot of time with both on my wrist, and while they look similar on paper, they feel like two completely different animals once you click the clasp shut.
@@ -121,20 +122,3 @@ This is usually the "make or break" point for buyers:
 | Case Diameter | 43 mm | 41.5 mm |
 | Case Thickness | 11.9 mm | 13 mm |
 | Price | ~ $2,000 | ~ $3,500 |
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

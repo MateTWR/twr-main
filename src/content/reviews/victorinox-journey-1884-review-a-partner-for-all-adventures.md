@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a5308065-846a-4c87-e364-e9d52a99c600/public"
 ---
+
 On our journey to bring you high quality unique timepieces that are not receiving enough buzz in the watch community, we’re happy to announce that we found another excellent choice for those who are looking for a watch that looks good (obviously) AND can take a serious beating in almost all conditions: The Victorinox Journey 1884.
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
@@ -190,16 +191,3 @@ The Victorinox Journey 1884 is a stunning watch for everyday use as well as for 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241978)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

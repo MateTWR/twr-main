@@ -7,6 +7,7 @@ categories:
   - "gmt"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/fd31cf28-1054-4886-5d5d-9c68e6947d00/public"
 ---
+
 GMT watches that are in the price range of around $5,000 are reflective of a whole different level of jet-setting lifestyle. Let us paint a picture: imagine a citizen of the world, at-home on multiple continents, never knowing where his next adventure or business venture might whisk him off. Forever on the go, our hero selects the best and most reliable accessories, all while managing to look like he just stepped out of a magazine cover. 
 
 Now, selecting the best of the best in this category is a serious undertaking, and a skillful consideration of multiple factors is of utmost importance. Without further ado, let’s take a look at our top choices of GMT watches under (or around) $5,000.
@@ -118,20 +119,3 @@ Bell & Ross designs are unique and eye-catching. The reason is because their exp
 The new BR 03-93 GMT watch provides the time for three separate time zones around the globe. With a bright red triangle that is clearly visible both day and night, the GMT hand spins around the dial every 24 hours, showing a second time zone (or the local time on a 24-hour scale). The bi-directional bezel completes the characteristic square design. This new functional bezel was specially adapted to fit the BR 03 case. It successfully enables the reading of the second time zone, as well as the third by rotating it clockwise (subtracts hours) and anti-clockwise (adds hours).
 
 Bell & Ross has opted for Black & Red-hot colors for the anodized aluminum bezel, giving the watch a dynamic, sporty look. For even easier readability and visual contrast, the red section indicates daytime while the black indicates nighttime.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

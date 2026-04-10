@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/c5a0564c-1249-4b35-c958-ed345fa8af00/public"
 ---
+
 Nivada Grenchen has a rich history that dates back to the early 20th century, however, the brand made a comeback recently with some exciting reissues and new designs. The timing of the revival of Nivada Grenchen was impeccable: we’re in 2018, and the popularity of vintage designs, smaller case sizes was on the rise when new owners Guillaume Laidet and Remi Chabrat purchases the licensing use of the Nivada Grenchen name, and its back-catalog of successful models no longer produced.
 
 Let’s take a deeper look at the fascinating journey of Nivada Grenchen, exploring its popular collections, and watch designs that contributed to the very successful comeback of the brand.
@@ -168,20 +169,3 @@ The Datomaster is also available in a compact 36mm version. However, due to the 
 [Check Price](https://nivadagrenchenofficial.com/collections/f77/products/f77)
 
 The F77 is exclusively offered with a 316L stainless steel bracelet and has been reissued in a 37mm size to stay true to the design of the original model. It features a distinctive 'carbon effect' basket weave dial, complemented by prominent baton indexes. The baton-style hands for hours and minutes mirror the streamlined elegance of the steel case. With a thickness of 12.65mm, it presents an exceptionally sleek profile for the wearer. The launch includes four variations, offering a choice between black or blue dials, each available with or without a date display. The F77 operates on a Swiss-made SOPROD P024 automatic movement, which is designed to function with or without a date feature (eliminating the ghost position), and boasts a power reserve of 38 hours.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

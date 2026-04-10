@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1291cf04-c734-4418-2cb2-4efd11f69200/public"
 ---
+
 In our continual quest for exceptional timepieces, the Sea Lord by BENRUS was sent to us on loan to review, and we were intrigued. BENRUS is an esteemed American brand that boasts a remarkable legacy in the American watch industry and is currently making a thrilling resurgence. The Sea Lord possesses a unique appearance with its strong connection to vintage-inspired design combined with modern features and details.
 
 [![Benrus Sea Lord Diver](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus-Sea-Lord-Diver-q55dppvj33boa2yve0lokkx7tvap9u0g2hdy3i2wto.png/public "Benrus Sea Lord Diver")](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
@@ -117,16 +118,3 @@ With its distinctive personality, the BENRUS Sea Lord is a beautiful vintage-ins
 [Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fcollections%2Fsea%2Dlord%2Ddive%2Dwatch%2Fproducts%2Fsea%2Dlord%2Ddive%2Dwatch%2Dblack%2Drubber%2Dtropic%2Dstrap&afftrack=TheWatchResource)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

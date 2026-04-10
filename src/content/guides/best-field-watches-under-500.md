@@ -7,6 +7,7 @@ categories:
   - "field-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/32a46377-e18e-4b34-f79a-fbddd7336e00/public"
 ---
+
 I had a lot of fun selecting the best field watches for this list, largely because there’s an abundance of outstanding options in the under or around $500 price range. This category is filled with timepieces that punch well above their weight in terms of durability, design, and reliability, and narrowing it down was no easy task. Field watches have always stood out for their no-nonsense functionality, military-inspired roots, and versatile styling—and today’s offerings carry on that tradition beautifully, with a few modern upgrades along the way.
 
 As always, I focused on the combination of design, movement quality, and overall craftsmanship. Whether mechanical or quartz, a good field watch needs to be dependable, accurate, and built to last—after all, these watches were originally designed for rugged conditions and practical use in the field. But I didn’t stop at what’s inside the case. I also gave careful attention to case construction, legibility, water resistance, and comfort, ensuring each pick meets the standards of a true go-anywhere, do-anything timepiece.
@@ -164,27 +165,3 @@ The black dial is designed for optimal legibility, featuring bold Arabic numeral
 Powered by the ETA F06 quartz movement, the GPQ-D offers precise timekeeping with an accuracy of -0.3/+0.5 seconds per day. This movement includes an End of Life (EOL) indicator, which advances the seconds hand once every four seconds when the battery is low, alerting the wearer that a battery change is needed.​
 
 The Marathon 36mm GPQ-D definitely embodies the brand's commitment to producing timepieces that adhere to rigorous military standards while serving the needs of modern wearers.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Best Field Watches Under $2,000](https://www.thewatchresource.com/best-field-watches-under-2000/)
-- [Best Field Watches Under $5,000](https://www.thewatchresource.com/best-field-watches-under-5000/)
-- [Best Pilot Watches Under $500](https://www.thewatchresource.com/best-pilot-watches-under-500/)
-- [Best Dive Watches Under $500](https://www.thewatchresource.com/best-dive-watches-under-500/)
-- [Best Racing Watches Under $500](https://www.thewatchresource.com/best-racing-watches-under-500/)
-- [Best Everyday watches Under $500](https://www.thewatchresource.com/best-everyday-watches-under-500/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

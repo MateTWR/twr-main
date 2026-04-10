@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/259ca9da-e277-484c-0bca-890098ebbe00/public"
 ---
+
 Our mission at The Watch Resource is to highlight timepieces that have unique character due to their outer appearance, and/or technical specifications. This never ending journey brought us to the Spinnaker Dumas. As a bonus, the price point was an additional positive factor, so of course, we decided to shine the spotlight on it. Let’s dive right in!
 
 [![Spinnaker Dumas Blue Yonder](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Spinnaker-Dumas-Blue-Yonder-q879jfy44ni10swcmeiy6zee1bw5ksqux69z7lrh64.webp/public "Spinnaker Dumas Blue Yonder")](https://solartimeltd.pxf.io/6y7GYQ)
@@ -119,16 +120,3 @@ The reliable NH35 automatic movement is provided by Seiko, and the 300 meters wa
 [Shop the Collection](https://solartimeltd.pxf.io/DyBL7b)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

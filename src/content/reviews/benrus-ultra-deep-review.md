@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/dd238818-eb0f-4cb8-3d03-f5a083d3ef00/public"
 ---
+
 BENRUS released another great reissue of one of their previous designs, the Ultra-Deep. This supercompressor dive watch brings back one of the most popular watch designs of the 1960s featuring the twin crown case. The watch itself is a beautifully versatile piece, a sports watch with a touch of class: due to the cathedral-style hour and minute hands, and the date window with an internal magnification eye, it can easily be worn in reasonably elegant settings.
 
 [![Benrus\_ULTRA-DEEP\_A](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Benrus_ULTRA-DEEP_A_700x-copy-qdmbt2g74rv82yflosom2vgga2uzw0o9l1mdkc9uwc.webp/public "Benrus_ULTRA-DEEP_A_700x copy")](https://shrsl.com/49bc7)
@@ -116,16 +117,3 @@ The BENRUS Sea Lord is a beautiful vintage-inspired compressor-style dive watch 
 [Check Price](https://shrsl.com/49bc7)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

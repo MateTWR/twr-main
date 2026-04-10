@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://www.thewatchresource.com/wp-content/uploads/2023/03/h38416560_lifestyle1.jpg"
 ---
+
 When it comes to racing chronographs, most of the designs out there have a distinct sporty look, which of course makes perfect sense—but it also limits their wearability. While racing watches, generally speaking, are not our first choice when it comes to a formal dress code, the Hamilton Intra-Matic Auto Chronograph comes as a refreshing exception to the rule. Combining a sporty look with sophisticated elegance, this watch really has it all. Let’s take a closer look, and discuss if the Intra-Matic is indeed a worthwhile investment.
 
 [](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416111-american-classic-intra-matic-auto-chrono.html)Previous Next
@@ -120,16 +121,3 @@ Leather](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=ht
 Stainless Steel](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416141-american-classic-intra-matic-auto-chrono.html)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

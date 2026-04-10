@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a4962a30-9d5e-4c6f-6be6-118162744300/public"
 ---
+
 ## The History of Yema Watches
 
 Yema is a French watch brand with a rich history dating back to 1948. Yema timepieces are available in a wide variety of designs as the brand designed watches for diving, auto racing, sailing, and even space exploration.
@@ -183,20 +184,3 @@ The classic YEMA Urban Traveller, renowned for its integrated bracelet, makes a 
 [Check Price](https://en.yema.com/collections/urban-field?filter.p.m.filter.collection=Urban+Sport)
 
 The latest YEMA Urban Field is conceived as a multifaceted and dependable watch, suitable for both utilitarian and formal occasions. It features Sellita's SW210-1b hand-wound caliber in an enhanced Elaboré and decorated version, with the movement showcased through a sapphire crystal exhibition case-back. The watch boasts a military-inspired dial with a sandblasted finish, offering a blend of distinctiveness and sophistication.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

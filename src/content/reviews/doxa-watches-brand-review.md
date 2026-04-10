@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/52dac796-c128-45ee-1526-40d4cb713800/public"
 ---
+
 ## The History of Doxa Watches
 
 Founded in 1889 by Georges Ducommun in Le Locle, Switzerland, Doxa quickly established itself as a maker of high-quality timepieces, mainly with dress watches at first.
@@ -132,20 +133,3 @@ In 2021, more than 40 years later, DOXA is doing more than just revisiting a cha
 [Check Price](https://eu.doxawatches.com/collections/sub-1500t)
 
 True to DOXA’s pioneering spirit, the SUB 1500T breaks new ground with a cushion-shaped 316L steel case rated to 160 ATM, equivalent to 1,500 meters. The SUB 1500T, which comes equipped with the patented unidirectional bezel with diving table and a helium release valve, has a diameter of 45 mm.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

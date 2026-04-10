@@ -7,6 +7,7 @@ categories:
   - "everyday-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/6ec5b5c4-f027-4246-cae0-8ccc51619200/public"
 ---
+
 Some people get excited by the idea of having an assortment of watches–dive, pilot, dressy, you name it (see our comprehensive watch guide), while others like to keep it simple: a good quality, nice looking timepiece that you can wear for all occasions. The issue with picking just one favorite is that the options on the market are truly endless, and the search can feel long and dizzying. You’re in luck, because our team of watch enthusiasts was up for the task, and did the research so you don’t have to. Without further ado, we present the best everyday watches under $1,000. Happy shopping!
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
@@ -157,25 +158,3 @@ The Freelancer collection by Raymond Weil is one of the most well known collecti
 [Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcertina-watch-c032-429-38-051-00.html)
 
 The incredibly durable DS Action GMT Automatic is the ideal travel companion since it is renowned for accuracy and exceptional toughness. The GMT hand  doesn't take the attention away from the overall design, yet remains highly visible, so it's easy to track time in a second time zone. The 80-hour power reserve is as impressive as the black and dark green combination, which makes the Certina DS Action GMT a very unique watch.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Best Affordable Everyday Watches](https://www.thewatchresource.com/best-affordable-everyday-watches/)
-- [Best Everyday Watches Under $500](https://www.thewatchresource.com/best-everyday-watches-under-500/)
-- [Best Dive Watches Under $1,000](https://www.thewatchresource.com/best-dive-watches-under-1000/)
-- [Best Pilot Watches Under $1,000](https://www.thewatchresource.com/best-pilot-watches-under-1000/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

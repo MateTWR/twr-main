@@ -9,6 +9,7 @@ tags:
   - "mido-ocean-star-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f2e35987-1f79-4c43-2003-84504b48e700/public"
 ---
+
 Comparing the Hamilton Khaki Navy Scuba (Ref: H82505140) to the Mido Ocean Star 200 (Ref: M026.430.11.041.00) is a classic "sibling rivalry." Both brands belong to the Swatch Group, and both watches offer incredible Swiss-made value for around $1,000.
 
 However, while they share a similar price bracket and "blue-dial diver" category, they represent two very different philosophies: Hamilton is the rugged, military-spec tool watch, while Mido is the refined, architecture-inspired daily driver.
@@ -121,20 +122,3 @@ The **Mido Ocean Star 200** is the watch you buy if you want the most comfortabl
 | Case Thickness | 12.53 mm | 11.9 mm |
 | Crystal | Sapphire | Sapphire (Double-sided AR) |
 | Price | $995 - $1,225 | $950 - $1,100 |
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -5,6 +5,7 @@ date: 2022-09-29
 categories: 
   - "pilot-watches"
 ---
+
 Because there are no clear, agreed-upon features that define a ‘pilot watch’, each brand has their own vision and approach in what a pilot watch looks like. This makes for substantial creative freedom, which shows up in the different design elements that make each watch unique. That said, there are certain key elements that are common across the board, given that this watch has a specific function: it was born out of a necessity for a watch that tells time at a glance and is easily operable with pilot gloves on. Therefore, a tell-tale sign of a pilot watch is most notably the case size, usually bigger (back in the early 20th century, usually the case sizes were around 55 mm) supporting sharp legibility. Secondly and just as important, the crown is also bigger in size (usually diamond or onion-shaped) for easy grip with gloves on. Additionally, it is very typical to see big Arabic numerals and an “Orientation Triangle” at 12 o’clock position – these all help in making the dial easy to read.
 
 ## History of Pilot Watches
@@ -108,16 +109,3 @@ Not for the faint of heart, these watches make a statement:
 - This watch is not just a beautiful timepiece. If you like the additional features and complex operations you can use your watch for, pilot watches are definitely for you. It is a true testament to outstanding craftsmanship that improved the whole industry over the years.
 
 Take a look at our customized pilot watch categories sorted by price, each watch thoughtfully selected keeping in mind superior quality and lasting design.
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

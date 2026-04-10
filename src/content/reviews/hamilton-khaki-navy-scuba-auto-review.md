@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/59267377-ee24-408b-9311-6bda805d1900/public"
 ---
+
 When it comes to dive watches, there are a few iconic examples in most people’s mind that everyone always defaults to: Omega Seamaster, Tudor Black Bay Fifty-Eight or Pelagos, Rolex Submariner. On the budget friendlier side we have the Seiko Prospex, Tissot Seastar, and some G-Shock models that would be the top picks.
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
@@ -210,16 +211,3 @@ Hamilton Khaki Navy Scuba, Quartz Movement, 37 mm
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211181-khaki-navy-scuba-quartz.html)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

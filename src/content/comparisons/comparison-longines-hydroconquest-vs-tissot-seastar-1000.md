@@ -9,6 +9,7 @@ tags:
   - "tissot-seastar-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/20109d40-8a8e-4fc0-be9d-45996f99c000/public"
 ---
+
 This is a classic "Big Brother vs. Little Brother" matchup within the Swatch Group hierarchy. Comparing the Longines HydroConquest (Ref: L3.782.4.96.6) to the Tissot Seastar 1000 (Ref: T120.407.11.041.03) is a study in diminishing returns: is the Longines twice as good as the Tissot, given that it costs nearly double?
 
 In the world of Swiss dive watches, $1,000 is a significant psychological barrier. Below it, you find incredible value; above it, you enter the realm of entry-level luxury. The Tissot Seastar 1000 (Ref. T120.407.11.041.03) is arguably the benchmark for a Swiss diver under a grand. However, for a few hundred dollars more, the Longines HydroConquest (Ref. L3.782.4.96.6) beckons with more prestige and a slimmer profile.
@@ -133,20 +134,3 @@ Based on our honest opinion, you can weigh the two options this way:
 - Lug Distance: 21 mm
 - Water Resistance: 300 m
 - Retail Price: Around $750
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e7c02d80-fe1b-4884-c76f-7cc4df1c4b00/public"
 ---
+
 ## The History of BENRUS
 
 Benjamin Lazrus started Benrus (**BEN**jamin Laz**RUS**) in 1921 in New York. At first, Benjamin Lazrus with his two brothers saved up $5,000 and started importing Swiss watch movements to create cases for them in New York City. The headquarters were - and still are - in Manhattan’s Hippodrome building, located in what is known as the jewelry district.
@@ -116,30 +117,3 @@ Today, a limited edition is available with the original design, great quality ET
 [Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Fdtu%2D2a%2Dp%2Dfield%2Dwatch&afftrack=TheWatchResource)
 
 The Benrus DTU is a field watch with bona fide military heritage, originally issued in 1964 when the US military requested the combat watch with extended service life. This DTU 2A/P field watch is revisited today and is available again with the Sellita SW200 Swiss automatic movement, providing a 38-hour power reserve. The syringe hour and minute hands are an elegant choice for the classic field watch dial design. The double domed acrylic crystal provides an element of vintage, and we absolutely love the removable military compass attached to the NATO strap.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [VAER Review](https://www.thewatchresource.com/vaer-watches-brand-history-and-review/)
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

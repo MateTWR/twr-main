@@ -7,6 +7,7 @@ categories:
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/5b9acb34-d598-43c0-ac9e-e8a90544cd00/public"
 
 ---
+
 ## Hamilton's Khaki Field Collection
 
 ![Hamilton Khaki Field Collection](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-6904-min-1024x684.jpeg/public)
@@ -179,16 +180,3 @@ Similar Brands:
 - [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
 - [Tissot Review](https://www.thewatchresource.com/tissot-watches-brand-history-and-review/)
 - [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

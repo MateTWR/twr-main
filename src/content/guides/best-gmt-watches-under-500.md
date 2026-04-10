@@ -7,6 +7,7 @@ categories:
   - "gmt"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b0943107-d105-4dc7-4f02-101d33e91000/public"
 ---
+
 GMT watches are popular timepieces as the GMT function is very practical for people who travel a lot or work where syncing different time zones is essential.This movement complication is also more sophisticated than a straightforward time-telling watch, and usually these watches are a bit more expensive. However, the market is evolving and as always, we’re here to dig up some excellent GMT watches under $500 - including some with automatic movements. 
 
 Let us present (in our humble opinion) the best GMT watches under $500!
@@ -117,20 +118,3 @@ The Seiko 5 SSK003 is a timepiece with a straight-to-the-point design. Functiona
 [Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcitizen-promaster-black-dial-mens-watch-bj7129-56e.html)
 
 Citizen's Promaster GMT Diver is a watch with a  bold design. Bright orange accents stand out against the black face and bezel, stainless steel band. With features like dual time zones, an anti-reflective sapphire crystal display, dive-grade bright hands and markers, and the unique Eco-Drive technology, fashion meets functionality. Anyone wishing to explore the depths without sacrificing personal flair will find it to be the ideal timepiece.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -7,6 +7,7 @@ categories:
   - "field-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/51f4c2c9-61d6-491e-8eda-885e28e32200/public"
 ---
+
 So you are seriously considering investing in a classic—a field watch. But where to start? A field watch is a staple timepiece that belongs in every gentleman’s collection. It’s the ultimate explorer’s watch that also doubles as a stylish, eye-catching everyday companion. Trying to figure out the reasonable price range for a field watch can be daunting, as it depends on many factors and spans everything from a few hundred dollars to several tens of thousands. In this article, I picked classic pieces that are guaranteed to stand the test of time, both in terms of design and quality, all under (or around) $2,000.
 
 ### What to Expect from Field Watches within the $1,000 – 2,000 Range?
@@ -326,26 +327,3 @@ The silver sunburst dial exudes sophistication, featuring a multidimensional reh
 The Triumph houses the MONTA Caliber M-22, a self-winding mechanical movement with a bidirectional rotor. Manufactured, assembled, and tested in Switzerland, it offers a 42-hour power reserve, ensuring consistent timekeeping during extended or overnight non-wearing periods.
 
 The Monta Triumph Silver is a modern field watch with an elevated design, resulting in an elegant appearance. A great and confident choice from an American microbrand!
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Best Field Watches Under $500](https://www.thewatchresource.com/best-field-watches-under-500/)
-- [Best Field Watches Under $5,000](https://www.thewatchresource.com/best-field-watches-under-5000/)
-- [Best Dive Watches Under $2,000](https://www.thewatchresource.com/best-dive-watches-under-2000/)
-- [Best Pilot Watches Under $2,000](https://www.thewatchresource.com/best-pilot-watches-under-2000/)
-- [Best Racing Watches Under $2,000](https://www.thewatchresource.com/best-racing-watches-under-2000/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

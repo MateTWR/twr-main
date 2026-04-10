@@ -6,6 +6,7 @@ categories:
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b1a0211e-6e3d-4ee9-f2eb-c999a5809800/public"
 ---
+
 TAG Heuer Carrera was born on the racetracks in 1963 and represents the spirit of endurance and great performance on your wrist.
 
 The TAG Heuer Carrera collection is the sports watch of an energetic achiever who is constantly looking for the next big thing. The watch was the first chronograph particularly intended for professional drivers, and it was created as a homage to the highly dangerous Carrera Panamericana car race.
@@ -206,27 +207,3 @@ The limited edition 46 mm Broadway GMT is the ideal travel companion for well-dr
 [Check Price](https://www.tkqlhce.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbaume-mercier-watch-m0a10003.html)
 
 Our next contender comes from Baume et Mercier, more specifically from their known and loved Capeland collection. As opposed to being on the bezel, the tachymeter is placed right on the dial, giving this watch a sleek, sophisticated look. The case diameter is 42 mm, ensuring comfortable wear for most wrist sizes. As an added and very much appreciated bonus, this Capeland has a skeleton case back, giving us a sneak peek into the inner workings of the Baume et Mercier’s in-house automatic movement. Definitely one of our favorite picks.
-
-#### WRITTEN BY
-
-### YOU MIGHT BE INTERESTED IN:
-
-- [Breitling Navitimer Alternatives](https://www.thewatchresource.com/breitling-navitimer-alternatives/)
-- [Omega Speedmaster Alternatives](https://www.thewatchresource.com/omega-speedmaster-alternatives/)
-- [Omega Seamaster Alternatives](https://www.thewatchresource.com/omega-seamaster-alternatives/)
-- [Rolex Submariner Alternatives](https://www.thewatchresource.com/rolex-submariner-alternatives/)
-- [Audemars Piguet Royal Oak Alternatives](https://www.thewatchresource.com/audemars-piguet-royal-oak-alternatives/)
-- [Cartier Tank Alternatives](https://www.thewatchresource.com/cartier-tank-alternatives/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

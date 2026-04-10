@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e29e82b5-e6b8-4f53-d0f2-dbc3b78cd000/public"
 ---
+
 In the world of horology, where heritage and innovation intersect, few brands manage to strike a balance as gracefully as Sternglas. Founded with a vision to democratize the elegance of Bauhaus design through accessible, high-quality timepieces, Sternglas has carved a niche for itself in the watch industry. We will delve into the brand's history, its unique design philosophy, the intricacies of its watch movements, and what sets Sternglas apart in the crowded marketplace of wristwatches.
 
 ## The History of Sternglas: A Chronicle of Passion and Precision
@@ -133,21 +134,4 @@ The watch has a particularly striking appearance thanks to the tougher construct
 
 [Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Fmarus-black-block-strap)
 
-The [Marus](https://www.thewatchresource.com/sternglas-marus-black-review/) is inspired by classic diving watches but with a minimalist, modern look.  With the classic and clean looking black and stainless steel combination, you never have to worry about not being on trend. The domed sapphire glass has a double anti-reflective coating and is scratch-resistant. We love the minimalist look of the steel bracelet as well, and as a bonus, this watch is water resistant for up to 200 meters, so you have all your bases covered. 
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter
+The [Marus](https://www.thewatchresource.com/sternglas-marus-black-review/) is inspired by classic diving watches but with a minimalist, modern look.  With the classic and clean looking black and stainless steel combination, you never have to worry about not being on trend. The domed sapphire glass has a double anti-reflective coating and is scratch-resistant. We love the minimalist look of the steel bracelet as well, and as a bonus, this watch is water resistant for up to 200 meters, so you have all your bases covered.

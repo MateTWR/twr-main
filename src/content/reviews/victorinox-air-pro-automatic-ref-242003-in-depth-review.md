@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/913765bb-76cb-46c9-d2b8-44e8d56adb00/public"
 ---
+
 Victorinox is a brand synonymous with Swiss Army Knives and robust, utilitarian design, but it also has a solid footing in watchmaking dating back to 1989. The Air Pro Automatic represents the latest evolution of their pilot’s watches, essentially picking up the torch from the legendary Airboss line. This new model is built with pilots and world travelers in mind, blending classic aviation styling with modern engineering for optimal usability, and the end result is something very fresh and unique.  
 The particular variant I picked for today’s review is the blue-dial Air Pro Automatic (ref. 242003) on a matching rubber strap – a 43 mm Swiss Made timepiece that promises A LOT: multi-time-zone utility, durability (it’s shock resistant and 200 m water resistant), and everyday versatility. On paper, it’s a feature-packed “flight-ready” watch – but how does it hold up in everyday life? Let’s take a detailed look at the Air Pro Automatic and see how Victorinox has delivered on this ambitious design.
 
@@ -147,16 +148,3 @@ In a world of increasingly homogenized watch designs, the Victorinox Air Pro Aut
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fen-US%2FProducts%2FWatches%2FMen%27s-Watches%2FAir-Pro-Automatic%2Fp%2F242003%2F)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

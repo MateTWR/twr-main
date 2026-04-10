@@ -6,6 +6,7 @@ categories:
   - "dive-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a36e6da2-ee5d-4e19-0780-476dd2243b00/public"
 ---
+
 When the majority of people envision a dive watch, the initial association is often the visually strong serrated bezel. However, there emerged another style of diver during the early days of recreational diving that gained significant popularity - the Super Compressor. It's important to clarify that the Super Compressor was not a watch itself but rather a patented watch case design utilized by numerous watch companies.
 
 The defining visual feature of these watches is an inner rotating bezel and a double-crown system. One crown would control the inner bezel, while the other was responsible for adjusting and winding the movement.
@@ -251,20 +252,3 @@ The 1970 is more than a simple timekeeper; it's a statement piece the moment you
 Legibility is a key feature of the dial, with large hands, bold indexes, high-contrast minute chapter rings, and ample lume ensuring clear visibility in both bright and low-light underwater conditions. This watch was conceived with the "hardcore diver" in mind, echoing an era when pioneering underwater explorers relied on durable, visible, and precise instruments. While contemporary divers might not solely depend on a mechanical watch for depth timing, its 200-meter (20ATM) water resistance provides genuine credibility.
 
 However, a watch that merges retro design with modern standards inevitably involves trade-offs. The 14.8mm case thickness might be noticeable on slimmer wrists. While the reliable Seiko NH35 movement (24 jewels, 41-hour power reserve) is used, some enthusiasts might prefer in-house or higher power reserve calibers. Nevertheless, the 1970 offers exceptional value for its price. Its heritage feel, distinctive design elements like the inner bezel and twin crowns, and its limited edition status—only 1,970 pieces produced—give it character and collectibility. For those seeking a stylish, capable diver's watch with personality and vintage appeal, the Dan Henry 1970 is an excellent choice.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

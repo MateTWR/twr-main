@@ -7,6 +7,7 @@ categories:
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/68890e50-eeba-4419-eadb-dea10c302900/public"
 ---
+
 Buying an automatic watch is an exciting endeavor—it is an essential for most watch enthusiasts. There is undoubtedly something magical about the tiny parts clicking-clacking together in perfect harmony, powering the watch seemingly forever. No wonder: automatic movement is where a watchmaking skill can really shine. It is a nod to tradition, and high-level skilled craftsmanship. 
 
 In this article, we collected the best watches on the market under $1000, an amount that is a rather comfortable budget for finding excellent quality pieces without sacrificing the design aspect. As far as style, the range is fabulously wide: from dive and pilot to vintage-inspired, and everything in between. Most importantly, we kept an eye out for timeless design and outstanding quality.
@@ -212,28 +213,3 @@ One word: classy. The Longines HydroConquest strikes a perfect balance between e
 [Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fcertina-watch-c032-429-38-051-00.html)
 
 The incredibly durable DS Action GMT Automatic is the ideal travel companion since it is renowned for accuracy and exceptional toughness. The GMT hand  doesn't take the attention away from the overall design, yet remains highly visible, so it's easy to track time in a second time zone. The 80-hour power reserve is as impressive as the black and dark green combination, which makes the Certina DS Action GMT a very unique watch.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-You Might Also Like:
-
-- [Best Automatic Watches Under $500](https://www.thewatchresource.com/best-automatic-watches-under-500/)
-- [Best One Watch Collection: The Guide for All Price Points](https://www.thewatchresource.com/one-watch-collection-the-guide-for-all-price-ranges/)
-- [Best Bauhaus Inspired Watches](https://www.thewatchresource.com/best-bauhaus-watches-for-minimalist-fans/)
-- [Best Rectangular Watches](https://www.thewatchresource.com/best-rectangular-watches/)
-- [Best Vintage Inspired Watches](https://www.thewatchresource.com/best-vintage-inspired-watches/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

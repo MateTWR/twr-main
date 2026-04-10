@@ -6,6 +6,7 @@ categories:
   - "5000"
   - "dress-watches"
 ---
+
 If you have the budget for a dress watch under (or around) $5,000, one of the biggest challenges will be finding the design you absolutely love as there will be a multitude of high quality options.  
 Finding the perfect dress watch is a very exciting project, so we compiled a list were we feature the best of the best. Happy hunting!
 
@@ -124,21 +125,4 @@ The rectangular Baume & Mercier Hampton watch has a traditional yet modern appea
 
 [Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fnomos-watch-422.html)
 
-The square NOMOS Tetra Neomatik 39 has an ultra-thin and very accurate automatic caliber. The movement itself is only 3.2 millimeters in height, and case is 7.2 millimeters, which allows the watch to fit very elegantly beneath the cuff.  
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter
+The square NOMOS Tetra Neomatik 39 has an ultra-thin and very accurate automatic caliber. The movement itself is only 3.2 millimeters in height, and case is 7.2 millimeters, which allows the watch to fit very elegantly beneath the cuff.

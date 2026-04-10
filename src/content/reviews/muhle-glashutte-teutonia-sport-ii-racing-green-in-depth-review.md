@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1978ad5a-b4f6-43ad-1dc6-bb25ecfe2300/public"
 ---
+
 ## Mühle-Glashütte: The Brand
 
 Mühle-Glashütte is a family-owned German watchmaker based in the famed watchmaking town of Glashütte. The brand’s roots stretch back five generations of making nautical instruments and gauges, and this heritage shows in their modern watches’ robust build. One of the reasons I like Mühle-Glashütte, is that they produce high-quality timepieces, just like their neighbors, however Mühle watches are in the mid-range price segment.
@@ -100,16 +101,3 @@ The Teutonia Sport II has a strong character. Mühle-Glashütte accomplished som
 ### Written by
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

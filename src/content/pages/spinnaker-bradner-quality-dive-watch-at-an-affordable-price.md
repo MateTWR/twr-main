@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/26e63f74-43c7-4058-d709-58a2a80f7a00/public"
 ---
+
 When selecting the perfect dive watch for your collection, it is easy to fall into the trap of two extremes: the iconic, uber expensive legacy options on one hand, and the classic, everybody-has-it budget friendly options (Seiko, G-Shock) on the other. We made it our mission to explore the lesser known dive watches coming from brands you wouldn’t necessarily think of. It is our belief that self-expression and creativity is found off the beaten bath, and we enjoy it every step of the way. 
 
 In this article, we bring to you the Spinnaker Bradner. Let’s take a closer look!
@@ -151,16 +152,3 @@ As we've mentioned, there are different color variations of the Spinnaker Bradne
  [![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-02-Spinnaker-Bradner-Atlantic-Blue-300x300.webp/public)](https://solartimeltd.pxf.io/55KjJo)[Check Price](https://solartimeltd.pxf.io/55KjJo)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

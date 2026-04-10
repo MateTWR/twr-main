@@ -7,6 +7,7 @@ categories:
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d787185b-d1a0-4bcf-36c9-9f1ef0923100/public"
 ---
+
 Vintage-inspired watches are very popular today, and for a good reason. Vintage styles still popular today are designed with such timelessness, their track record reaches back over decades, often centuries. 
 
 So what design qualities determine if a watch is vintage or not? Naturally, the categorization is somewhat subjective and not set in stone. There are however certain design choices that carry a distinct vintage feel: the shape of the case that resembles an original inspiration (a good example of this is cushion-shaped cases that were very popular in the ‘60s and ‘70s), the size of the case (usually smaller than 40mm), or the domed crystal that also gives a watch that cool vintage look. 
@@ -258,20 +259,3 @@ Doxa introduced the SUB 200 Sharkhunter in 2019. This diver's watch is a straigh
 
 The YEMA Pearldiver was inspired by the 1970s, and there are some beautiful vintage elements: the dome crystal, the black coated hands with the white lollipop seconds hand, and of course the creamy hue of the hour markers and hands to resemble the retro feel.   
 The YEMA Pearldiver is equipped with YEMA's in-house automatic movement, the YEMA2000, a 29-jewel caliber providing 42 hours of power reserve. The 38 mm case width is great for smaller wrists as well, while the 14 mm case height will make sure the watch won't feel small on bigger wrists.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

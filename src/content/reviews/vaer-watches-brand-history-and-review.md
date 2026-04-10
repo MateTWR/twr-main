@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/c2ab5e44-8e6c-46b6-005f-ed130aee4900/public"
 ---
+
 ## The History of VAER
 
 VAER was founded in Venice, California in 2016 by Ryan Torres and Reagan Cook. Their aim was to create affordable watches that are perfect as everyday go-to timepieces due to their durability. Admittedly, the founders knew they were signing up for an uphill battle. 2016 was the height of fast fashion, a world dominated by lightning-speed trends driven by digital connectivity. Nevertheless, the idea was born and a growing sense of possibility pervaded. They knew there was still a place for well-made analog watches, and there always will be. We could not agree more!
@@ -153,30 +154,3 @@ The Vaer A5 Atlas Olive is a field watch with a beautifully elegant design. The 
 [Check Price](https://vaer-watches.sjv.io/9ggQE3)
 
 The VAER D4 Meridian is a robust-looking dive watch. The cool tone colors of the watch represent the robustness of the timepiece. It went through rigorous testing, comes with a solar-powered movement and is ready for action. The overall width of the case is 38 mm, a comfortable wear for most wrist sizes.
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-- [BENRUS Review](https://www.thewatchresource.com/benrus-watches-brand-history-and-review/)
-- [Hamilton Review](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/)
-- [Raymond Weil Review](https://www.thewatchresource.com/brand-reviews/raymond-weil-review/)
-- [ZRC Review](https://www.thewatchresource.com/zrc-watches-brand-review-buyers-guide/)
-- [Serica Review](https://www.thewatchresource.com/serica-watches-brand-review-shopping-guide/)
-- [Rado Review](https://www.thewatchresource.com/brand-reviews/rado-review/)
-- [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
-- [Jowissa Review](https://www.thewatchresource.com/brand-reviews/jowissa-review/)
-- [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

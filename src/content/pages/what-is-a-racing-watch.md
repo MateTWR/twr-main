@@ -5,6 +5,7 @@ date: 2022-09-30
 categories: 
   - "racing-watches"
 ---
+
 Just as the [dive](https://www.thewatchresource.com/what-is-a-dive-watch/) and [pilot](https://www.thewatchresource.com/what-is-a-pilot-watch/) watches were created to fill a gap in the market at the advent of underwater and air exploration respectively, so were the racing watches created for a very specific purpose: to measure time for horse, car, motorbike, and other races where accurate timekeeping was instrumental. Therefore, naturally, the most important distinguishing feature of a racing watch is the presence of a stopwatch function. For this reason, most chronographs on the market today can be categorized as racing watches, with the tachymeter on the bezel as an additional identifying element, which is a useful tool in the calculation of time and distance.
 
 ## Racing Watch Characteristics:
@@ -113,16 +114,3 @@ Even though it is a very cool function, realistically, most people who decide to
 To make shopping for the perfect racing watch much easier for you, take a look at our carefully and thoughtfully compiled lists, categorized by different price ranges. All in one place! 
 
 Take a look at our customized pilot watch categories sorted by price, each watch thoughtfully selected keeping in mind superior quality and lasting design.
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

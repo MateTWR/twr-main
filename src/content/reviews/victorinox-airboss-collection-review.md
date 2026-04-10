@@ -6,6 +6,7 @@ categories:
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/28a5c18e-8631-47d0-ed95-fdc57649f500/public"
 ---
+
 ## Victorinox Airboss Collection
 
 ![Victorinox Airboss automatic movement](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-06-25-at-11.24.43-AM-pqu9ggo0noe7uuv3cjcrb1j92keyxn6vfwrdxjbwc0.png/public "Victorinox Airboss automatic movement")
@@ -164,16 +165,3 @@ Similar Brands
 - [Undone Review](https://www.thewatchresource.com/brand-reviews/undone-review/)
 - [Tissot Review](https://www.thewatchresource.com/tissot-watches-brand-history-and-review/)
 - [William Wood Watches Review](https://www.thewatchresource.com/brand-reviews/william-wood-watches-review-brand-history-and-review/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

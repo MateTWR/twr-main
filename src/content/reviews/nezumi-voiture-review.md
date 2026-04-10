@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/88fc8e19-3906-49ac-e75a-7600292a2500/public"
 ---
+
 Nezumi's debut watch design, the Voiture (which means "car" in French), draws inspiration from vintage chronographs of the 1960s and 1970s, renowned for their classic and exotic flair. Equipped with Seiko's VK63 meca-quartz movement, it stands out from regular quartz movements by incorporating a mechanical module for its chronograph function. Quality craftsmanship coupled with a refreshingly unique aesthetic—has our attention every time. Let’s dive in.
 
 ![Nezumi-Voiture-VQ3-blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Nezumi-Voiture-VQ3-blue.png/public)
@@ -128,16 +129,3 @@ Vintage-inspired watches that are looking at the ‘70s for design guidance are 
 [Check Price](https://www.nezumistudios.com/nezumi-watches/voiture-vq3/)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

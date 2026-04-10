@@ -6,6 +6,7 @@ categories:
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2cb8118b-329c-490e-b5e9-890c6340a500/public"
 ---
+
 Alpina, established in 1883 by mountaineers aiming to create exceptionally durable watches for outdoor use, pioneered the development of anti-shock, anti-magnetic, stainless steel, and waterproof timepieces. The brand's production facilities are located in Geneva, Switzerland. With a heritage spanning over 130 years in watchmaking, Alpina is committed to crafting luxury sports watches that offer utmost precision and dependability under the most challenging sporting conditions.
 
 Let’s take a closer look at the Alpiner 4 Automatic Blue, which stood out to us because of the eye-catching design.
@@ -95,16 +96,3 @@ Alpina is an often overlooked brand, and if you’re searching for something tha
 [Check Price](https://amzn.to/3uebhVI)
 
 ## Other Watch Reviews
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

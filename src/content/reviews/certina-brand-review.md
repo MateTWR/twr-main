@@ -6,6 +6,7 @@ categories:
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/14bce6ff-ebe2-48a4-aa07-173729f2fb00/public"
 ---
+
 Certina is a prominent Swiss watch brand renowned for its exceptional craftsmanship, innovative technology, rich heritage, and commitment to sustainability. 
 
 Today, we are looking at the Certina brand as a whole, highlighting some of their most popular models and designs, its groundbreaking DS concept, and their ongoing commitment to eco-responsibility.
@@ -134,20 +135,3 @@ The watches in the DS PH collection have a rich heritage. The DS PH collection i
 - Price: Around $1,000
 
 [Visit the Collection](https://www.certina.com/en/ds-ph)
-
-#### WRITTEN BY
-
-## SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

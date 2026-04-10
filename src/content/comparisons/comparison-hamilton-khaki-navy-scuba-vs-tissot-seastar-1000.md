@@ -9,6 +9,7 @@ tags:
   - "tissot-seastar-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f9d5d1e5-4421-4160-a18b-1462968f1400/public"
 ---
+
 When you have [$1,000 to spend on a Swiss diver](https://www.thewatchresource.com/best-dive-watches-under-1000/), two names inevitably rise to the top: the Hamilton Khaki Navy Scuba and the Tissot Seastar 1000. 
 Both brands sit under the Swatch Group umbrella, both offer 80 hours of power reserve, and both share a 43mm footprint. However, on the wrist, these two watches couldn't feel more different. One is a rugged tool watch that feels like it belongs on a military vessel; the other is a "desk diver" with a polished, luxury-adjacent aesthetic.
 
@@ -136,20 +137,3 @@ Choose the Hamilton if:
 | Case Back | Solid Steel (Engraved) | Exhibition (See-through) |
 | Price | $995 - $1,225 | $750 - $825 |
 | Best For | Tool-watch purists & Military Style | Modern Style ("Desk Dive") |
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

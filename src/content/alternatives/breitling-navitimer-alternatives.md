@@ -6,6 +6,7 @@ categories:
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/49b1db86-edbc-4b5d-1b12-6b3d31333600/public"
 ---
+
 For nearly 60 years, the Breitling Navitimer has been the classic aviation watch, and it's the watch that most people think of when they hear "pilot's chronograph." This watch is instantly identifiable and one of the most famous timepieces of all time – due to its captivatingly busy display with subdials and scales. As you know, the Breitling Navitimer plays an important role in the history of pilot watches, but maybe more importantly, this timepiece makes you feel like you're ready to take the controls of a fighter plane.
 
 The Breitling Navitimer can be a big purchase. There are, however, budget friendlier options if you don't want to pay such a large sum yet still want the style.
@@ -151,27 +152,3 @@ The first thought we had upon laying our eyes on the Avigator by Jack Mason, is 
 [Check Price](https://usd.farer.com/products/morgan)
 
 Starting out strong with the ‘Morgan’, it was named after Sir Morien Bedford Morgan, the father of Concorde–Britain’s first supersonic passenger aircraft. Moving on to the particulars, this watch has a Faraday soft-iron inner cage, neutralizing the harmful magnetic fields around the movement during flight (learn more about pilot watches by clicking here). While this detail seems obsolete for everyday use, it actually is useful in warding off the constant magnetic interference from phones and laptops that surround us 24/7. The movement in question is a superb Swiss automatic movement, housed in a 39.5 mm case–sits comfortably on all wrist sizes. The matte black dial coupled with the minimalistic, easy-to-read numerals and a beautiful, sturdy leather strap make this watch a 10/10 in our book.
-
-#### WRITTEN BY
-
-### SEE ALSO
-
-- [Omega Speedmaster Alternatives](https://www.thewatchresource.com/omega-speedmaster-alternatives/)
-- [Omega Seamaster Alternatives](https://www.thewatchresource.com/omega-seamaster-alternatives/)
-- [Rolex Submariner Alternatives](https://www.thewatchresource.com/rolex-submariner-alternatives/)
-- [Tag Heuer Carrera Alternatives](https://www.thewatchresource.com/tag-heuer-carrera-alternatives/)
-- [Audemars Piguet Royal Oak Alternatives](https://www.thewatchresource.com/audemars-piguet-royal-oak-alternatives/)
-- [Cartier Tank Alternatives](https://www.thewatchresource.com/cartier-tank-alternatives/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

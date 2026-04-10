@@ -6,6 +6,7 @@ categories:
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/cc6a4d46-0c2a-4f7a-d646-3045b6425d00/public"
 ---
+
 The Audemars Piguet Royal Oak watch is a luxury and absolutely iconic timepiece that was first released in 1972. It was designed by the legendary watchmaker Gerald Genta and is known for its unique octagonal shape and distinctive bezel with exposed screws. The Royal Oak was the first luxury sports watch on the market, and its bold design and high-quality craftsmanship quickly made it a favorite among watch enthusiasts. Over the years, the Royal Oak has been updated with new features and designs, but it has remained true to its original concept and continues to be a highly sought-after watch. Today, it is considered a modern classic and a symbol of luxury and style.
 
 Due to its arguably unparalleled popularity, other watch brands started experimenting with their own take on the luxury sports watch look and design, which in turn helped expand the luxury watch customer base substantially. 
@@ -162,27 +163,3 @@ The Hublot Classic Fusion is a lot more than a "Royal Oak" alternative, but give
 Hublot's own HUB1110 caliber gives you a 42 hours power reserve. The 42 mm case width is a good size for most wrists, and additionally, the Classic Fusion is relatively thin at 10.6 mm, making it a comfortable wear.
 
 The case itself is surprisingly visually complex, featuring high polish details as well as contrasting titanium in a satiny finish. We love titanium for the simple reason that it ensures toughness and remains light on the wrist. The simple dial design with the date window at 3 o'clock position makes this watch a surprisingly elegant choice!
-
-#### WRITTEN BY
-
-### YOU MIGHT BE INTERESTED IN:
-
-- [Breitling Navitimer Alternatives](https://www.thewatchresource.com/breitling-navitimer-alternatives/)
-- [Omega Speedmaster Alternatives](https://www.thewatchresource.com/omega-speedmaster-alternatives/)
-- [Omega Seamaster Alternatives](https://www.thewatchresource.com/omega-seamaster-alternatives/)
-- [Rolex Submariner Alternatives](https://www.thewatchresource.com/rolex-submariner-alternatives/)
-- [Tag Heuer Carrera Alternatives](https://www.thewatchresource.com/tag-heuer-carrera-alternatives/)
-- [Cartier Tank Alternatives](https://www.thewatchresource.com/cartier-tank-alternatives/)
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter

@@ -5,6 +5,7 @@ date: 2021-10-13
 categories: 
   - "guide"
 ---
+
 When you first start learning about watches, information fatigue quickly sets in and you feel exhausted just trying to understand basics such as watch movements and all the new terminology that comes with the territory. Our mission here at the Watch Resource is to help with just that. Take a look at our organized guide in which  we present all the basics in a digestible way, guiding you through the journey into the world of watches.
 
 ## Watch Movements
@@ -135,16 +136,3 @@ So, here’s what the measurements REALLY mean:
 
 - Acrylic / Plexiglass: they’re usually inexpensive and these crystals can have a nice dome design that can give a cool vintage feel. The disadvantage of these is they can scratch pretty easily. 
 - Sapphire crystals: Scratch resistant, very clear crystals, and they usually have anti-reflective coatings on them, so the actual dial is more visible. Downside? They are more expensive.
-
-The Watch Resource is an independent watch review site founded in 2021, where a team of watch enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
-
-© 2023 All rights reserved​
-
-#### Navigation
-
-- [Watch Reviews](https://www.thewatchresource.com/in-depth-watch-reviews/)
-- [Brand Reviews](https://www.thewatchresource.com/brand-reviews/)
-- [Alternatives](https://www.thewatchresource.com/alternatives/)
-- [Collections](https://www.thewatchresource.com/collections/)
-
-#### Newsletter
