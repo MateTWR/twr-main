@@ -1,11 +1,11 @@
 ---
 title: "Best Panda Dial Chronographs"
+description: "On the topic of color dials, or at least the visually exciting ones, this article will focus on the so-called “panda dials”. As the name suggests, the…"
 date: 2024-03-01
 categories: 
   - "dial-color-or-design"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4c595b6c-ab5d-420f-301a-7916a73f8b00/public"
 ---
-
 On the topic of color dials, or at least the visually exciting ones, this article will focus on the so-called “panda dials”. As the name suggests, the overall visual effect resembles a black and white face of a panda. While it may sound playful, panda dials possess a certain sophistication, owing to the dominant black and white hues and classic chronograph dial design. As far as design variation within the relatively fixed parameters of a “panda dial”, think of black subdials on a fresh white dial, or the reverse, a moody dark dial broken up with bright subdials. In any case, the wearer will enjoy high visual contrast in a dynamic design, ensuring a stunning wrist-statement. 
 
 Without further ado, let’s dive in and take a closer look at our carefully curated favorites.

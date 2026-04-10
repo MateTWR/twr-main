@@ -1,11 +1,11 @@
 ---
 title: "William Wood Watches Review: Brand History and Review"
+description: "The brand is built upon the familial legacy of courage and dependability. William Wood spent 25 years in the British Fire Service, and is a true hero, as…"
 date: 2022-09-01
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/9c13e963-aeba-46b2-f0bc-bcaa3a172200/public"
 ---
-
 ## The History of William Wood Watches
 
 The brand is built upon the familial legacy of courage and dependability. William Wood spent 25 years in the British Fire Service, and is a true hero, as well as the grandfather of the founder of the brand. William Wood Watches founder Johnny had this to say about his grandfather:

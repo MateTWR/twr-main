@@ -1,11 +1,11 @@
 ---
 title: "Kuoe Old Smith 90-007 In-Depth Review"
+description: "KUOE is a Japanese microbrand founded in 2020 by designer Kenji Uchimura in Kyoto, Japan. The brand's concept traces back to 2010 when Uchimura, then a…"
 date: 2025-08-30
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/839298f1-e09c-415d-d348-8ce361a5e900/public"
 ---
-
 ## KUOE: The Brand
 
 KUOE is a Japanese microbrand founded in 2020 by designer Kenji Uchimura in Kyoto, Japan. The brand's concept traces back to 2010 when Uchimura, then a university student in London, was captivated by a collection of antique hand-wound watches from the 1940s to 1970s. This experience ignited his passion for classic design, leading him to establish KUOE with the vision of offering timeless, high-quality watches that blend traditional aesthetics with modern craftsmanship.
@@ -67,7 +67,7 @@ Kuoe also offers bracelets for the Old Smith. This bracelet has a vintage-inspir
 
 The leather strap gives a slightly more formal and refined look; it also lightens the load and makes the watch almost unnoticeable on the wrist in terms of weight. The bracelet, on the other hand, adds a touch of sportiness – it dresses the watch down just enough that you could pair it with a polo or even T-shirt on a weekend, and it would look great.
 
-![Kuoe Old Smith 90-007](https://www.thewatchresource.com/wp-content/uploads/2025/08/0820ab_6a8760bf6ab645ea8560633c6cc4ffe3mv2.avif)
+![Kuoe Old Smith 90-007](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b1163c2b-3a3a-4f2c-baa3-dc6a03c0eb00/public)
 
 ## Movement
 

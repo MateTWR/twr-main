@@ -1,11 +1,11 @@
 ---
 title: "Vero x Realtree Tide Tracker Outpost Black Hands‑On Review"
+description: "After a few weeks living with the Tide Tracker Realtree Outpost Black, my headline takeaway is simple: this is a legitimately useful “nature-timed” tool…"
 date: 2026-03-05
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/cfeefbde-8851-44cb-a73c-efd559024d00/public"
 ---
-
 After a few weeks living with the Tide Tracker Realtree Outpost Black, my headline takeaway is simple: this is a legitimately useful “nature-timed” tool watch that doesn’t feel gimmicky in daily wear. The watch’s core idea—mechanically tracking tidal shifts with a dual‑bezel system tied to the lunar cycle—actually works, and the execution feels thoughtfully engineered rather than novelty‑driven.
 
 The Outpost Black colorway is the more restrained sibling to the Compass Blue: a black dial paired with a white inner tide scale and a classic Realtree camo canvas strap. It wears compact and flat for a complication‑heavy watch (39.5mm wide, 11.25mm thick, 47mm lug‑to‑lug), and the bead‑blasted finishing makes it feel “field-ready” from day one.  

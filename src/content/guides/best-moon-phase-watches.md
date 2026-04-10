@@ -1,11 +1,11 @@
 ---
 title: "Best Moon Phase Watches"
+description: "Moonphase watches are commonly considered a classic and elegant complication, and have been popular among watch enthusiasts and collectors for many years…"
 date: 2023-03-29
 categories: 
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a8e6341b-424c-4d76-2c83-c1383f517700/public"
 ---
-
 Moonphase watches are commonly considered a classic and elegant complication, and have been popular among watch enthusiasts and collectors for many years. In addition to its functional purpose, the moon phase display adds a decorative element to the watch's dial, and can be found in a variety of styles and designs. Without further ado, let’s take a look at our expertly curated list of the (in our opinion) best moon phase watches on the market today, spanning a wide range of price points!
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**

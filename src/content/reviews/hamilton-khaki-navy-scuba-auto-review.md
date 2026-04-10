@@ -1,11 +1,11 @@
 ---
 title: "Hamilton Khaki Navy Scuba Auto Review - Is It an Underrated Dive Watch?"
+description: "When it comes to dive watches, there are a few iconic examples in most people’s mind that everyone always defaults to: Omega Seamaster, Tudor Black Bay…"
 date: 2023-01-19
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/59267377-ee24-408b-9311-6bda805d1900/public"
 ---
-
 When it comes to dive watches, there are a few iconic examples in most people’s mind that everyone always defaults to: Omega Seamaster, Tudor Black Bay Fifty-Eight or Pelagos, Rolex Submariner. On the budget friendlier side we have the Seiko Prospex, Tissot Seastar, and some G-Shock models that would be the top picks.
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**

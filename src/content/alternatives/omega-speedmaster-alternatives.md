@@ -1,11 +1,11 @@
 ---
 title: "Omega Speedmaster Affordable Alternatives"
+description: "Omega's 'Moonwatch' is probably one of the most desired watches. The Swiss watchmaker's Speedmaster Professional Chronograph (to give it its technical…"
 date: 2024-11-02
 categories: 
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d31cf366-9ec6-431c-2519-f8369a2a8900/public"
 ---
-
 Omega's "Moonwatch" is probably one of the most desired watches. The Swiss watchmaker's Speedmaster Professional Chronograph (to give it its technical name) was first introduced in 1957 as a racing watch and has become one of the brightest stars in the watch firmament, having been worn by astronauts on six lunar missions, including Apollo 11 in 1969, when Buzz Aldrin and Neil Armstrong became the first men to walk on the moon.
 
 In an era before digital watches, the Speedmaster Chronograph was the timepiece chosen most fit to accompany men into space - and that is pretty cool.

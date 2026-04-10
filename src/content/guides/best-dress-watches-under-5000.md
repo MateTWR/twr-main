@@ -1,11 +1,11 @@
 ---
 title: "Best Dress Watches Under $5,000"
+description: "If you have the budget for a dress watch under (or around) $5,000, one of the biggest challenges will be finding the design you absolutely love as there…"
 date: 2024-05-12
 categories: 
   - "5000"
   - "dress-watches"
 ---
-
 If you have the budget for a dress watch under (or around) $5,000, one of the biggest challenges will be finding the design you absolutely love as there will be a multitude of high quality options.  
 Finding the perfect dress watch is a very exciting project, so we compiled a list were we feature the best of the best. Happy hunting!
 

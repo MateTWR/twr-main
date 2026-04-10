@@ -1,12 +1,12 @@
 ---
 title: "Hamilton Khaki Field Collection Review"
+description: "The Khaki Field watches are resilient military watches with a rugged design. As the first soldier’s wristwatch, the Khaki Field line pays homage to…"
 date: 2022-09-08
 categories: 
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/5b9acb34-d598-43c0-ac9e-e8a90544cd00/public"
 
 ---
-
 ## Hamilton's Khaki Field Collection
 
 ![Hamilton Khaki Field Collection](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-05-6904-min-1024x684.jpeg/public)

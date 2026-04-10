@@ -1,12 +1,12 @@
 ---
 title: "Best Faux Patina Watches with Vintage Lume"
+description: "Vintage-inspired watches are very popular today, and for a good reason. Vintage styles still popular today are designed with such timelessness, their…"
 date: 2024-01-03
 categories: 
   - "everyday-watches"
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d787185b-d1a0-4bcf-36c9-9f1ef0923100/public"
 ---
-
 Vintage-inspired watches are very popular today, and for a good reason. Vintage styles still popular today are designed with such timelessness, their track record reaches back over decades, often centuries. 
 
 So what design qualities determine if a watch is vintage or not? Naturally, the categorization is somewhat subjective and not set in stone. There are however certain design choices that carry a distinct vintage feel: the shape of the case that resembles an original inspiration (a good example of this is cushion-shaped cases that were very popular in the ‘60s and ‘70s), the size of the case (usually smaller than 40mm), or the domed crystal that also gives a watch that cool vintage look. 

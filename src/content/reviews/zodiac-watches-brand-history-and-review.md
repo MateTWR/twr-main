@@ -1,11 +1,11 @@
 ---
 title: "Zodiac Watches: Brand Review, History & Everything You Need To Know"
+description: "Zodiac was founded in 1882 by Ariste Calame in Le Locle, Switzerland. The company initially focused on producing pocket watches, but they created their…"
 date: 2023-11-26
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/cb226c04-6826-4425-2fa7-b986090f2d00/public"
 ---
-
 ## The History of Zodiac Watches
 
 Zodiac was founded in 1882 by Ariste Calame in Le Locle, Switzerland. The company initially focused on producing pocket watches, but they created their first wristwatch in 1895.

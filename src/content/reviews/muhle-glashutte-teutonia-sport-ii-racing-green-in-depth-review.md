@@ -1,11 +1,11 @@
 ---
 title: "Mühle-Glashütte Teutonia Sport II “Racing Green” (M1-29-74-LB-B) In-Depth Review"
+description: "Mühle-Glashütte is a family-owned German watchmaker based in the famed watchmaking town of Glashütte. The brand’s roots stretch back five generations of…"
 date: 2025-07-05
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1978ad5a-b4f6-43ad-1dc6-bb25ecfe2300/public"
 ---
-
 ## Mühle-Glashütte: The Brand
 
 Mühle-Glashütte is a family-owned German watchmaker based in the famed watchmaking town of Glashütte. The brand’s roots stretch back five generations of making nautical instruments and gauges, and this heritage shows in their modern watches’ robust build. One of the reasons I like Mühle-Glashütte, is that they produce high-quality timepieces, just like their neighbors, however Mühle watches are in the mid-range price segment.

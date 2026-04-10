@@ -1,11 +1,11 @@
 ---
 title: "BALL Engineer Hydrocarbon Original Hands-On Review"
+description: "Welcome back to TheWatchResource.com, and come along on an exciting journey to learn more about BALL watches. BALL, a brand with a long standing legacy of…"
 date: 2023-08-17
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/664eaa5e-dc97-4f66-d905-5b049b9faa00/public"
 ---
-
 Welcome back to TheWatchResource.com, and come along on an exciting journey to learn more about BALL watches. BALL, a brand with a long standing legacy of uncompromising quality, also has one of the most fascinating origin stories. Let’s dive in!
 
 ## BALL: The Brand

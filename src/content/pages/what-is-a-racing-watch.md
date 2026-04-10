@@ -1,10 +1,10 @@
 ---
 title: "What is a Racing Watch?"
+description: "Just as the dive and pilot watches were created to fill a gap in the market at the advent of underwater and air exploration respectively, so were the…"
 date: 2022-09-30
 categories: 
   - "racing-watches"
 ---
-
 Just as the [dive](https://www.thewatchresource.com/what-is-a-dive-watch/) and [pilot](https://www.thewatchresource.com/what-is-a-pilot-watch/) watches were created to fill a gap in the market at the advent of underwater and air exploration respectively, so were the racing watches created for a very specific purpose: to measure time for horse, car, motorbike, and other races where accurate timekeeping was instrumental. Therefore, naturally, the most important distinguishing feature of a racing watch is the presence of a stopwatch function. For this reason, most chronographs on the market today can be categorized as racing watches, with the tachymeter on the bezel as an additional identifying element, which is a useful tool in the calculation of time and distance.
 
 ## Racing Watch Characteristics:

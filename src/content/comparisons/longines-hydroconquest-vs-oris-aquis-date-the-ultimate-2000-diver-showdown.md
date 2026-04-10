@@ -1,5 +1,6 @@
 ---
 title: "Longines HydroConquest vs. Oris Aquis Date: The Ultimate $2,000 Diver Showdown"
+description: "If you’ve spent any time looking for a 'one-and-done' Swiss diver that can handle a boardroom meeting on Monday and a boat deck on Saturday, you’ve hit…"
 date: 2026-03-24
 categories: 
   - "comparison"
@@ -8,7 +9,6 @@ tags:
   - "oris-aquis-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8373565e-46b3-463f-9f52-a4a10cfdd600/public"
 ---
-
 If you’ve spent any time looking for a "one-and-done" Swiss diver that can handle a boardroom meeting on Monday and a boat deck on Saturday, you’ve hit the ultimate crossroads: the Longines HydroConquest vs. the Oris Aquis Date.
 
 Both sit comfortably in that "sweet spot" of luxury—roughly $1,700 to $2,300—where you stop paying for just the name and start paying for serious horological hardware. I’ve spent a lot of time with both on my wrist, and while they look similar on paper, they feel like two completely different animals once you click the clasp shut.
@@ -50,7 +50,7 @@ The Aquis is arguably the most original diver design of the last decade. It does
 - **The Look:** Those thick, "stubby" lugs and the integrated bracelet give it a very unique silhouette. The sunburst dials Oris produces (especially the blues and greens) are, in my opinion, some of the best in the industry at any price point.
 - **The Feel:** Despite being 43.5mm, it wears "shorter" than the Longines because of those lugs. It feels like a tank on the wrist—solid, dependable, and heavy.
 
-![L3.782.4.96.6 dial closeup](https://www.thewatchresource.com/wp-content/uploads/2024/07/L3.782.4.96.6-dial-closeup-300x300.avif) ![Oris Aquis dial close up 01 400 7769 4135-07 8 22 09PEB](https://www.thewatchresource.com/wp-content/uploads/2024/08/Oris-Aquis-dial-close-up-01-400-7769-4135-07-8-22-09PEB-768x432.avif)
+![L3.782.4.96.6 dial closeup](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b86fdf3f-ac4b-4e03-5ddd-257912de5a00/public) ![Oris Aquis dial close up 01 400 7769 4135-07 8 22 09PEB](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f574c8a9-b07e-40fb-9800-a3e53ac60400/public)
 
 ## The Dial: Legibility vs. Depth
 
@@ -99,7 +99,7 @@ This is usually the "make or break" point for buyers:
 - **The Oris Advantage:** The Aquis bracelet is legendary. It’s thick, tapers beautifully, and uses screws rather than pins. It feels significantly more "luxury" than the Longines bracelet. However, because it’s **integrated**, you can’t just swap it for a standard NATO or leather strap from your drawer. You have to buy Oris-specific straps.
 - **The Longines Advantage:** The HydroConquest uses standard lugs. Want to put it on a rubber strap for the summer? Easy. A brown leather strap for a vintage look? No problem. The downside? The clasp on the HydroConquest feels a bit "stamped" and thin compared to the Oris.
 
-![L3.782.4.96.6 wrist shot](https://www.thewatchresource.com/wp-content/uploads/2024/07/L3.782.4.96.6-wrist-shot-240x300.avif) ![01 400 7769 4135-07 8 22 09PEB wrist shot](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-08-Screenshot-2026-03-21-at-12.08.57-PM-1024x520.webp/public)
+![L3.782.4.96.6 wrist shot](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/250eccca-cc22-4560-095b-4fd354429700/public) ![01 400 7769 4135-07 8 22 09PEB wrist shot](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2024-08-Screenshot-2026-03-21-at-12.08.57-PM-1024x520.webp/public)
 
 ## Final Thoughts: Which One for Your Wrist?
 

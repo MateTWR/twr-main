@@ -1,11 +1,11 @@
 ---
 title: "DOXA SUB 600T Caribbean (862.10.201.32-N) In-Depth Review"
+description: "The DOXA SUB 600T Caribbean is a modern revival of an iconic 1980s dive watch from DOXA. As a brand, DOXA has long been respected for its contributions to…"
 date: 2025-11-21
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e9970b76-db4d-45cc-26e2-719403d2f900/public"
 ---
-
 The DOXA SUB 600T Caribbean is a modern revival of an iconic 1980s dive watch from DOXA. As a brand, DOXA has long been respected for its contributions to dive watch technology and its bold, colorful dials – most famously the orange “Professional” dial worn by diving legend Jacques Cousteau. The SUB 600T model originally debuted in the early 1980s, featuring a striking angular case design that set it apart from the cushion-shaped DOXA divers of the 1960s. In 2021, DOXA brought back the SUB 600T in a non-limited collection, staying true to the original’s aesthetic while updating it for contemporary wear. The particular variant I’m reviewing is the Caribbean. I love its rich blue dial with the matching navy blue strap. This dive watch packs serious credentials: a 316L stainless steel case rated to 600 meters, a unique no-decompression dive bezel, and the kind of overbuilt quality that promises real underwater utility. Yet on the wrist, it aims to be an “eminently wearable” diver’s watch—the best of both worlds. Let’s dive into the details of the SUB 600T Caribbean and see how it performs.
 
 [![Doxa Sub 600t Caribbean 862.10.201.32-N](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-DOXA_SUB_600T_862_10_201_32_N-rf1rjzr1722fmcv29ywhvywt2ybb43yiz8daap3ru4.webp/public "DOXA_SUB_600T_862_10_201_32_N")](https://eu.doxawatches.com//products/sub-600t-caribbean?variant=45713662247178&shpxid=68bc353e-f92e-4748-8551-16b4bb39da91)

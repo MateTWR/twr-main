@@ -1,10 +1,10 @@
 ---
 title: "Best Affordable Racing Watches"
+description: "Looking for a high quality racing watch that won’t break the bank but possibly will break speed records? We hope you enjoy picking out your new driving…"
 date: 2023-08-01
 categories: 
   - "racing-watches"
 ---
-
 Looking for a high quality racing watch that won’t break the bank but possibly _will_ break speed records? We hope you enjoy picking out your new driving companion as much as we enjoyed putting together this ultimate list of winners when it comes to value and quality.
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**

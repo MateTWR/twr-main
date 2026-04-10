@@ -1,11 +1,11 @@
 ---
 title: "Victorinox Watches: Brand History and Review"
+description: "It’s both, as in “Victorinox Swiss Army”. But what is the origin of the name? Let’s take a look at some stainless steel-history for clues."
 date: 2023-08-04
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2980bcc7-71b3-445c-0d7b-fd8910e21900/public"
 ---
-
 ## Is it Victorinox or Swiss Army?
 
 It’s both, as in “Victorinox Swiss Army”. But what is the origin of the name? Let’s take a look at some stainless steel-history for clues.

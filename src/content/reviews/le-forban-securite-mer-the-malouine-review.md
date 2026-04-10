@@ -1,11 +1,11 @@
 ---
 title: "Le Forban Sécurité Mer The Malouine Review"
+description: "Review: The Malouine from Le Forban Sécurité Mer Elegant French Design"
 date: 2024-04-08
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4afe1450-5e57-4d00-2753-86b2d9ff9e00/public"
 ---
-
 ## Review: The Malouine from Le Forban Sécurité Mer Elegant French Design
 
 When it comes to dive watches, most of the designs out there have a distinct sporty look, which of course makes sense as these timepieces have to be functional and durable in and around the water. While a dive watch can be dressed up and makes for a wonderfully versatile accessory, Le Forban Sécurité Mer attempted to take it a step further, and envisioned an elegant timepiece that has all the functionality of a dive watch but also stands its ground in a more elegant setting, due to an understated and elegant dial design. This vision came to life in the Malouine, and it wasn’t long before it caught our watchful eye. Let’s take a closer look, and discuss if the Le Forban Malouine is truly as good as it looks.

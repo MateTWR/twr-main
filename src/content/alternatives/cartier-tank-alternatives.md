@@ -1,11 +1,11 @@
 ---
 title: "Cartier Tank Alternatives"
+description: "The Cartier Tank is a line of men's watches that was first introduced by the French luxury jeweler Cartier in 1917. The watch was designed by Louis…"
 date: 2024-11-04
 categories: 
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/0baae505-acbf-4cd1-65ea-fd40546d8700/public"
 ---
-
 The Cartier Tank is a line of men's watches that was first introduced by the French luxury jeweler Cartier in 1917. The watch was designed by Louis Cartier himself. His jewelry designs focused on a female clientele, but in a bid to expand his offerings to gentlemen as well, he made this timepiece specifically for men. Remember, at this time, wrist watches were worn by women, and it counted as a piece of jewelry.  Men had pocket watches. In light of history, Louis Cartier’s role in changing the watch industry cannot be overstated.
 
 The original Cartier Tank watch featured a rectangular case with a strap made of leather or gold, and a simple, understated design that was intended to be a stamp of  timeless elegance. In fact, Cartier’s intention of creating a timeless design was so successful, that after more than a century the design is as popular as ever, and the demand doesn’t seem to be fading in the slightest. 

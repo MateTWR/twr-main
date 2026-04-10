@@ -1,11 +1,11 @@
 ---
 title: "Rado Watch Review"
+description: "Fritz, Ernst, and Werner Schlup, brothers, made a decision in 1917 that would transform their lives and the lives of future generations: they decided to…"
 date: 2022-04-08
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/aa6afc20-2967-451a-3261-85fd5dc91100/public"
 ---
-
 ## The History of Rado Watches
 
 Fritz, Ernst, and Werner Schlup, brothers, made a decision in 1917 that would transform their lives and the lives of future generations: they decided to become watchmakers. In the Swiss town of Lengnau, their modest workshop was housed in a renovated portion of their parents' home. Schlup & Co. got off to a good start, establishing deals with a diverse range of importers all over the world, thanks to their unrelenting energy and remarkable ability to discover fresh possibilities.

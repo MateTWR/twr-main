@@ -1,11 +1,11 @@
 ---
 title: "Victorinox Journey 1884 Review: A Partner For All Adventures"
+description: "On our journey to bring you high quality unique timepieces that are not receiving enough buzz in the watch community, we’re happy to announce that we…"
 date: 2023-02-20
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a5308065-846a-4c87-e364-e9d52a99c600/public"
 ---
-
 On our journey to bring you high quality unique timepieces that are not receiving enough buzz in the watch community, we’re happy to announce that we found another excellent choice for those who are looking for a watch that looks good (obviously) AND can take a serious beating in almost all conditions: The Victorinox Journey 1884.
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**

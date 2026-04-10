@@ -1,11 +1,11 @@
 ---
 title: "ZRC Watches: Brand Review & Buyer's Guide"
+description: "Edmond Zuccolo and Joseph Rochet started ZRC in 1904 in Geneva, and since then, the company has continuously evolved by developing diving watches…"
 date: 2022-10-16
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/238d6e8e-45c8-4798-9692-908b71d38300/public"
 ---
-
 ## The History of ZRC
 
 Edmond Zuccolo and Joseph Rochet started ZRC in 1904 in Geneva, and since then, the company has continuously evolved by developing diving watches, bracelets, and straps. In 1909 ZRC was incorporated in Geneva and it was given the No. 52 when the Geneva Trade and Companies Register was formed.

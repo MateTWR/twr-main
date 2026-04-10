@@ -1,11 +1,11 @@
 ---
 title: "UNDONE Watches Review: Everything You Need To Know"
+description: "UNDONE was founded by designer Michael Young in 2016 with the help of a Kickstarter campaign. It was envisioned as a mid-range brand with luxury…"
 date: 2022-08-30
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/269af9fe-ff62-4be9-50f7-dce89f499900/public"
 ---
-
 ## The History of UNDONE
 
 UNDONE was founded by designer Michael Young in 2016 with the help of a Kickstarter campaign. It was envisioned as a mid-range brand with luxury preferences, and Young's distinctive minimalist, streamlined aesthetic was prominently included into the designs.

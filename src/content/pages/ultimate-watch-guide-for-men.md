@@ -1,10 +1,10 @@
 ---
 title: "Ultimate Watch Guide for Men"
+description: "Sure, times have changed and the rules of old are out the window for the most part, meaning...if you are dead set on wearing your smart watch (or worse)…"
 date: 2021-06-18
 categories: 
   - "guide"
 ---
-
 Sure, times have changed and the rules of old are out the window for the most part, meaning...if you are dead set on wearing your smart watch (or worse) to a black tie event, no judgment from us (maybe just a smidge). That said, this article is a visual representation of our effort to convince you to look at watches a little differently. ‘_It’s just an object that tells the time, well on its way to become utterly obsolete_’ you interject. You are not entirely wrong–but hear us out; the world we live in is a strange place. Every facet of our lives is becoming computerized, impersonal, fast, and automated. We all have the same stuff, always want more of it, and depend on technology more than we care to admit. In a world that is moving so fast it makes your head spin, it is _crucial_ to set up little reminders, anchor points if you will, of things that are innately present in all humans: creativity, meticulous attention to detail, infinite patience, perseverance, legacy, an eye for beauty. It just so happens that all of these endangered qualities are embodied in a traditional timepiece, made by craftsmen taking great pride in their work. By wearing it on your wrist, you will see a lot more than time. You will see the work of a creative human, in other words–a wearable piece of art.
 
 Now being that gentlemen’s watches have been around for a while, naturally there are some rules you should follow if you want to go the more traditional route. Read on, and find out what we consider the most important, still applicable **watch etiquette** to be followed. Also included, is a general break-down of the types of watches there are, and what **styles and designs** are appropriate for the different levels of formality of the events.

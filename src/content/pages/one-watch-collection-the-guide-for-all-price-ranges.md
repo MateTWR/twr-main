@@ -1,12 +1,12 @@
 ---
 title: "One Watch Collection: The Best GADA Watches For All Price Ranges"
+description: "Every once in a while, upon thorough consideration and contemplation, a final decision must be made.  Today is one of those days. We're going to try to…"
 date: 2023-04-02
 categories: 
   - "collections"
   - "one-watch-collection"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4955155a-b1a6-4d25-2c6f-bc24276a5000/public"
 ---
-
 Every once in a while, upon thorough consideration and contemplation, a final decision must be made.  Today is one of those days. We're going to try to address one of the toughest puzzles, as far as watches are concerned: how to choose **the one watch that “has everything”**. 
 
 The intriguing, mildly anxiety-inducing "one watch collection" question.

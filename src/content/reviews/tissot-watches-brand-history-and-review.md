@@ -1,11 +1,11 @@
 ---
 title: "Tissot Watches: Brand Review, Collections & History"
+description: "Tissot was founded in 1853 by Charles-Félicien Tissot and his son Charles-Émile Tissot, and as such is one of the oldest watch legacy brands still…"
 date: 2022-09-01
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/37b68b9f-f2f5-4b77-9f1c-8f5b66f31400/public"
 ---
-
 ## The History of Tissot Watches
 
 Tissot was founded in 1853 by Charles-Félicien Tissot and his son Charles-Émile Tissot, and as such is one of the oldest watch legacy brands still available today. The father-son duo started Tissot out of their home in Le Locle, Switzerland, with a big section of the house converted into a watch making factory. Charles-Émile showed interest and considerable skill in watchmaking at an early age, and by 1858 the first signs of the success to come became tangible with his trip to Russia; he was able to sell the savonnette pocket watches all across the Russian Empire. 

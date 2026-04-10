@@ -1,11 +1,11 @@
 ---
 title: "Raymond Weil Watches: Brand History and Review"
+description: "To get a good understanding of how RAYMOND WEIL came to be such a recognized name in the exclusive industry of watchmaking, we must take a look at a bit…"
 date: 2023-03-17
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/02c46ca8-719c-47c7-d614-48b82170d800/public"
 ---
-
 ## The History of Raymond Weil
 
 To get a good understanding of how RAYMOND WEIL came to be such a recognized name in the exclusive industry of watchmaking, we must take a look at a bit of history first. The year is 1976 and we are in Switzerland, the home of horological innovation. The ‘70s have been a tough year for watchmaking as the _quartz crisis_ turned the whole industry upside down. When such a disruption occurs, it inevitably opens the door for the new and fresh to come, improving upon the old. Mr. Raymond Weil recognized the historical moment, and set out to establish his idea of the new Swiss watchmaking, by offering a new dimension to the industry. 

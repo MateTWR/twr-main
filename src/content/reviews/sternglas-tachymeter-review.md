@@ -1,11 +1,11 @@
 ---
 title: "Sternglas Tachymeter Review"
+description: "As you must be used to by now, we at The Watch Resource are always looking to introduce and highlight timepieces with exciting and unique features, from…"
 date: 2023-07-25
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/607449a7-2488-4e5e-fa76-c58973f98500/public"
 ---
-
 As you must be used to by now, we at The Watch Resource are always looking to introduce and highlight timepieces with exciting and unique features, from brands we love and recommend to all watch enthusiasts. This never-ending journey brought us to today’s contender, the Sternglas Tachymeter.
 
 [![Sternglas Tachymeter Black](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Sternglas-Tachymeter-Black-1-1-q9qtow2rljj3xqyudnkbp5qhhk7dpmdt31w0pwkfqk.webp/public "Sternglas Tachymeter Black (1)")](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-black-modena-brown)

@@ -1,11 +1,11 @@
 ---
 title: "NORQAIN Watches Review: Brand History and Overview"
+description: "NORQAIN is a new and exciting brand that’s quickly becoming popular thanks to their unique watches that are perfect for the lovers of adventure, and all…"
 date: 2023-12-16
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d02f65b5-605c-457a-2a70-1e158d931600/public"
 ---
-
 NORQAIN is a new and exciting brand that’s quickly becoming popular thanks to their unique watches that are perfect for the lovers of adventure, and all kinds of outdoor activities you can think of. Inspired by the quintessential Swiss lifestyle, the design beautifully reflects the pristine lakes, green pastures and formidable mountain peaks. 
 
 Without further ado, let’s take a closer look at what NORQAIN has to offer.

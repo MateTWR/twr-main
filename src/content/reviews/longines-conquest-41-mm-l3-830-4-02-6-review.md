@@ -1,11 +1,11 @@
 ---
 title: "Longines Conquest 41 mm (L3.830.4.02.6) Review"
+description: "Longines’ Conquest collection dates back to 1954, making it one of the brand’s longest-running lines. From the beginning, the Conquest concept has been…"
 date: 2025-06-13
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4c8d2484-ed86-4ecf-1477-c8be47cab700/public"
 ---
-
 ## Longines Conquest: The Collection
 
 Longines’ Conquest collection dates back to 1954, making it one of the brand’s longest-running lines. From the beginning, the Conquest concept has been about an “everyday” sports watch that blends performance with a touch of elegance. Over the years the line evolved, encompassing everything from high-precision quartz models to serious dive-capable automatics, yet it always stayed true to a certain sporty refinement and Longines’ commitment to exceptional quality.  
@@ -15,7 +15,7 @@ Last year Longines gave the Conquest a thorough refresh, bringing a more contemp
 
 Here, I’m focusing on the 41 mm automatic in _sunray green_ – reference L3.830.4.02.6 – on the stainless steel bracelet. This variant represents Longines’ effort to deliver a “do-it-all” watch (or “GADA”, as Go Anywhere Do Anything) that’s sporty at heart but carries itself with enough polish and heritage to slip into dressier settings as well. After spending some quality time with it, I’m ready to report that the new Conquest largely delivers on that promise.
 
-![](https://www.thewatchresource.com/wp-content/uploads/2025/06/conquest-l3-830-4-02-6-bottom-detailed-view-1600x2000-53-1733407827-scaled-e1749844403373-1024x661.avif)
+![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/60a1adbf-97eb-40d0-e912-b710bcea1f00/public)
 
 ## Conquest 41 mm L3.830.4.02.6 – Overview
 
@@ -52,7 +52,7 @@ I have to give special mention to the date display. The Conquest’s date window
 
 Overall, Longines nailed the balance here - the dial is unfussy and highly legible, but not boring. It’s the kind of design that holds up to extended viewing; you might just find yourself admiring the play of light on the green sunburst and the polished markers during wrist rolls in different lighting.
 
-![Longines Conquest 41 green L3.830.4.02.6 dial](https://www.thewatchresource.com/wp-content/uploads/2025/06/Longines-Conquest-41-green-L3.830.4.02.6-dial-1024x1024.avif)
+![Longines Conquest 41 green L3.830.4.02.6 dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e9ab9459-e8f2-40e9-5c90-aa38e16eaf00/public)
 
 ### Case & Bezel
 
@@ -82,7 +82,7 @@ The other headline feature of the L888 is the silicon balance spring and improve
 
 Overall, the Longines L888 movement impressed me as a well-considered engine for a modern everyday watch. It packs the kind of specs that a watch nerd can geek out about (high anti-magnetic properties, long power reserve, ETA pedigree with tweaks) while ultimately just doing its job reliably in the background. It fits the Conquest’s character perfectly: a modern caliber that adds to the watch’s appeal as a grab-and-go daily companion.
 
-![L888 Movement](https://www.thewatchresource.com/wp-content/uploads/2025/06/conquest-l3-830-4-02-6-bottom-detailed-view-2000x2000-55-1733407827-1024x1024.avif)
+![L888 Movement](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e5240e30-108c-4dc7-1d85-b0a3574f0200/public)
 
 ### Wearing the Conquest: Day-to-Day Impressions
 

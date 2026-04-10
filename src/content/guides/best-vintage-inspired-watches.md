@@ -1,11 +1,11 @@
 ---
 title: "Best Vintage-Inspired Watches"
+description: "When it comes to picking out the perfect watch for most occasions, there is a plethora of details to consider: what kind of strap should I be looking for?…"
 date: 2023-04-17
 categories: 
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/80af2db1-c523-4b4f-011f-ff16e4802d00/public"
 ---
-
 When it comes to picking out the perfect watch for most occasions, there is a plethora of details to consider: what kind of strap should I be looking for? What color dial? From the overall style of the watch to functionality, the questions are endless. 
 
 What we at The Watch Resource discovered, is a trick to get it right every time. Drum roll please…vintage inspired design. Now to clarify, you could always buy a true vintage watch, but in this article we are focusing specifically on vintage-inspired design. The key difference between the two being that the latter has the classic look, but is made using the newest technology in watchmaking, and therefore is often more suitable for the modern watch wearers needs. We know what you’re thinking: “great, but I’m not looking to resemble my grandpa just yet.” When it comes to watches, vintage design translates to timeless, classic, elegant, true & tried. While it’s certain that the older generations may have worn similar looking pieces, that is great news: decades or even a century ago, watch manufacturing was a highly esteemed trade, requiring the utmost expertise, resulting in a standard of quality and tastefulness that is rare to come by nowadays. To be fair, the legacy watchmakers still provide the same standards in modern times, and are joined with numerous up and coming brands—that said, if the goal is to find a watch design that will surely become a family heirloom and never feel outdated, vintage, classic designs are the way to go. 

@@ -1,12 +1,12 @@
 ---
 title: "Best GMT Watches Under $1,000"
+description: "Below you will find our list of the best GMT watches under (or around) $1,000."
 date: 2024-05-12
 categories: 
   - "1000"
   - "gmt"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4fcacc9c-c656-41d7-543c-249fd13edd00/public"
 ---
-
 Below you will find our list of the best GMT watches under (or around) $1,000.
 
 We carefully considered the watches' quality, the timelessness of the design, and the overall value for your money, and came up with the cream of the crop when it comes to GMT features around the $1k price point. To assist you in finding your new favorite timepiece, we have included a brief description of the model and brand in question, along with the most interesting specs and details.

@@ -1,11 +1,11 @@
 ---
 title: "Omega Seamaster Alternatives"
+description: "The Omega Seamaster is one of the most well-known dive watches in the world."
 date: 2024-11-01
 categories: 
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ee93db30-e419-490a-2ac5-fec569af3b00/public"
 ---
-
 The Omega Seamaster is one of the most well-known dive watches in the world.
 
 In 1948, Omega released the first Seamaster watch to celebrate the company's 100th anniversary. The Seamaster was inspired by the military timepieces Omega delivered to the British Military of Defense during WWII, and Omega marketed it to civilians as a water-resistant watch designed for an active lifestyle.

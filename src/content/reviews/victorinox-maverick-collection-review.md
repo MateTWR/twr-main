@@ -1,11 +1,11 @@
 ---
 title: "Victorinox Maverick Collection Review"
+description: "The Victorinox Maverick Collection reflects the daring nature of the deep-sea diver, for whom exact timing might be the difference between life and death…"
 date: 2022-08-25
 categories: 
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/96afa08f-9cea-45ba-060b-d54e2b454f00/public"
 ---
-
 ## Victorinox Maverick Collection
 
 ![WAT\_241865\_B\_1-1-min](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-WAT_241865_B_1-1-min-e1656291587580-pqwp5287udjh0dq70ztcqhhpphxw9ao43mgsxr0cq8.jpg/public "WAT_241865_B_1-1-min")

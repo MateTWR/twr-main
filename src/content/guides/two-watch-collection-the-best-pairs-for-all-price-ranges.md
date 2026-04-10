@@ -1,11 +1,11 @@
 ---
 title: "Two-Watch Collection: The Best Pairs For All Price Ranges"
+description: "Collecting watches can be quite a financially taxing hobby, especially if an overarching plan or goal is not set beforehand. It helps to have a vision…"
 date: 2023-04-21
 categories: 
   - "collections"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/8beb4693-62c7-43fe-dd00-30a61c8d9200/public"
 ---
-
 Collecting watches can be quite a financially taxing hobby, especially if an overarching plan or goal is not set beforehand. It helps to have a vision, followed by applying a sound strategy to achieve it. Most importantly however, it’s imperative that you enjoy the journey! We are here to help with our favorite part, the research. Let’s get into it! 
 
 The “Best Two-Watch Collection” is a frequently revisited objective, as we often wonder if it’s possible to have just two watches that are perfect for all occasions and cover everything we might need from our wrist companions.

@@ -1,11 +1,11 @@
 ---
 title: "Best Bauhaus Watches For Minimalist Fans"
+description: "From 1919 through 1933, the German art school Bauhaus, which means 'building home”, united the sophistication of fine arts with the useful practicality of…"
 date: 2023-04-23
 categories: 
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a767b935-1dcd-42c9-970e-6be0ac58c200/public"
 ---
-
 ## What is Bauhaus?
 
 From 1919 through 1933, the German art school Bauhaus, which means "building home”, united the sophistication of fine arts with the useful practicality of crafts. The university rose to fame for its design philosophy, which sought to marry the principles of mass production with unique, creative vision.

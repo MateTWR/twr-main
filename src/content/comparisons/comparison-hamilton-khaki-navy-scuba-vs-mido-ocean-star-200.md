@@ -1,5 +1,6 @@
 ---
 title: "Hamilton Khaki Navy Scuba vs. Mido Ocean Star 200: The Battle for the $1,000 Crown"
+description: "Comparing the Hamilton Khaki Navy Scuba (Ref: H82505140) to the Mido Ocean Star 200 (Ref: M026.430.11.041.00) is a classic 'sibling rivalry.' Both brands…"
 date: 2026-03-13
 categories: 
   - "comparison"
@@ -8,7 +9,6 @@ tags:
   - "mido-ocean-star-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f2e35987-1f79-4c43-2003-84504b48e700/public"
 ---
-
 Comparing the Hamilton Khaki Navy Scuba (Ref: H82505140) to the Mido Ocean Star 200 (Ref: M026.430.11.041.00) is a classic "sibling rivalry." Both brands belong to the Swatch Group, and both watches offer incredible Swiss-made value for around $1,000.
 
 However, while they share a similar price bracket and "blue-dial diver" category, they represent two very different philosophies: Hamilton is the rugged, military-spec tool watch, while Mido is the refined, architecture-inspired daily driver.
@@ -51,7 +51,7 @@ The Hamilton H82505140 is a masterclass in dial symmetry. By removing the date w
 
 The solid dark blue dial color of the Mido Ocean Star 200 is unique in a sense, as it looks matte at first, however, after closer inspection, you can see the subtle textures in a vertical direction, mimicking the brushed stainless steel look and feel. The hour indices all use rectangular shapes, one square for the 3 and 9 o’clock positions, and two squares for the 6 and 12 o’clock positions to provide great visibility. The hour and minute hands have similar designs, and the spear second hand with an orange tip gives an exciting dynamism to the watch. The day and date windows are located at the classic 3 o’clock position, and having a day window is an excellent addition to the otherwise simple dial.
 
-![Hamilton Khaki Navy Scuba dial](https://www.thewatchresource.com/wp-content/uploads/2026/03/h82505140_detail2_lowresweb-1024x1024.avif) ![M026.430.11.041.00 dial](https://www.thewatchresource.com/wp-content/uploads/2024/08/M026.430.11.041.00_7_pr_1-1024x1024.avif)
+![Hamilton Khaki Navy Scuba dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/9bdbd66e-8f31-46f7-75fd-f2fd89737100/public) ![M026.430.11.041.00 dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/74fb8260-6964-4ca1-c92a-5f1518de7a00/public)
 
 ## Bezel
 
@@ -98,7 +98,7 @@ The Mido Ocean Star 200 features a push-button micro-adjustment in the clasp. Th
 
 The Hamilton bracelet is high quality and fully brushed (excellent for hiding scratches), but it relies on traditional pin-and-collar adjustments. It is solid, but it lacks the "on-the-fly" luxury feel of the Mido.
 
-![H82505140 wrist shot](https://www.thewatchresource.com/wp-content/uploads/2024/07/h82505140_wristshot-1024x1024.avif) ![M026.430.11.041.00\_6\_wrist](https://www.thewatchresource.com/wp-content/uploads/2024/08/M026.430.11.041.00_6_wrist_1-1024x1024.avif)
+![H82505140 wrist shot](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b768450e-d947-4473-94d8-b5deec28f800/public) ![M026.430.11.041.00\_6\_wrist](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/99b2c8a9-01e5-426d-cd56-43a14652b900/public)
 
 ## Final Thoughts: Tool or Companion?
 

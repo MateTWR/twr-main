@@ -1,11 +1,11 @@
 ---
 title: "VAER R1 Racing Chronograph Review"
+description: "We are always on the lookout for exciting new finds that are unique at great price points, and it is our mission to shine some well-deserved spotlight on…"
 date: 2023-05-22
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f06731a0-2a80-4787-328b-15ccf387f000/public"
 ---
-
 We are always on the lookout for exciting new finds that are unique at great price points, and it is our mission to shine some well-deserved spotlight on these excellent timepieces. If you’re familiar with VAER, you might think of their high quality and affordable field and dive watches. However, in this article we are discussing the new and super-exciting VAER R1 Racing Chronograph, definitely worthy of a closer inspection. Let’s take a look!
 
 [![VAER R1 Racing Chrono-38](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-VAER-R1-Racing-Chrono-38-q6uj34v8ffsu1erpgigtyrm0rn0e45pa6obte46iss.webp/public "VAER R1 Racing Chrono-38")](https://vaer-watches.sjv.io/MmQAAM)

@@ -1,11 +1,11 @@
 ---
 title: "VAER D5 Meridian Navy Diver Review"
+description: "When we decide to review a watch, we look at a number of different aspects: the overall look and feel of the watch, the details of the design…"
 date: 2023-05-04
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/78d352a7-cdcd-48b4-1112-aef2a68ec600/public"
 ---
-
 When we decide to review a watch, we look at a number of different aspects: the overall look and feel of the watch, the details of the design, functionality, and overall value. We’re always looking for unique finds: watches possessing an ineffable quality that simply stand out. The VAER D5 Meridian Navy is one of these finds. Let’s take a closer look.
 
 [![Vaer D5 Meridian Navy](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Vaer-D5-Meridian-Navy-q3szyip4yfdhfabywffm3xpmfn2qbf1wd5oxfu1md0.webp/public "Vaer D5 Meridian Navy")](https://vaer-watches.sjv.io/daaZyM)

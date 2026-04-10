@@ -1,5 +1,6 @@
 ---
 title: "One-Watch Collection Under $5,000"
+description: "Objectively speaking, $5,000 is serious money spent on a watch, and pieces in this price range should be of the utmost quality, as well as visual works of…"
 date: 2022-06-06
 categories: 
   - "5000"
@@ -7,7 +8,6 @@ categories:
   - "one-watch-collection"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1436f217-0a43-48f6-7f97-6eafad47b000/public"
 ---
-
 Objectively speaking, $5,000 is serious money spent on a watch, and pieces in this price range should be of the utmost quality, as well as visual works of art. This category boasts a wide variety of high-performers, so we set out to find the all-around perfect options without any compromise when it comes to quality. In order to avoid creating a too overwhelming list, we are featuring watches based on the following requirements:
 
 - High-end brands.

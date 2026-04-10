@@ -1,11 +1,11 @@
 ---
 title: "Doxa Watches Brand Review: History and Buyer’s Guide"
+description: "Founded in 1889 by Georges Ducommun in Le Locle, Switzerland, Doxa quickly established itself as a maker of high-quality timepieces, mainly with dress…"
 date: 2024-01-03
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/52dac796-c128-45ee-1526-40d4cb713800/public"
 ---
-
 ## The History of Doxa Watches
 
 Founded in 1889 by Georges Ducommun in Le Locle, Switzerland, Doxa quickly established itself as a maker of high-quality timepieces, mainly with dress watches at first.

@@ -1,12 +1,12 @@
 ---
 title: "Best Dress Watches Under $1,000"
+description: "In our search to find the best dress watch under $1,000, we found some classics with elegant and powerful design, and great quality.   The $1,000 price…"
 date: 2025-06-01
 categories: 
   - "1000"
   - "dress-watches"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/d56760c9-9534-4f86-ccd9-ec2ea3884100/public"
 ---
-
 In our search to find the best dress watch under $1,000, we found some classics with elegant and powerful design, and great quality.  
 The $1,000 price point provides some interesting features with all watches, but we're looking at dress watches here, therefore we eliminated watches with "unnecessary" complications as we want to keep our dress watches simple and elegant. The selected timepieces will usually have automatic movements, sleek design, and excellent quality.  
 In no particular order, may we present our winners!

@@ -1,12 +1,12 @@
 ---
 title: "Best American Watch Brands"
+description: "Since the 1940s, when renowned US watchmakers were obliged to convert their facilities to wartime manufacturing because their businesses were already in…"
 date: 2023-07-30
 categories: 
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/bed43a3e-b8d7-407c-ee8c-5f8565027600/public"
 
 ---
-
 Since the 1940s, when renowned US watchmakers were obliged to convert their facilities to wartime manufacturing because their businesses were already in decline, watchmaking in America has been dormant. Due to Switzerland's success as a neutral nation during World War II, American watch brands never recovered.
 
 Finally, in the past decade or so, the watch landscape in the United States started on a journey of rapid evolution after a period of relative dormancy. That said, American watchmaking is facing its own set of challenges; the industry is tightly regulated, and as it happens, American watchmakers are facing some of the strictest regulations regarding the manufacturing process. 

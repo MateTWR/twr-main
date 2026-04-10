@@ -1,11 +1,11 @@
 ---
 title: "MAEN Manhattan 37 M2 “Grey Ice” Hands-On Review"
+description: "Maen is a young independent watch brand with a vision of blending vintage inspiration with modern execution. Founded in 2017 by two Dutch watch…"
 date: 2025-08-19
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/3340552e-178f-4def-e75f-33ffb66d5000/public"
 ---
-
 ## Maen: The Brand
 
 Maen is a young independent watch brand with a vision of blending vintage inspiration with modern execution. Founded in 2017 by two Dutch watch enthusiasts, the company (now based in Stockholm) focuses on quality materials, and delivering great value watches. In fact, the name MAEN is the old Dutch word for “moon,” symbolizing the passage of time. Maen’s design philosophy is all about capturing the charm of the past, then blending it with modern technology.

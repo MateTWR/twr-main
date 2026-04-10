@@ -1,11 +1,11 @@
 ---
 title: "Sinn 104 St Sa | W (104.012) In-Depth Review"
+description: "Sinn is a German watchmaker established in 1961 by pilot and flight instructor Helmut Sinn, and it has since become arguably one of the most renowned tool…"
 date: 2025-07-17
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/1be26238-32f4-4a8c-b403-106f9e125400/public"
 ---
-
 ## Sinn: The Brand
 
 Sinn is a German watchmaker established in 1961 by pilot and flight instructor Helmut Sinn, and it has since become arguably one of the most renowned tool watch manufacturers in the industry. The company definitely has a cult following thanks to its relentlessly over-engineered designs. Sinn watches often have unique technical innovations to survive adverse conditions.

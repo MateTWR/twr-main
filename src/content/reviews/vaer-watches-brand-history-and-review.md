@@ -1,11 +1,11 @@
 ---
 title: "VAER Watches: Brand History and Review"
+description: "VAER was founded in Venice, California in 2016 by Ryan Torres and Reagan Cook. Their aim was to create affordable watches that are perfect as everyday…"
 date: 2023-04-24
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/c2ab5e44-8e6c-46b6-005f-ed130aee4900/public"
 ---
-
 ## The History of VAER
 
 VAER was founded in Venice, California in 2016 by Ryan Torres and Reagan Cook. Their aim was to create affordable watches that are perfect as everyday go-to timepieces due to their durability. Admittedly, the founders knew they were signing up for an uphill battle. 2016 was the height of fast fashion, a world dominated by lightning-speed trends driven by digital connectivity. Nevertheless, the idea was born and a growing sense of possibility pervaded. They knew there was still a place for well-made analog watches, and there always will be. We could not agree more!

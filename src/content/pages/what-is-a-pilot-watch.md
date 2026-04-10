@@ -1,10 +1,10 @@
 ---
 title: "What is a Pilot Watch?"
+description: "Because there are no clear, agreed-upon features that define a ‘pilot watch’, each brand has their own vision and approach in what a pilot watch looks…"
 date: 2022-09-29
 categories: 
   - "pilot-watches"
 ---
-
 Because there are no clear, agreed-upon features that define a ‘pilot watch’, each brand has their own vision and approach in what a pilot watch looks like. This makes for substantial creative freedom, which shows up in the different design elements that make each watch unique. That said, there are certain key elements that are common across the board, given that this watch has a specific function: it was born out of a necessity for a watch that tells time at a glance and is easily operable with pilot gloves on. Therefore, a tell-tale sign of a pilot watch is most notably the case size, usually bigger (back in the early 20th century, usually the case sizes were around 55 mm) supporting sharp legibility. Secondly and just as important, the crown is also bigger in size (usually diamond or onion-shaped) for easy grip with gloves on. Additionally, it is very typical to see big Arabic numerals and an “Orientation Triangle” at 12 o’clock position – these all help in making the dial easy to read.
 
 ## History of Pilot Watches

@@ -1,5 +1,6 @@
 ---
 title: "Hamilton Khaki Navy Scuba vs. Tissot Seastar 1000: Which $1,000 Diver Wins?"
+description: "When you have $1,000 to spend on a Swiss diver, two names inevitably rise to the top: the Hamilton Khaki Navy Scuba and the Tissot Seastar 1000.  Both…"
 date: 2026-03-10
 categories: 
   - "comparison"
@@ -8,7 +9,6 @@ tags:
   - "tissot-seastar-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f9d5d1e5-4421-4160-a18b-1462968f1400/public"
 ---
-
 When you have [$1,000 to spend on a Swiss diver](https://www.thewatchresource.com/best-dive-watches-under-1000/), two names inevitably rise to the top: the Hamilton Khaki Navy Scuba and the Tissot Seastar 1000. 
 Both brands sit under the Swatch Group umbrella, both offer 80 hours of power reserve, and both share a 43mm footprint. However, on the wrist, these two watches couldn't feel more different. One is a rugged tool watch that feels like it belongs on a military vessel; the other is a "desk diver" with a polished, luxury-adjacent aesthetic.
 
@@ -46,7 +46,7 @@ The Hamilton dial is busy in the best way possible. It features a gradient blue 
 
 Tissot goes for a cleaner, "luxe" look. By removing the military scale, the dial feels more spacious. The date window is moved to the 6 o'clock position, providing a symmetrical balance that the Hamilton lacks. The circular hour markers are larger and bolder, giving it a look reminiscent of the Rolex Submariner or Omega Seamaster.
 
-![Hamilton Khaki Navy Scuba dial](https://www.thewatchresource.com/wp-content/uploads/2026/03/h82505140_detail2_lowresweb-300x300.avif) ![Tissot Seastar 1000 dial closeup](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-Tis-Adv-Seastar40Auto-Close_Up_Cadran-1-300x277.webp/public)
+![Hamilton Khaki Navy Scuba dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/9bdbd66e-8f31-46f7-75fd-f2fd89737100/public) ![Tissot Seastar 1000 dial closeup](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-Tis-Adv-Seastar40Auto-Close_Up_Cadran-1-300x277.webp/public)
 
 ## Bezel & Ergonomics: Which One Can You Actually Grip?
 
@@ -60,7 +60,7 @@ The Hamilton opts for a more refined, smaller-toothed bezel. While it looks more
 
 The Tissot uses a bold, blocky font on the bezel and deep "teeth" on the edge. This splits the visual focus between the dial and the bezel, and the bezel itself is incredibly easy to grip and turn, even if your hands are wet. Otherwise, the Tissot Seastar’s bezel is very similar to the Hamilton Khaki Navy Scuba: uni-directional count-up ceramic bezel, with a 60-minute scale engraved.
 
-![Hamilton Khaki Navy Scuba bezel closeup](https://www.thewatchresource.com/wp-content/uploads/2026/03/h82505140_detail1_lowresweb-300x300.avif) ![Tissot Seastar 1000 bezel closeup](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-Tis-Adv-Seastar40Auto-Close_Up_Couronne-1-270x300.webp/public)
+![Hamilton Khaki Navy Scuba bezel closeup](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e0df7719-ead8-4108-f2f0-f0d8abc21e00/public) ![Tissot Seastar 1000 bezel closeup](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-Tis-Adv-Seastar40Auto-Close_Up_Couronne-1-270x300.webp/public)
 
 ## Case & Wrist Presence: The "Feel" Factor
 

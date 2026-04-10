@@ -1,11 +1,11 @@
 ---
 title: "Spinnaker Watches Review: Everything You Need To Know"
+description: "Spinnaker is a brand born out of a man’s love for adventure, the blue seas, diving, and chasing the horizon across the endless waves. The name itself– …"
 date: 2023-08-04
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/73f836b3-0ef9-4266-74d9-1a9145f0e500/public"
 ---
-
 ## About Spinnaker Watches
 
 Spinnaker is a brand born out of a man’s love for adventure, the blue seas, diving, and chasing the horizon across the endless waves. The name itself–  ‘spinnaker’– comes from a specific type of sail on a racing boat. Designed to sportsman perfection, Spinnaker took inspiration from many ultra-high end diving watchmakers and finished it off with their own unique spin, resulting in a recognizable yet timeless, elegant look.

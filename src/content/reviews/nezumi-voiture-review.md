@@ -1,11 +1,11 @@
 ---
 title: "Nezumi Voiture Review: Vintage Inspired Chronograph with a Refreshingly Modern Touch"
+description: "Nezumi's debut watch design, the Voiture (which means 'car' in French), draws inspiration from vintage chronographs of the 1960s and 1970s, renowned for…"
 date: 2023-03-13
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/88fc8e19-3906-49ac-e75a-7600292a2500/public"
 ---
-
 Nezumi's debut watch design, the Voiture (which means "car" in French), draws inspiration from vintage chronographs of the 1960s and 1970s, renowned for their classic and exotic flair. Equipped with Seiko's VK63 meca-quartz movement, it stands out from regular quartz movements by incorporating a mechanical module for its chronograph function. Quality craftsmanship coupled with a refreshingly unique aesthetic—has our attention every time. Let’s dive in.
 
 ![Nezumi-Voiture-VQ3-blue](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2023-03-Nezumi-Voiture-VQ3-blue.png/public)

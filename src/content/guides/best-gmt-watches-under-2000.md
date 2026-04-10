@@ -1,12 +1,12 @@
 ---
 title: "Best GMT Watches Under $2,000"
+description: "A well selected GMT watch belongs in every gentleman’s collection, as it is most certainly a classic, timeless piece. GMT watches are suitable for a…"
 date: 2024-05-25
 categories: 
   - "2000"
   - "gmt"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e2ddd5ae-82cd-4825-0392-66ff62563900/public"
 ---
-
 A well selected GMT watch belongs in every gentleman’s collection, as it is most certainly a classic, timeless piece. GMT watches are suitable for a variety of events and activities, and therefore serve as the ideal wristwatch and travel companion for the modern explorer and international businessman. 
 
 Selecting the perfect GMT watch under $2,000 is an exciting undertaking, as it is a substantial budget providing access to a wide array of options. 

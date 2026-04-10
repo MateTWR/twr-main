@@ -1,11 +1,11 @@
 ---
 title: "Breitling Navitimer Alternatives"
+description: "For nearly 60 years, the Breitling Navitimer has been the classic aviation watch, and it's the watch that most people think of when they hear 'pilot's…"
 date: 2024-11-10
 categories: 
   - "alternatives"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/49b1db86-edbc-4b5d-1b12-6b3d31333600/public"
 ---
-
 For nearly 60 years, the Breitling Navitimer has been the classic aviation watch, and it's the watch that most people think of when they hear "pilot's chronograph." This watch is instantly identifiable and one of the most famous timepieces of all time – due to its captivatingly busy display with subdials and scales. As you know, the Breitling Navitimer plays an important role in the history of pilot watches, but maybe more importantly, this timepiece makes you feel like you're ready to take the controls of a fighter plane.
 
 The Breitling Navitimer can be a big purchase. There are, however, budget friendlier options if you don't want to pay such a large sum yet still want the style.

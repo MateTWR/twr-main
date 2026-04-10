@@ -1,11 +1,11 @@
 ---
 title: "Victorinox FieldForce Collection Review"
+description: "The FieldForce Collection, which combines classic design with a gear-shifting display technology, is a unique force. Bold, unmistakable numbers and…"
 date: 2022-08-28
 categories: 
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/5352ef60-79cd-4f98-7e84-a8080a8c1400/public"
 ---
-
 ## Victorinox FieldForce Collection
 
 ![Victorinox FieldForce collection](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-WAT_241931_B_1-e1656639659689-pr3pl8fqnykascneheo0p47x6jhv4631lwg7m3vw4w.jpg/public "Victorinox FieldForce collection")

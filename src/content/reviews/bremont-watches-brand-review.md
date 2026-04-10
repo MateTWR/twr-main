@@ -1,11 +1,11 @@
 ---
 title: "Bremont Watches: Brand Review"
+description: "The origin of a brand, more specifically the country the timepieces are manufactured and assembled in, is always a focal topic when discussing watches…"
 date: 2024-07-18
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/92c9299b-46cd-4eac-0b74-835652f18500/public"
 ---
-
 The origin of a brand, more specifically the country the timepieces are manufactured and assembled in, is always a focal topic when discussing watches. Swiss watch brands are always highly sought after, Japanese brands became very popular around the 1970s, and of course several German watch brands are widely recognized as well.
 
 When it comes to Britain, we know Rolex was a British company originally, but we might have trouble naming other well-established British watch brands that are producing excellent quality timepieces.

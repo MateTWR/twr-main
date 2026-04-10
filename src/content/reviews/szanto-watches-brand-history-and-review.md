@@ -1,11 +1,11 @@
 ---
 title: "Szanto Watches: Brand History and Review"
+description: "Szanto is a relatively new watch company based in California. It was launched in 2013 under the umbrella company Time Concepts. The man behind Time…"
 date: 2023-11-25
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/fedc694d-a1ec-4b96-1bb3-075096364e00/public"
 ---
-
 ## The History of Szanto Watches
 
 Szanto is a relatively new watch company based in California. It was launched in 2013 under the umbrella company Time Concepts. The man behind Time Concepts is Barry Cohen, who created Luminox back in 1989 with the goal to bring the self illuminating watch technology to life. 

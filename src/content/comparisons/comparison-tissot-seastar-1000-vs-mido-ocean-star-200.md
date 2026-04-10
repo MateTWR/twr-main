@@ -1,5 +1,6 @@
 ---
 title: "Tissot Seastar 1000 vs. Mido Ocean Star 200: Which $1,000 Swiss Diver Wins?"
+description: "In the world of Swiss-made dive watches, the sub-$1,000 category is where the real competition lives. Two of the most frequently compared heavyweights are…"
 date: 2026-03-19
 categories: 
   - "comparison"
@@ -8,7 +9,6 @@ tags:
   - "tissot-seastar-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/299dd12c-512a-4019-860d-3fdf06c4e600/public"
 ---
-
 In the world of Swiss-made dive watches, the sub-$1,000 category is where the real competition lives. Two of the most frequently compared heavyweights are the Tissot Seastar 1000 (Ref. T120.407.11.041.03) and the Mido Ocean Star 200 (Ref. M026.430.11.041.00).
 
 Both brands belong to the Swatch Group, and both watches offer an incredible amount of "watch" for the money. However, they are designed for two different types of collectors. One is a bold, modern, and aggressive tool watch; the other is a refined, slim, and architecturally-inspired daily wearer.
@@ -50,7 +50,7 @@ The Seastar 1000 features a stunning gradient dial—often called a "fumé" dial
 
 Mido takes a more refined, symmetrical approach. The dial is inspired by the Europa Point Lighthouse in Gibraltar. The hour markers are rectangular and clean, with double-dots at 12 and 6 for orientation. Unlike the Tissot, the Mido includes both the Day and the Date. While some purists prefer the cleaner look of a date-only window, the Day-Date adds massive utility for a daily wearer. The skeletonized hands on the Mido also give it a lighter, more sophisticated feel compared to the "broad-sword" hands of the Tissot.
 
-![Tissot Seastar 1000 dial closeup](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-Tis-Adv-Seastar40Auto-Close_Up_Cadran-1-300x277.webp/public) ![M026.430.11.041.00 dial](https://www.thewatchresource.com/wp-content/uploads/2024/08/M026.430.11.041.00_7_pr_1-300x300.avif)
+![Tissot Seastar 1000 dial closeup](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2026-03-Tis-Adv-Seastar40Auto-Close_Up_Cadran-1-300x277.webp/public) ![M026.430.11.041.00 dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/74fb8260-6964-4ca1-c92a-5f1518de7a00/public)
 
 ## Bezel Material: Ceramic vs. Aluminum
 

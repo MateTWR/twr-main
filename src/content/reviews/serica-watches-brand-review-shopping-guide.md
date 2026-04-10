@@ -1,11 +1,11 @@
 ---
 title: "Serica Watches: Brand Review & Buying Guide"
+description: "SERICA was established in 2019 with the straightforward goal of designing unique timepieces that are both robust and elegant. Watches we would be…"
 date: 2022-10-13
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/26117ac7-4a93-49d4-570d-814979ceaa00/public"
 ---
-
 ## The History of Serica
 
 SERICA was established in 2019 with the straightforward goal of designing unique timepieces that are both robust and elegant. Watches we would be comfortable wearing wherever life takes us. As founder Jérome Burgert said, they “found it increasingly difficult to find a proper daily mechanical watch”. Serica watches are on a mission to embody timepieces that stand the test of time both in its design and performance. “A watch that could travel to the edge of the world if needed.”

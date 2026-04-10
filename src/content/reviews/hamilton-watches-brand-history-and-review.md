@@ -1,11 +1,11 @@
 ---
 title: "Hamilton Watches: Brand History and Review"
+description: "Founded in Lancaster, Pennsylvania in 1892, Hamilton has been at the forefront of groundbreaking developments ever since. In the early days of American…"
 date: 2022-10-10
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/4684dc01-e82c-4c52-2e78-cd50f64c0c00/public"
 ---
-
 ## The History of Hamilton Watches
 
 Founded in Lancaster, Pennsylvania in 1892, Hamilton has been at the forefront of groundbreaking developments ever since. In the early days of American railroads, Hamilton pocket watches were used for accurate timing to avoid rail accidents. This earned them the distinguished title of “The Watch of Railroad Accuracy”. 

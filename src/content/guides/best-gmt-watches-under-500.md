@@ -1,12 +1,12 @@
 ---
 title: "Best GMT Watches Under $500"
+description: "GMT watches are popular timepieces as the GMT function is very practical for people who travel a lot or work where syncing different time zones is…"
 date: 2024-05-18
 categories: 
   - "500"
   - "gmt"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b0943107-d105-4dc7-4f02-101d33e91000/public"
 ---
-
 GMT watches are popular timepieces as the GMT function is very practical for people who travel a lot or work where syncing different time zones is essential.This movement complication is also more sophisticated than a straightforward time-telling watch, and usually these watches are a bit more expensive. However, the market is evolving and as always, we’re here to dig up some excellent GMT watches under $500 - including some with automatic movements. 
 
 Let us present (in our humble opinion) the best GMT watches under $500!

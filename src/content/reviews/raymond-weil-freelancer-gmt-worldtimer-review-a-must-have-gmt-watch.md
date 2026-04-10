@@ -1,11 +1,11 @@
 ---
 title: "Raymond Weil Freelancer GMT Worldtimer Review: A Must Have GMT Watch"
+description: "We’re always on the hunt to find unique watches that deserve some additional attention and spotlight. Raymond Weil has been on a lot of people’s radar for…"
 date: 2023-02-27
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/86c4d9aa-ab9f-403a-28f7-89ea21508200/public"
 ---
-
 We’re always on the hunt to find unique watches that deserve some additional attention and spotlight. Raymond Weil has been on a lot of people’s radar for a long time now (rightly so), and they have added truly breathtaking watches to their already most popular collection, the Freelancer.
 
 The new timepiece that grabbed our attention this time was the Freelancer GMT Worldtimer’s green version. Let’s see what we have!

@@ -1,10 +1,10 @@
 ---
 title: "Basic Things You Need to Know About Watches"
+description: "When you first start learning about watches, information fatigue quickly sets in and you feel exhausted just trying to understand basics such as watch…"
 date: 2021-10-13
 categories: 
   - "guide"
 ---
-
 When you first start learning about watches, information fatigue quickly sets in and you feel exhausted just trying to understand basics such as watch movements and all the new terminology that comes with the territory. Our mission here at the Watch Resource is to help with just that. Take a look at our organized guide in which  we present all the basics in a digestible way, guiding you through the journey into the world of watches.
 
 ## Watch Movements

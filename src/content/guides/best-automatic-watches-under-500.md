@@ -1,12 +1,12 @@
 ---
 title: "Best Automatic Watches Under $500"
+description: "Collecting watches is an expensive hobby. No matter your tax bracket, watches in general are (rightfully) considered to be functional pieces of art, and…"
 date: 2024-05-31
 categories: 
   - "500"
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/507b3751-2179-43c2-edfe-740fabd0c200/public"
 ---
-
 ## The Best Automatic Watches Under $500
 
 Collecting watches is an expensive hobby. No matter your tax bracket, watches in general are (rightfully) considered to be functional pieces of art, and good art is, well…expensive.
@@ -87,7 +87,7 @@ This one is for all the watch lovers who are fascinated by movements, because th
 
 ### Tissot Seastar 1000​
 
-[![Tissot Seastar 1000​](https://www.thewatchresource.com/wp-content/uploads/2022/11/Tissot-Seastar-1000​-Green-300x300.webp)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-seastar-watch-t120-407-11-091-00.html)
+[![Tissot Seastar 1000​](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/3325ab7a-5748-483a-b46a-f46aac6b2300/public)](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Ftissot-seastar-watch-t120-407-11-091-00.html)
 
 **Specs:** 
 

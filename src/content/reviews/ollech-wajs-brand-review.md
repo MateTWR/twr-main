@@ -1,11 +1,11 @@
 ---
 title: "Ollech & Wajs Brand Review"
+description: "In the realm of horology, certain names resonate with a legacy of craftsmanship, precision, and enduring design. Ollech & Wajs, a Swiss watch brand…"
 date: 2024-04-06
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a396c7a4-6b1b-4602-6502-26f7e71b5500/public"
 ---
-
 In the realm of horology, certain names resonate with a legacy of craftsmanship, precision, and enduring design. Ollech & Wajs, a Swiss watch brand, stands out as a beacon of such qualities, marrying the rich tradition of Swiss watchmaking with the innovation of modern design. This article delves into the history of Ollech & Wajs, exploring its unique aspects, watch designs, and movements that set it apart in the world of timepieces.
 
 ## The History of Ollech & Wajs

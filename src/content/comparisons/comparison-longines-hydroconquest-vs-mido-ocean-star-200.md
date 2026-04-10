@@ -1,5 +1,6 @@
 ---
 title: "Longines HydroConquest vs. Mido Ocean Star 200: Is \"Mid-Tier Luxury\" Worth the Extra Spend?"
+description: "When you graduate from entry-level Seiko or Orient divers and look toward Switzerland, two names consistently dominate the conversation: Longines and Mido."
 date: 2026-03-17
 categories: 
   - "comparison"
@@ -8,7 +9,6 @@ tags:
   - "mido-ocean-star-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/62cf568f-7915-40ba-de27-98b5173e8b00/public"
 ---
-
 When you graduate from entry-level Seiko or Orient divers and look toward Switzerland, two names consistently dominate the conversation: Longines and Mido.
 
 The Longines HydroConquest (Ref. L3.782.4.96.6) is a global powerhouse—a watch that signals "I've arrived" without the five-figure price tag of a Rolex. Meanwhile, the Mido Ocean Star 200 (Ref. M026.430.11.041.00) is the "enthusiast’s secret," offering finishing and features that punching way above its $1,000 weight class.
@@ -52,7 +52,7 @@ The HydroConquest (L3.782.4.96.6) features a sunray blue dial that is incredibly
 
 The Ocean Star 200 takes its design cues from the Europa Point Lighthouse in Gibraltar. The rectangular indices are meant to evoke the lighthouse's structure, and the dial has a more matte, tool-like finish compared to the Longines. Unlike the Longines, Mido includes both the Day and the Date. While some purists find this cluttered, for a daily office watch, the Day-Date is incredibly practical. The "lollipop" second hand with its orange tip adds a subtle maritime flair that separates it from standard "Submariner clones."
 
-![L3.782.4.96.6 dial closeup](https://www.thewatchresource.com/wp-content/uploads/2024/07/L3.782.4.96.6-dial-closeup-300x300.avif) ![M026.430.11.041.00 dial](https://www.thewatchresource.com/wp-content/uploads/2024/08/M026.430.11.041.00_7_pr_1-1024x1024.avif)
+![L3.782.4.96.6 dial closeup](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b86fdf3f-ac4b-4e03-5ddd-257912de5a00/public) ![M026.430.11.041.00 dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/74fb8260-6964-4ca1-c92a-5f1518de7a00/public)
 
 ## Bezel Durability: Ceramic vs. Aluminum
 
@@ -98,7 +98,7 @@ Longines was founded in 1832 and is one of the most respected names in Swiss hor
 
 Mido, while equally historic (founded in 1918), has less brand recognition compared to Longines. Mido is for the person who wants to know they have a high-quality machine on their wrist but doesn't feel the need to broadcast it to the room.
 
-![L3.782.4.96.6 wrist shot](https://www.thewatchresource.com/wp-content/uploads/2024/07/L3.782.4.96.6-wrist-shot-240x300.avif) ![M026.430.11.041.00\_6\_wrist](https://www.thewatchresource.com/wp-content/uploads/2024/08/M026.430.11.041.00_6_wrist_1-300x300.avif)
+![L3.782.4.96.6 wrist shot](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/250eccca-cc22-4560-095b-4fd354429700/public) ![M026.430.11.041.00\_6\_wrist](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/99b2c8a9-01e5-426d-cd56-43a14652b900/public)
 
 ## Final Summary
 

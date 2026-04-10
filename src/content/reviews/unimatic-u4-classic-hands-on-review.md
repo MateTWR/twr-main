@@ -1,11 +1,11 @@
 ---
 title: "Unimatic U4 Classic - UC4 Hands-On Review"
+description: "Unimatic is a contemporary Italian watch brand founded in 2015 by industrial designers Simone Nunziato and Giovanni Moro. Their timepieces reflect a blend…"
 date: 2025-05-27
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/402aee22-5dd8-4d1a-2ed3-38ad41909600/public"
 ---
-
 ## Unimatic: The Brand
 
 Unimatic is a contemporary Italian watch brand founded in 2015 by industrial designers Simone Nunziato and Giovanni Moro. Their timepieces reflect a blend of minimalist aesthetics and rugged functionality, with a focus on durability and quality that makes them true tool watches.

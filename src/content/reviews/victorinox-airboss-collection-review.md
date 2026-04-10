@@ -1,11 +1,11 @@
 ---
 title: "Victorinox Airboss Collection Review"
+description: "Victorinox developed the Airboss Mechanical Collection with dependability and accuracy in mind. The design of the watches was inspired by the real Air…"
 date: 2022-08-24
 categories: 
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/28a5c18e-8631-47d0-ed95-fdc57649f500/public"
 ---
-
 ## Victorinox Airboss Collection
 
 ![Victorinox Airboss automatic movement](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-06-25-at-11.24.43-AM-pqu9ggo0noe7uuv3cjcrb1j92keyxn6vfwrdxjbwc0.png/public "Victorinox Airboss automatic movement")

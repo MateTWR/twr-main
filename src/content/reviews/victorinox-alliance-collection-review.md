@@ -1,11 +1,11 @@
 ---
 title: "Victorinox Alliance Collection Review"
+description: "The Victorinox watches in the Alliance collection are subtle yet powerful. At first, it goes unnoticed and never screams for attention. However, a closer…"
 date: 2022-08-21
 categories: 
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/28a5c18e-8631-47d0-ed95-fdc57649f500/public"
 ---
-
 ## Victorinox Alliance Collection
 
 ![Victorinox Alliance Collection](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-WAT_241823_B1-min-scaled-pqr47qvbfbodqwisicrd3sd2l616sawpm1b2ybx2sw.jpg/public "Victorinox Alliance Collection")

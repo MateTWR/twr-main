@@ -1,11 +1,11 @@
 ---
 title: "Best Dress Watches Under $500"
+description: "The criteria for what constitutes an excellent dress watch are less straightforward to establish than those for a pilot watch or a dive watch. But there…"
 date: 2024-05-13
 categories: 
   - "500"
   - "dress-watches"
 ---
-
 The criteria for what constitutes an excellent dress watch are less straightforward to establish than those for a pilot watch or a dive watch. But there are guidelines we can follow if we want to make sure we pick an excellent dress watch. Simple design of a dress watch is important as it should polish up your appearance instead of being conspicuous. Dress watches feature smaller bands and bracelets, and thinner cases so it can fit under your cuff. 
 
 We searched far and wide for the best dress watches the market has to offer, all under $500. We looked at the quality of the movement, design that will stand the test of time.

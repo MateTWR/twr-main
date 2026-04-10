@@ -1,11 +1,11 @@
 ---
 title: "BENRUS Watches: Brand History and Review"
+description: "Benjamin Lazrus started Benrus (BENjamin LazRUS) in 1921 in New York. At first, Benjamin Lazrus with his two brothers saved up $5,000 and started…"
 date: 2023-04-20
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/e7c02d80-fe1b-4884-c76f-7cc4df1c4b00/public"
 ---
-
 ## The History of BENRUS
 
 Benjamin Lazrus started Benrus (**BEN**jamin Laz**RUS**) in 1921 in New York. At first, Benjamin Lazrus with his two brothers saved up $5,000 and started importing Swiss watch movements to create cases for them in New York City. The headquarters were - and still are - in Manhattan’s Hippodrome building, located in what is known as the jewelry district.

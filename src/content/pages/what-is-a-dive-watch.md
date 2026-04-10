@@ -1,10 +1,10 @@
 ---
 title: "Everything You Need to Know About Dive Watches"
+description: "A dive watch (also known as diving or diver watch) is a watch designed for underwater diving (shockingly), that features water resistance greater than 10…"
 date: 2022-09-30
 categories: 
   - "dive-watches"
 ---
-
 A dive watch (also known as diving or diver watch) is a watch designed for underwater diving (shockingly), that features water resistance greater than 10 atm, the equivalent of 100 meters (330 ft) as a minimum. The typical diver's watch will have a water resistance of around 200 to 300 meters (660 to 980 ft), though modern technology allows the creation of diving watches that can go much deeper. Basically a Mer-man staple, this watch is designed to be your best friend under water. For a fuller frame of reference, let us \*dive\* into the history of watchmaking for a brief moment.
 
 ## History of Dive Watches

@@ -1,5 +1,6 @@
 ---
 title: "Hamilton Khaki Navy Scuba vs. Longines HydroConquest: Is the Step Up to Luxury Worth It?"
+description: "Choosing between the Hamilton Khaki Navy Scuba (Ref. H82505140) and the Longines HydroConquest (Ref. L3.782.4.96.6) is more than just a spec-sheet battle…"
 date: 2026-03-11
 categories: 
   - "comparison"
@@ -8,7 +9,6 @@ tags:
   - "longines-hydroconquest-comparison"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/cf747579-d993-489f-382c-ee66b7e90800/public"
 ---
-
 Choosing between the Hamilton Khaki Navy Scuba (Ref. H82505140) and the Longines HydroConquest (Ref. L3.782.4.96.6) is more than just a spec-sheet battle; it is a choice between two different tiers of Swiss watchmaking.
 
 Both watches come from the Swatch Group, ensuring a level of build quality and movement reliability that is hard to beat. However, while the Hamilton Khaki Navy Scuba is often celebrated as the king of the sub-$1,000 divers, the Longines HydroConquest enters the "entry-level luxury" territory, commanding a higher price for more refined finishes.
@@ -53,7 +53,7 @@ The sunray blue dial on the Longines gives an interesting depth to the watch. Th
 
 It’s interesting to point out that Longines decided to use a diamond hour hand design (which is somewhat similar to the snowflake hour hand, Tudor’s trademark option for their sports watches). Additionally, the pencil minute hand provides a lot of angles, counterbalancing the large Arab numerals curves. The lollipop second hand connects these elements.
 
-![Hamilton Khaki Navy Scuba dial](https://www.thewatchresource.com/wp-content/uploads/2026/03/h82505140_detail2_lowresweb-300x300.avif) ![](https://www.thewatchresource.com/wp-content/uploads/2024/07/L3.782.4.96.6-dial-closeup-300x300.avif)
+![Hamilton Khaki Navy Scuba dial](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/9bdbd66e-8f31-46f7-75fd-f2fd89737100/public) ![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b86fdf3f-ac4b-4e03-5ddd-257912de5a00/public)
 
 ## Bezel
 
@@ -100,7 +100,7 @@ In the world of horology, Longines sits a step above Hamilton in the brand hiera
   
 Hamilton, conversely, is the "insider's" choice. It’s the brand of Hollywood (featured in Interstellar and Tenet) and American military history. While it doesn't have the "luxury" tag of Longines, it has a "cool factor" that many enthusiasts prefer.
 
-![H82505140 wrist shot](https://www.thewatchresource.com/wp-content/uploads/2024/07/h82505140_wristshot-300x300.avif) ![](https://www.thewatchresource.com/wp-content/uploads/2024/07/L3.782.4.96.6-wrist-shot-240x300.avif)
+![H82505140 wrist shot](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/b768450e-d947-4473-94d8-b5deec28f800/public) ![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/250eccca-cc22-4560-095b-4fd354429700/public)
 
 ## Summary
 

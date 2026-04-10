@@ -1,11 +1,11 @@
 ---
 title: "Furlan Marri Watches: Brand Review"
+description: "Furlan Marri is a Swiss-based microbrand founded in 2021 by designer Andrea Furlan and collector Hamad Al Marri. The partnership uniquely bridges Swiss…"
 date: 2025-07-07
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/542cbf26-19be-498a-8308-7218332f5600/public"
 ---
-
 ## Brand History
 
 Furlan Marri is a Swiss-based microbrand founded in 2021 by designer Andrea Furlan and collector Hamad Al Marri. The partnership uniquely bridges Swiss design expertise and Middle Eastern collector passion, resulting in a brand devoted to vintage-inspired watchmaking with extreme attention to detail. Conceived during the late 2010s and officially launched via a Kickstarter campaign in 2021, Furlan Marri’s debut was nothing short of meteoric. The inaugural project – a 38mm mecha-quartz chronograph line – hit its funding goal (CHF 75,000) in under one minute and ultimately raised over CHF 1 million from 2,000+ backers, an overwhelming success that far exceeded expectations. This stunning launch laid the groundwork for Furlan Marri’s identity as a community-driven brand with a knack for capturing horological nostalgia.

@@ -1,12 +1,12 @@
 ---
 title: "Best Automatic Watches Under $1,000"
+description: "Buying an automatic watch is an exciting endeavor—it is an essential for most watch enthusiasts. There is undoubtedly something magical about the tiny…"
 date: 2023-05-30
 categories: 
   - "1000"
   - "watch-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/68890e50-eeba-4419-eadb-dea10c302900/public"
 ---
-
 Buying an automatic watch is an exciting endeavor—it is an essential for most watch enthusiasts. There is undoubtedly something magical about the tiny parts clicking-clacking together in perfect harmony, powering the watch seemingly forever. No wonder: automatic movement is where a watchmaking skill can really shine. It is a nod to tradition, and high-level skilled craftsmanship. 
 
 In this article, we collected the best watches on the market under $1000, an amount that is a rather comfortable budget for finding excellent quality pieces without sacrificing the design aspect. As far as style, the range is fabulously wide: from dive and pilot to vintage-inspired, and everything in between. Most importantly, we kept an eye out for timeless design and outstanding quality.

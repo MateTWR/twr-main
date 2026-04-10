@@ -1,11 +1,11 @@
 ---
 title: "Hamilton Khaki Aviation Collection Review"
+description: "Hamilton aviator watches are dependable and have a reputation for accuracy, thanks to the company’s illustrious history of servicing the aviation sector…"
 date: 2022-08-25
 categories: 
   - "collection-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ec5e5b17-c187-4eb6-b86f-3fe2c7009e00/public"
 ---
-
 ## Hamilton Khaki Aviation Collection
 
 ![Hamilton Khaki Aviation collection](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2022-01-9638-1024x331.jpeg/public)

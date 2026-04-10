@@ -6,7 +6,7 @@ import Layout from '../layouts/Layout.astro';
 const allReviews = await getCollection('reviews', ({ data }) => !data.draft && !!data.heroImage);
 const latestReviews = allReviews
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 5);
+  .slice(0, 6);
 
 // Handpicked featured articles
 const featuredArticlesRaw = await Promise.all([
@@ -137,8 +137,9 @@ const featuredAlternatives = featuredAlternativesRaw.filter((a): a is NonNullabl
 
   /* ── Intro ── */
   .intro {
-    max-width: 780px;
-    margin-bottom: 4rem;
+    max-width: 680px;
+    margin: 0 auto 4rem;
+    text-align: center;
   }
 
   .intro h1 {
@@ -162,10 +163,12 @@ const featuredAlternatives = featuredAlternativesRaw.filter((a): a is NonNullabl
   .section-header {
     display: flex;
     align-items: baseline;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 1.5rem;
     margin-bottom: 1.5rem;
     border-bottom: 2px solid #EBA541;
     padding-bottom: 0.6rem;
+    text-align: center;
   }
 
   .section-header h2 {

@@ -1,11 +1,11 @@
 ---
 title: "Review: Shinola Runwell 41 mm Green"
+description: "We don’t shy away from watches or brands with mixed views around them, and this is not the first time we feature a watch from a brand that created a…"
 date: 2023-10-04
 categories: 
   - "watch-review"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/68e3d0bd-e67c-4ef3-3f9f-c87d895d1f00/public"
 ---
-
 We don’t shy away from watches or brands with mixed views around them, and this is not the first time we feature a watch from a brand that created a divide within the watch community. In fact, we very much enjoy the challenge of digging beyond the surface and analyzing the arguments of both isles. Here’s our review of the Runwell 41 by Shinola, a brand some watch enthusiasts love to hate.
 
 ## Shinola: The Brand

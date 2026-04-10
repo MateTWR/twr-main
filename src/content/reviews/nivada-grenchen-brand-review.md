@@ -1,11 +1,11 @@
 ---
 title: "Nivada Grenchen Brand Review: A Successful Resurgence of a Historic Brand"
+description: "Nivada Grenchen has a rich history that dates back to the early 20th century, however, the brand made a comeback recently with some exciting reissues and…"
 date: 2024-05-18
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/c5a0564c-1249-4b35-c958-ed345fa8af00/public"
 ---
-
 Nivada Grenchen has a rich history that dates back to the early 20th century, however, the brand made a comeback recently with some exciting reissues and new designs. The timing of the revival of Nivada Grenchen was impeccable: we’re in 2018, and the popularity of vintage designs, smaller case sizes was on the rise when new owners Guillaume Laidet and Remi Chabrat purchases the licensing use of the Nivada Grenchen name, and its back-catalog of successful models no longer produced.
 
 Let’s take a deeper look at the fascinating journey of Nivada Grenchen, exploring its popular collections, and watch designs that contributed to the very successful comeback of the brand.

@@ -1,10 +1,10 @@
 ---
 title: "A Complete Guide to Watch Straps: Everything You Should Know"
+description: "Changing out the watch strap on your favorite timepiece can give it a whole new look in just minutes. With a little creativity, the options are endless…"
 date: 2021-10-22
 categories: 
   - "guide"
 ---
-
 Changing out the watch strap on your favorite timepiece can give it a whole new look in just minutes. With a little creativity, the options are endless. If you are looking to learn everything there is to know about changing the straps, how to choose the right one, and general material and design options, you came to the right place. We like to make things easy, so naturally we collected all the necessary information in one comprehensive guide for you. Let’s get to the changin’ of the straps!
 
 ## Basic terms for watch straps:

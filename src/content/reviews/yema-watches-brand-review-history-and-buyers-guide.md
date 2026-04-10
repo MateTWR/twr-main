@@ -1,11 +1,11 @@
 ---
 title: "Yema Watches Brand Review: History and Buyer’s Guide"
+description: "Yema is a French watch brand with a rich history dating back to 1948. Yema timepieces are available in a wide variety of designs as the brand designed…"
 date: 2023-12-24
 categories: 
   - "brand-reviews"
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/a4962a30-9d5e-4c6f-6be6-118162744300/public"
 ---
-
 ## The History of Yema Watches
 
 Yema is a French watch brand with a rich history dating back to 1948. Yema timepieces are available in a wide variety of designs as the brand designed watches for diving, auto racing, sailing, and even space exploration.
