@@ -45,14 +45,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
       href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap"
       rel="stylesheet"
     />
-    <!-- Google Analytics 4 -->
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-TF4DXGH4V0"></script>
-    <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-TF4DXGH4V0');
-    </script>
+    <!-- Google Tag Manager -->
+    <script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T859CMW');</script>
 
     <!-- HubSpot -->
     <script is:inline type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/39792346.js"></script>
@@ -61,6 +55,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     {schema && <script type="application/ld+json" set:html={schema} />}
   </head>
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T859CMW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
     <Header />
 
     <slot />
