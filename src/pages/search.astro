@@ -1,0 +1,52 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Search | The Watch Resource" description="Search all watch reviews, guides, and articles on The Watch Resource.">
+  <main class="search-page">
+    <h1>Search</h1>
+    <div id="search"></div>
+  </main>
+</Layout>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<script src="/pagefind/pagefind-ui.js" is:inline></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', function () {
+    new PagefindUI({ element: '#search', showSubResults: false });
+  });
+</script>
+
+<style>
+  .search-page {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+  }
+
+  .search-page h1 {
+    font-size: 2rem;
+    margin: 0 0 1.5rem;
+  }
+
+  :global(.pagefind-ui__search-input) {
+    font-family: inherit !important;
+  }
+
+  :global(.pagefind-ui__result-link) {
+    color: #101010 !important;
+    font-weight: 600 !important;
+  }
+
+  :global(.pagefind-ui__result-link:hover) {
+    color: #EBA541 !important;
+    text-decoration: underline !important;
+  }
+
+  :global(.pagefind-ui__button) {
+    background: #EBA541 !important;
+    color: #fff !important;
+    border: none !important;
+    font-family: inherit !important;
+  }
+</style>
