@@ -120,4 +120,3 @@ The Hamilton Intra-Matic Auto Chrono is an inspired reimagination of a 1968 sign
 Leather](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416541-intra-matic.html) [Check Price for  
 Stainless Steel](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416141-american-classic-intra-matic-auto-chrono.html)
 
-## Other Watch Reviews

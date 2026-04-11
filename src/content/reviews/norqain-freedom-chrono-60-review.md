@@ -142,4 +142,3 @@ Paying homage to vintage aesthetics, the Freedom watches showcase a design that 
 
 [Check Price](https://norqain.sjv.io/3eaPyK)
 
-## Other Watch Reviews

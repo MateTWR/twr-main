@@ -105,4 +105,3 @@ The Engineer Hydrocarbon Original is a very cool, remarkable quality dive watch.
 
 [Check Price](https://shop.ballwatch.ch/en/ball-watches/EH/DM2218B?model=DM2218B-P2CJ-GR)
 
-## Other Watch Reviews

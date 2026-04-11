@@ -147,4 +147,3 @@ In a world of increasingly homogenized watch designs, the Victorinox Air Pro Aut
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fen-US%2FProducts%2FWatches%2FMen%27s-Watches%2FAir-Pro-Automatic%2Fp%2F242003%2F)
 
-## Other Watch Reviews

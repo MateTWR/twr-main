@@ -163,4 +163,3 @@ If you like the overall design the the Tachymeter, but you're interested in othe
 
 [Check Price](https://www.awin1.com/cread.php?awinmid=19601&awinaffid=928721&ued=https%3A%2F%2Fwww.sternglas.com%2Fproducts%2Ftachymeter-edition-meteor)
 
-## Other Watch Reviews

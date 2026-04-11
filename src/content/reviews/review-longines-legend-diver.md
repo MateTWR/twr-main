@@ -120,4 +120,3 @@ With its distinctive character, the Longines Legend Diver is a statement piece t
 
 [Check Price](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-watch-l3-774-4-50-6.html)
 
-## Other Watch Reviews

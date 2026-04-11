@@ -121,4 +121,3 @@ An inspired reimagination of a design from the ‘60s / ‘70s, the Malouine is 
 
 #### Add Your Heading Text Here
 
-## Other Watch Reviews

@@ -102,4 +102,3 @@ That said, potential buyers should consider the wrist size and aesthetic: at 44.
 
 [Check Price](https://verowatch.pxf.io/WybXKA)
 
-## Other Watch Reviews

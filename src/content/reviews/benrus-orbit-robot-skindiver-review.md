@@ -124,4 +124,3 @@ The BENRUS Orbit Robot is a character of its own that delivers a modern yet time
 
 [Check Price](https://shareasale.com/r.cfm?b=1890134&u=2936025&m=118121&urllink=www%2Ebenrus%2Ecom%2Fproducts%2Forbit%2Drobot%2Dskindiver&afftrack=TheWatchResource)
 
-## Other Watch Reviews

@@ -127,4 +127,3 @@ The Sinn 104 St Sa I W is a triumph of balance: itâ€™s a tool watch that doesnâ€
 
 ### Written by
 
-## Other Watch Reviews

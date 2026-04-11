@@ -190,4 +190,3 @@ The Victorinox Journey 1884 is a stunning watch for everyday use as well as for 
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=43998&murl=https%3A%2F%2Fwww.victorinox.com%2Fus%2Fen%2FProducts%2FWatches%2FDiving-Watches%2FJourney-1884%2Fp%2F241978)
 
-## Other Watch Reviews

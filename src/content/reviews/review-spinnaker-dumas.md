@@ -119,4 +119,3 @@ The reliable NH35 automatic movement is provided by Seiko, and the 300 meters wa
 
 [Shop the Collection](https://solartimeltd.pxf.io/DyBL7b)
 
-## Other Watch Reviews

@@ -151,4 +151,3 @@ An inspired reimagination of a design from the ‘60s / ‘70s, the Rochelaise i
 
 [Check Price](https://leforbansecuritemer.com/en/la-rochelaise/)
 
-## Other Watch Reviews

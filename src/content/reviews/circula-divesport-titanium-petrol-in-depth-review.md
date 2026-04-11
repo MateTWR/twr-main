@@ -151,4 +151,3 @@ Of course, no watch is one-size-fits-all. The DiveSport Titanium Petrol won’t 
 
 Stepping back, I also appreciate what the DiveSport represents for Circula as a brand. It shows they can innovate and listen to the watch community, producing a piece that competes with bigger names. Cornelius Huber (the owner) and his team clearly sweat the details here, and it pays off. It offers something different in the sub-$1500 dive watch arena – a mix of German engineering and enthusiast-led design that’s hard to find elsewhere.
 
-## Other Watch Reviews

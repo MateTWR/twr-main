@@ -103,4 +103,3 @@ This is a watch with real character. It’s not loud or high-tech or trying to g
 
 ### Written by
 
-## Other Watch Reviews

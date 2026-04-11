@@ -100,4 +100,3 @@ The Teutonia Sport II has a strong character. Mühle-Glashütte accomplished som
 
 ### Written by
 
-## Other Watch Reviews

@@ -104,4 +104,3 @@ I can honestly say that DOXA has knocked it out of the park with this one. This 
 
 If you’re a dive watch enthusiast or someone who appreciates vintage-inspired, no-nonsense sports watches, the SUB 600T Caribbean is easy to love. It’s got heritage cred, built-like-a-tank construction, great lume, and a personality all its own. DOXA set out to pay tribute to an icon of their past while making it viable for today, and I believe they succeeded. The SUB 600T Caribbean delivers exactly what it promises: an eminently wearable dive watch with serious capability and a storied pedigree, at a fair price point. It’s a fitting homage to the original and a great option for anyone looking to add a distinctive dive watch to their collection.
 
-## Other Watch Reviews

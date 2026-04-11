@@ -103,4 +103,3 @@ If you’re looking for a versatile steel bracelet watch with a bit of retro fla
 
 ### Written by
 
-## Other Watch Reviews

@@ -113,4 +113,3 @@ An inspired reimagination of a dive watch, bringing the core features into a mod
 
 [Check Price](https://www.minus8watch.com/products/diver-2-0?variant=43208590393564)
 
-## Other Watch Reviews

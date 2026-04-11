@@ -116,4 +116,3 @@ The BENRUS Sea Lord is a beautiful vintage-inspired compressor-style dive watch 
 
 [Check Price](https://shrsl.com/49bc7)
 
-## Other Watch Reviews

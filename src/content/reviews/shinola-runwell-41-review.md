@@ -104,4 +104,3 @@ As we’ve mentioned, Shinola is a brand that some watch enthusiasts love to hat
 
 [Check Price](https://partners.shinola.com/y2EZdN)
 
-## Other Watch Reviews

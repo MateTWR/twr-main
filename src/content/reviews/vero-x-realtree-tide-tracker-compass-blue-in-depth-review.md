@@ -124,4 +124,3 @@ In summary, the Vero x Realtree Tide Tracker Compass Blue is far more than a nov
 
 [Check Price](https://verowatch.pxf.io/mOQQbq)
 
-## Other Watch Reviews

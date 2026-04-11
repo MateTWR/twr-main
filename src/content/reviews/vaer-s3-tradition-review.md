@@ -115,4 +115,3 @@ The VAER S3 Tradition is a dressy tool watch at an excellent price point. It is 
 
 [Check Price](https://vaer-watches.sjv.io/9gZOqj)
 
-## Other Watch Reviews

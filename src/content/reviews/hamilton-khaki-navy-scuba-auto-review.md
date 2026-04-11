@@ -210,4 +210,3 @@ Hamilton Khaki Navy Scuba, Quartz Movement, 37 mm
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211181-khaki-navy-scuba-quartz.html)
 
-## Other Watch Reviews

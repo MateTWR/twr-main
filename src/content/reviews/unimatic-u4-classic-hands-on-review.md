@@ -120,4 +120,3 @@ The Unimatic U4 Classic is a statement watch without being flashy, and that was 
 
 ### Written by
 
-## Other Watch Reviews

@@ -120,4 +120,3 @@ The VAER D5 Meridian Navy is an elegant yet sporty dive watch. The combination o
 
 [Check Price](https://vaer-watches.sjv.io/daaZyM)
 
-## Other Watch Reviews

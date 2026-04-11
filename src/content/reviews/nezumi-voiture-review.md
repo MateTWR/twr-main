@@ -128,4 +128,3 @@ Vintage-inspired watches that are looking at the ‘70s for design guidance are 
 
 [Check Price](https://www.nezumistudios.com/nezumi-watches/voiture-vq3/)
 
-## Other Watch Reviews

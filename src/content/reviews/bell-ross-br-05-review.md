@@ -120,4 +120,3 @@ The Bell & Ross BR 05 Grey Steel (BR05A-GR-ST/SST) is a character of its own tha
 
 [Check Price](https://www.kqzyfj.com/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fbell-and-ross-watch-br05a-gr-st-sst.html)
 
-## Other Watch Reviews

@@ -102,4 +102,3 @@ The Echo/Neutra Cortina 1956 3H is a vintage-style timepiece inspired by the 50â
 
 [Check Price](https://echoneutra.com/cortina-1956-3-hands/)
 
-## Other Watch Reviews

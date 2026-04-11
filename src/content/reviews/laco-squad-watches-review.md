@@ -189,4 +189,3 @@ If you like the overall design the the Laco Squad watches, and looking for the p
 
 [Check Price](https://www.awin1.com/cread.php?awinmid=63438&awinaffid=928721&ued=https%3A%2F%2Fwww.laco-watches.com%2Fen%2Fwatches%2Fsquad-watches-sport-watches%2Fmojave-42-mb)
 
-## Other Watch Reviews

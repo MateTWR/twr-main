@@ -128,4 +128,3 @@ The Conquest 41 mm is a confident all-rounder that brings together Longines’ s
 
 ### Written by
 
-## Other Watch Reviews

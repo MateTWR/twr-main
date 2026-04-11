@@ -115,4 +115,3 @@ With its distinctive personality, the VAER R1 Racing Chrono is a statement piece
 
 [Check Price](https://vaer-watches.sjv.io/MmQAAM)
 
-## Other Watch Reviews

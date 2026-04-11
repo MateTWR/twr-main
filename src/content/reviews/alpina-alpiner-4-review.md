@@ -95,4 +95,3 @@ Alpina is an often overlooked brand, and if you’re searching for something tha
 
 [Check Price](https://amzn.to/3uebhVI)
 
-## Other Watch Reviews

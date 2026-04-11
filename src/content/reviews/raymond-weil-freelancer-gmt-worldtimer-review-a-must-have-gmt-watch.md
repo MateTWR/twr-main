@@ -170,4 +170,3 @@ The case itself has the same 40.5 mm width as the green and black versions.
 
 The GMT functionality is changed only in design, not in functionality: the prominent cities of each time zone are not present on the inner rotating track on the blue version. This design solution makes the dial a bit more airy and less busy, therefore it’s a perfect design for people who are looking for a GMT watch with a relatively simple design.
 
-## Other Watch Reviews

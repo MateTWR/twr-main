@@ -98,4 +98,3 @@ The Hamilton Khaki Aviation Pilot Pioneer (Ref # H76205530) successfully bridges
 
 ### Written by
 
-## Other Watch Reviews
