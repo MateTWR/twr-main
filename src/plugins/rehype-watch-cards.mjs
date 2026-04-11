@@ -136,14 +136,9 @@ function isSpecsLabel(node) {
 function isCheckPriceLink(node) {
   if (node.tagName !== 'p') return false;
   const real = node.children.filter(c => c.type !== 'text' || c.value.trim());
-  if (real.length !== 1) return false;
-  const a = real[0];
-  if (a.tagName !== 'a') return false;
-  const text = a.children.find(c => c.type === 'text');
-  return text?.value?.toLowerCase().includes('check price') ||
-         text?.value?.toLowerCase().includes('check') ||
-         text?.value?.toLowerCase().includes('buy') ||
-         text?.value?.toLowerCase().includes('shop');
+  if (real.length === 0) return false;
+  // Accept paragraphs where every non-whitespace child is a link (single or multiple CTAs)
+  return real.every(c => c.tagName === 'a');
 }
 
 function isWhitespace(node) {

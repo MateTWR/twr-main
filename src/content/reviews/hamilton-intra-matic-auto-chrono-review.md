@@ -9,9 +9,7 @@ heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/ab0b231d-5c73-4b80-
 
 When it comes to racing chronographs, most of the designs out there have a distinct sporty look, which of course makes perfect sense—but it also limits their wearability. While racing watches, generally speaking, are not our first choice when it comes to a formal dress code, the Hamilton Intra-Matic Auto Chronograph comes as a refreshing exception to the rule. Combining a sporty look with sophisticated elegance, this watch really has it all. Let’s take a closer look, and discuss if the Intra-Matic is indeed a worthwhile investment.
 
-[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416111-american-classic-intra-matic-auto-chrono.html)Previous Next
-
-**Specs:** 
+**Specs:**
 
 - Movement: Automatic
 - Caliber: H-31
@@ -19,9 +17,7 @@ When it comes to racing chronographs, most of the designs out there have a disti
 - Case Width: 40 mm
 - Lug Distance: 20 mm
 
-[Check Price for  
-Leather](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html) [Check Price for  
-Stainless Steel](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416111-american-classic-intra-matic-auto-chrono.html)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html)
 
 ## Hamilton: The Brand
 
@@ -37,19 +33,7 @@ The tachymeter, along with the bezel and the long seconds hand reminds us of a c
 
 **The Hamilton Intra-Matic is a stylish timepiece with a nod towards vintage design_._**
 
-[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416160-american-classic-intra-matic-auto-chrono-40mm.html)Previous Next
 
-**Specs:** 
-
-- Movement: Automatic
-- Caliber: H-31
-- Power Reserve: 60 hours
-- Case Width: 40 mm
-- Lug Distance: 20 mm
-
-[Check Price for  
-Leather](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html) [Check Price for  
-Stainless Steel](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416160-american-classic-intra-matic-auto-chrono-40mm.html)
 
 ### Dial
 
@@ -106,17 +90,5 @@ Let’s take a look at the summary of pros and cons, in our humble opinion:
 
 The Hamilton Intra-Matic Auto Chrono is an inspired reimagination of a 1968 signature timepiece that delivers a sporty yet timeless design. The 40 mm case width, the dial design working with only two colors, and having the tachymeter a part of the dial and not on the bezel makes this watch very elegant that can function as a dress chronograph as well. The automatic chronograph movement (H-31 caliber) provides a 60-hour power reserve. This timepiece is robust and graceful at the same time, and would be a great addition to any watch collection.
 
-[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416541-intra-matic.html)[](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416141-american-classic-intra-matic-auto-chrono.html)Previous Next
-
-**Specs:** 
-
-- Movement: Automatic
-- Caliber: H-31
-- Power Reserve: 60 hours
-- Case Width: 40 mm
-- Lug Distance: 20 mm
-
-[Check Price for  
-Leather](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416541-intra-matic.html) [Check Price for  
-Stainless Steel](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416141-american-classic-intra-matic-auto-chrono.html)
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html)
 
