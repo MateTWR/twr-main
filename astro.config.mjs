@@ -1,10 +1,13 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import rehypeWatchCards from './src/plugins/rehype-watch-cards.mjs';
+import mdx from '@astrojs/mdx';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://www.thewatchresource.com',
+
+  integrations: [mdx()],
 
   markdown: {
     rehypePlugins: [rehypeWatchCards],

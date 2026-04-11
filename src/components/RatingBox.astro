@@ -1,0 +1,122 @@
+---
+interface Props {
+  total:       number;
+  dial?:       number;
+  watchCase?:  number;
+  wearability?: number;
+  price?:      number;
+}
+
+const { total, dial, watchCase, wearability, price } = Astro.props;
+
+const categories = [
+  { label: 'Dial',        score: dial },
+  { label: 'Case',        score: watchCase },
+  { label: 'Wearability', score: wearability },
+  { label: 'Price',       score: price },
+].filter(c => c.score !== undefined) as { label: string; score: number }[];
+
+function stars(score: number, size: number = 22) {
+  return Array.from({ length: 5 }).map((_, i) => ({
+    filled: i < Math.round(score),
+    size,
+  }));
+}
+---
+
+<div class="rating-box">
+  <p class="rating-total">Total Score: <strong>{total}</strong> / 5</p>
+  <div class="rating-stars-total">
+    {stars(total, 28).map(s => (
+      <span class={s.filled ? 'star star--filled' : 'star'} style={`font-size:${s.size}px`}>★</span>
+    ))}
+  </div>
+
+  {categories.length > 0 && (
+    <div class="rating-categories">
+      {categories.map(({ label, score }) => (
+        <div class="rating-cat">
+          <span class="rating-cat__label">{label}</span>
+          <div class="rating-cat__stars">
+            {stars(score, 18).map(s => (
+              <span class={s.filled ? 'star star--filled' : 'star'} style={`font-size:${s.size}px`}>★</span>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  )}
+</div>
+
+<style>
+  .rating-box {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    background: #fff;
+    text-align: center;
+  }
+
+  .rating-total {
+    font-size: 0.95rem;
+    color: #6b7280;
+    margin: 0 0 0.5rem;
+  }
+
+  .rating-total strong {
+    color: #101010;
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+
+  .rating-stars-total {
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+    margin-bottom: 1.5rem;
+    line-height: 1;
+  }
+
+  .star {
+    color: #d1d5db;
+    line-height: 1;
+  }
+
+  .star--filled {
+    color: #EBA541;
+  }
+
+  .rating-categories {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    border-top: 1px solid #e5e7eb;
+    padding-top: 1.25rem;
+  }
+
+  .rating-cat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .rating-cat__label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #374151;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .rating-cat__stars {
+    display: flex;
+    gap: 1px;
+    line-height: 1;
+  }
+
+  @media (max-width: 480px) {
+    .rating-categories { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>
