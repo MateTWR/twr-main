@@ -170,41 +170,36 @@ const ALT = '/alternatives';
   </div>
 </div>
 
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+
 <script>
   // Search modal
-  const trigger = document.getElementById('search-trigger') as HTMLButtonElement;
-  const overlay = document.getElementById('search-overlay') as HTMLElement;
-  const closeBtn = document.getElementById('search-close') as HTMLButtonElement;
-  let pagefindLoaded = false;
+  const trigger = document.getElementById('search-trigger') as HTMLButtonElement | null;
+  const overlay = document.getElementById('search-overlay') as HTMLElement | null;
+  const closeBtn = document.getElementById('search-close') as HTMLButtonElement | null;
+  let pagefindMounted = false;
 
-  async function openSearch() {
+  function openSearch() {
+    if (!overlay) return;
     overlay.removeAttribute('aria-hidden');
     overlay.classList.add('open');
     document.body.style.overflow = 'hidden';
 
-    if (!pagefindLoaded) {
-      pagefindLoaded = true;
-      const link = document.createElement('link');
-      link.rel = 'stylesheet';
-      link.href = '/pagefind/pagefind-ui.css';
-      document.head.appendChild(link);
-
-      const script = document.createElement('script');
-      script.src = '/pagefind/pagefind-ui.js';
-      script.onload = () => {
-        // @ts-ignore
-        new window.PagefindUI({ element: '#search', showSubResults: false, resetStyles: false });
-        const input = overlay.querySelector('input[type=text]') as HTMLInputElement;
-        input?.focus();
-      };
-      document.head.appendChild(script);
-    } else {
-      const input = overlay.querySelector('input[type=text]') as HTMLInputElement;
-      input?.focus();
+    const pf = (window as any).PagefindUI;
+    if (!pagefindMounted && pf) {
+      pagefindMounted = true;
+      new pf({ element: '#search', showSubResults: false });
     }
+
+    setTimeout(() => {
+      const input = overlay.querySelector('input[type=text]') as HTMLInputElement | null;
+      input?.focus();
+    }, 50);
   }
 
   function closeSearch() {
+    if (!overlay) return;
     overlay.setAttribute('aria-hidden', 'true');
     overlay.classList.remove('open');
     document.body.style.overflow = '';
