@@ -5,6 +5,8 @@ const year = new Date().getFullYear();
 const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg" width="8" height="8"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"/></svg>`;
 ---
 
+<script src="https://js.hsforms.net/forms/embed/39792346.js" defer is:inline></script>
+
 <footer class="site-footer">
   <div class="footer-inner">
 
@@ -41,11 +43,7 @@ const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w
     <!-- Col 3: Newsletter -->
     <div class="footer-col">
       <h4 class="footer-heading">Newsletter</h4>
-      <form class="footer-form" method="post" action="/" name="newsletter">
-        <input type="text" name="form_fields[name]" placeholder="Your Name" autocomplete="name" />
-        <input type="email" name="form_fields[email]" placeholder="Your Email" required autocomplete="email" />
-        <button type="submit">Subscribe</button>
-      </form>
+      <div class="hs-form-frame" data-region="na1" data-form-id="9a63b58c-5278-4ffd-be42-eb179aeb8fd7" data-portal-id="39792346"></div>
     </div>
 
   </div>
@@ -132,49 +130,68 @@ const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w
     flex-shrink: 0;
   }
 
-  .footer-form {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
+  /* HubSpot form overrides for dark footer */
+  :global(.hs-form-frame form),
+  :global(.hs-form) {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.75rem !important;
   }
 
-  .footer-form input {
-    background: rgba(255, 255, 255, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    border-radius: 4px;
-    color: #fff;
-    font-family: inherit;
-    font-size: 0.875rem;
-    padding: 0.6rem 0.85rem;
-    outline: none;
-    transition: border-color 0.15s;
-    width: 100%;
+  :global(.hs-form .hs-form-field) {
+    margin-bottom: 0 !important;
   }
 
-  .footer-form input::placeholder {
-    color: rgba(255, 255, 255, 0.35);
+  :global(.hs-form .hs-input) {
+    background: rgba(255, 255, 255, 0.08) !important;
+    border: 1px solid rgba(255, 255, 255, 0.15) !important;
+    border-radius: 4px !important;
+    color: #fff !important;
+    font-family: inherit !important;
+    font-size: 0.875rem !important;
+    padding: 0.6rem 0.85rem !important;
+    outline: none !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
   }
 
-  .footer-form input:focus {
-    border-color: #EBA541;
+  :global(.hs-form .hs-input::placeholder) {
+    color: rgba(255, 255, 255, 0.35) !important;
   }
 
-  .footer-form button {
-    background: #EBA541;
-    border: none;
-    border-radius: 4px;
-    color: #fff;
-    cursor: pointer;
-    font-family: inherit;
-    font-size: 0.875rem;
-    font-weight: 600;
-    padding: 0.65rem 1.25rem;
-    transition: background 0.15s;
-    text-align: center;
+  :global(.hs-form .hs-input:focus) {
+    border-color: #EBA541 !important;
   }
 
-  .footer-form button:hover {
-    background: #d4922e;
+  :global(.hs-form .hs-button) {
+    background: #EBA541 !important;
+    border: none !important;
+    border-radius: 4px !important;
+    color: #fff !important;
+    cursor: pointer !important;
+    font-family: inherit !important;
+    font-size: 0.875rem !important;
+    font-weight: 600 !important;
+    padding: 0.65rem 1.25rem !important;
+    transition: background 0.15s !important;
+    width: 100% !important;
+  }
+
+  :global(.hs-form .hs-button:hover) {
+    background: #d4922e !important;
+  }
+
+  :global(.hs-form .hs-error-msgs) {
+    color: #f87171 !important;
+    font-size: 0.75rem !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+  }
+
+  :global(.hs-form .submitted-message) {
+    color: rgba(255, 255, 255, 0.85) !important;
+    font-size: 0.875rem !important;
   }
 
   @media (max-width: 768px) {
