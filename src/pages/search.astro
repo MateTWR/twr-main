@@ -3,17 +3,16 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="Search | The Watch Resource" description="Search all watch reviews, guides, and articles on The Watch Resource.">
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
   <main class="search-page">
     <h1>Search</h1>
     <div id="search"></div>
   </main>
+  <script src="/pagefind/pagefind-ui.js" is:inline></script>
+  <script is:inline>
+    new PagefindUI({ element: '#search', showSubResults: false });
+  </script>
 </Layout>
-
-<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
-<script src="/pagefind/pagefind-ui.js" is:inline></script>
-<script is:inline>
-  new PagefindUI({ element: '#search', showSubResults: false });
-</script>
 
 <style>
   .search-page {
