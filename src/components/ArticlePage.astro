@@ -11,12 +11,62 @@ interface Props {
   related:     { id: string; data: { title: string; heroImage?: string; description?: string } }[];
   relatedLabel: string;
   relatedBase:  string;
+  collection:  'reviews' | 'guides' | 'alternatives' | 'comparisons' | 'pages';
 }
 
-const { title, description, heroImage, date, author, Content, related, relatedLabel, relatedBase } = Astro.props;
+const { title, description, heroImage, date, author, Content, related, relatedLabel, relatedBase, collection } = Astro.props;
+
+const SITE = 'https://www.thewatchresource.com';
+const canonicalURL = new URL(Astro.url.pathname, SITE).href;
+
+const COLLECTION_CRUMB: Record<string, { name: string; url: string }> = {
+  reviews:      { name: 'Reviews',      url: `${SITE}/reviews/in-depth-watch-reviews/` },
+  guides:       { name: 'Guides',       url: `${SITE}/` },
+  alternatives: { name: 'Alternatives', url: `${SITE}/alternatives/alternatives/` },
+  comparisons:  { name: 'Comparisons',  url: `${SITE}/` },
+  pages:        { name: 'Articles',     url: `${SITE}/` },
+};
+
+const crumb = COLLECTION_CRUMB[collection];
+
+const schema = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Article',
+      headline: title,
+      ...(description && { description }),
+      ...(heroImage && { image: heroImage }),
+      datePublished: date.toISOString(),
+      dateModified:  date.toISOString(),
+      url: canonicalURL,
+      author: {
+        '@type': 'Person',
+        name: author || 'Maté D',
+        url: SITE,
+      },
+      publisher: {
+        '@type': 'Organization',
+        name: 'The Watch Resource',
+        logo: {
+          '@type': 'ImageObject',
+          url: 'https://www.thewatchresource.com/wp-content/uploads/2021/05/cropped-TheWatchResource-logo-1-1-1024x225.png',
+        },
+      },
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE}/` },
+        { '@type': 'ListItem', position: 2, name: crumb.name, item: crumb.url },
+        { '@type': 'ListItem', position: 3, name: title, item: canonicalURL },
+      ],
+    },
+  ],
+});
 ---
 
-<Layout title={`${title} | The Watch Resource`} description={description} image={heroImage}>
+<Layout title={`${title} | The Watch Resource`} description={description} image={heroImage} schema={schema}>
   {heroImage && (
     <img class="hero-image" src={heroImage} alt={title} />
   )}
