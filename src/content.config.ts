@@ -11,6 +11,11 @@ const postSchema = z.object({
   heroImage: z.string().optional(),
   author: z.string().optional(),
   draft: z.boolean().default(false),
+  ratingTotal:       z.number().optional(),
+  ratingDial:        z.number().optional(),
+  ratingCase:        z.number().optional(),
+  ratingWearability: z.number().optional(),
+  ratingPrice:       z.number().optional(),
 });
 
 const reviews = defineCollection({

@@ -11,10 +11,21 @@ interface Props {
   related:     { id: string; data: { title: string; heroImage?: string; description?: string } }[];
   relatedLabel: string;
   relatedBase:  string;
-  collection:  'reviews' | 'guides' | 'alternatives' | 'comparisons' | 'pages';
+  collection:        'reviews' | 'guides' | 'alternatives' | 'comparisons' | 'pages';
+  ratingTotal?:       number;
+  ratingDial?:        number;
+  ratingCase?:        number;
+  ratingWearability?: number;
+  ratingPrice?:       number;
 }
 
-const { title, description, heroImage, date, author, Content, related, relatedLabel, relatedBase, collection } = Astro.props;
+const { title, description, heroImage, date, author, Content, related, relatedLabel, relatedBase, collection,
+        ratingTotal, ratingDial, ratingCase, ratingWearability, ratingPrice } = Astro.props;
+
+const hasRating = ratingTotal !== undefined;
+
+// Extract watch name (strip " Review", " In-Depth Review" etc. from title)
+const watchName = title.replace(/\s+(in-depth\s+)?review$/i, '').trim();
 
 const SITE = 'https://www.thewatchresource.com';
 const canonicalURL = new URL(Astro.url.pathname, SITE).href;
@@ -29,41 +40,62 @@ const COLLECTION_CRUMB: Record<string, { name: string; url: string }> = {
 
 const crumb = COLLECTION_CRUMB[collection];
 
-const schema = JSON.stringify({
-  '@context': 'https://schema.org',
-  '@graph': [
-    {
-      '@type': 'Article',
-      headline: title,
-      ...(description && { description }),
+const graph: object[] = [
+  {
+    '@type': 'Article',
+    headline: title,
+    ...(description && { description }),
+    ...(heroImage && { image: heroImage }),
+    datePublished: date.toISOString(),
+    dateModified:  date.toISOString(),
+    url: canonicalURL,
+    author: {
+      '@type': 'Person',
+      name: author || 'Maté D',
+      url: SITE,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'The Watch Resource',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://www.thewatchresource.com/wp-content/uploads/2021/05/cropped-TheWatchResource-logo-1-1-1024x225.png',
+      },
+    },
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE}/` },
+      { '@type': 'ListItem', position: 2, name: crumb.name, item: crumb.url },
+      { '@type': 'ListItem', position: 3, name: title, item: canonicalURL },
+    ],
+  },
+];
+
+if (hasRating && ratingTotal !== undefined) {
+  graph.push({
+    '@type': 'Review',
+    itemReviewed: {
+      '@type': 'Product',
+      name: watchName,
       ...(heroImage && { image: heroImage }),
-      datePublished: date.toISOString(),
-      dateModified:  date.toISOString(),
-      url: canonicalURL,
-      author: {
-        '@type': 'Person',
-        name: author || 'Maté D',
-        url: SITE,
-      },
-      publisher: {
-        '@type': 'Organization',
-        name: 'The Watch Resource',
-        logo: {
-          '@type': 'ImageObject',
-          url: 'https://www.thewatchresource.com/wp-content/uploads/2021/05/cropped-TheWatchResource-logo-1-1-1024x225.png',
-        },
-      },
     },
-    {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE}/` },
-        { '@type': 'ListItem', position: 2, name: crumb.name, item: crumb.url },
-        { '@type': 'ListItem', position: 3, name: title, item: canonicalURL },
-      ],
+    reviewRating: {
+      '@type': 'Rating',
+      ratingValue: ratingTotal,
+      bestRating: 5,
+      worstRating: 1,
     },
-  ],
-});
+    author: {
+      '@type': 'Person',
+      name: author || 'Maté D',
+    },
+    url: canonicalURL,
+  });
+}
+
+const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph });
 ---
 
 <Layout title={`${title} | The Watch Resource`} description={description} image={heroImage} schema={schema}>
@@ -88,6 +120,48 @@ const schema = JSON.stringify({
       <div class="prose">
         <Content />
       </div>
+
+      {hasRating && (
+        <div class="rating-box">
+          <h2 class="rating-title">{watchName} Rating</h2>
+          <p class="rating-total">Total Score: <strong>{ratingTotal}</strong> / 5</p>
+          <div class="rating-stars-total">
+            {Array.from({ length: 5 }).map((_, i) => {
+              const fill = Math.min(1, Math.max(0, (ratingTotal ?? 0) - i));
+              return (
+                <svg viewBox="0 0 20 20" width="28" height="28" aria-hidden="true">
+                  <defs>
+                    <linearGradient id={`g${i}`}>
+                      <stop offset={`${fill * 100}%`} stop-color="#EBA541" />
+                      <stop offset={`${fill * 100}%`} stop-color="#d1d5db" />
+                    </linearGradient>
+                  </defs>
+                  <path fill={`url(#g${i})`} d="M10 1l2.39 4.84 5.34.78-3.87 3.77.91 5.32L10 13.27l-4.77 2.44.91-5.32L2.27 6.62l5.34-.78z"/>
+                </svg>
+              );
+            })}
+          </div>
+          <div class="rating-categories">
+            {([
+              { label: 'Dial',        score: ratingDial },
+              { label: 'Case',        score: ratingCase },
+              { label: 'Wearability', score: ratingWearability },
+              { label: 'Price',       score: ratingPrice },
+            ] as { label: string; score: number | undefined }[]).filter(c => c.score !== undefined).map(({ label, score }) => (
+              <div class="rating-cat">
+                <span class="rating-cat__label">{label}</span>
+                <div class="rating-cat__stars">
+                  {Array.from({ length: 5 }).map((_, i) => (
+                    <svg viewBox="0 0 20 20" width="20" height="20" aria-hidden="true">
+                      <path fill={i < (score ?? 0) ? '#EBA541' : '#d1d5db'} d="M10 1l2.39 4.84 5.34.78-3.87 3.77.91 5.32L10 13.27l-4.77 2.44.91-5.32L2.27 6.62l5.34-.78z"/>
+                    </svg>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
 
       {related.length > 0 && (
         <div class="related">
@@ -276,6 +350,71 @@ const schema = JSON.stringify({
     .prose :global(.watch-card-md) {
       grid-template-columns: 1fr;
     }
+  }
+
+  /* ── Rating box ── */
+  .rating-box {
+    margin-top: 3rem;
+    padding: 1.75rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    background: #fff;
+    text-align: center;
+  }
+
+  .rating-title {
+    font-size: 1.3rem;
+    margin: 0 0 0.75rem;
+  }
+
+  .rating-total {
+    font-size: 0.95rem;
+    color: #6b7280;
+    margin: 0 0 0.75rem;
+  }
+
+  .rating-total strong {
+    color: #101010;
+    font-size: 1.1rem;
+  }
+
+  .rating-stars-total {
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+    margin-bottom: 1.75rem;
+  }
+
+  .rating-categories {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    border-top: 1px solid #e5e7eb;
+    padding-top: 1.25rem;
+  }
+
+  .rating-cat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .rating-cat__label {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #374151;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .rating-cat__stars {
+    display: flex;
+    gap: 2px;
+  }
+
+  @media (max-width: 480px) {
+    .rating-categories { grid-template-columns: repeat(2, 1fr); }
   }
 
   /* ── Related ── */
