@@ -2,12 +2,13 @@
 import { defineConfig } from 'astro/config';
 import rehypeWatchCards from './src/plugins/rehype-watch-cards.mjs';
 import mdx from '@astrojs/mdx';
+import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://www.thewatchresource.com',
 
-  integrations: [mdx()],
+  integrations: [mdx(), sitemap()],
 
   markdown: {
     rehypePlugins: [rehypeWatchCards],
