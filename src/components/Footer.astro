@@ -5,8 +5,46 @@ const year = new Date().getFullYear();
 const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg" width="8" height="8"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"/></svg>`;
 ---
 
-<script src="https://js.hsforms.net/forms/embed/39792346.js" defer is:inline></script>
 <script is:inline>
+  // Newsletter form — submits to HubSpot Forms API
+  document.getElementById('newsletter-form')?.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var email = document.getElementById('newsletter-email').value.trim();
+    var msg = document.getElementById('newsletter-msg');
+    var btn = this.querySelector('button[type=submit]');
+
+    if (!email) return;
+
+    btn.disabled = true;
+    btn.textContent = 'Sending…';
+
+    fetch('https://api.hsforms.com/submissions/v3/integration/submit/39792346/9a63b58c-5278-4ffd-be42-eb179aeb8fd7', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        fields: [{ name: 'email', value: email }],
+        context: { pageUri: window.location.href, pageName: document.title }
+      })
+    })
+    .then(function (res) {
+      if (res.ok) {
+        msg.textContent = 'You\'re signed up — thank you!';
+        msg.className = 'newsletter-msg newsletter-msg--success';
+        document.getElementById('newsletter-form').reset();
+      } else {
+        throw new Error('Error');
+      }
+    })
+    .catch(function () {
+      msg.textContent = 'Something went wrong. Please try again.';
+      msg.className = 'newsletter-msg newsletter-msg--error';
+    })
+    .finally(function () {
+      btn.disabled = false;
+      btn.textContent = 'Sign Up';
+    });
+  });
+
   document.getElementById('footer-opt-out')?.addEventListener('click', function () {
     localStorage.setItem('twr_cookie_consent', 'declined');
     window.dataLayer = window.dataLayer || [];
@@ -57,7 +95,22 @@ const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w
 
     <!-- Col 3: Newsletter -->
     <div class="footer-col">
-      <div class="hs-form-frame" data-region="na1" data-form-id="9a63b58c-5278-4ffd-be42-eb179aeb8fd7" data-portal-id="39792346"></div>
+      <h4 class="footer-heading">Newsletter</h4>
+      <p class="newsletter-headline">Join the Newsletter!</p>
+      <p class="newsletter-tagline">Sign up for the newsletter for exclusive content, watch reviews, and buyer's guides.</p>
+      <form class="newsletter-form" id="newsletter-form" novalidate>
+        <input
+          type="email"
+          name="email"
+          id="newsletter-email"
+          placeholder="Your email address"
+          required
+          autocomplete="email"
+          class="newsletter-input"
+        />
+        <button type="submit" class="newsletter-btn">Sign Up</button>
+        <p class="newsletter-msg" id="newsletter-msg" aria-live="polite"></p>
+      </form>
     </div>
 
   </div>
@@ -144,6 +197,86 @@ const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w
     flex-shrink: 0;
   }
 
+
+  .newsletter-headline {
+    font-family: var(--font-heading);
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 0.4rem;
+  }
+
+  .newsletter-tagline {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.65);
+    line-height: 1.6;
+    margin: 0 0 1.1rem;
+  }
+
+  .newsletter-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.65rem;
+  }
+
+  .newsletter-input {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 4px;
+    color: #fff;
+    font-family: inherit;
+    font-size: 0.875rem;
+    padding: 0.6rem 0.85rem;
+    outline: none;
+    transition: border-color 0.15s;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .newsletter-input::placeholder {
+    color: rgba(255, 255, 255, 0.35);
+  }
+
+  .newsletter-input:focus {
+    border-color: #EBA541;
+  }
+
+  .newsletter-btn {
+    background: #EBA541;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.875rem;
+    font-weight: 600;
+    padding: 0.65rem 1.25rem;
+    transition: background 0.15s;
+    width: 100%;
+  }
+
+  .newsletter-btn:hover {
+    background: #d4922e;
+  }
+
+  .newsletter-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+
+  .newsletter-msg {
+    font-size: 0.8rem;
+    margin: 0;
+    min-height: 1.2em;
+  }
+
+  .newsletter-msg--success {
+    color: #86efac;
+  }
+
+  .newsletter-msg--error {
+    color: #f87171;
+  }
 
   .footer-optout {
     background: none;
