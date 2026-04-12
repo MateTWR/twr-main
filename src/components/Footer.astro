@@ -6,6 +6,20 @@ const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w
 ---
 
 <script src="https://js.hsforms.net/forms/embed/39792346.js" defer is:inline></script>
+<script is:inline>
+  document.getElementById('footer-opt-out')?.addEventListener('click', function () {
+    localStorage.setItem('twr_cookie_consent', 'declined');
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('consent', 'update', {
+      analytics_storage: 'denied',
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied'
+    });
+    alert('Your preference has been saved. Analytics tracking has been disabled.');
+  });
+</script>
 
 <footer class="site-footer">
   <div class="footer-inner">
@@ -27,6 +41,7 @@ const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w
         enthusiasts works tirelessly to create educational buyer's guides and insightful reviews.
       </p>
       <p class="footer-copy">&copy; {year} All rights reserved</p>
+      <p class="footer-copy"><button id="footer-opt-out" class="footer-optout">Do Not Sell or Share My Personal Information</button></p>
     </div>
 
     <!-- Col 2: Navigation -->
@@ -129,6 +144,21 @@ const caret = `<svg aria-hidden="true" viewBox="0 0 192 512" xmlns="http://www.w
     flex-shrink: 0;
   }
 
+
+  .footer-optout {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.35);
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 0.8rem;
+    padding: 0;
+    text-decoration: underline;
+  }
+
+  .footer-optout:hover {
+    color: rgba(255, 255, 255, 0.6);
+  }
 
   @media (max-width: 768px) {
     .footer-inner {
