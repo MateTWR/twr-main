@@ -16,6 +16,8 @@ const postSchema = z.object({
   ratingCase:        z.number().optional(),
   ratingWearability: z.number().optional(),
   ratingPrice:       z.number().optional(),
+  price:             z.number().optional(),
+  priceCurrency:     z.string().optional(),
 });
 
 const reviews = defineCollection({
