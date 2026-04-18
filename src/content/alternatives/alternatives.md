@@ -1,5 +1,5 @@
 ---
-title: "Alternatives"
+title: "Best Watch Alternatives"
 description: "We at The Watch Resource are always on the lookout to find the best options. We love finding timepieces that are great alternatives for expensive…"
 date: 2023-04-19
 categories: 
