@@ -13,13 +13,15 @@ interface Props {
   relatedLabel: string;
   relatedBase:  string;
   collection:   'reviews' | 'guides' | 'alternatives' | 'comparisons' | 'pages';
+  hideHeaderDescription?: boolean;
+  hideMeta?: boolean;
   ratingTotal?: number;
   price?: number;
   priceCurrency?: string;
 }
 
 const { title, description, heroImage, date, author, Content, related, relatedLabel, relatedBase, collection,
-        ratingTotal, price, priceCurrency } = Astro.props;
+        hideHeaderDescription = false, hideMeta = false, ratingTotal, price, priceCurrency } = Astro.props;
 
 const hasRating = ratingTotal !== undefined;
 
@@ -109,13 +111,15 @@ const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
 
       <div class="article-header">
         <h1>{title}</h1>
-        {description && <p class="description">{description}</p>}
-        <div class="meta">
-          <time datetime={date.toISOString()}>
-            {date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-          </time>
-          {author && <span>&nbsp;&middot;&nbsp;{author}</span>}
-        </div>
+        {description && !hideHeaderDescription && <p class="description">{description}</p>}
+        {!hideMeta && (
+          <div class="meta">
+            <time datetime={date.toISOString()}>
+              {date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+            </time>
+            {author && <span>&nbsp;&middot;&nbsp;{author}</span>}
+          </div>
+        )}
       </div>
 
       <div class="prose">
