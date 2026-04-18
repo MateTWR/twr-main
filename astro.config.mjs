@@ -159,7 +159,7 @@ export default defineConfig({
     '/tag-heuer-aquaracer-200-vs-tudor-black-bay-which-everyday-diver-wins/': { destination: '/comparisons/tag-heuer-aquaracer-200-vs-tudor-black-bay-which-everyday-diver-wins/', status: 301 },
 
     // ── Alternatives ─────────────────────────────────────────────────────────
-    '/alternatives/':                                { destination: '/alternatives/alternatives/',                                status: 301 },
+    '/alternatives/alternatives/':                   { destination: '/alternatives/',                                             status: 301 },
     '/audemars-piguet-royal-oak-alternatives/':      { destination: '/alternatives/audemars-piguet-royal-oak-alternatives/',      status: 301 },
     '/breitling-navitimer-alternatives/':            { destination: '/alternatives/breitling-navitimer-alternatives/',            status: 301 },
     '/cartier-tank-alternatives/':                   { destination: '/alternatives/cartier-tank-alternatives/',                   status: 301 },

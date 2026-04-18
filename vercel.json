@@ -1,4 +1,12 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "npm run build",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "redirects": [
+    {
+      "source": "/alternatives/alternatives/",
+      "destination": "/alternatives/",
+      "statusCode": 301
+    }
+  ]
 }

@@ -1,18 +1,17 @@
 ---
-import { getCollection, render } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import ArticlePage from '../../components/ArticlePage.astro';
 
-export async function getStaticPaths() {
-  const entries = await getCollection('alternatives', ({ data, id }) => !data.draft && id !== 'alternatives');
-  return entries.map(entry => ({ params: { slug: entry.id }, props: { entry } }));
+const entry = await getEntry('alternatives', 'alternatives');
+
+if (!entry || entry.data.draft) {
+  return Astro.redirect('/');
 }
 
-const { entry } = Astro.props;
 const { Content } = await render(entry);
 
-const all = await getCollection('alternatives', ({ data }) => !data.draft);
+const all = await getCollection('alternatives', ({ data, id }) => !data.draft && id !== entry.id);
 const related = all
-  .filter(a => a.id !== entry.id)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 8);
 ---
@@ -28,6 +27,6 @@ const related = all
   relatedLabel="More Watch Alternatives"
   relatedBase="/alternatives/"
   collection="alternatives"
-  hideHeaderDescription={entry.id === 'alternatives'}
-  hideMeta={entry.id === 'alternatives'}
+  hideHeaderDescription
+  hideMeta
 />
