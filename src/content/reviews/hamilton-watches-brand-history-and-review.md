@@ -65,19 +65,22 @@ Classic army design timepieces from the Khaki Field series have been tried and p
 
 [![Hamilton Khaki Field Quartz 38 mm](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Screen-Shot-2022-05-08-at-9.34.19-PM-pojg4kost436lrjks2qsxldcngs0b5l7h7dsbdqw28.png/public "Hamilton Khaki Field Quartz 38 mm")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68201063-khaki-field-quartz.html)
 
-Movement: Quartz  
-  
-Diameter: 38 mm
+**Specs:**
 
-[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68201063-khaki-field-quartz.html) [![Hamilton\_khaki\_field\_interstellar\_watch](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki_field_interstellar_watch-p8bzbxajzsqj1yi9yadf54lrvviq0sl222yz2ah0b4.png/public "Hamilton_khaki_field_interstellar_watch")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
+- Movement: Quartz
+- Diameter: 38 mm
 
-Movement: Automatic (H10)  
-  
-Power Reserve: 80 hours  
-  
-Diameter: 42 mm
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh68201063-khaki-field-quartz.html)
 
-[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
+[![Hamilton Khaki Field Murph Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki_field_interstellar_watch-p8bzbxajzsqj1yi9yadf54lrvviq0sl222yz2ah0b4.png/public "Hamilton Khaki Field Murph Auto")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
+
+**Specs:**
+
+- Movement: Automatic (H10)
+- Power Reserve: 80 hours
+- Diameter: 42 mm
+
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
 ## Hamilton Khaki Aviation Collection
 
@@ -85,21 +88,24 @@ _Read our in-depth_ [_Khaki Aviation collection review._](https://www.thewatchre
 
 Hamilton aviator watches are dependable and have a reputation for accuracy, thanks to the company's illustrious history of servicing the aviation sector. Whether you're searching for an automatic watch, a GMT watch, or a pilot's chronograph, Hamilton's Khaki Aviation collection of precise timepieces for professional pilots has the perfect watch for you. In the Khaki Aviation watches, adventure meets precision. Khaki Aviation has a big and diverse range that includes anything from technical-looking chronographs to traditional flieger designs and vintage reissues.
 
-[![Hamilton\_khaki\_aviation](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki_aviation-p8byomuinkurdsc5y7y7d06m06bbas4hit1uzh06hc.png/public "Hamilton_khaki_aviation")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64611535-khaki-aviation-pilot-day-date-quartz.html)
+[![Hamilton Khaki Aviation Pilot Day Date Quartz](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki_aviation-p8byomuinkurdsc5y7y7d06m06bbas4hit1uzh06hc.png/public "Hamilton Khaki Aviation Pilot Day Date Quartz")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64611535-khaki-aviation-pilot-day-date-quartz.html)
 
-Movement: Quartz  
-  
-Diameter: 42 mm
+**Specs:**
 
-[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64611535-khaki-aviation-pilot-day-date-quartz.html) [![Hamilton Khaki Aviation Converter Auto GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-h76715540-pix7sf9zpdoydp0jusvtb4ur5hmk2sx45i4xzue2fk.webp/public "Hamilton Khaki Aviation Converter Auto GMT")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
+- Movement: Quartz
+- Diameter: 42 mm
 
-Movement: Automatic (H-14)  
-  
-Power Reserve: 80 hours  
-  
-Diameter: 44 mm
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh64611535-khaki-aviation-pilot-day-date-quartz.html)
 
-[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
+[![Hamilton Khaki Aviation Converter Auto GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-h76715540-pix7sf9zpdoydp0jusvtb4ur5hmk2sx45i4xzue2fk.webp/public "Hamilton Khaki Aviation Converter Auto GMT")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
+
+**Specs:**
+
+- Movement: Automatic (H-14)
+- Power Reserve: 80 hours
+- Diameter: 44 mm
+
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
 
 ## Hamilton Khaki Navy Collection
 
@@ -107,17 +113,16 @@ _Read our in-depth_ [_Khaki Navy collection review._](https://www.thewatchresour
 
 Allow Hamilton to take you on a tour of their most popular diving watches and underwater timepieces. The Khaki Navy line, inspired by maritime pioneers and created with ocean explorers in mind, is sure to make an impact in the style stakes. These watches are at home on, in, or under the water, thanks to their luminous displays and the assurance of Hamilton excellence.
 
-[![Hamilton\_khaki-navy-scuba-auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki-navy-scuba-auto-p8lwcrtl8pbeq311ci34298eifguqai0truubzfcuo.png/public "Hamilton_khaki-navy-scuba-auto")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
+[![Hamilton Khaki Navy Scuba Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton_khaki-navy-scuba-auto-p8lwcrtl8pbeq311ci34298eifguqai0truubzfcuo.png/public "Hamilton Khaki Navy Scuba Auto")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
-Movement: Automatic (H10)  
-  
-Power Reserve: 80 hours  
-  
-Diameter: 43 mm  
-  
-Water Resistance: 300 M
+**Specs:**
 
-[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
+- Movement: Automatic (H10)
+- Power Reserve: 80 hours
+- Diameter: 43 mm
+- Water Resistance: 300 M
+
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505140-khaki-navy-scuba-auto.html)
 
 For more information, read our in-depth [Khaki Navy Scuba review](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/).
 
@@ -127,13 +132,13 @@ Hamilton's American Classic watch collection includes chronographs and automatic
 
 [![Hamilton American Classic Intra-Matic Auto Chrono](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-h38416560-pix8j6qkakbuy052kvcesvq81fps8k5zhytmwgpj9s.webp/public "Hamilton American Classic Intra-Matic Auto Chrono")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html)
 
-Movement: Automatic (H-31)  
-  
-Power Reserve: 60 hours  
-  
-Diameter: 40 mm
+**Specs:**
 
-[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html)
+- Movement: Automatic (H-31)
+- Power Reserve: 60 hours
+- Diameter: 40 mm
+
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416560-american-classic-intra-matic-auto-chrono-40mm.html)
 
 ## Hamilton Ventura Collection
 
@@ -141,13 +146,13 @@ The Ventura is one of Hamilton's most iconic timepieces, with its daring, pionee
 
 [![Hamilton Ventura Elvis80 Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-h24555131-piyl1bl86ynmk7s6dnakq90etp8nas77kj5h97p4gg.webp/public "Hamilton Ventura Elvis80 Auto")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh24555131-ventura-elvis80-auto.html)
 
-Movement: Automatic (H-10)  
-  
-Power Reserve: 80 hours  
-  
-Diameter: 42.5 mm x 44.6 mm
+**Specs:**
 
-[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh24555131-ventura-elvis80-auto.html)
+- Movement: Automatic (H-10)
+- Power Reserve: 80 hours
+- Diameter: 42.5 mm x 44.6 mm
+
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh24555131-ventura-elvis80-auto.html)
 
 ## Hamilton Jazzmaster Collection
 
@@ -155,13 +160,13 @@ The Jazzmaster is a sophisticated appearance for individuals who appreciate the 
 
 [![Hamilton Jazzmaster Auto](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton-Jazzmaster-Auto-piylbvc0w13guogks7fupl6mtd8xoi2roqpn5022mo.webp/public "Hamilton Jazzmaster Auto")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh32475140-jazzmaster-auto.html)
 
-Movement: Automatic (H-10)  
-  
-Power Reserve: 80 hours  
-  
-Diameter: 40 mm
+**Specs:**
 
-[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh32475140-jazzmaster-auto.html)
+- Movement: Automatic (H-10)
+- Power Reserve: 80 hours
+- Diameter: 40 mm
+
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh32475140-jazzmaster-auto.html)
 
 ## Hamilton Broadway Collection
 
@@ -169,8 +174,9 @@ The Hamilton Broadway men's watch collection was designed with style-conscious g
 
 [![Hamilton Broadway Day Date Quartz](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Hamilton-Broadway-Day-Date-Quartz-piylnzh4z5oihqv21fyquj4ig5j8w2680pexte3efk.webp/public "Hamilton Broadway Day Date Quartz")](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh43311985-broadway-day-date-quartz.html)
 
-Movement: Quartz  
-  
-Diameter: 40 mm
+**Specs:**
 
-[Buy from Brand](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh43311985-broadway-day-date-quartz.html)
+- Movement: Quartz
+- Diameter: 40 mm
+
+[Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh43311985-broadway-day-date-quartz.html)
