@@ -163,12 +163,18 @@
 
       gtmLoaded = true;
       window.dataLayer = window.dataLayer || [];
-      window.dataLayer.push({
-        event: 'twr_consent_update',
-        analytics_storage: 'granted'
-      });
       debugLog('Analytics consent granted.');
       debugLog('Loading GTM:', gtmContainerId);
+
+      if (typeof window.twrLoadGTM === 'function') {
+        window.twrLoadGTM();
+        return;
+      }
+
+      window.dataLayer.push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
 
       var script = document.createElement('script');
       script.async = true;
@@ -178,8 +184,28 @@
 
     function applyTrackingConsent(consent) {
       if (consent.analytics) {
+        if (typeof window.gtag === 'function') {
+          window.gtag('consent', 'update', {
+            analytics_storage: 'granted',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            personalization_storage: 'denied'
+          });
+        }
+
         loadGTM();
       } else {
+        if (typeof window.gtag === 'function') {
+          window.gtag('consent', 'update', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            personalization_storage: 'denied'
+          });
+        }
+
         debugLog('Analytics consent denied. GTM not loaded.');
       }
     }

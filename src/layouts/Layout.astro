@@ -47,6 +47,67 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
       rel="stylesheet"
     />
 
+    <!-- GTM consent bootstrap -->
+    <script is:inline>
+      (function () {
+        var STORAGE_KEY = 'twr_cookie_consent';
+        var GTM_ID = 'GTM-T859CMW';
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){ window.dataLayer.push(arguments); }
+        window.gtag = window.gtag || gtag;
+
+        function readStoredConsent() {
+          try {
+            var stored = localStorage.getItem(STORAGE_KEY);
+            if (!stored) return null;
+
+            var parsed = JSON.parse(stored);
+            if (parsed && typeof parsed === 'object') {
+              return Boolean(parsed.analytics);
+            }
+
+            if (stored === 'accepted') return true;
+            if (stored === 'declined') return false;
+          } catch (_) {}
+
+          return null;
+        }
+
+        var analyticsGranted = readStoredConsent() === true;
+
+        gtag('consent', 'default', {
+          analytics_storage: analyticsGranted ? 'granted' : 'denied',
+          ad_storage: 'denied',
+          ad_user_data: 'denied',
+          ad_personalization: 'denied',
+          functionality_storage: 'granted',
+          personalization_storage: 'denied',
+          security_storage: 'granted',
+          wait_for_update: 500
+        });
+
+        window.twrLoadGTM = window.twrLoadGTM || function () {
+          if (window.__twrGtmLoaded) return;
+          window.__twrGtmLoaded = true;
+
+          window.dataLayer.push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+          });
+
+          var script = document.createElement('script');
+          script.async = true;
+          script.src = 'https://www.googletagmanager.com/gtm.js?id=' + encodeURIComponent(GTM_ID);
+          document.head.appendChild(script);
+        };
+
+        if (analyticsGranted) {
+          window.twrLoadGTM();
+        }
+      })();
+    </script>
+
     <!-- HubSpot -->
     <script is:inline type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/39792346.js"></script>
 
