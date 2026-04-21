@@ -102,9 +102,9 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
           document.head.appendChild(script);
         };
 
-        if (analyticsGranted) {
-          window.twrLoadGTM();
-        }
+        // Advanced consent mode: load GTM on every page with consent defaults already set.
+        // When analytics consent is denied, Google tags may send cookieless pings only.
+        window.twrLoadGTM();
       })();
     </script>
 

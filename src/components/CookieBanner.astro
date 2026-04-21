@@ -70,7 +70,7 @@
     var backButton = document.getElementById('cookie-back');
     var analyticsInput = document.getElementById('cookie-analytics');
     var gtmContainerId = banner && banner.getAttribute('data-gtm-container-id');
-    var gtmLoaded = false;
+    var gtmLoaded = Boolean(window.__twrGtmLoaded);
     var isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
 
     if (
@@ -211,7 +211,7 @@
           });
         }
 
-        debugLog('Analytics consent denied. GTM not loaded.');
+        debugLog('Analytics consent denied. GTM remains loaded in advanced consent mode.');
       }
     }
 
