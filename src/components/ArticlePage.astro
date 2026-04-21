@@ -254,6 +254,16 @@ const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
     align-items: start;
   }
 
+  .prose :global(.watch-card-md__media) {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .prose :global(.watch-card-md__viewer) {
+    position: relative;
+  }
+
   .prose :global(.watch-card-md__img) {
     display: flex;
     align-items: center;
@@ -261,9 +271,82 @@ const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
     aspect-ratio: 1 / 1;
     overflow: hidden;
     text-decoration: none;
+    border-radius: 6px;
   }
 
   .prose :global(.watch-card-md__img img) {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+    margin: 0;
+    border-radius: 0;
+    border: none;
+  }
+
+  .prose :global(.watch-card-md__nav) {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 2.25rem;
+    height: 2.25rem;
+    border: 1px solid #d1d5db;
+    border-radius: 999px;
+    background: rgba(243, 244, 246, 0.95);
+    color: #6b7280;
+    font-size: 1.5rem;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease, opacity 0.15s ease;
+  }
+
+  .prose :global(.watch-card-md__nav:hover:not(:disabled)) {
+    background: #e5e7eb;
+    color: #374151;
+  }
+
+  .prose :global(.watch-card-md__nav:disabled) {
+    opacity: 0.5;
+    cursor: default;
+  }
+
+  .prose :global(.watch-card-md__nav--prev) {
+    left: 0.75rem;
+  }
+
+  .prose :global(.watch-card-md__nav--next) {
+    right: 0.75rem;
+  }
+
+  .prose :global(.watch-card-md__thumbs) {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .prose :global(.watch-card-md__thumb) {
+    width: 3.5rem;
+    height: 3.5rem;
+    padding: 0.2rem;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    background: #f9fafb;
+    cursor: pointer;
+    transition: border-color 0.15s ease, background 0.15s ease;
+  }
+
+  .prose :global(.watch-card-md__thumb:hover) {
+    background: #f3f4f6;
+  }
+
+  .prose :global(.watch-card-md__thumb.is-active) {
+    border-color: #9ca3af;
+    background: #f3f4f6;
+  }
+
+  .prose :global(.watch-card-md__thumb img) {
     width: 100%;
     height: 100%;
     object-fit: contain;
@@ -312,6 +395,11 @@ const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
   @media (max-width: 580px) {
     .prose :global(.watch-card-md) {
       grid-template-columns: 1fr;
+    }
+
+    .prose :global(.watch-card-md__nav) {
+      width: 2rem;
+      height: 2rem;
     }
   }
 
@@ -492,3 +580,71 @@ const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
     margin: 0;
   }
 </style>
+
+<script>
+  const updateWatchCardGallery = (gallery, index) => {
+    const viewerLink = gallery.querySelector('.watch-card-md__img');
+    const mainImage = gallery.querySelector('.watch-card-md__img img');
+    const prevButton = gallery.querySelector('.watch-card-md__nav--prev');
+    const nextButton = gallery.querySelector('.watch-card-md__nav--next');
+    const thumbnails = Array.from(gallery.querySelectorAll('.watch-card-md__thumb'));
+
+    if (!(viewerLink instanceof HTMLAnchorElement) || !(mainImage instanceof HTMLImageElement)) return;
+    if (thumbnails.length === 0) return;
+
+    const activeThumb = thumbnails[index];
+    if (!(activeThumb instanceof HTMLButtonElement)) return;
+
+    const thumbImage = activeThumb.querySelector('img');
+    const nextHref = activeThumb.dataset.href || viewerLink.href;
+
+    if (thumbImage instanceof HTMLImageElement) {
+      mainImage.src = thumbImage.currentSrc || thumbImage.src;
+      mainImage.alt = thumbImage.alt || mainImage.alt;
+      viewerLink.href = nextHref;
+    }
+
+    if (prevButton instanceof HTMLButtonElement) {
+      prevButton.disabled = index === 0;
+    }
+
+    if (nextButton instanceof HTMLButtonElement) {
+      nextButton.disabled = index === thumbnails.length - 1;
+    }
+
+    thumbnails.forEach((thumbnail, thumbnailIndex) => {
+      thumbnail.classList.toggle('is-active', thumbnailIndex === index);
+      thumbnail.setAttribute('aria-pressed', thumbnailIndex === index ? 'true' : 'false');
+    });
+
+    gallery.dataset.currentIndex = String(index);
+  };
+
+  document.querySelectorAll('.watch-card-md__media[data-gallery="true"]').forEach((gallery) => {
+    if (!(gallery instanceof HTMLElement)) return;
+    if (gallery.dataset.galleryBound === 'true') return;
+
+    gallery.dataset.galleryBound = 'true';
+
+    const thumbnails = Array.from(gallery.querySelectorAll('.watch-card-md__thumb'));
+    if (thumbnails.length < 2) return;
+
+    updateWatchCardGallery(gallery, Number(gallery.dataset.currentIndex || 0));
+
+    gallery.querySelector('.watch-card-md__nav--prev')?.addEventListener('click', () => {
+      const currentIndex = Number(gallery.dataset.currentIndex || 0);
+      updateWatchCardGallery(gallery, Math.max(0, currentIndex - 1));
+    });
+
+    gallery.querySelector('.watch-card-md__nav--next')?.addEventListener('click', () => {
+      const currentIndex = Number(gallery.dataset.currentIndex || 0);
+      updateWatchCardGallery(gallery, Math.min(thumbnails.length - 1, currentIndex + 1));
+    });
+
+    thumbnails.forEach((thumbnail, thumbnailIndex) => {
+      thumbnail.addEventListener('click', () => {
+        updateWatchCardGallery(gallery, thumbnailIndex);
+      });
+    });
+  });
+</script>

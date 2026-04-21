@@ -3,7 +3,7 @@
  *
  * Transforms the repeating markdown watch-entry pattern into a card layout:
  *
- *   <p><a href="LINK"><img ...></a></p>   ← linked image
+ *   <p><a href="LINK"><img ...></a>...</p> ← one or more linked images
  *   <p><strong>Specs:</strong></p>         ← specs label  (optional)
  *   <ul>...</ul>                           ← specs list
  *   <p><a href="LINK">Check Price</a></p>  ← CTA link
@@ -26,14 +26,14 @@ export default function rehypeWatchCards() {
     visit(tree, 'element', (node, index, parent) => {
       if (!parent || index == null) return;
 
-      // Match: <p> whose only child is <a> whose only child is <img>
-      if (!isLinkedImageParagraph(node)) return;
+      const imageEntries = getLinkedImageEntries(node);
+      if (imageEntries.length === 0) return;
 
       const children = parent.children;
 
       // Collect the nodes that make up this card
       let cursor = index;
-      const imageP = children[cursor]; // the <p><a><img></a></p>
+      const imageP = children[cursor]; // the <p><a><img></a>...</p>
       cursor++;
 
       // Skip whitespace text nodes
@@ -56,15 +56,11 @@ export default function rehypeWatchCards() {
       const ctaP = children[cursor];
       cursor++;
 
-      // Extract the affiliate href from the linked image
-      const imageLink = imageP.children.find(c => c.type === 'element' && c.tagName === 'a');
-      const imgHref = imageLink?.properties?.href ?? '#';
-
-      // Extract the img node
-      const imgNode = imageLink?.children?.find(c => c.type === 'element' && c.tagName === 'img');
-
       // Extract the CTA link node
       const ctaLink = ctaP.children.find(c => c.type === 'element' && c.tagName === 'a');
+      const firstImageHref = imageEntries[0]?.href ?? '#';
+      const galleryId = `watch-card-gallery-${index}`;
+      const hasGallery = imageEntries.length > 1;
 
       // Build the card node
       const card = {
@@ -75,14 +71,76 @@ export default function rehypeWatchCards() {
           // Image side
           {
             type: 'element',
-            tagName: 'a',
+            tagName: 'div',
             properties: {
-              href: imgHref,
-              className: ['watch-card-md__img'],
-              rel: ['nofollow'],
-              target: '_blank',
+              className: ['watch-card-md__media'],
+              dataGallery: hasGallery ? 'true' : 'false',
+              dataGalleryId: galleryId,
+              dataCurrentIndex: '0',
             },
-            children: imgNode ? [imgNode] : [],
+            children: [
+              {
+                type: 'element',
+                tagName: 'div',
+                properties: { className: ['watch-card-md__viewer'] },
+                children: [
+                  {
+                    type: 'element',
+                    tagName: 'a',
+                    properties: {
+                      href: firstImageHref,
+                      className: ['watch-card-md__img'],
+                      rel: ['nofollow'],
+                      target: '_blank',
+                    },
+                    children: imageEntries[0]?.img ? [imageEntries[0].img] : [],
+                  },
+                  ...(hasGallery ? [
+                    {
+                      type: 'element',
+                      tagName: 'button',
+                      properties: {
+                        type: 'button',
+                        className: ['watch-card-md__nav', 'watch-card-md__nav--prev'],
+                        ariaLabel: 'Show previous watch color option',
+                        disabled: true,
+                      },
+                      children: [{ type: 'text', value: '‹' }],
+                    },
+                    {
+                      type: 'element',
+                      tagName: 'button',
+                      properties: {
+                        type: 'button',
+                        className: ['watch-card-md__nav', 'watch-card-md__nav--next'],
+                        ariaLabel: 'Show next watch color option',
+                      },
+                      children: [{ type: 'text', value: '›' }],
+                    },
+                  ] : []),
+                ],
+              },
+              ...(hasGallery ? [{
+                type: 'element',
+                tagName: 'div',
+                properties: { className: ['watch-card-md__thumbs'] },
+                children: imageEntries.map((entry, imageIndex) => ({
+                  type: 'element',
+                  tagName: 'button',
+                  properties: {
+                    type: 'button',
+                    className: imageIndex === 0
+                      ? ['watch-card-md__thumb', 'is-active']
+                      : ['watch-card-md__thumb'],
+                    dataIndex: String(imageIndex),
+                    dataHref: entry.href,
+                    ariaLabel: `Show watch color option ${imageIndex + 1}`,
+                    ariaPressed: imageIndex === 0 ? 'true' : 'false',
+                  },
+                  children: entry.img ? [cloneNode(entry.img)] : [],
+                })),
+              }] : []),
+            ],
           },
           // Body side
           {
@@ -95,7 +153,7 @@ export default function rehypeWatchCards() {
                 type: 'element',
                 tagName: 'a',
                 properties: {
-                  href: ctaLink?.properties?.href ?? imgHref,
+                  href: ctaLink?.properties?.href ?? firstImageHref,
                   className: ['watch-card-md__btn'],
                   rel: ['nofollow'],
                   target: '_blank',
@@ -116,14 +174,23 @@ export default function rehypeWatchCards() {
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
-function isLinkedImageParagraph(node) {
-  if (node.tagName !== 'p') return false;
+function getLinkedImageEntries(node) {
+  if (node.tagName !== 'p') return [];
   const realChildren = node.children.filter(c => c.type !== 'text' || c.value.trim());
-  if (realChildren.length !== 1) return false;
-  const a = realChildren[0];
-  if (a.tagName !== 'a') return false;
-  const imgChildren = a.children.filter(c => c.type !== 'text' || c.value.trim());
-  return imgChildren.length === 1 && imgChildren[0].tagName === 'img';
+  if (realChildren.length === 0) return [];
+
+  const entries = realChildren.map((child) => {
+    if (child.tagName !== 'a') return null;
+    const imgChildren = child.children.filter(c => c.type !== 'text' || c.value.trim());
+    if (imgChildren.length !== 1 || imgChildren[0].tagName !== 'img') return null;
+
+    return {
+      href: child.properties?.href ?? '#',
+      img: cloneNode(imgChildren[0]),
+    };
+  });
+
+  return entries.every(Boolean) ? entries : [];
 }
 
 function isSpecsLabel(node) {
@@ -143,4 +210,8 @@ function isCheckPriceLink(node) {
 
 function isWhitespace(node) {
   return node.type === 'text' && !node.value.trim();
+}
+
+function cloneNode(node) {
+  return JSON.parse(JSON.stringify(node));
 }
