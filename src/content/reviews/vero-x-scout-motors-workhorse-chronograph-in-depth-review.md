@@ -13,35 +13,17 @@ Vero Watch Company has teamed up with Scout Motors to create the Workhorse Chron
 
 **_\*By clicking on the product links in this article, we may receive a commission fee at no cost to you. Thank you for your support._**
 
-<div class="watch-card-md">
-  <div class="watch-card-md__media" data-gallery="true" data-current-index="0">
-    <div class="watch-card-md__viewer">
-      <a class="watch-card-md__img" href="https://verowatch.pxf.io/WybXKA" rel="nofollow" target="_blank">
-        <img src="https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public" alt="Vero x Scout Motors Workhorse Chronograph Moonstone Blue">
-      </a>
-      <button type="button" class="watch-card-md__nav watch-card-md__nav--prev" aria-label="Show previous watch color option" disabled>‹</button>
-      <button type="button" class="watch-card-md__nav watch-card-md__nav--next" aria-label="Show next watch color option">›</button>
-    </div>
-    <div class="watch-card-md__thumbs">
-      <button type="button" class="watch-card-md__thumb is-active" data-index="0" data-href="https://verowatch.pxf.io/WybXKA" aria-label="Show watch color option 1" aria-pressed="true">
-        <img src="https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public" alt="Vero x Scout Motors Workhorse Chronograph Moonstone Blue">
-      </button>
-      <button type="button" class="watch-card-md__thumb" data-index="1" data-href="https://verowatch.pxf.io/WybXKA" aria-label="Show watch color option 2" aria-pressed="false">
-        <img src="https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public" alt="Vero x Scout Motors Workhorse Chronograph Terra Cotta">
-      </button>
-    </div>
-  </div>
-  <div class="watch-card-md__body">
-    <ul>
-      <li>Movement: Quartz</li>
-      <li>Caliber: Miyota 6S21</li>
-      <li>Case Width: 44.5 mm</li>
-      <li>Lug-to-Lug Distance: 49.5 mm</li>
-      <li>Price: $450</li>
-    </ul>
-    <a href="https://verowatch.pxf.io/WybXKA" class="watch-card-md__btn" rel="nofollow" target="_blank">Check Price</a>
-  </div>
-</div>
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)
+
+**Specs:**
+
+- Movement: Quartz
+- Caliber: Miyota 6S21
+- Case Width: 44.5 mm
+- Lug-to-Lug Distance: 49.5 mm
+- Price: $450
+
+[Check Price](https://verowatch.pxf.io/WybXKA)
 
 ### Design & Build
 
@@ -90,35 +72,17 @@ The Terra Cotta Workhorse is the wilder counterpart, showcasing a vibrant, earth
 
 **Cons:** Such a bright orange watch can be polarizing – it won’t suit every occasion or every outfit. The Terra Cotta is definitively a weekender/field watch in style; if you’re looking for one do-it-all watch, this colorway might clash in more formal or subdued settings. Its extreme limited status (150 pieces) is a double-edged sword – while it’s exciting for those who snag one, it may be frustrating for fans who prefer this version but find it sold out quickly. Additionally, down the line the Terra Cotta edition could command higher prices on the secondary market due to scarcity. Finally, the very traits that make it cool – the attention-grabbing color and chunky build – also mean it demands attention on your wrist, which not everyone will want all the time.
 
-<div class="watch-card-md">
-  <div class="watch-card-md__media" data-gallery="true" data-current-index="0">
-    <div class="watch-card-md__viewer">
-      <a class="watch-card-md__img" href="https://verowatch.pxf.io/WybXKA" rel="nofollow" target="_blank">
-        <img src="https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public" alt="Vero x Scout Motors Workhorse Chronograph Moonstone Blue">
-      </a>
-      <button type="button" class="watch-card-md__nav watch-card-md__nav--prev" aria-label="Show previous watch color option" disabled>‹</button>
-      <button type="button" class="watch-card-md__nav watch-card-md__nav--next" aria-label="Show next watch color option">›</button>
-    </div>
-    <div class="watch-card-md__thumbs">
-      <button type="button" class="watch-card-md__thumb is-active" data-index="0" data-href="https://verowatch.pxf.io/WybXKA" aria-label="Show watch color option 1" aria-pressed="true">
-        <img src="https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public" alt="Vero x Scout Motors Workhorse Chronograph Moonstone Blue">
-      </button>
-      <button type="button" class="watch-card-md__thumb" data-index="1" data-href="https://verowatch.pxf.io/WybXKA" aria-label="Show watch color option 2" aria-pressed="false">
-        <img src="https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public" alt="Vero x Scout Motors Workhorse Chronograph Terra Cotta">
-      </button>
-    </div>
-  </div>
-  <div class="watch-card-md__body">
-    <ul>
-      <li>Movement: Quartz</li>
-      <li>Caliber: Miyota 6S21</li>
-      <li>Case Width: 44.5 mm</li>
-      <li>Lug-to-Lug Distance: 49.5 mm</li>
-      <li>Price: $450</li>
-    </ul>
-    <a href="https://verowatch.pxf.io/WybXKA" class="watch-card-md__btn" rel="nofollow" target="_blank">Check Price</a>
-  </div>
-</div>
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)
+
+**Specs:**
+
+- Movement: Quartz
+- Caliber: Miyota 6S21
+- Case Width: 44.5 mm
+- Lug-to-Lug Distance: 49.5 mm
+- Price: $450
+
+[Check Price](https://verowatch.pxf.io/WybXKA)
 
 ## Takeaway and Final Thoughts about the Vero X Scout Motors Workhorse Chronograph
 
@@ -126,32 +90,14 @@ The Vero X Scout Motors Workhorse Chronograph is a compelling blend of automotiv
 
 That said, potential buyers should consider the wrist size and aesthetic: at 44.5 mm, the Workhorse Chrono wears proudly and won’t hide under a cuff, and its design unabashedly favors casual adventure settings. If you have a smaller wrist or need a watch that transitions to business attire, this isn’t the most versatile choice. But for those who love the outdoors, appreciate a bit of vintage American automotive lore, or just want a watch that breaks the mold, the Workhorse delivers. With a price of $450, it offers a lot of functionality and a decade of guaranteed worry-free use under Vero’s warranty. Between the two versions, Moonstone Blue will appeal to the enthusiast who prefers a classic look with a twist, whereas Terra Cotta is perfect for someone who wants their watch to be bold and fun. In the end, both editions capture the collaborative spirit of Vero and Scout Motors – heritage colors, rugged engineering, and a shared love of adventure – making the Workhorse Chrono a unique and worthy addition to any watch collection.
 
-<div class="watch-card-md">
-  <div class="watch-card-md__media" data-gallery="true" data-current-index="0">
-    <div class="watch-card-md__viewer">
-      <a class="watch-card-md__img" href="https://verowatch.pxf.io/WybXKA" rel="nofollow" target="_blank">
-        <img src="https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public" alt="Vero x Scout Motors Workhorse Chronograph Moonstone Blue">
-      </a>
-      <button type="button" class="watch-card-md__nav watch-card-md__nav--prev" aria-label="Show previous watch color option" disabled>‹</button>
-      <button type="button" class="watch-card-md__nav watch-card-md__nav--next" aria-label="Show next watch color option">›</button>
-    </div>
-    <div class="watch-card-md__thumbs">
-      <button type="button" class="watch-card-md__thumb is-active" data-index="0" data-href="https://verowatch.pxf.io/WybXKA" aria-label="Show watch color option 1" aria-pressed="true">
-        <img src="https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public" alt="Vero x Scout Motors Workhorse Chronograph Moonstone Blue">
-      </button>
-      <button type="button" class="watch-card-md__thumb" data-index="1" data-href="https://verowatch.pxf.io/WybXKA" aria-label="Show watch color option 2" aria-pressed="false">
-        <img src="https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public" alt="Vero x Scout Motors Workhorse Chronograph Terra Cotta">
-      </button>
-    </div>
-  </div>
-  <div class="watch-card-md__body">
-    <ul>
-      <li>Movement: Quartz</li>
-      <li>Caliber: Miyota 6S21</li>
-      <li>Case Width: 44.5 mm</li>
-      <li>Lug-to-Lug Distance: 49.5 mm</li>
-      <li>Price: $450</li>
-    </ul>
-    <a href="https://verowatch.pxf.io/WybXKA" class="watch-card-md__btn" rel="nofollow" target="_blank">Check Price</a>
-  </div>
-</div>
+[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-vero-scout-blue-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)[![](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/2025-12-Vero_Scout_orange-768x960.webp/public)](https://verowatch.pxf.io/WybXKA)
+
+**Specs:**
+
+- Movement: Quartz
+- Caliber: Miyota 6S21
+- Case Width: 44.5 mm
+- Lug-to-Lug Distance: 49.5 mm
+- Price: $450
+
+[Check Price](https://verowatch.pxf.io/WybXKA)
