@@ -10,22 +10,27 @@
   <div class="cookie-banner__backdrop"></div>
   <div class="cookie-banner__inner">
     <div class="cookie-banner__panel" data-cookie-panel="main">
+      <p class="cookie-banner__eyebrow">Privacy choices</p>
+      <h2 class="cookie-banner__title">Help us improve The Watch Resource</h2>
       <p class="cookie-banner__text">
-        We use cookies to analyse site traffic and improve your experience. You can accept all cookies, allow
-        necessary cookies only, or adjust analytics cookies in settings.
+        We use cookies to understand which reviews, guides, and comparison pages help readers most so we can improve
+        the site. You can accept analytics cookies, use essential cookies only, or manage your preferences.
         <a href="/pages/privacy-policy/" class="cookie-banner__link">Privacy Policy</a>
       </p>
+      <p class="cookie-banner__note">We do not use advertising cookies in this banner. Analytics is used only to measure site performance and improve content.</p>
       <div class="cookie-banner__actions">
         <button id="cookie-accept-all" class="cookie-btn cookie-btn--primary" type="button">Accept All</button>
-        <button id="cookie-accept-necessary" class="cookie-btn cookie-btn--outline" type="button">Accept Necessary Only</button>
-        <button id="cookie-settings" class="cookie-btn cookie-btn--ghost" type="button">Settings</button>
+        <button id="cookie-accept-necessary" class="cookie-btn cookie-btn--outline" type="button">Use Essential Only</button>
+        <button id="cookie-settings" class="cookie-btn cookie-btn--ghost" type="button">Manage Preferences</button>
       </div>
     </div>
 
     <div class="cookie-banner__panel" data-cookie-panel="settings" hidden>
+      <p class="cookie-banner__eyebrow">Manage preferences</p>
+      <h2 class="cookie-banner__title">Choose which cookies you want to allow</h2>
       <p class="cookie-banner__text">
-        Choose which optional cookies you want to allow. Necessary cookies are always on because they keep the site
-        functioning properly.
+        Necessary cookies are always on because they keep the site functioning properly. Analytics stays off until you
+        choose to enable it.
       </p>
       <div class="cookie-options">
         <label class="cookie-option">
@@ -39,7 +44,7 @@
         <label class="cookie-option">
           <span class="cookie-option__copy">
             <span class="cookie-option__title">Analytics</span>
-            <span class="cookie-option__description">Optional cookies used by Google Analytics 4 to measure site usage and performance.</span>
+            <span class="cookie-option__description">Optional cookies used by Google Analytics 4 to understand which pages perform well, improve navigation, and make our content more useful.</span>
           </span>
           <input id="cookie-analytics" type="checkbox" />
         </label>
@@ -301,11 +306,39 @@
     padding: 1.25rem 1.4rem;
   }
 
+  .cookie-banner__eyebrow {
+    margin: 0 0 0.45rem;
+    color: #EBA541;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .cookie-banner__title {
+    margin: 0 0 0.55rem;
+    color: #101010;
+    font-family: var(--font-heading);
+    font-size: clamp(1.2rem, 2vw, 1.65rem);
+    line-height: 1.1;
+  }
+
   .cookie-banner__text {
     margin: 0;
     font-size: 0.95rem;
     color: #4d4d55;
     line-height: 1.7;
+  }
+
+  .cookie-banner__note {
+    margin: 0.8rem 0 0;
+    color: #5f5f68;
+    font-size: 0.84rem;
+    line-height: 1.6;
+    background: #f7f4ee;
+    border: 1px solid rgba(235, 165, 65, 0.22);
+    border-radius: 12px;
+    padding: 0.75rem 0.9rem;
   }
 
   .cookie-banner__link {
@@ -322,6 +355,10 @@
     margin-top: 1rem;
   }
 
+  .cookie-banner__actions--settings {
+    justify-content: flex-start;
+  }
+
   .cookie-btn {
     appearance: none;
     border-radius: 999px;
@@ -330,6 +367,7 @@
     font-weight: 600;
     min-height: 44px;
     padding: 0.72rem 1.15rem;
+    box-shadow: 0 1px 0 rgba(16, 16, 16, 0.04);
     transition: transform 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
   }
 
@@ -378,7 +416,7 @@
     gap: 1rem;
     border: 1px solid rgba(16, 16, 16, 0.08);
     border-radius: 12px;
-    padding: 0.95rem 1rem;
+    padding: 1rem;
     background: #f9fafd;
   }
 
