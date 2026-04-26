@@ -221,10 +221,33 @@
       closeBanner();
     }
 
+    function shouldRequireAnalyticsConsentByTimezone() {
+      var timezone = '';
+
+      try {
+        timezone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+      } catch (_) {}
+
+      if (!timezone) return true;
+      if (timezone.indexOf('Europe/') === 0) return true;
+
+      return [
+        'Atlantic/Azores',
+        'Atlantic/Canary',
+        'Atlantic/Faroe',
+        'Atlantic/Madeira',
+        'Atlantic/Reykjavik'
+      ].indexOf(timezone) !== -1;
+    }
+
     var storedConsent = readConsent();
     if (storedConsent) {
       syncInputs(storedConsent);
       applyTrackingConsent(storedConsent);
+      closeBanner();
+    } else if (!shouldRequireAnalyticsConsentByTimezone()) {
+      syncInputs({ necessary: true, analytics: true });
+      applyTrackingConsent({ necessary: true, analytics: true });
       closeBanner();
     } else {
       openBanner('main');

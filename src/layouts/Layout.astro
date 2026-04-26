@@ -74,7 +74,35 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
           return null;
         }
 
-        var analyticsGranted = readStoredConsent() === true;
+        function shouldRequireAnalyticsConsentByTimezone() {
+          var timezone = '';
+
+          try {
+            timezone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+          } catch (_) {}
+
+          if (!timezone) return true;
+          if (timezone.indexOf('Europe/') === 0) return true;
+
+          return [
+            'Atlantic/Azores',
+            'Atlantic/Canary',
+            'Atlantic/Faroe',
+            'Atlantic/Madeira',
+            'Atlantic/Reykjavik'
+          ].indexOf(timezone) !== -1;
+        }
+
+        var storedAnalyticsConsent = readStoredConsent();
+        var shouldRequireAnalyticsConsent = shouldRequireAnalyticsConsentByTimezone();
+        var analyticsGranted =
+          storedAnalyticsConsent === true ||
+          (storedAnalyticsConsent === null && !shouldRequireAnalyticsConsent);
+
+        window.twrAnalyticsRegionConsentRequired = shouldRequireAnalyticsConsent;
+        window.twrAnalyticsConsentMode = storedAnalyticsConsent === null
+          ? shouldRequireAnalyticsConsent ? 'regional-consent-required' : 'regional-default-granted'
+          : 'stored-preference';
 
         gtag('consent', 'default', {
           analytics_storage: analyticsGranted ? 'granted' : 'denied',
