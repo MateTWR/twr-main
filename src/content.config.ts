@@ -4,6 +4,7 @@ import { glob } from 'astro/loaders';
 
 const postSchema = z.object({
   title: z.string(),
+  seoTitle: z.string().optional(),
   date: z.coerce.date(),
   categories: z.array(z.string()).default([]),
   tags: z.array(z.string()).default([]),
@@ -12,8 +13,10 @@ const postSchema = z.object({
   author: z.string().optional(),
   draft: z.boolean().default(false),
   ratingTotal:       z.number().optional(),
+  ratingDialCase:    z.number().optional(),
   ratingDial:        z.number().optional(),
   ratingCase:        z.number().optional(),
+  ratingComfort:     z.number().optional(),
   ratingWearability: z.number().optional(),
   ratingPrice:       z.number().optional(),
   price:             z.number().optional(),

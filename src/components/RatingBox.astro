@@ -1,17 +1,21 @@
 ---
 interface Props {
   total:       number;
+  dialCase?:   number;
   dial?:       number;
   watchCase?:  number;
+  comfort?:    number;
   wearability?: number;
   price?:      number;
 }
 
-const { total, dial, watchCase, wearability, price } = Astro.props;
+const { total, dialCase, dial, watchCase, comfort, wearability, price } = Astro.props;
 
 const categories = [
+  { label: 'Dial & Case', score: dialCase },
   { label: 'Dial',        score: dial },
   { label: 'Case',        score: watchCase },
+  { label: 'Comfort',     score: comfort },
   { label: 'Wearability', score: wearability },
   { label: 'Price',       score: price },
 ].filter(c => c.score !== undefined) as { label: string; score: number }[];

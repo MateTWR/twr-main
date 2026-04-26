@@ -158,7 +158,9 @@ export default function rehypeWatchCards() {
                   rel: ['nofollow'],
                   target: '_blank',
                 },
-                children: [{ type: 'text', value: 'Check Price' }],
+                children: ctaLink?.children?.length
+                  ? ctaLink.children.map(cloneNode)
+                  : [{ type: 'text', value: 'Check Price' }],
               },
             ],
           },
