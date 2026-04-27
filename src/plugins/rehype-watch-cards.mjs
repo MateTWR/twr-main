@@ -26,6 +26,18 @@ export default function rehypeWatchCards() {
     visit(tree, 'element', (node, index, parent) => {
       if (!parent || index == null) return;
 
+      const comparisonProductEntries = getComparisonProductEntries(node);
+      if (comparisonProductEntries.length > 1) {
+        parent.children.splice(index, 1, buildComparisonGrid(comparisonProductEntries, true));
+        return;
+      }
+
+      const comparisonImageEntries = getComparisonImageEntries(node);
+      if (comparisonImageEntries.length > 1) {
+        parent.children.splice(index, 1, buildComparisonGrid(comparisonImageEntries, false));
+        return;
+      }
+
       const imageEntries = getLinkedImageEntries(node);
       if (imageEntries.length === 0) return;
 
@@ -176,6 +188,85 @@ export default function rehypeWatchCards() {
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
+function buildComparisonGrid(entries, hasCtas) {
+  return {
+    type: 'element',
+    tagName: 'div',
+    properties: {
+      className: hasCtas
+        ? ['comparison-product-grid', 'comparison-product-grid--with-ctas']
+        : ['comparison-product-grid'],
+    },
+    children: entries.map((entry) => ({
+      type: 'element',
+      tagName: 'div',
+      properties: { className: ['comparison-product-grid__item'] },
+      children: [
+        entry.href
+          ? {
+              type: 'element',
+              tagName: 'a',
+              properties: {
+                href: entry.href,
+                className: ['comparison-product-grid__image-link'],
+                rel: ['nofollow'],
+                target: '_blank',
+              },
+              children: entry.img ? [entry.img] : [],
+            }
+          : entry.img,
+        ...(entry.cta ? [{
+          type: 'element',
+          tagName: 'a',
+          properties: {
+            href: entry.cta.properties?.href ?? entry.href ?? '#',
+            className: ['comparison-product-grid__btn'],
+            rel: ['nofollow'],
+            target: '_blank',
+          },
+          children: entry.cta.children?.length
+            ? entry.cta.children.map(cloneNode)
+            : [{ type: 'text', value: 'Check Price' }],
+        }] : []),
+      ].filter(Boolean),
+    })),
+  };
+}
+
+function getComparisonProductEntries(node) {
+  if (node.tagName !== 'p') return [];
+  const realChildren = node.children.filter(c => c.type !== 'text' || c.value.trim());
+  if (realChildren.length < 4 || realChildren.length % 2 !== 0) return [];
+
+  const entries = [];
+  for (let i = 0; i < realChildren.length; i += 2) {
+    const imageLink = realChildren[i];
+    const ctaLink = realChildren[i + 1];
+    if (!isLinkedImage(imageLink) || !isCheckPriceAnchor(ctaLink)) return [];
+
+    entries.push({
+      href: imageLink.properties?.href ?? '#',
+      img: cloneNode(getOnlyMeaningfulChild(imageLink)),
+      cta: cloneNode(ctaLink),
+    });
+  }
+
+  return entries;
+}
+
+function getComparisonImageEntries(node) {
+  if (node.tagName !== 'p') return [];
+  const realChildren = node.children.filter(c => c.type !== 'text' || c.value.trim());
+  if (realChildren.length < 2) return [];
+  if (!realChildren.every(child => child.tagName === 'img')) return [];
+
+  return realChildren.map(img => ({
+    href: null,
+    img: cloneNode(img),
+    cta: null,
+  }));
+}
+
 function getLinkedImageEntries(node) {
   if (node.tagName !== 'p') return [];
   const realChildren = node.children.filter(c => c.type !== 'text' || c.value.trim());
@@ -193,6 +284,27 @@ function getLinkedImageEntries(node) {
   });
 
   return entries.every(Boolean) ? entries : [];
+}
+
+function isLinkedImage(node) {
+  if (node?.tagName !== 'a') return false;
+  const meaningful = node.children.filter(c => c.type !== 'text' || c.value.trim());
+  return meaningful.length === 1 && meaningful[0].tagName === 'img';
+}
+
+function isCheckPriceAnchor(node) {
+  if (node?.tagName !== 'a') return false;
+  return getTextContent(node).trim().replace(/\s+/g, ' ').toLowerCase() === 'check price';
+}
+
+function getOnlyMeaningfulChild(node) {
+  return node.children.find(c => c.type !== 'text' || c.value.trim());
+}
+
+function getTextContent(node) {
+  if (!node) return '';
+  if (node.type === 'text') return node.value;
+  return (node.children ?? []).map(getTextContent).join('');
 }
 
 function isSpecsLabel(node) {
