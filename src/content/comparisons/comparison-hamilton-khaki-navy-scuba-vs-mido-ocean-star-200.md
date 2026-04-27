@@ -122,3 +122,5 @@ The **Mido Ocean Star 200** is the watch you buy if you want the most comfortabl
 | Case Thickness | 12.53 mm | 11.9 mm |
 | Crystal | Sapphire | Sapphire (Double-sided AR) |
 | Price | $995 - $1,225 | $950 - $1,100 |
+
+[comparison-grid-refresh]: #

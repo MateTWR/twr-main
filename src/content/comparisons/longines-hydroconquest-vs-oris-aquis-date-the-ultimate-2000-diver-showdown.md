@@ -122,3 +122,5 @@ This is usually the "make or break" point for buyers:
 | Case Diameter | 43 mm | 41.5 mm |
 | Case Thickness | 11.9 mm | 13 mm |
 | Price | ~ $2,000 | ~ $3,500 |
+
+[comparison-grid-refresh]: #

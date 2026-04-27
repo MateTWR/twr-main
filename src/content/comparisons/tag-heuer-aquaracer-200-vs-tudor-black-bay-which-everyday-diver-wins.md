@@ -98,3 +98,5 @@ Personally? I love the way the light hits that blue TAG dial, but the T-fit clas
 | Lug-to-Lug Distance | 46.6 mm | 49.3 mm |
 | Case Thickness | 11.5 mm | 13.6 mm |
 | Price | ~ $2,800 | ~ $4,400 |
+
+[comparison-grid-refresh]: #

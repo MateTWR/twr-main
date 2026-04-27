@@ -121,3 +121,5 @@ Which should you choose? If you have a larger wrist and value "best-in-class" sp
 | Case Diameter | 43 mm | 40 mm |
 | Case Thickness | 11.9 mm | 11.5 mm |
 | Price | ~ $1,775 | ~ $2,800 |
+
+[comparison-grid-refresh]: #

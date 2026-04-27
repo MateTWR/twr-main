@@ -109,3 +109,5 @@ The **Oris Aquis Date Calibre 400** is the "Enthusiast’s" choice. It is the wa
 | Case Thickness | 11.5 mm | 13.5 mm |
 | Warranty | 2 Years | 10 Years |
 | Price | ~ $2,800 | ~ $3,500 |
+
+[comparison-grid-refresh]: #

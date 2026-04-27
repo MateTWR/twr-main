@@ -134,3 +134,5 @@ Based on our honest opinion, you can weigh the two options this way:
 - Lug Distance: 21 mm
 - Water Resistance: 300 m
 - Retail Price: Around $750
+
+[comparison-grid-refresh]: #

@@ -105,3 +105,5 @@ However, if you want a watch that you can wear every single day, from the beach 
 | Lug-to-Lug Distance | 49.6 mm | 49 mm |
 | Case Thickness | 12.7 mm | 11.8 mm |
 | Price | $875 | $950 - $1,050 |
+
+[comparison-grid-refresh]: #

@@ -136,3 +136,5 @@ Choose the Longines HydroConquest if:
 | Case Thickness | 12.53 mm | 11.9 mm |
 | Crystal | Sapphire | Sapphire (Multi-layer AR Coating) |
 | Price | $995 - $1,225 | $1,775 |
+
+[comparison-grid-refresh]: #

@@ -123,3 +123,5 @@ The Mido Ocean Star 200 is the "value play." It gives you 80% of the luxury expe
 | Lug-to-Lug Distance | 52 mm | 49 mm |
 | Case Thickness | 11.9 mm | 11.8 mm |
 | Price | $1,775 | $950 - $1,050 |
+
+[comparison-grid-refresh]: #
