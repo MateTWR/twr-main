@@ -22,20 +22,24 @@
 import { visit } from 'unist-util-visit';
 
 export default function rehypeWatchCards() {
-  return (tree) => {
+  return (tree, file) => {
+    const isComparisonArticle = isComparisonFile(file);
+
     visit(tree, 'element', (node, index, parent) => {
       if (!parent || index == null) return;
 
-      const comparisonProductEntries = getComparisonProductEntries(node);
-      if (comparisonProductEntries.length > 1) {
-        parent.children.splice(index, 1, buildComparisonGrid(comparisonProductEntries, true));
-        return;
-      }
+      if (isComparisonArticle) {
+        const comparisonProductEntries = getComparisonProductEntries(node);
+        if (comparisonProductEntries.length > 1) {
+          parent.children.splice(index, 1, buildComparisonGrid(comparisonProductEntries, true));
+          return;
+        }
 
-      const comparisonImageEntries = getComparisonImageEntries(node);
-      if (comparisonImageEntries.length > 1) {
-        parent.children.splice(index, 1, buildComparisonGrid(comparisonImageEntries, false));
-        return;
+        const comparisonImageEntries = getComparisonImageEntries(node);
+        if (comparisonImageEntries.length > 1) {
+          parent.children.splice(index, 1, buildComparisonGrid(comparisonImageEntries, false));
+          return;
+        }
       }
 
       const imageEntries = getLinkedImageEntries(node);
@@ -187,6 +191,12 @@ export default function rehypeWatchCards() {
 }
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
+
+function isComparisonFile(file) {
+  const filePath = file?.history?.[0] ?? file?.path ?? '';
+  const normalizedPath = filePath.replace(/\\/g, '/');
+  return normalizedPath.includes('src/content/comparisons/');
+}
 
 function buildComparisonGrid(entries, hasCtas) {
   return {
