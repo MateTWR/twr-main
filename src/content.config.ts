@@ -9,6 +9,7 @@ const postSchema = z.object({
   categories: z.array(z.string()).default([]),
   tags: z.array(z.string()).default([]),
   description: z.string().optional(),
+  hideHeaderDescription: z.boolean().optional(),
   heroImage: z.string().optional(),
   author: z.string().optional(),
   draft: z.boolean().default(false),
