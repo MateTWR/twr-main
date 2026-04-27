@@ -179,7 +179,7 @@ Visually and functionally, the DS Action Diver strikes a compelling balance — 
 
 [Check Price](https://eu.doxawatches.com//products/sub-200-caribbean?variant=39629847330898)
 
-The Sub 200 Caribbean channels the daring spirit of the sea with a sleek 42 mm (approx) 316L stainless-steel case, a domed sapphire crystal echoing the curves of vintage plexiglass and a crisp navy-blue dial that evokes tropical depths. Water resistant to 200 metres (20 ATM), it features a unidirectional rotating bezel and Super-LumiNova® treated dial and bezel markers for high-visibility in low-light or underwater conditions.
+The [Doxa Sub 200](https://www.thewatchresource.com/reviews/doxa-sub-200-professional-hands-on-review/) Caribbean channels the daring spirit of the sea with a sleek 42 mm (approx) 316L stainless-steel case, a domed sapphire crystal echoing the curves of vintage plexiglass and a crisp navy-blue dial that evokes tropical depths. Water resistant to 200 metres (20 ATM), it features a unidirectional rotating bezel and Super-LumiNova® treated dial and bezel markers for high-visibility in low-light or underwater conditions.
 
 Behind the scenes, this model is powered by an automatic Swiss movement (running at 28,800 vph) with a roughly 38-hour power reserve. The heritage of the brand gives the watch depth: founded in 1889 by Georges Ducommun, the company built its reputation in Le Locle, Switzerland and became known for pioneering dive watches through the 1960s and beyond.
 
