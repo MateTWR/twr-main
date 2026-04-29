@@ -4,8 +4,818 @@
   "outputDirectory": "dist",
   "redirects": [
     {
+      "source": "/alpina-alpiner-4-review/",
+      "destination": "/reviews/alpina-alpiner-4-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ball-engineer-hydrocarbon-original-hands-on-review/",
+      "destination": "/reviews/ball-engineer-hydrocarbon-original-hands-on-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ball-watches-a-comprehensive-brand-review/",
+      "destination": "/reviews/ball-watches-a-comprehensive-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/bell-ross-br-05-gmt-review/",
+      "destination": "/reviews/bell-ross-br-05-gmt-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/bell-ross-br-05-review/",
+      "destination": "/reviews/bell-ross-br-05-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/benrus-orbit-robot-skindiver-review/",
+      "destination": "/reviews/benrus-orbit-robot-skindiver-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/benrus-sea-lord-hands-on-review/",
+      "destination": "/reviews/benrus-sea-lord-hands-on-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/benrus-ultra-deep-review/",
+      "destination": "/reviews/benrus-ultra-deep-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/benrus-watches-brand-history-and-review/",
+      "destination": "/reviews/benrus-watches-brand-history-and-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/brand-reviews/",
+      "destination": "/reviews/brand-reviews/",
+      "statusCode": 301
+    },
+    {
+      "source": "/bremont-watches-brand-review/",
+      "destination": "/reviews/bremont-watches-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/certina-brand-review/",
+      "destination": "/reviews/certina-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/circula-divesport-titanium-petrol-in-depth-review/",
+      "destination": "/reviews/circula-divesport-titanium-petrol-in-depth-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/doxa-sub-600t-caribbean-862-10-201-32-n-in-depth-review/",
+      "destination": "/reviews/doxa-sub-600t-caribbean-862-10-201-32-n-in-depth-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/doxa-watches-brand-review/",
+      "destination": "/reviews/doxa-watches-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/echo-neutra-cortina-1956-3h-review/",
+      "destination": "/reviews/echo-neutra-cortina-1956-3h-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/furlan-marri-watches-brand-review/",
+      "destination": "/reviews/furlan-marri-watches-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hamilton-intra-matic-auto-chrono-review/",
+      "destination": "/reviews/hamilton-intra-matic-auto-chrono-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hamilton-khaki-aviation-collection-review/",
+      "destination": "/reviews/hamilton-khaki-aviation-collection-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hamilton-khaki-aviation-pilot-pioneer-h76205530-review/",
+      "destination": "/reviews/hamilton-khaki-aviation-pilot-pioneer-h76205530-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hamilton-khaki-field-collection-review/",
+      "destination": "/reviews/hamilton-khaki-field-collection-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hamilton-khaki-navy-collection-review/",
+      "destination": "/reviews/hamilton-khaki-navy-collection-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hamilton-khaki-navy-scuba-auto-review/",
+      "destination": "/reviews/hamilton-khaki-navy-scuba-auto-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/hamilton-watches-brand-history-and-review/",
+      "destination": "/reviews/hamilton-watches-brand-history-and-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/in-depth-watch-reviews/",
+      "destination": "/reviews/in-depth-watch-reviews/",
+      "statusCode": 301
+    },
+    {
+      "source": "/jowissa-review/",
+      "destination": "/reviews/jowissa-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/kuoe-old-smith-90-007-in-depth-review/",
+      "destination": "/reviews/kuoe-old-smith-90-007-in-depth-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/laco-frankfurt-gmt-review/",
+      "destination": "/reviews/laco-frankfurt-gmt-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/laco-hamburg-din-8330-ref-862164-pilot-watch-in-depth-review/",
+      "destination": "/reviews/laco-hamburg-din-8330-ref-862164-pilot-watch-in-depth-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/laco-squad-watches-review/",
+      "destination": "/reviews/laco-squad-watches-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/laco-watches-brand-review/",
+      "destination": "/reviews/laco-watches-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/le-forban-securite-mer-rochelaise-review/",
+      "destination": "/reviews/le-forban-securite-mer-rochelaise-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/le-forban-securite-mer-the-malouine-review/",
+      "destination": "/reviews/le-forban-securite-mer-the-malouine-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/longines-conquest-41-mm-l3-830-4-02-6-review/",
+      "destination": "/reviews/longines-conquest-41-mm-l3-830-4-02-6-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/lorca-model-no-1-gmt-review/",
+      "destination": "/reviews/lorca-model-no-1-gmt-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/maen-manhattan-37-m2-grey-ice-hands-on-review/",
+      "destination": "/reviews/maen-manhattan-37-m2-grey-ice-hands-on-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/minus-8-diver-2-0-review/",
+      "destination": "/reviews/minus-8-diver-2-0-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/muhle-glashutte-teutonia-sport-ii-racing-green-in-depth-review/",
+      "destination": "/reviews/muhle-glashutte-teutonia-sport-ii-racing-green-in-depth-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nezumi-voiture-review/",
+      "destination": "/reviews/nezumi-voiture-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/nivada-grenchen-brand-review/",
+      "destination": "/reviews/nivada-grenchen-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/norqain-adventure-sport-review/",
+      "destination": "/reviews/norqain-adventure-sport-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/norqain-freedom-chrono-60-review/",
+      "destination": "/reviews/norqain-freedom-chrono-60-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/norqain-watches-brand-history-and-review/",
+      "destination": "/reviews/norqain-watches-brand-history-and-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/norqain-wild-one-42-mm-khaki-review/",
+      "destination": "/reviews/norqain-wild-one-42-mm-khaki-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ollech-wajs-brand-review/",
+      "destination": "/reviews/ollech-wajs-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/rado-review/",
+      "destination": "/reviews/rado-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/raymond-weil-freelancer-gmt-worldtimer-review-a-must-have-gmt-watch/",
+      "destination": "/reviews/raymond-weil-freelancer-gmt-worldtimer-review-a-must-have-gmt-watch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/raymond-weil-review/",
+      "destination": "/reviews/raymond-weil-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/review-longines-legend-diver/",
+      "destination": "/reviews/review-longines-legend-diver/",
+      "statusCode": 301
+    },
+    {
+      "source": "/review-spinnaker-dumas/",
+      "destination": "/reviews/review-spinnaker-dumas/",
+      "statusCode": 301
+    },
+    {
+      "source": "/serica-watches-brand-review-shopping-guide/",
+      "destination": "/reviews/serica-watches-brand-review-shopping-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/shinola-runwell-41-review/",
+      "destination": "/reviews/shinola-runwell-41-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/sinn-104-st-sa-w-104-012-in-depth-review/",
+      "destination": "/reviews/sinn-104-st-sa-w-104-012-in-depth-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/spinnaker-watches-review-everything-you-need-to-know/",
+      "destination": "/reviews/spinnaker-watches-review-everything-you-need-to-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/sternglas-marus-black-review/",
+      "destination": "/reviews/sternglas-marus-black-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/sternglas-tachymeter-review/",
+      "destination": "/reviews/sternglas-tachymeter-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/sternglas-watches-brand-review/",
+      "destination": "/reviews/sternglas-watches-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/szanto-watches-brand-history-and-review/",
+      "destination": "/reviews/szanto-watches-brand-history-and-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/timex-watches-review-brand-history-and-review/",
+      "destination": "/reviews/timex-watches-review-brand-history-and-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tissot-watches-brand-history-and-review/",
+      "destination": "/reviews/tissot-watches-brand-history-and-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/undone-review/",
+      "destination": "/reviews/undone-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/unimatic-u4-classic-hands-on-review/",
+      "destination": "/reviews/unimatic-u4-classic-hands-on-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/unimatic-watches-brand-review/",
+      "destination": "/reviews/unimatic-watches-brand-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vaer-d5-meridian-navy-diver-review/",
+      "destination": "/reviews/vaer-d5-meridian-navy-diver-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vaer-r1-racing-chronograph-review/",
+      "destination": "/reviews/vaer-r1-racing-chronograph-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vaer-s3-tradition-review/",
+      "destination": "/reviews/vaer-s3-tradition-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vaer-watches-brand-history-and-review/",
+      "destination": "/reviews/vaer-watches-brand-history-and-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vero-x-realtree-tide-tracker-compass-blue-in-depth-review/",
+      "destination": "/reviews/vero-x-realtree-tide-tracker-compass-blue-in-depth-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vero-x-realtree-tide-tracker-outpost-black-hands-on-review/",
+      "destination": "/reviews/vero-x-realtree-tide-tracker-outpost-black-hands-on-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/vero-x-scout-motors-workhorse-chronograph-in-depth-review/",
+      "destination": "/reviews/vero-x-scout-motors-workhorse-chronograph-in-depth-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/victorinox-air-pro-automatic-ref-242003-in-depth-review/",
+      "destination": "/reviews/victorinox-air-pro-automatic-ref-242003-in-depth-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/victorinox-airboss-collection-review/",
+      "destination": "/reviews/victorinox-airboss-collection-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/victorinox-alliance-collection-review/",
+      "destination": "/reviews/victorinox-alliance-collection-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/victorinox-fieldforce-collection-review/",
+      "destination": "/reviews/victorinox-fieldforce-collection-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/victorinox-i-n-o-x-collection-review/",
+      "destination": "/reviews/victorinox-i-n-o-x-collection-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/victorinox-journey-1884-review-a-partner-for-all-adventures/",
+      "destination": "/reviews/victorinox-journey-1884-review-a-partner-for-all-adventures/",
+      "statusCode": 301
+    },
+    {
+      "source": "/victorinox-maverick-collection-review/",
+      "destination": "/reviews/victorinox-maverick-collection-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/victorinox-review/",
+      "destination": "/reviews/victorinox-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/william-wood-watches-review-brand-history-and-review/",
+      "destination": "/reviews/william-wood-watches-review-brand-history-and-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/yema-watches-brand-review-history-and-buyers-guide/",
+      "destination": "/reviews/yema-watches-brand-review-history-and-buyers-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zodiac-super-sea-wolf-pro-diver-review/",
+      "destination": "/reviews/zodiac-super-sea-wolf-pro-diver-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zodiac-watches-brand-history-and-review/",
+      "destination": "/reviews/zodiac-watches-brand-history-and-review/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zrc-watches-brand-review-buyers-guide/",
+      "destination": "/reviews/zrc-watches-brand-review-buyers-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-affordable-dive-watches/",
+      "destination": "/guides/best-affordable-dive-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-affordable-everyday-watches/",
+      "destination": "/guides/best-affordable-everyday-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-affordable-racing-watches/",
+      "destination": "/guides/best-affordable-racing-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-american-watch-brands/",
+      "destination": "/guides/best-american-watch-brands/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-automatic-watches-under-1000/",
+      "destination": "/guides/best-automatic-watches-under-1000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-automatic-watches-under-500/",
+      "destination": "/guides/best-automatic-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-automotive-inspired-watches/",
+      "destination": "/guides/best-automotive-inspired-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-bauhaus-watches-for-minimalist-fans/",
+      "destination": "/guides/best-bauhaus-watches-for-minimalist-fans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-brown-dial-watches/",
+      "destination": "/guides/best-brown-dial-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-dive-watches-under-1000/",
+      "destination": "/guides/best-dive-watches-under-1000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-dive-watches-under-2000/",
+      "destination": "/guides/best-dive-watches-under-2000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-dive-watches-under-500/",
+      "destination": "/guides/best-dive-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-dive-watches-under-5000/",
+      "destination": "/guides/best-dive-watches-under-5000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-dress-watches-under-1000/",
+      "destination": "/guides/best-dress-watches-under-1000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-dress-watches-under-500/",
+      "destination": "/guides/best-dress-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-dress-watches-under-5000/",
+      "destination": "/guides/best-dress-watches-under-5000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-everyday-watches-under-1000/",
+      "destination": "/guides/best-everyday-watches-under-1000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-everyday-watches-under-500/",
+      "destination": "/guides/best-everyday-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-field-watches-under-2000/",
+      "destination": "/guides/best-field-watches-under-2000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-field-watches-under-500/",
+      "destination": "/guides/best-field-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-field-watches-under-5000/",
+      "destination": "/guides/best-field-watches-under-5000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-gmt-watches-under-1000/",
+      "destination": "/guides/best-gmt-watches-under-1000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-gmt-watches-under-2000/",
+      "destination": "/guides/best-gmt-watches-under-2000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-gmt-watches-under-500/",
+      "destination": "/guides/best-gmt-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-gmt-watches-under-5000/",
+      "destination": "/guides/best-gmt-watches-under-5000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-gray-dial-watches/",
+      "destination": "/guides/best-gray-dial-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-green-dial-watches/",
+      "destination": "/guides/best-green-dial-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-guilloche-dial-watches/",
+      "destination": "/guides/best-guilloche-dial-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-moon-phase-watches/",
+      "destination": "/guides/best-moon-phase-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-orange-dial-watches/",
+      "destination": "/guides/best-orange-dial-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-outdoor-watches-for-all-price-points/",
+      "destination": "/guides/best-outdoor-watches-for-all-price-points/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-panda-dial-chronographs/",
+      "destination": "/guides/best-panda-dial-chronographs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-pilot-watches-under-1000/",
+      "destination": "/guides/best-pilot-watches-under-1000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-pilot-watches-under-2000/",
+      "destination": "/guides/best-pilot-watches-under-2000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-pilot-watches-under-500/",
+      "destination": "/guides/best-pilot-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-racing-watches-under-2000/",
+      "destination": "/guides/best-racing-watches-under-2000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-racing-watches-under-500/",
+      "destination": "/guides/best-racing-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-rectangular-watches/",
+      "destination": "/guides/best-rectangular-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-red-dial-watches/",
+      "destination": "/guides/best-red-dial-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-seiko-watches-the-ultimate-guide-to-seiko-watches/",
+      "destination": "/guides/best-seiko-watches-the-ultimate-guide-to-seiko-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-super-compressor-style-dive-watches/",
+      "destination": "/guides/best-super-compressor-style-dive-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-vintage-inspired-watches/",
+      "destination": "/guides/best-vintage-inspired-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/best-white-dial-watches/",
+      "destination": "/guides/best-white-dial-watches/",
+      "statusCode": 301
+    },
+    {
+      "source": "/two-watch-collection-the-best-pairs-for-all-price-ranges/",
+      "destination": "/guides/two-watch-collection-the-best-pairs-for-all-price-ranges/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparison-hamilton-khaki-navy-scuba-vs-longines-hydroconquest/",
+      "destination": "/comparisons/comparison-hamilton-khaki-navy-scuba-vs-longines-hydroconquest/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparison-hamilton-khaki-navy-scuba-vs-mido-ocean-star-200/",
+      "destination": "/comparisons/comparison-hamilton-khaki-navy-scuba-vs-mido-ocean-star-200/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparison-hamilton-khaki-navy-scuba-vs-tissot-seastar-1000/",
+      "destination": "/comparisons/comparison-hamilton-khaki-navy-scuba-vs-tissot-seastar-1000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparison-longines-hydroconquest-vs-mido-ocean-star-200/",
+      "destination": "/comparisons/comparison-longines-hydroconquest-vs-mido-ocean-star-200/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparison-longines-hydroconquest-vs-tag-heuer-aquaracer/",
+      "destination": "/comparisons/comparison-longines-hydroconquest-vs-tag-heuer-aquaracer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparison-longines-hydroconquest-vs-tissot-seastar-1000/",
+      "destination": "/comparisons/comparison-longines-hydroconquest-vs-tissot-seastar-1000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparison-tag-heuer-aquaracer-vs-oris-aquis/",
+      "destination": "/comparisons/comparison-tag-heuer-aquaracer-vs-oris-aquis/",
+      "statusCode": 301
+    },
+    {
+      "source": "/comparison-tissot-seastar-1000-vs-mido-ocean-star-200/",
+      "destination": "/comparisons/comparison-tissot-seastar-1000-vs-mido-ocean-star-200/",
+      "statusCode": 301
+    },
+    {
+      "source": "/longines-hydroconquest-vs-oris-aquis-date-the-ultimate-2000-diver-showdown/",
+      "destination": "/comparisons/longines-hydroconquest-vs-oris-aquis-date-the-ultimate-2000-diver-showdown/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tag-heuer-aquaracer-200-vs-tudor-black-bay-which-everyday-diver-wins/",
+      "destination": "/comparisons/tag-heuer-aquaracer-200-vs-tudor-black-bay-which-everyday-diver-wins/",
+      "statusCode": 301
+    },
+    {
       "source": "/alternatives/alternatives/",
       "destination": "/alternatives/",
+      "statusCode": 301
+    },
+    {
+      "source": "/audemars-piguet-royal-oak-alternatives/",
+      "destination": "/alternatives/audemars-piguet-royal-oak-alternatives/",
+      "statusCode": 301
+    },
+    {
+      "source": "/breitling-navitimer-alternatives/",
+      "destination": "/alternatives/breitling-navitimer-alternatives/",
+      "statusCode": 301
+    },
+    {
+      "source": "/cartier-tank-alternatives/",
+      "destination": "/alternatives/cartier-tank-alternatives/",
+      "statusCode": 301
+    },
+    {
+      "source": "/omega-seamaster-alternatives/",
+      "destination": "/alternatives/omega-seamaster-alternatives/",
+      "statusCode": 301
+    },
+    {
+      "source": "/omega-speedmaster-alternatives/",
+      "destination": "/alternatives/omega-speedmaster-alternatives/",
+      "statusCode": 301
+    },
+    {
+      "source": "/rolex-explorer-alternatives/",
+      "destination": "/alternatives/rolex-explorer-alternatives/",
+      "statusCode": 301
+    },
+    {
+      "source": "/rolex-submariner-alternatives/",
+      "destination": "/alternatives/rolex-submariner-alternatives/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tag-heuer-carrera-alternatives/",
+      "destination": "/alternatives/tag-heuer-carrera-alternatives/",
+      "statusCode": 301
+    },
+    {
+      "source": "/collections/",
+      "destination": "/pages/collections/",
+      "statusCode": 301
+    },
+    {
+      "source": "/guide-to-watch-straps/",
+      "destination": "/pages/guide-to-watch-straps/",
+      "statusCode": 301
+    },
+    {
+      "source": "/guides/",
+      "destination": "/pages/guides/",
+      "statusCode": 301
+    },
+    {
+      "source": "/how-to-change-your-watch-strap/",
+      "destination": "/pages/how-to-change-your-watch-strap/",
+      "statusCode": 301
+    },
+    {
+      "source": "/one-watch-collection-for-1000/",
+      "destination": "/pages/one-watch-collection-for-1000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/one-watch-collection-for-10000/",
+      "destination": "/pages/one-watch-collection-for-10000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/one-watch-collection-for-5000/",
+      "destination": "/pages/one-watch-collection-for-5000/",
+      "statusCode": 301
+    },
+    {
+      "source": "/one-watch-collection-the-guide-for-all-price-ranges/",
+      "destination": "/pages/one-watch-collection-the-guide-for-all-price-ranges/",
+      "statusCode": 301
+    },
+    {
+      "source": "/spinnaker-bradner-quality-dive-watch-at-an-affordable-price/",
+      "destination": "/pages/spinnaker-bradner-quality-dive-watch-at-an-affordable-price/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ultimate-watch-guide-for-men/",
+      "destination": "/pages/ultimate-watch-guide-for-men/",
+      "statusCode": 301
+    },
+    {
+      "source": "/watch-basics/",
+      "destination": "/pages/watch-basics/",
+      "statusCode": 301
+    },
+    {
+      "source": "/watch-comparisons/",
+      "destination": "/pages/watch-comparisons/",
+      "statusCode": 301
+    },
+    {
+      "source": "/watch-wearing-rules-every-man-should-know/",
+      "destination": "/pages/watch-wearing-rules-every-man-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/watches-with-vintage-lume/",
+      "destination": "/pages/watches-with-vintage-lume/",
+      "statusCode": 301
+    },
+    {
+      "source": "/what-is-a-dive-watch/",
+      "destination": "/pages/what-is-a-dive-watch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/what-is-a-pilot-watch/",
+      "destination": "/pages/what-is-a-pilot-watch/",
+      "statusCode": 301
+    },
+    {
+      "source": "/what-is-a-racing-watch/",
+      "destination": "/pages/what-is-a-racing-watch/",
       "statusCode": 301
     }
   ]
