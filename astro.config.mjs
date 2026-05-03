@@ -44,6 +44,7 @@ export default defineConfig({
     '/jowissa-review/':                                                 { destination: '/reviews/jowissa-review/',                                                 status: 301 },
     '/kuoe-old-smith-90-007-in-depth-review/':                          { destination: '/reviews/kuoe-old-smith-90-007-in-depth-review/',                          status: 301 },
     '/laco-frankfurt-gmt-review/':                                      { destination: '/reviews/laco-frankfurt-gmt-review/',                                      status: 301 },
+    '/laco-atacam-quartz-utc-in-depth-review/':                         { destination: '/reviews/laco-atacama-quartz-utc-in-depth-review/',                         status: 301 },
     '/laco-hamburg-din-8330-ref-862164-pilot-watch-in-depth-review/':   { destination: '/reviews/laco-hamburg-din-8330-ref-862164-pilot-watch-in-depth-review/',   status: 301 },
     '/laco-squad-watches-review/':                                      { destination: '/reviews/laco-squad-watches-review/',                                      status: 301 },
     '/laco-watches-brand-review/':                                      { destination: '/reviews/laco-watches-brand-review/',                                      status: 301 },

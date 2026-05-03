@@ -96,6 +96,24 @@ twr-main/
 
 ## Key Routes & Components
 
+### Watch Database, Comparison Tool, And Quiz Planning
+The watch database is currently maintained in Google Sheets:
+`https://docs.google.com/spreadsheets/d/1x35yr_MZoNsrMha0zfMB-wdpdQH_fjFHbk4U1y870MI/edit`
+
+Use [docs/watch-database-and-tools.md](/Users/matedyekiss/Desktop/The Watch Resource/twr-main/docs/watch-database-and-tools.md) as the durable handoff for this project area. It documents:
+- The database schema and controlled values.
+- The planned two-watch comparison picker/page.
+- The planned "next watch" quiz/recommendation tool.
+- Import rules for brand collection crawling.
+- Completed imports and row ranges.
+
+Current database import rules:
+- Skip unavailable/out-of-stock watches unless the owner says otherwise.
+- Include each product's source URL in `source_url`.
+- Leave `positive_1` through `negative_5` blank unless there is editorial review context.
+- Use brand/product pages for factual specs; normalize controlled dropdown columns to the sheet's allowed values.
+- Keep `lug_to_lug_mm` blank when brands do not provide it directly.
+
 ### `src/layouts/Layout.astro`
 Root HTML shell used by every page. Contains:
 - Google Fonts
@@ -283,3 +301,7 @@ Modal approach abandoned (input not interactable — root cause never fully iden
 ### 7. Favicon update
 **Files:** `public/favicon.ico`, `public/favicon.svg`
 Owner replaced files directly in `public/`. Committed and pushed.
+
+### 8. Watch database setup and brand imports
+**Files:** `docs/watch-database-and-tools.md`, Google Sheet `TWR Watch Database`
+Created a Google Sheet database to support future comparison and recommendation experiences. Added controlled dropdown columns for style, use case, budget, dial color, formality, brand tier, wrist-size fit, and enthusiast appeal. Imported Hamilton and Victorinox watches from brand collection/product pages, including product URLs and factual specs where available.
