@@ -166,6 +166,19 @@ Norqain import notes:
 - `lug_to_lug_mm` was available from Norqain and populated.
 - Prices are entered as the official numeric prices shown by Norqain, which defaulted to CHF on the official site.
 
+Rows `261-266`: Norqain Adventure Sport Gents, 6 in-stock rows.
+
+Source collection:
+`https://norqain.com/collections/adventure-sport-gents`
+
+Norqain Adventure Sport import notes:
+- The collection page included unrelated recommendation links near the top; only the Adventure Sport Gents collection products were imported.
+- Limited Edition watches were included for this collection because the owner did not request a limited-edition exclusion here.
+- The Adventure NEVEREST GMT Glacier Grey & Gold was skipped because the official product schema showed `OutOfStock`.
+- Specs were extracted from official Norqain product pages.
+- `lug_to_lug_mm` was available from Norqain and populated.
+- Prices are entered as the official numeric prices shown by Norqain, which defaulted to CHF on the official site.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
