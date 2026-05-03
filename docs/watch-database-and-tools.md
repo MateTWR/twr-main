@@ -179,6 +179,18 @@ Norqain Adventure Sport import notes:
 - `lug_to_lug_mm` was available from Norqain and populated.
 - Prices are entered as the official numeric prices shown by Norqain, which defaulted to CHF on the official site.
 
+Rows `267-270`: Norqain Freedom 60, 4 in-stock rows.
+
+Source collection:
+`https://norqain.com/collections/freedom60`
+
+Norqain Freedom 60 import notes:
+- The collection page included unrelated recommendation links near the top; only the Freedom 60 collection products were imported.
+- The Freedom Chrono Enjoy Life "Ice Cream", Freedom Chrono Limited Edition, and Freedom GMT Ice Blue were skipped because the official product schema showed `OutOfStock`.
+- Specs were extracted from official Norqain product pages.
+- `lug_to_lug_mm` was available from Norqain and populated.
+- Prices are entered as the official numeric prices shown by Norqain, which defaulted to CHF on the official site.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
