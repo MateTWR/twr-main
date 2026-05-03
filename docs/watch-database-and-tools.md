@@ -150,6 +150,22 @@ Victorinox import notes:
 - `lug_to_lug_mm` is blank because Victorinox provides lug width, not lug-to-lug.
 - `power_reserve_hours` is blank because quartz/solar battery life was not converted into power reserve hours.
 
+### Norqain
+
+Rows `249-260`: Norqain Wild ONE, 12 in-stock rows.
+
+Source collection:
+`https://norqain.com/collections/wild-one`
+
+Norqain import notes:
+- Owner asked to skip limited editions.
+- Limited Edition watches were skipped, including the Wild ONE Skeleton Chrono Limited Edition, Red Gold Limited Edition, Mint Limited Edition, Yellow Gold Limited Edition, and X-Lite Limited Edition.
+- Sold-out and pre-order watches were skipped under the standing unavailable-watch rule.
+- The Wild ONE Meteorite Special Edition was included because it is listed as a Special Edition, not a Limited Edition, and was in stock.
+- Specs were extracted from official Norqain product pages.
+- `lug_to_lug_mm` was available from Norqain and populated.
+- Prices are entered as the official numeric prices shown by Norqain, which defaulted to CHF on the official site.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
