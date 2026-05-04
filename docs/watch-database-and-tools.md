@@ -233,6 +233,30 @@ Vaer import notes:
 - Editorial pros/cons were added for rows `285-360`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Vaer editorial pass used existing TWR Vaer style and preferences, emphasizing the brand's practical sizing, tool-watch value, USA-assembly identity, and movement tradeoffs while keeping claims grounded in official specs and database fields.
 
+### Laco
+
+Rows `361-368`: Laco watches, 8 owner-provided product URLs.
+
+Source products:
+- `https://www.laco-watches.com/en/watches/flieger-pro/karlsruhe-pro/862142`
+- `https://www.laco-watches.com/en/watches/flieger-pro/stuttgart-pro/862141`
+- `https://www.laco-watches.com/en/watches/classics/plauen-40/861860`
+- `https://www.laco-watches.com/en/watches/classics/brandenburg-40/861859`
+- `https://www.laco-watches.com/en/watches/editions/stuttgart-pro-watchtime-edition/852141-1`
+- `https://www.laco-watches.com/en/watches/editions/prolab/862193`
+- `https://www.laco-watches.com/en/watches/pilot-watches-din-8330/hamburg-gmt-din-8330/862165`
+- `https://www.laco-watches.com/en/watches/pilot-watches-din-8330/hamburg-din-8330/862164`
+
+Laco import notes:
+- Specs were extracted from official Laco product pages and embedded product data.
+- Product URLs are included.
+- Water resistance values were normalized to meters.
+- Prices are entered as official numeric USD prices exposed in Laco product data.
+- The Karlsruhe PRO and Stuttgart PRO pages are configurable products with 37 mm, 40 mm, and 43 mm case options. The sheet uses the 40 mm/default mid-size specs because the current schema only supports one numeric value per measurement.
+- The ProLab product page includes variant-specific specs. The sheet uses the primary ProLab Sand specs from the product data, while noting the variant caveat in the editorial negatives.
+- Editorial pros/cons were added for rows `361-368`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Laco editorial pass used existing TWR Laco coverage, especially the Laco brand review, the Karlsruhe PRO pilot-watch guide entry, and the Hamburg DIN 8330 hands-on review.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
