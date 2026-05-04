@@ -191,6 +191,22 @@ Norqain Freedom 60 import notes:
 - `lug_to_lug_mm` was available from Norqain and populated.
 - Prices are entered as the official numeric prices shown by Norqain, which defaulted to CHF on the official site.
 
+### Benrus
+
+Rows `271-284`: Benrus watches, 14 in-stock rows.
+
+Source collection:
+`https://benrus.com/en-us/collections`
+
+Benrus import notes:
+- The collection page exposed 14 watch entries.
+- The Sky Chief appeared as two separate dial variants in the collection and was imported as two rows: Stratus Grey and Cirrus White.
+- All visible collection watches were add-to-cart available at import time, so no watches were skipped.
+- Specs were extracted from official Benrus product pages.
+- `lug_to_lug_mm` was available from Benrus and populated.
+- Water resistance was normalized to meters. Benrus Type 1 MIL SPEC and Type 2 MIL SPEC list `36.5 ATM / 1200 feet`; these were entered as `365`.
+- Prices are entered as the official numeric USD prices shown on the Benrus `en-us` site.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
