@@ -273,6 +273,23 @@ Laco Navy import notes:
 - Editorial pros/cons were added for rows `369-376`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Laco Navy editorial pass used the existing TWR Laco brand review's maritime-watch language and kept claims grounded in the official case, movement, water-resistance, and dial specs.
 
+Rows `377-383`: Laco Chronographs, 7 in-stock rows.
+
+Source collection:
+`https://www.laco-watches.com/en/watches/chronographs`
+
+Laco Chronographs import notes:
+- The Chronographs collection exposed 7 product rows: six Kiel.2 variants and Kiel Sport.
+- All 7 product pages exposed `InStock` structured data at import time, so no watches were skipped.
+- Specs were extracted from official Laco product pages and embedded product data.
+- Product URLs are included.
+- Water resistance values were normalized to meters.
+- Prices are entered as official numeric USD prices exposed in Laco product data.
+- Power reserve is blank because the Laco Chronographs product pages did not expose power-reserve values in the parsed official specs.
+- Bracelet variants with `.MB` SKUs were imported as separate rows because Laco lists them as separate collection products with distinct URLs and prices.
+- Editorial pros/cons were added for rows `377-383`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Laco Chronographs editorial pass used the existing TWR Laco brand review's chronograph language and kept claims grounded in official case, movement, water-resistance, dial, strap, and price data.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
