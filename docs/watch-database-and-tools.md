@@ -215,6 +215,24 @@ Benrus import notes:
 - Editorial pros/cons were added for rows `271-284` as a tone-test pass, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Benrus editorial pass was based on existing TWR Benrus coverage and guide language, but kept claims grounded in database specs rather than hands-on impressions for unreviewed models.
 
+### Vaer
+
+Rows `285-360`: Vaer watches, 76 collection products.
+
+Source collection:
+`https://www.vaerwatches.com/collections/all-watches-1`
+
+Vaer import notes:
+- Owner asked to include every collection watch, including out-of-stock models, because they may return.
+- The visible collection has pagination, but the Shopify product feed returned 76 products on page 1 and an empty page 2 feed, so all collection products were captured in the import.
+- Product URLs are included.
+- Specs were extracted from official Shopify product data and accessible Vaer product-page specification accordions.
+- Some Vaer product pages returned a Cloudflare challenge during import. For those rows, same-family specs were used only when established from accessible official Vaer pages; uncertain fields, including some case heights, lug-to-lug values, and the A12 caliber, were left blank rather than guessed.
+- Water resistance values were normalized to meters.
+- Prices are entered as official numeric USD prices from the collection/product data.
+- Editorial pros/cons were added for rows `285-360`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Vaer editorial pass used existing TWR Vaer style and preferences, emphasizing the brand's practical sizing, tool-watch value, USA-assembly identity, and movement tradeoffs while keeping claims grounded in official specs and database fields.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
