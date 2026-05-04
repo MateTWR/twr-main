@@ -257,6 +257,22 @@ Laco import notes:
 - Editorial pros/cons were added for rows `361-368`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Laco editorial pass used existing TWR Laco coverage, especially the Laco brand review, the Karlsruhe PRO pilot-watch guide entry, and the Hamburg DIN 8330 hands-on review.
 
+Rows `369-376`: Laco Navy watches, 8 in-stock rows.
+
+Source collection:
+`https://www.laco-watches.com/en/watches/navy-watches`
+
+Laco Navy import notes:
+- The Navy collection exposed 8 product rows: Cuxhaven, Bremerhaven, Valencia, and Casablanca in two sizes each.
+- All 8 product pages exposed `InStock` structured data at import time, so no watches were skipped.
+- Specs were extracted from official Laco product pages and embedded product data.
+- Product URLs are included.
+- Water resistance values were normalized to meters.
+- Prices are entered as official numeric USD prices exposed in Laco product data.
+- Power reserve is blank because the Laco Navy product pages did not expose power-reserve values in the parsed official specs.
+- Editorial pros/cons were added for rows `369-376`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Laco Navy editorial pass used the existing TWR Laco brand review's maritime-watch language and kept claims grounded in the official case, movement, water-resistance, and dial specs.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
