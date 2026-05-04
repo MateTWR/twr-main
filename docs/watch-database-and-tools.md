@@ -290,6 +290,23 @@ Laco Chronographs import notes:
 - Editorial pros/cons were added for rows `377-383`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Laco Chronographs editorial pass used the existing TWR Laco brand review's chronograph language and kept claims grounded in official case, movement, water-resistance, dial, strap, and price data.
 
+Rows `384-420`: Laco Pilot Watch Original, 37 visible collection rows.
+
+Source collection:
+`https://www.laco-watches.com/en/watches/pilot-watch-original`
+
+Laco Pilot Watch Original import notes:
+- The collection page exposed `Showing 37 products`; only those visible product cards were imported. Extra Original links elsewhere in the HTML were treated as navigation/cross-links and not imported.
+- The batch includes standard Original, Erbstück, 39 mm/42 mm variants, and Memmingen Blaue Stunde rows visible on the collection page.
+- Specs were extracted from official collection card data and representative official Laco product pages/embedded product data. Shared family specs were used across matching Original sizes and movement families.
+- Product URLs are included.
+- Water resistance values were normalized to meters.
+- Prices are entered as official numeric USD prices exposed in Laco collection/product data.
+- Power reserve is blank because the parsed official Original product data did not expose power-reserve values.
+- `lug_to_lug_mm` and `case_height_mm` for the 39 mm Original rows use same-family sizing patterns because representative 39 mm pages could not be fetched during import after transient DNS/curl resolution failures.
+- Editorial pros/cons were added for rows `384-420`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Laco Pilot Watch Original editorial pass used existing TWR Laco brand review language around original flieger heritage, historical authenticity, Erbstück aging, and the tradeoff between authentic sizing and daily wearability.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
