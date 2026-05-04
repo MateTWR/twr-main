@@ -206,6 +206,8 @@ Benrus import notes:
 - `lug_to_lug_mm` was available from Benrus and populated.
 - Water resistance was normalized to meters. Benrus Type 1 MIL SPEC and Type 2 MIL SPEC list `36.5 ATM / 1200 feet`; these were entered as `365`.
 - Prices are entered as the official numeric USD prices shown on the Benrus `en-us` site.
+- Editorial pros/cons were added for rows `271-284` as a tone-test pass, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Benrus editorial pass was based on existing TWR Benrus coverage and guide language, but kept claims grounded in database specs rather than hands-on impressions for unreviewed models.
 
 ## Implementation Notes For Later
 
