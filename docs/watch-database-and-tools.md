@@ -132,6 +132,8 @@ Hamilton import notes:
 - Product URLs are included.
 - Water resistance values were normalized to meters.
 - Out-of-stock Khaki Field watches were skipped once the skip rule was established.
+- Editorial pros/cons were added for rows `2-164`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Hamilton editorial pass used a controlled family/spec-based approach across the large variant set, with claims grounded in model family, movement type, size, power reserve, water resistance, and style fields rather than hands-on impressions.
 
 ### Victorinox
 
@@ -149,6 +151,8 @@ Victorinox import notes:
 - Specs were extracted from official Victorinox product-page data.
 - `lug_to_lug_mm` is blank because Victorinox provides lug width, not lug-to-lug.
 - `power_reserve_hours` is blank because quartz/solar battery life was not converted into power reserve hours.
+- Editorial pros/cons were added for rows `165-248`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Victorinox editorial pass used a controlled family/spec-based approach across the large variant set, with claims grounded in product family, movement type, case size, water resistance, and use case rather than hands-on impressions.
 
 ### Norqain
 
@@ -190,6 +194,8 @@ Norqain Freedom 60 import notes:
 - Specs were extracted from official Norqain product pages.
 - `lug_to_lug_mm` was available from Norqain and populated.
 - Prices are entered as the official numeric prices shown by Norqain, which defaulted to CHF on the official site.
+- Editorial pros/cons were added for rows `249-270`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Norqain editorial pass was written watch-by-watch because the block was small enough to handle individually, while still grounding claims in official specs and database fields.
 
 ### Benrus
 
