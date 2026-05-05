@@ -360,6 +360,24 @@ Laco Pilot Watches Special Models import notes:
 - Editorial pros/cons were added for rows `450-458`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Laco Special Models editorial pass used existing TWR Laco language, especially the Frankfurt GMT review's framing around modern pilot-watch design, dark sandblasted case finishing, GMT practicality, and Laco's underrated tool-watch engineering.
 
+Rows `459-497`: Laco Pilot Watches Basic, 39 in-stock rows.
+
+Source collection:
+`https://www.laco-watches.com/en/watches/pilot-watches-basic`
+
+Laco Pilot Watches Basic import notes:
+- The collection exposed `Showing 40 products`.
+- 1 visible collection product was skipped because it was marked `discontinued`: Aachen Grün 39, SKU `862190`.
+- No visible Basic collection SKUs/source URLs duplicated prior Laco imports.
+- The imported rows include the in-stock Augsburg, Aachen, Neapel, Palermo, Altenburg, Bielefeld, Genf.2, and Zürich.2 Basic models and bracelet variants.
+- Specs were extracted from official Laco collection card data and official product pages/embedded product data. Shared same-family specs were used across matching 39mm, 40mm, 42mm, strap, and bracelet variants where Laco exposed the same case architecture.
+- Product URLs are included.
+- Water resistance was normalized from `5 ATM` to `50`.
+- Prices are entered as official numeric USD prices exposed in Laco collection/product data.
+- Power reserve is blank because the automatic pages did not expose power-reserve values and the quartz rows should not use battery life as power reserve.
+- Editorial pros/cons were added for rows `459-497`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Laco Basic editorial pass used existing TWR Laco language while emphasizing accessible flieger design, Type A/Type B dial differences, simple Miyota/Ronda-based ownership, 5 ATM limitations, and the gap between the Basic line and Laco's Original/PRO collections.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
