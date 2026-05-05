@@ -342,6 +342,24 @@ Laco Squad Watches import notes:
 - Editorial pros/cons were added for rows `445-449`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Laco Squad Watches editorial pass used existing TWR Laco language, especially the Atacama Quartz UTC review's emphasis on professional-tool ergonomics, articulated lugs, 12 o'clock crown design, quartz practicality, and the tradeoff between intimidating specs and real-world wearability.
 
+Rows `450-458`: Laco Pilot Watches Special Models, 9 new in-stock rows.
+
+Source collection:
+`https://www.laco-watches.com/en/watches/pilot-watches-special-models`
+
+Laco Pilot Watches Special Models import notes:
+- The collection exposed `Showing 16 products`.
+- All 16 visible collection products were in stock at import time.
+- 7 Kiel chronograph rows were skipped because those SKUs/source URLs were already imported during the Laco Chronographs batch: `862148`, `862148.MB`, `862153`, `862153.MB`, `862186`, `862186.MB`, and `862180`.
+- The imported rows are Köln, Köln MB, Köln Grau, Frankfurt GMT Schwarz, Frankfurt GMT Grau, Ulm 42.5, Würzburg 42.5, Ulm 39, and Würzburg 39.
+- Specs were extracted from official Laco collection card data and official product pages/embedded product data.
+- Product URLs are included.
+- Water resistance values were normalized from `20 ATM` and `10 ATM` to `200` and `100`.
+- Prices are entered as official numeric USD prices exposed in Laco collection/product data.
+- Power reserve is blank except for the Frankfurt GMT rows, where the existing TWR Frankfurt GMT review documents the Laco 330/Sellita SW330-2 power reserve as 56 hours.
+- Editorial pros/cons were added for rows `450-458`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Laco Special Models editorial pass used existing TWR Laco language, especially the Frankfurt GMT review's framing around modern pilot-watch design, dark sandblasted case finishing, GMT practicality, and Laco's underrated tool-watch engineering.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
