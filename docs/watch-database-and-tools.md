@@ -378,6 +378,26 @@ Laco Pilot Watches Basic import notes:
 - Editorial pros/cons were added for rows `459-497`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Laco Basic editorial pass used existing TWR Laco language while emphasizing accessible flieger design, Type A/Type B dial differences, simple Miyota/Ronda-based ownership, 5 ATM limitations, and the gap between the Basic line and Laco's Original/PRO collections.
 
+### Circula
+
+Rows `498-584`: Circula all watches collection, 87 visible product-card rows.
+
+Source collection:
+`https://circulawatches.com/us/watches/all-watches/?show=all`
+
+Circula import notes:
+- The all-watches collection exposed 87 distinct visible product-card URLs in the parsed collection page.
+- No visible product card was marked discontinued or out of stock at import time; `Final models in stock` rows were treated as available and imported.
+- Strap, bracelet, bezel, and clasp variants were imported as separate rows when Circula listed them as separate product cards with distinct SKUs/source URLs.
+- Specs were extracted from official Circula collection card data and representative official product pages/property tables for the ProTrail, ProFlight, DiveSport Titanium, AquaSport II, AquaSport GMT, SuperSport, ProSea, Facet, and ProLab families.
+- Shared same-family specs were used across matching dial/strap/bracelet variants where official product pages exposed the same case architecture and movement family.
+- Product URLs are included.
+- Water resistance was normalized from `10 ATM`, `15 ATM`, `20 ATM`, `30 ATM`, and `50 ATM` to `100`, `150`, `200`, `300`, and `500`.
+- Prices are entered as official numeric USD prices exposed in Circula collection/product data.
+- Power reserve values are entered from official product page/property tables: 41 hours for SW200-1 families, 56 hours for AquaSport GMT/SW330-2, and 68 hours for Facet/La Joux-Perret G100.
+- `positive_1` through `negative_5` were intentionally left blank for this factual import pass; Circula has existing TWR editorial context that can support a separate pros/cons pass later.
+- Dial colors were normalized to controlled database values; `Petrol` and `Turquoise` were mapped to `Blue`, `Anthracite` and `Grey` to `Gray`, and `Sand` to `Cream`.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
