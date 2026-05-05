@@ -325,6 +325,23 @@ Laco Sport Watches import notes:
 - Editorial pros/cons were added for rows `421-444`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Laco Sport Watches editorial pass used existing TWR Laco language while emphasizing the collection's practical Scorpion/tool-watch identity, 30 ATM water resistance, black sport styling, and Sellita-based movement tradeoff.
 
+Rows `445-449`: Laco Squad Watches, 5 in-stock rows.
+
+Source collection:
+`https://www.laco-watches.com/en/watches/squad-watches`
+
+Laco Squad Watches import notes:
+- The Squad Watches collection exposed `Showing 5 products`; duplicate product-card HTML later in the page was treated as a repeated slider/listing block and not imported twice.
+- All 5 visible collection products were imported because none were marked sold out or unavailable.
+- The imported rows are Atacama.3, Atacama.3 MB, Atacama Quarz UTC, Atacama Quarz UTC MB, and Seven Seas.
+- Specs were extracted from official Laco collection card data and official product pages/embedded product data.
+- Product URLs are included.
+- Water resistance values were normalized from `50 ATM`, `20 ATM`, and `100 ATM` to `500`, `200`, and `1000`.
+- Prices are entered as official numeric USD prices exposed in Laco collection/product data.
+- Power reserve is blank because the parsed official Squad Watches product data did not expose power-reserve values.
+- Editorial pros/cons were added for rows `445-449`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Laco Squad Watches editorial pass used existing TWR Laco language, especially the Atacama Quartz UTC review's emphasis on professional-tool ergonomics, articulated lugs, 12 o'clock crown design, quartz practicality, and the tradeoff between intimidating specs and real-world wearability.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
