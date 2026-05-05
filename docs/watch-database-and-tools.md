@@ -307,6 +307,24 @@ Laco Pilot Watch Original import notes:
 - Editorial pros/cons were added for rows `384-420`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
 - The Laco Pilot Watch Original editorial pass used existing TWR Laco brand review language around original flieger heritage, historical authenticity, Erbstück aging, and the tradeoff between authentic sizing and daily wearability.
 
+Rows `421-444`: Laco Sport Watches, 24 in-stock rows.
+
+Source collection:
+`https://www.laco-watches.com/en/watches/sport-watches`
+
+Laco Sport Watches import notes:
+- The Sport Watches collection exposed 29 visible product cards.
+- The Aleutian, Kilimanjaro, Malawi, Mariana, and Daintree rows were skipped because the collection cards marked them sold out.
+- The imported rows cover the in-stock Scorpion models across Amazonas, Atlantik, Mojave, and Himalaya families in 39 mm and 42 mm sizes, including standard rubber-strap, metal-bracelet `.MB`, and colored-rubber `.RB` variants.
+- Specs were extracted from official Laco collection card data and representative official Laco product pages/embedded product data.
+- Product URLs are included.
+- Water resistance was normalized from `30 ATM` to `300`.
+- Prices are entered as official numeric USD prices exposed in Laco collection/product data.
+- Power reserve is blank because the parsed official Sport Watches product data did not expose power-reserve values.
+- Shared same-family specs were used across matching Sport/Scorpion size and strap families where the official product pages exposed the same case architecture.
+- Editorial pros/cons were added for rows `421-444`, using three positive and three negative one-sentence fields per watch. `positive_4`, `positive_5`, `negative_4`, and `negative_5` were intentionally left blank.
+- The Laco Sport Watches editorial pass used existing TWR Laco language while emphasizing the collection's practical Scorpion/tool-watch identity, 30 ATM water resistance, black sport styling, and Sellita-based movement tradeoff.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
