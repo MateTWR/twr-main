@@ -398,6 +398,25 @@ Circula import notes:
 - `positive_1` through `negative_5` were intentionally left blank for this factual import pass; Circula has existing TWR editorial context that can support a separate pros/cons pass later.
 - Dial colors were normalized to controlled database values; `Petrol` and `Turquoise` were mapped to `Blue`, `Anthracite` and `Grey` to `Gray`, and `Sand` to `Cream`.
 
+### Spinnaker
+
+Rows `585-706`: Spinnaker all-watches/view-all collection, 122 available product rows.
+
+Source collection:
+`https://spinnaker-watches.com/collections/view-all`
+
+Spinnaker import notes:
+- The Shopify collection product feed exposed 140 products for the `view-all` collection.
+- 122 available products were imported and 18 unavailable/out-of-stock products were skipped under the standing unavailable-watch rule.
+- Product pages were fetched for all imported rows and official Spinnaker specification blocks were used for movement description, case size, lug-to-lug, case thickness, dial color, water resistance, and product URLs.
+- Product URLs are included.
+- Water resistance was normalized from ATM to meters, e.g. `10 ATM`, `15 ATM`, `18 ATM`, `20 ATM`, `30 ATM`, and `55 ATM` became `100`, `150`, `180`, `200`, `300`, and `550`.
+- Prices are entered as official numeric USD prices exposed by the Shopify product data at import time, including sale prices where the product feed exposed them as the active price.
+- Caliber and power reserve were populated from official product-page feature/spec text when exposed. Caliber was left blank where Spinnaker did not expose a specific movement caliber in the parsed official product page.
+- Product rows use `Vendor + title` as `watch_name` because many Spinnaker product titles are dial/color names and the Shopify `vendor` field carries the family name.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+- Controlled fields were normalized from official specs, product titles, tags, and product-family context while keeping strict dropdown values valid.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
