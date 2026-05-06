@@ -417,6 +417,25 @@ Spinnaker import notes:
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 - Controlled fields were normalized from official specs, product titles, tags, and product-family context while keeping strict dropdown values valid.
 
+### VERO
+
+Rows `707-714`: VERO all watches collection, 8 available product-card rows.
+
+Source collection:
+`https://vero-watch.com/collections/all-watches`
+
+VERO import notes:
+- The Shopify collection product feed exposed 16 products for the all-watches collection.
+- 8 available product-card rows were imported and 8 fully sold-out products were skipped under the owner's request.
+- Product pages were fetched for all imported rows and official VERO specification sections were used for movement, case width, lug-to-lug, case height, water resistance, and product URLs.
+- Product URLs are included.
+- Multi-variant products were imported as one product-card row using the first available/base watch variant SKU and price, rather than separate strap-add-on rows.
+- Water resistance was normalized from official feet/meters copy to meters.
+- Prices are entered as official numeric USD prices exposed by the Shopify product data at import time.
+- The Limited Edition One Moto Solar lists a 4-month solar reserve, but `power_reserve_hours` was left blank to stay consistent with the database convention of not converting solar/battery-life reserve into mechanical power-reserve hours.
+- The VERO X Wildwood Studio Edition product copy includes conflicting water-resistance language; the sheet uses the value from the product page's structured `CASE + COMPONENTS` spec section.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
