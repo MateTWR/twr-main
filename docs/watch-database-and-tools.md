@@ -436,6 +436,26 @@ VERO import notes:
 - The VERO X Wildwood Studio Edition product copy includes conflicting water-resistance language; the sheet uses the value from the product page's structured `CASE + COMPONENTS` spec section.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Sternglas
+
+Rows `715-746`: Sternglas all-watches collection, 32 filtered product-card rows.
+
+Source collection:
+`https://www.sternglas.com/collections/all-watches`
+
+Sternglas import notes:
+- The Shopify collection product feed exposed 83 products for the all-watches collection.
+- Owner asked to skip products labeled for women, products with `clock` in the product name, products labeled `last chance`, and products labeled `limited`.
+- After those filters, 32 product-card rows were imported.
+- The filtered collection did not expose any `last chance` or `limited` labels at import time; most exclusions came from `Gender_Women`/`women` tags and clock product names.
+- Product pages were fetched for all imported rows and official Sternglas product spec tables were used for case diameter, lug-to-lug, case height, movement, caliber, power reserve, water resistance, and product URLs.
+- Product URLs are included.
+- Multi-variant products were imported as one product-card row using the first available/base watch variant SKU and price, rather than separate strap/bracelet variant rows.
+- Water resistance was normalized from ATM to meters.
+- Prices are entered as official numeric prices exposed by the Shopify product data at import time.
+- Products tagged as `Special Edition` were included because the exclusion request was for `limited`, not special editions.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
