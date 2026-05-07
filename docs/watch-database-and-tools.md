@@ -496,6 +496,27 @@ Rado import notes:
 - Prices are entered as official numeric USD prices exposed by Rado's product index at import time.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Le Forban
+
+Rows `897-913`: Le Forban product pages, 17 variant rows.
+
+Source product pages:
+- `https://leforbansecuritemer.com/en/la-marseillaise/`
+- `https://leforbansecuritemer.com/en/la-rochelaise/`
+- `https://leforbansecuritemer.com/en/la-brestoise/`
+- `https://leforbansecuritemer.com/en/la-malouine/`
+- `https://leforbansecuritemer.com/en/la-omaha/`
+
+Le Forban import notes:
+- Owner provided individual product pages and noted that each page contains multiple color variations without URL changes.
+- The product pages expose WooCommerce variation IDs, variation titles, strap/bracelet labels, prices, and stock snippets in the page HTML; those variation IDs were used as unique `sku` values with the `LFSM-` prefix because public retail SKU/reference numbers were not exposed.
+- 17 rows were imported: 5 La Marseillaise variants, 6 La Rochelaise variants, 2 La Brestoise variants, 2 La Malouine variants, and 2 La Omaha variants.
+- Product URLs are included, using the shared product-family URL for each variant because the visible URL does not change by selected color/strap.
+- Prices are entered as approximate USD values converted from official EUR prices shown on the Le Forban pages at import time, using an exchange rate of `1 EUR = 1.1752 USD` and rounded to whole dollars so the database stays comparable with the rest of the price column.
+- Product specs were extracted from official page specification sections and technical-detail copy for case width, lug-to-lug, case height, movement, caliber, power reserve, and water resistance.
+- La Omaha has conflicting water-resistance copy on the page; the row uses `50` meters from the longer technical-details section and explanatory product copy rather than the compact spec block.
+- `positive_1` through `negative_5` were intentionally left blank for this factual import pass because there is no Le Forban TWR editorial context yet.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
