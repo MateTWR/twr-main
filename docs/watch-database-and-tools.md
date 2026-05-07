@@ -611,6 +611,23 @@ Yema Rallygraf import notes:
 - Dial colors were normalized from product-page dial text, product handles, and official product image filenames into the database's controlled color values.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1010-1011`: Missing Yema Granvelle CMM.29 green and black color variations.
+
+Source product family:
+`https://yema.us/products/yema-granvelle-cmm-20-70-25-29-05-sn-l8`
+
+Yema Granvelle import notes:
+- The blue Granvelle CMM.29 was already imported at row `914` from the earlier Yema `all-superman` import.
+- The linked product page exposes sibling product handles for the green and black Granvelle color variations.
+- Product JSON and product-page HTML were fetched for the two missing sibling handles.
+- 2 rows were imported: green (`70.25.29.04.SN.L8`) and black (`70.25.29.09.SN.L8`).
+- The blue page's `LIKE NEW` duplicate variant was skipped because row `914` already captures the new blue watch configuration.
+- Product URLs are included per color variation.
+- `lug_to_lug_mm` is blank because Yema exposes lug width in the product specifications, not lug-to-lug distance.
+- Product-page specification sections were used for case width, case height, movement type, caliber, power reserve, and water resistance.
+- Prices are entered as official numeric USD prices exposed by Yema's Shopify product data at import time.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
