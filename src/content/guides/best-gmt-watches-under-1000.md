@@ -31,7 +31,7 @@ The Khaki Aviation X-Wind Automatic Chronograph, designed with pilots in mind an
 
 ### Longines Conquest V.H.P. GMT
 
-[![Longines Conquest V.H.P. GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Conquest-V.H.P.-GMT-pxm92jmwbbgkfuh1wskybtld1m0r11yg5gg7bixp6s.png/public "Longines Conquest V.H.P. GMT")](https://www.thewatchresource.com/recommends/longines-conquest-vhp-gmt/)
+[![Longines Conquest V.H.P. GMT](https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/elementor-thumbs-Longines-Conquest-V.H.P.-GMT-pxm92jmwbbgkfuh1wskybtld1m0r11yg5gg7bixp6s.png/public "Longines Conquest V.H.P. GMT")](https://www.anrdoezrs.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Flongines-conquest-v-h-p-gmt-quartz-mens-watch-l3-728-4-56-6.html)
 
 **Specs:**
 
