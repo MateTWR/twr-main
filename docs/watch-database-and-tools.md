@@ -477,6 +477,25 @@ Mido import notes:
 - Prices are entered as official numeric USD prices exposed by the Mido product-card data at import time.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Rado
+
+Rows `855-896`: Rado Captain Cook collection, 42 filtered product rows.
+
+Source collection:
+`https://www.rado.com/en_us/watches/all-our-collections/captain-cook.html`
+
+Rado import notes:
+- Owner asked to import only the Captain Cook collection and leave out 37 mm models and gold-tone models.
+- Rado's category page exposed 48 Captain Cook product rows through the official product index.
+- 42 rows were imported after filtering out 6 rows: 4 rows because they were 37 mm, 1 row because it had yellow-gold/gold-tone bracelet data, and 1 row because it was both 37 mm and gold-tone.
+- Product pages were fetched for all imported rows and official Rado product-page specification sections were used for price, case width, case thickness, movement type, caliber, power reserve, and product URLs.
+- Product URLs are included.
+- `lug_to_lug_mm` is blank because Rado does not expose lug-to-lug in the parsed official product specifications.
+- Water resistance is entered as `300` for the imported Captain Cook rows. Rado exposes this directly in product copy for many rows; for rows where the same product-page spec section did not repeat it, the Captain Cook collection-family value was used.
+- Dial color is populated only where Rado exposed it through product-page specs or product-index data; rows with no reliable official dial-color value were left blank.
+- Prices are entered as official numeric USD prices exposed by Rado's product index at import time.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
