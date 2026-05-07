@@ -538,6 +538,24 @@ Yema import notes:
 - Dial colors were normalized from product titles, handles, and official product image filenames into the database's controlled color values. Rows where the official source did not expose a reliable dial color were left blank.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `958-973`: Yema `all-navygraf` collection, 16 filtered watch-configuration rows.
+
+Source collection:
+`https://yema.us/collections/all-navygraf`
+
+Yema Navygraf import notes:
+- The collection page exposed 12 product-card handles.
+- Product JSON and product-page HTML were fetched for all 12 product cards.
+- 16 rows were imported after filtering product variants down to watch configurations.
+- 4 `LIKE NEW` condition variants were skipped because they duplicate the same watch/SKU as used-condition listings.
+- 1 sold-out Navygraf Marine Nationale GMT Paris variant was skipped under the standard unavailable-watch import rule.
+- Product URLs are included.
+- `lug_to_lug_mm` is blank because Yema exposes lug width in the product specifications, not lug-to-lug distance.
+- Product-page specification sections were used for case width, case height, movement type, caliber, power reserve, and water resistance.
+- Prices are entered as official numeric USD prices exposed by Yema's Shopify product data at import time.
+- Dial colors were normalized from product-page dial text, product handles, and official product image filenames into the database's controlled color values.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
