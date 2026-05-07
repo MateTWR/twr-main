@@ -456,6 +456,27 @@ Sternglas import notes:
 - Products tagged as `Special Edition` were included because the exclusion request was for `limited`, not special editions.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Mido
+
+Rows `747-854`: Mido men's Ocean Star and Multifort collection SKUs, 108 rows.
+
+Source collections:
+- `https://www.midowatches.com/us/watches/collections/ocean-star.html`
+- `https://www.midowatches.com/us/watches/collections/multifort.html`
+
+Mido import notes:
+- Owner requested all SKUs from the men's Ocean Star and Multifort collections, excluding Baroncelli and Commander completely.
+- Collection pages exposed 111 product cards across Ocean Star and Multifort.
+- 108 rows were imported after filtering to product-card data where gender included `Men`; 3 women-only Ocean Star 36.5 rows were skipped.
+- Product pages were fetched for all imported rows and official Mido technical-spec sections were used for model number, price, case width, case thickness, movement, power reserve, water resistance, dial color, and product URLs.
+- Product URLs are included.
+- `lug_to_lug_mm` is blank because Mido exposes case length and width, not lug-to-lug.
+- User asked to import all SKUs, so rows include Mido products even when the product page showed `Get Notified`/currently out of stock rather than direct online availability.
+- Water resistance was normalized from official bar/meter values to meters.
+- Caliber was normalized to Mido family-level caliber language where Mido's product pages expose only `MIDO Automatic ETA`: Ocean Star 39 rows use `MIDO Caliber 72`, standard automatic rows use `MIDO Caliber 80`, automatic chronograph rows use `MIDO automatic chronograph`, and quartz chronograph rows use `MIDO quartz`.
+- Prices are entered as official numeric USD prices exposed by the Mido product-card data at import time.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
