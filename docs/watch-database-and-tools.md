@@ -592,6 +592,25 @@ Yema Flygraf import notes:
 - Dial colors were normalized from product-page dial text, product handles, and official product image filenames into the database's controlled color values.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `994-1009`: Yema `all-rallygraf` collection, 16 watch-configuration rows.
+
+Source collection:
+`https://yema.us/collections/all-rallygraf`
+
+Yema Rallygraf import notes:
+- The sheet grid was expanded from 997 rows to 1017 rows before this import.
+- The collection page exposed 9 product-card handles.
+- Product JSON and product-page HTML were fetched for all 9 product cards.
+- 16 rows were imported after expanding strap/bracelet variants into distinct watch configurations.
+- No unavailable, sold-out, or `LIKE NEW` variants were exposed in the imported product JSON.
+- Product URLs are included.
+- `lug_to_lug_mm` is blank because Yema exposes lug width in the product specifications, not lug-to-lug distance.
+- Product-page specification sections were used for case width, case height, movement type, caliber, power reserve, and water resistance.
+- Power reserve was left blank for meca-quartz rows where the product page does not provide a mechanical power-reserve spec.
+- Prices are entered as official numeric USD prices exposed by Yema's Shopify product data at import time.
+- Dial colors were normalized from product-page dial text, product handles, and official product image filenames into the database's controlled color values.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
