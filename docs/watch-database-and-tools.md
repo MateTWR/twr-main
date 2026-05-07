@@ -574,6 +574,24 @@ Yema Wristmaster import notes:
 - Dial colors were normalized from product-page dial text, product handles, and official product image filenames into the database's controlled color values.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `986-993`: Yema `all-flygraf` collection, 8 filtered watch-configuration rows.
+
+Source collection:
+`https://yema.us/collections/all-flygraf`
+
+Yema Flygraf import notes:
+- The collection page exposed 6 product-card handles.
+- Product JSON and product-page HTML were fetched for all 6 product cards.
+- 8 rows were imported after filtering product variants down to watch configurations.
+- 1 `LIKE NEW` condition variant was skipped because it duplicates the same watch/SKU as a used-condition listing.
+- Product URLs are included.
+- `lug_to_lug_mm` is blank because Yema exposes lug width in the product specifications, not lug-to-lug distance.
+- Product-page specification sections were used for case width, case height, movement type, caliber, power reserve, and water resistance.
+- Power reserve was left blank for quartz and meca-quartz rows where the product page does not provide a mechanical power-reserve spec.
+- Prices are entered as official numeric USD prices exposed by Yema's Shopify product data at import time.
+- Dial colors were normalized from product-page dial text, product handles, and official product image filenames into the database's controlled color values.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
