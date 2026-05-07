@@ -517,6 +517,27 @@ Le Forban import notes:
 - La Omaha has conflicting water-resistance copy on the page; the row uses `50` meters from the longer technical-details section and explanatory product copy rather than the compact spec block.
 - `positive_1` through `negative_5` were intentionally left blank for this factual import pass because there is no Le Forban TWR editorial context yet.
 
+### Yema
+
+Rows `914-957`: Yema `all-superman` collection, 44 filtered watch-configuration rows.
+
+Source collection:
+`https://yema.us/collections/all-superman`
+
+Yema import notes:
+- The collection page exposed 26 product-card handles.
+- Product JSON and product-page HTML were fetched for all 26 product cards.
+- 44 rows were imported after filtering product variants down to watch configurations.
+- 23 `LIKE NEW` condition variants were skipped because they duplicate the same watch/SKU as used-condition listings.
+- 6 rubber strap `L` length variants were skipped where the same watch configuration also had an `S` strap-length variant; strap length was treated as a fit/accessory choice rather than a distinct watch configuration.
+- Product URLs are included.
+- Rows include the products exposed by the linked `all-superman` collection, including adjacent Yema dive models surfaced by that collection page such as Skin Diver and Granvelle.
+- `lug_to_lug_mm` is blank because Yema exposes lug width in the product specifications, not lug-to-lug distance.
+- Product-page specification sections were used for case width, case height, movement type, caliber, power reserve, and water resistance.
+- Prices are entered as official numeric USD prices exposed by Yema's Shopify product data at import time.
+- Dial colors were normalized from product titles, handles, and official product image filenames into the database's controlled color values. Rows where the official source did not expose a reliable dial color were left blank.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
