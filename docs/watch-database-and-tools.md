@@ -670,7 +670,7 @@ Maen import notes:
 
 ### Traska
 
-Rows: none yet.
+Rows `1080-1084`: Traska Summiteer 38 mm models, 5 rows imported by owner exception.
 
 Source collection:
 `https://www.traskawatch.com/collections/freediver`
@@ -686,9 +686,12 @@ Source collection:
 Traska Summiteer import notes:
 - The Summiteer collection exposed 10 product-card rows in Shopify collection JSON: five 36 mm models and five 38 mm models.
 - The owner asked to leave out 36 mm models.
-- All 38 mm Summiteer variants were marked unavailable in Shopify product data at import time.
-- The only available Summiteer variant was the 36 mm Oxblood Red, which was excluded by the requested size filter.
-- No rows were imported for this collection.
+- The standard unavailable-watch rule was overridden for this collection after owner follow-up; all 5 unavailable 38 mm models were imported.
+- The only available Summiteer variant at import time was the 36 mm Oxblood Red, which was still excluded by the requested size filter.
+- Product URLs are included.
+- Shopify collection/product JSON was used for SKU, USD price, and availability.
+- Product-page text and official spec/dimension images were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
 ## Implementation Notes For Later
 
