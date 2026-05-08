@@ -741,6 +741,26 @@ Traska Venturer import notes:
 - Product-page text and official spec/dimension images were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Minus-8
+
+Rows `1098-1102`: Minus-8 watches collection, 5 available variant rows.
+
+Source collection:
+`https://www.minus8watch.com/pages/watches-collection`
+
+Minus-8 import notes:
+- The watches collection page uses a Shopify/Replo/GemPages-style layout, so the collection page HTML did not expose a simple product-card URL list.
+- Shopify `/collections/all/products.json` exposed 14 products, including straps, accessories, a gift card, and watch products.
+- Non-watch products were skipped.
+- The standard unavailable-watch rule was applied. Unavailable watches and unavailable color variants were skipped, including Anza, Diver 2.0 Model R, Layer 2.0, Diver 1T Solar Grey, Diver 2.0 Black, and Field 1S Desert.
+- 5 available variant rows were imported: Diver 1T Solar Black, Diver 2.0 Grey, Diver GMT Black, Diver GMT Grey, and Field 1S Black.
+- Product URLs are included.
+- Shopify product JSON was used for SKU, USD price, variant availability, and source URLs.
+- Product-page specification text was used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- `case_height_mm` is blank for Field 1S because the fetched product-page specification text did not expose a direct case-height value.
+- Diver 1T Solar's 4-month full-charge reserve was normalized into `power_reserve_hours` as `2880` hours.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
