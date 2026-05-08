@@ -648,6 +648,26 @@ Unimatic import notes:
 - Dial colors were normalized from official product-page dial text into the database's controlled color values.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Maen
+
+Rows `1036-1079`: Maen collections hub and linked watch collections, 44 available watch-configuration rows.
+
+Source collection hub:
+`https://www.maenwatches.com/en-us/collections`
+
+Maen import notes:
+- The collections hub exposed 12 watch collection links plus product cards; the accessories collection was skipped.
+- Product links were gathered from the hub and the linked watch collection pages, producing 53 unique product URLs.
+- Shopify product JSON and product-page HTML were fetched for each product URL.
+- 44 rows were imported after applying the standard unavailable-watch rule.
+- 9 unavailable products were skipped: Grand Tonneau Jump Hour MNL.01-MNL.03, Grand Tonneau Ultra Thin MNL.05/MNL.06/MNL.08, Lunar Classic M7.1.3, and Skymaster M6.2.2/M6.2.4.
+- Product URLs are included.
+- Shopify product JSON was used for SKU, USD price, and availability.
+- Product-page specification sections were used for case width, lug-to-lug distance, case height, movement type, caliber, water resistance, and dial color.
+- Power reserve was populated only where the product page or clearly identified caliber supported it directly enough for this pass, primarily La Joux-Perret G100 rows and the Lunar Classic Sellita SW280-1 rows; otherwise it was left blank.
+- Dial colors were normalized from Maen's official dial-color specification text into the database's controlled color values.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
