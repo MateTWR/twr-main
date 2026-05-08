@@ -678,6 +678,8 @@ Rows `1089`: Traska Chronograph Tungsten Gray.
 
 Rows `1090-1093`: Traska Commuter 38 mm models, 4 rows imported by owner exception.
 
+Rows `1094-1097`: Traska Venturer GMT models, 4 rows imported.
+
 Source collection:
 `https://www.traskawatch.com/collections/freediver`
 
@@ -726,6 +728,17 @@ Traska Commuter import notes:
 - Shopify collection/product JSON was used for SKU, USD price, and availability.
 - Product-page text and official spec/dimension images were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
 - The no-date variants were imported from the primary product-card variant/SKU; the page notes date variants use Miyota 9019, but the imported `NDT` rows use Miyota 9039.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source collection:
+`https://www.traskawatch.com/collections/venturer`
+
+Traska Venturer import notes:
+- The Venturer collection exposed 4 product-card rows in Shopify collection JSON: Carbon Black, Steel Blue, Arctic White, and Bottle Green.
+- All 4 Venturer GMT models were marked unavailable at import time, but were imported to complete the final Traska collection pass.
+- Product URLs are included.
+- Shopify collection/product JSON was used for SKU, USD price, and availability.
+- Product-page text and official spec/dimension images were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
 ## Implementation Notes For Later
