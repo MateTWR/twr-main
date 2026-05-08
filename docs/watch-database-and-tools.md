@@ -676,6 +676,8 @@ Rows `1085-1088`: Traska Freediver models, 4 rows imported by owner exception.
 
 Rows `1089`: Traska Chronograph Tungsten Gray.
 
+Rows `1090-1093`: Traska Commuter 38 mm models, 4 rows imported by owner exception.
+
 Source collection:
 `https://www.traskawatch.com/collections/freediver`
 
@@ -711,6 +713,19 @@ Traska Chronograph import notes:
 - Shopify product JSON was used for SKU, USD price, and availability.
 - Product-page text and official spec/dimension images were used for case width, lug-to-lug distance, case height, movement type, caliber, and water resistance.
 - Power reserve was left blank because the product page/spec images did not expose a direct power-reserve value.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source collection:
+`https://www.traskawatch.com/collections/commuter-collection`
+
+Traska Commuter import notes:
+- The Commuter collection exposed 12 product-card rows in Shopify collection JSON.
+- The owner asked to work only with 38 mm watches and skip smaller models.
+- The standard unavailable-watch rule was overridden for this collection; all 4 unavailable 38 mm Commuter models were imported.
+- Product URLs are included.
+- Shopify collection/product JSON was used for SKU, USD price, and availability.
+- Product-page text and official spec/dimension images were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The no-date variants were imported from the primary product-card variant/SKU; the page notes date variants use Miyota 9019, but the imported `NDT` rows use Miyota 9039.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
 ## Implementation Notes For Later
