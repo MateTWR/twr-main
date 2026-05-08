@@ -680,6 +680,16 @@ Traska Freediver import notes:
 - All 4 Freediver product variants were marked unavailable in Shopify product data at import time.
 - No rows were imported under the standard unavailable-watch rule.
 
+Source collection:
+`https://www.traskawatch.com/collections/summiteer-collection`
+
+Traska Summiteer import notes:
+- The Summiteer collection exposed 10 product-card rows in Shopify collection JSON: five 36 mm models and five 38 mm models.
+- The owner asked to leave out 36 mm models.
+- All 38 mm Summiteer variants were marked unavailable in Shopify product data at import time.
+- The only available Summiteer variant was the 36 mm Oxblood Red, which was excluded by the requested size filter.
+- No rows were imported for this collection.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
