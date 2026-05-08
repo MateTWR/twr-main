@@ -628,6 +628,26 @@ Yema Granvelle import notes:
 - Prices are entered as official numeric USD prices exposed by Yema's Shopify product data at import time.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Unimatic
+
+Rows `1012-1035`: Unimatic watches collection, 24 product-card rows.
+
+Source collection:
+`https://www.unimaticwatches.com/watches/`
+
+Unimatic import notes:
+- The collection page reported 26 products, but the downloaded catalog HTML exposed 24 unique product URLs; page 2 duplicated the same product-card set at import time.
+- Product pages were fetched for all 24 unique product URLs.
+- 24 rows were imported for the visible product cards, including Classic, Toolwatch, limited-edition, and collaboration models.
+- Product URLs are included.
+- Product JSON-LD was used for SKU, USD price, and availability where available.
+- Product-page specification sections were used for case width, movement type, caliber, power reserve, and water resistance.
+- `lug_to_lug_mm` and `case_height_mm` are blank because Unimatic exposes lug width and crystal thickness in the fetched specification text, not lug-to-lug distance or overall case height.
+- Direct USD price and budget category are blank for limited/collaboration rows where the product page did not expose a direct USD offer price.
+- Power reserve is populated for mechanical rows and left blank for quartz and meca-quartz rows.
+- Dial colors were normalized from official product-page dial text into the database's controlled color values.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
