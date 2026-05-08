@@ -674,6 +674,8 @@ Rows `1080-1084`: Traska Summiteer 38 mm models, 5 rows imported by owner except
 
 Rows `1085-1088`: Traska Freediver models, 4 rows imported by owner exception.
 
+Rows `1089`: Traska Chronograph Tungsten Gray.
+
 Source collection:
 `https://www.traskawatch.com/collections/freediver`
 
@@ -697,6 +699,18 @@ Traska Summiteer import notes:
 - Product URLs are included.
 - Shopify collection/product JSON was used for SKU, USD price, and availability.
 - Product-page text and official spec/dimension images were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source product:
+`https://www.traskawatch.com/products/chronograph-tungsten-gray`
+
+Traska Chronograph import notes:
+- The product page exposed one available Shopify product variant, SKU `CHR-GRY`.
+- 1 row was imported.
+- Product URL is included.
+- Shopify product JSON was used for SKU, USD price, and availability.
+- Product-page text and official spec/dimension images were used for case width, lug-to-lug distance, case height, movement type, caliber, and water resistance.
+- Power reserve was left blank because the product page/spec images did not expose a direct power-reserve value.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
 ## Implementation Notes For Later
