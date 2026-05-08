@@ -672,13 +672,19 @@ Maen import notes:
 
 Rows `1080-1084`: Traska Summiteer 38 mm models, 5 rows imported by owner exception.
 
+Rows `1085-1088`: Traska Freediver models, 4 rows imported by owner exception.
+
 Source collection:
 `https://www.traskawatch.com/collections/freediver`
 
 Traska Freediver import notes:
 - The Freediver collection exposed 4 product-card rows in Shopify collection JSON: Carbon Black, Arctic White, Chaouen Blue, and Hunter Green.
-- All 4 Freediver product variants were marked unavailable in Shopify product data at import time.
-- No rows were imported under the standard unavailable-watch rule.
+- The standard unavailable-watch rule was overridden for this collection after owner follow-up; all 4 unavailable Freediver models were imported.
+- Product URLs are included.
+- Shopify collection/product JSON was used for SKU, USD price, and availability.
+- Product-page text and official spec/dimension images were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The no-date variants were imported from the primary product-card variant/SKU; the page notes date variants use Miyota 9019, but the imported `NDT` rows use Miyota 9039.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
 Source collection:
 `https://www.traskawatch.com/collections/summiteer-collection`
