@@ -668,6 +668,18 @@ Maen import notes:
 - Dial colors were normalized from Maen's official dial-color specification text into the database's controlled color values.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Traska
+
+Rows: none yet.
+
+Source collection:
+`https://www.traskawatch.com/collections/freediver`
+
+Traska Freediver import notes:
+- The Freediver collection exposed 4 product-card rows in Shopify collection JSON: Carbon Black, Arctic White, Chaouen Blue, and Hunter Green.
+- All 4 Freediver product variants were marked unavailable in Shopify product data at import time.
+- No rows were imported under the standard unavailable-watch rule.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
