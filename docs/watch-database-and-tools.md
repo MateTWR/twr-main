@@ -771,6 +771,8 @@ Rows `1113-1115`: Baltic Aquascaphe GMT collection, 3 available rows imported.
 
 Rows `1116-1122`: Baltic Aquascaphe MK2 collection, 7 available size/color rows imported.
 
+Rows `1123-1129`: Baltic MR collection, 7 available rows imported.
+
 Source collection:
 `https://baltic-watches.com/en/collections/heures-du-monde`
 
@@ -824,6 +826,20 @@ Baltic Aquascaphe MK2 import notes:
 - Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
 - Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
 - Base rubber-strap pricing was used in `price`: `630` EUR. Bracelet variants were listed at `695` EUR.
+- Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source collection:
+`https://baltic-watches.com/en/collections/mr`
+
+Baltic MR import notes:
+- The collection exposed 8 product rows: MR Classic Salmon, Blue, Silver, Gold PVD Black, and MR Roulette Blue, Salmon, Silver, Black.
+- The owner asked to skip out-of-stock models. MR Roulette Black was marked unavailable and was skipped.
+- 7 available rows were imported.
+- Product URLs are included.
+- Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
+- Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
+- Base leather-strap pricing was used in `price`: `545` EUR. Beads of rice bracelet variants were listed at `605` EUR where offered.
 - Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
