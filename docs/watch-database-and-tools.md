@@ -769,6 +769,8 @@ Rows `1106-1112`: Baltic Hermetique collection, 7 rows imported after color excl
 
 Rows `1113-1115`: Baltic Aquascaphe GMT collection, 3 available rows imported.
 
+Rows `1116-1122`: Baltic Aquascaphe MK2 collection, 7 available size/color rows imported.
+
 Source collection:
 `https://baltic-watches.com/en/collections/heures-du-monde`
 
@@ -808,6 +810,21 @@ Baltic Aquascaphe GMT import notes:
 - Base rubber-strap pricing was used in `price`: `940` EUR. Bracelet variants were listed at `1005` EUR.
 - Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
 - `dial_color` was set to `Black` for all 3 rows because Baltic's specification block lists a glossy black dial; the product color names refer to GMT bezel accents.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source collection:
+`https://baltic-watches.com/en/collections/aquascaphe-mk2`
+
+Baltic Aquascaphe MK2 import notes:
+- The collection exposed 4 product rows: Blue, Warm Silver, Grey, and Green.
+- The product pages expose meaningful 37 mm and 39.5 mm size variants, so available size variants were imported as separate rows.
+- 7 rows were imported: Blue 39.5 mm, Blue 37 mm, Green 39.5 mm, Green 37 mm, Grey 39.5 mm, Grey 37 mm, and Warm Silver 37 mm.
+- Warm Silver 39.5 mm variants were marked unavailable at import time and were skipped under the standard unavailable-watch rule.
+- Product URLs are included.
+- Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
+- Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
+- Base rubber-strap pricing was used in `price`: `630` EUR. Bracelet variants were listed at `695` EUR.
+- Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
 ## Implementation Notes For Later
