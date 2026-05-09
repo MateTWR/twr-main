@@ -777,6 +777,8 @@ Rows `1130-1131`: Baltic Aquascaphe Classic collection, 2 available rows importe
 
 Rows `1132-1133`: Baltic Scalegraph collection, 2 available rows imported.
 
+Rows `1134-1135`: Baltic Aquascaphe Titanium collection, 2 available rows imported.
+
 Source collection:
 `https://baltic-watches.com/en/collections/heures-du-monde`
 
@@ -871,6 +873,20 @@ Baltic Scalegraph import notes:
 - Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
 - Base strap pricing was used in `price`: `1585` EUR. Bracelet variants were listed at `1695` EUR.
 - Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source collection:
+`https://baltic-watches.com/en/collections/aquascaphe-titanium`
+
+Baltic Aquascaphe Titanium import notes:
+- The collection exposed 2 product rows: Aquascaphe Titanium Blue and Aquascaphe Titanium Black.
+- Both products were available at import time and both were imported.
+- Product URLs are included.
+- Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
+- Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
+- Product-page pricing was `730` EUR for all fetched variants.
+- Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- Baltic listed thickness as `13,3mm`; this was normalized to `13.3` in `case_height_mm`.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
 ## Implementation Notes For Later
