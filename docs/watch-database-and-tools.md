@@ -761,6 +761,23 @@ Minus-8 import notes:
 - Diver 1T Solar's 4-month full-charge reserve was normalized into `power_reserve_hours` as `2880` hours.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Baltic
+
+Rows `1103-1105`: Baltic Heures du Monde collection, 3 rows imported by owner exception.
+
+Source collection:
+`https://baltic-watches.com/en/collections/heures-du-monde`
+
+Baltic Heures du Monde import notes:
+- The collection exposed 3 product rows: Labradorite, Tiger Eye, and Sodalite.
+- All 3 Heures du Monde Worldtimer products were marked unavailable at import time, but were imported after owner follow-up.
+- Product URLs are included.
+- Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
+- Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
+- The base pressed-strap price of `1300` EUR was used in `price`; bracelet variants were listed at `1360` EUR.
+- Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
