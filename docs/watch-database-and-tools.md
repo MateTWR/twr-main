@@ -773,6 +773,8 @@ Rows `1116-1122`: Baltic Aquascaphe MK2 collection, 7 available size/color rows 
 
 Rows `1123-1129`: Baltic MR collection, 7 available rows imported.
 
+Rows `1130-1131`: Baltic Aquascaphe Classic collection, 2 available rows imported.
+
 Source collection:
 `https://baltic-watches.com/en/collections/heures-du-monde`
 
@@ -840,6 +842,19 @@ Baltic MR import notes:
 - Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
 - Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
 - Base leather-strap pricing was used in `price`: `545` EUR. Beads of rice bracelet variants were listed at `605` EUR where offered.
+- Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source collection:
+`https://baltic-watches.com/en/collections/aquascaphe`
+
+Baltic Aquascaphe Classic import notes:
+- The collection exposed 2 product rows: Aquascaphe Classic Blue Gilt and Aquascaphe Classic Black Gilt.
+- Both products were available at import time and both were imported.
+- Product URLs are included.
+- Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
+- Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
+- Base rubber-strap pricing was used in `price`: `600` EUR. Bracelet variants were listed at `665` EUR.
 - Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
