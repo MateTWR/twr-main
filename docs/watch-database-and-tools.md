@@ -955,6 +955,25 @@ Nautage Diver import notes:
 - Nautage did not list power reserve directly on the fetched product pages, so `power_reserve_hours` was left blank.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Alpina
+
+Rows `1169-1191`: Alpina Alpiner collection, 23 product rows imported after the owner-requested size filter.
+
+Source collection:
+`https://alpinawatches.com/collections/alpiner-collection`
+
+Alpina Alpiner import notes:
+- The collection exposed 35 product rows.
+- The owner asked to skip anything smaller than 38 mm, so 12 products were skipped: 5 Alpiner Extreme Solarmetre rows listed at `37.50 x 38.90 mm` and 7 Extreme Quartz rows listed at `34 x 35.2 mm`.
+- 23 Alpiner rows were imported.
+- Product URLs are included.
+- Shopify product JSON was used for product names, SKUs, prices, availability, and source URLs.
+- Official Alpina product-page specification accordions and descriptions were used for case width, case height, movement type, caliber, power reserve, water resistance, and dial color.
+- Water resistance was normalized from ATM to meters.
+- Alpina lists many cushion/tonneau case sizes as two dimensions, such as `39 x 40.5 mm`; `case_width_mm` uses the first dimension, while `lug_to_lug_mm` was left blank because Alpina did not label the second dimension as lug-to-lug.
+- Prices are entered as the official numeric CHF prices exposed by Alpina product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
