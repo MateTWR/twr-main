@@ -990,6 +990,22 @@ Alpina Startimer import notes:
 - Prices are entered as the official numeric CHF prices exposed by Alpina product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1201-1208`: Alpina Seastrong collection, 8 available product rows imported.
+
+Source collection:
+`https://alpinawatches.com/collections/seastrong-collection`
+
+Alpina Seastrong import notes:
+- The collection exposed 8 product rows and all 8 were available in the fetched Shopify product data.
+- Product URLs are included.
+- Shopify product JSON was used for product names, SKUs, prices, availability, and source URLs.
+- Official Alpina product-page specification accordions and descriptions were used for case width, case height, movement type, caliber, power reserve, water resistance, and dial color.
+- Water resistance was normalized from `30 ATM` to `300` meters.
+- Alpina lists the Seastrong Diver Extreme case as `39 x 40.50 mm`; `case_width_mm` uses the first dimension, while `lug_to_lug_mm` was left blank because Alpina did not label the second dimension as lug-to-lug.
+- The two Seastrong Diver Extreme GMT rows were tagged with `GMT` and preserve their AL-560 movement and 50-hour power reserve.
+- Prices are entered as the official numeric CHF prices exposed by Alpina product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
