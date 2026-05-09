@@ -974,6 +974,22 @@ Alpina Alpiner import notes:
 - Prices are entered as the official numeric CHF prices exposed by Alpina product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1192-1200`: Alpina Startimer collection, 9 available product rows imported.
+
+Source collection:
+`https://alpinawatches.com/collections/startimer-collection`
+
+Alpina Startimer import notes:
+- The collection exposed 9 product rows and all 9 were available in the fetched Shopify product data.
+- Product URLs are included.
+- Shopify product JSON was used for product names, SKUs, prices, availability, and source URLs.
+- Official Alpina product-page specification accordions and descriptions were used for case width, case height, movement type, caliber, power reserve, water resistance, and dial color.
+- Water resistance was normalized from ATM to meters.
+- The newer 40 mm Startimer Pilot Automatic rows list a 68-hour AL-525 automatic movement, while the 41 mm Pilot Automatic rows list a 38-hour AL-525 automatic movement; the sheet preserves those variant-level differences.
+- Quartz chronograph battery life was not converted into `power_reserve_hours`, so the quartz rows keep that field blank.
+- Prices are entered as the official numeric CHF prices exposed by Alpina product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
