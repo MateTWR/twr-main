@@ -783,6 +783,8 @@ Rows `1136-1138`: Baltic Aquascaphe Bronze collection, 3 available rows imported
 
 Rows `1139-1141`: Baltic Aquascaphe Dual-Crown collection, 3 available rows imported.
 
+Rows `1142-1148`: Baltic HMS collection, 7 available rows imported.
+
 Source collection:
 `https://baltic-watches.com/en/collections/heures-du-monde`
 
@@ -918,6 +920,20 @@ Baltic Aquascaphe Dual-Crown import notes:
 - Base strap pricing was used in `price`: `670` EUR. Steel bracelet variants were listed at `735` EUR where offered.
 - Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
 - Baltic listed thickness as `11,9mm`; this was normalized to `11.9` in `case_height_mm`.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source collection:
+`https://baltic-watches.com/en/collections/hms`
+
+Baltic HMS import notes:
+- The collection exposed 7 product rows: HMS 003 Salmon, HMS 003 Silver Blue, HMS 003 Blue Gilt, HMS 002 Silver, HMS 002 Blue Gilt, HMS 002 Black, and HMS 002 Gold PVD Black.
+- All 7 products were available at import time and all 7 were imported.
+- Product URLs are included.
+- Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
+- Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
+- Base strap pricing was used in `price`: `360` EUR for standard HMS 002/003 rows and `385` EUR for HMS 002 Gold PVD Black. Bracelet variants were listed at `445` EUR where offered.
+- Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- Baltic listed HMS 003 diameter as `36,5mm`; this was normalized to `36.5` in `case_width_mm`.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
 ## Implementation Notes For Later
