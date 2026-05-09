@@ -767,6 +767,8 @@ Rows `1103-1105`: Baltic Heures du Monde collection, 3 rows imported by owner ex
 
 Rows `1106-1112`: Baltic Hermetique collection, 7 rows imported after color exclusions.
 
+Rows `1113-1115`: Baltic Aquascaphe GMT collection, 3 available rows imported.
+
 Source collection:
 `https://baltic-watches.com/en/collections/heures-du-monde`
 
@@ -792,6 +794,20 @@ Baltic Hermetique import notes:
 - Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
 - Base rubber-strap pricing was used in `price`: `550` EUR for stainless steel Tourer models and `600` EUR for bronze Tourer models.
 - Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source collection:
+`https://baltic-watches.com/en/collections/aquascaphe-gmt`
+
+Baltic Aquascaphe GMT import notes:
+- The collection exposed 3 product rows: Grey, Green, and Orange.
+- All 3 Aquascaphe GMT models were available at import time.
+- Product URLs are included.
+- Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
+- Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
+- Base rubber-strap pricing was used in `price`: `940` EUR. Bracelet variants were listed at `1005` EUR.
+- Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- `dial_color` was set to `Black` for all 3 rows because Baltic's specification block lists a glossy black dial; the product color names refer to GMT bezel accents.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
 ## Implementation Notes For Later
