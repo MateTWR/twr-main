@@ -936,6 +936,25 @@ Baltic HMS import notes:
 - Baltic listed HMS 003 diameter as `36,5mm`; this was normalized to `36.5` in `case_width_mm`.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Nautage
+
+Rows `1149-1168`: Nautage Diver category, 20 product rows imported including out-of-stock variations.
+
+Source collection:
+`https://nautage.com/product-category/diver/`
+
+Nautage Diver import notes:
+- The owner asked to include out-of-stock variations, so all 20 watch product rows exposed on the Diver category page were imported.
+- Imported rows include Diver II Black/Black, Black/Black Green Strap, Black/Blue Indices, Black/Blue, Black/Blue Blue Strap, Black/Green, Black/Green Green Strap, Silver/Black, Black/Black Orange Strap, Silver/Black Orange Strap, Silver/Blue, Silver/Blue Orange Strap, Silver/Green, plus Diver Silver Orange Strap, Silver, Black, Black Red Strap, Black Inverted Lume, Black Inverted Lume White Strap, and Gold.
+- Product URLs are included.
+- WooCommerce category and product-page HTML was used for product names, prices, source URLs, stock status, and product-page specification text.
+- Nautage did not expose SKU values in the fetched product-page data, so `sku` was left blank.
+- Prices were imported in USD as shown on the fetched product pages: `599` for Diver II rows and `499` for Diver rows.
+- Product-page short-description specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, and water resistance.
+- Nautage lists size as `41 x 49 x 12mm - 22mm lug width`; this was normalized to `case_width_mm: 41`, `lug_to_lug_mm: 49`, and `case_height_mm: 12`.
+- Nautage did not list power reserve directly on the fetched product pages, so `power_reserve_hours` was left blank.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
