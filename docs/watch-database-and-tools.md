@@ -765,6 +765,8 @@ Minus-8 import notes:
 
 Rows `1103-1105`: Baltic Heures du Monde collection, 3 rows imported by owner exception.
 
+Rows `1106-1112`: Baltic Hermetique collection, 7 rows imported after color exclusions.
+
 Source collection:
 `https://baltic-watches.com/en/collections/heures-du-monde`
 
@@ -775,6 +777,20 @@ Baltic Heures du Monde import notes:
 - Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
 - Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
 - The base pressed-strap price of `1300` EUR was used in `price`; bracelet variants were listed at `1360` EUR.
+- Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Source collection:
+`https://baltic-watches.com/en/collections/hermetique`
+
+Baltic Hermetique import notes:
+- The collection exposed 11 product rows.
+- The owner asked to skip pink, turquoise, orange, and yellow. The 4 Hermetique Summer colors were excluded.
+- 7 available Tourer rows were imported: Beige, Green, Blue, Brown, Bronze Green, Bronze Brown, and Bronze Blue.
+- Product URLs are included.
+- Baltic's Next.js/Shopify page data was used for product names, availability, EUR prices, and source URLs.
+- Baltic did not expose SKU values in the fetched product-page data, so `sku` was left blank.
+- Base rubber-strap pricing was used in `price`: `550` EUR for stainless steel Tourer models and `600` EUR for bronze Tourer models.
 - Product-page specification blocks were used for case width, lug-to-lug distance, case height, movement type, caliber, power reserve, and water resistance.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
