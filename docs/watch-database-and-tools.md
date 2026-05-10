@@ -1150,6 +1150,24 @@ Longines Spirit Pilot Flyback import notes:
 - Prices are entered as official numeric USD prices from the Longines US product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1320-1331`: Longines Spirit collection, 12 available rows imported.
+
+Source collection:
+`https://www.longines.com/en-us/watches/spirit/spirit`
+
+Longines Spirit import notes:
+- The collection exposed 13 visible product rows on a single collection page.
+- The 37 mm sunray-blue bracelet reference `L3.410.4.93.6` was marked notify-me/unavailable and was skipped under the standing unavailable-watch rule.
+- 12 unique rows were imported: available 37 mm steel, 40 mm steel, 42 mm steel, 40 mm titanium, and 42 mm titanium bracelet references.
+- Product URLs are included.
+- Official Longines collection/product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, movement type, caliber, power reserve, water resistance, material, dial color, and strap/bracelet distinction.
+- All imported rows use `movement_type: Automatic`, `caliber: L888.4`, `power_reserve_hours: 72`, and `water_resistance_m: 100`.
+- The 37 mm rows use `case_height_mm: 11.7`; the 40 mm and 42 mm rows use `case_height_mm: 12.2`.
+- `lug_to_lug_mm` was left blank because a direct Longines lug-to-lug value was not found for these references.
+- Titanium rows were marked with slightly higher enthusiast appeal because of the material distinction within the Spirit collection.
+- Prices are entered as official numeric USD prices from the Longines US collection/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
