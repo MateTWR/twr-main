@@ -1042,6 +1042,26 @@ Longines HydroConquest GMT import notes:
 - Prices are entered as official numeric USD prices from the Longines US product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1229-1252`: Longines Conquest collection, 24 available rows imported after the owner-requested size filter.
+
+Source collection:
+`https://www.longines.com/en-us/watches/conquest/conquest?page=3`
+
+Longines Conquest import notes:
+- The Conquest collection exposed 54 visible product rows across 3 paginated pages.
+- The owner asked to skip anything smaller than 38 mm, so all 29.5 mm, 30 mm, and 34 mm rows were excluded.
+- The 43 mm black quartz variant `L3.760.4.56.6` was marked unavailable/notify-me and was skipped under the standing unavailable-watch rule.
+- 24 rows were imported: 38 mm and 41 mm modern automatic Conquest variants plus available 41 mm and 43 mm quartz Conquest variants.
+- Product URLs are included.
+- Official Longines collection/product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve, water resistance, and dial color.
+- Modern 38 mm automatic rows use `lug_to_lug_mm: 46.8`, `case_height_mm: 10.9`, `caliber: L888`, `power_reserve_hours: 72`, and `water_resistance_m: 100`.
+- Modern 41 mm automatic rows use `lug_to_lug_mm: 49.1`, `case_height_mm: 10.9`, `caliber: L888`, `power_reserve_hours: 72`, and `water_resistance_m: 100`.
+- Older 41 mm quartz rows use `lug_to_lug_mm: 51`, `case_height_mm: 11.8`, `caliber: L157`, and `water_resistance_m: 300`.
+- Older 43 mm quartz rows use `lug_to_lug_mm: 53.5`, `case_height_mm: 11.5`, `caliber: L157`, and `water_resistance_m: 300`.
+- Quartz battery life was not converted into `power_reserve_hours`, so the quartz rows keep that field blank.
+- Prices are entered as official numeric USD prices from the Longines US collection/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
