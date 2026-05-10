@@ -1116,6 +1116,24 @@ Longines Master Collection import notes:
 - Prices are entered as official numeric USD prices from the Longines US collection/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1305-1317`: Longines Master Collection Moonphase, 13 eligible available rows imported after the owner-requested size and gold/rose-gold filters.
+
+Source collection:
+`https://www.longines.com/en-us/watches/master/master-collection-moonphase`
+
+Longines Master Collection Moonphase import notes:
+- The collection exposed 23 visible product rows on a single collection page.
+- The owner asked to skip anything smaller than 38 mm, so all 34 mm rows were excluded.
+- The owner also asked to skip anything with gold or rose gold, so the 18k rose-gold and steel-and-gold/rose-gold cap references were excluded.
+- 13 unique stainless-steel 40 mm and 42 mm rows were imported after applying the size, finish, availability, and duplicate-SKU filters.
+- Product URLs are included.
+- Official Longines collection/product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve, water resistance, and dial color.
+- All imported rows use `movement_type: Automatic`, `caliber: L899`, `power_reserve_hours: 72`, and `water_resistance_m: 30`.
+- The 40 mm rows use `lug_to_lug_mm: 47` and `case_height_mm: 11.1`; the 42 mm rows use `lug_to_lug_mm: 49.7` and `case_height_mm: 11.2`.
+- Water resistance was normalized from `3 bar` to `30` meters.
+- Prices are entered as official numeric USD prices from the Longines US collection/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
