@@ -1023,6 +1023,25 @@ Alpina Heritage import notes:
 - Prices are entered as the official numeric CHF prices exposed by Alpina product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Longines
+
+Rows `1219-1228`: Longines HydroConquest GMT collection, 10 available product rows imported.
+
+Source collection:
+`https://www.longines.com/en-us/watches/conquest/hydroconquest-gmt`
+
+Longines HydroConquest GMT import notes:
+- The collection exposed 11 visible product rows.
+- The 43 mm blue bracelet variant `L3.890.4.96.6` was marked unavailable/notify-me on the collection page and was skipped under the standing unavailable-watch rule.
+- 10 available HydroConquest GMT rows were imported across 43 mm and 41 mm case sizes.
+- Product URLs are included.
+- Official Longines product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve, water resistance, and dial color.
+- Water resistance was normalized from `30 bar` to `300` meters.
+- Longines directly lists lug-to-lug and thickness, so both `lug_to_lug_mm` and `case_height_mm` were populated.
+- The 43 mm rows use `lug_to_lug_mm: 52` and `case_height_mm: 12.9`; the 41 mm rows use `lug_to_lug_mm: 49.4` and `case_height_mm: 12.9`.
+- Prices are entered as official numeric USD prices from the Longines US product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
