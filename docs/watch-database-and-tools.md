@@ -1062,6 +1062,20 @@ Longines Conquest import notes:
 - Prices are entered as official numeric USD prices from the Longines US collection/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1253-1262`: Longines Conquest Chronograph collection, 10 available rows imported.
+
+Source collection:
+`https://www.longines.com/en-us/watches/conquest/conquest-chronograph`
+
+Longines Conquest Chronograph import notes:
+- The collection exposed 10 visible product rows and all 10 were available in the indexed Longines product-page data at import time.
+- Product URLs are included.
+- Official Longines collection/product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve, water resistance, and dial color.
+- All rows are 42 mm automatic chronographs using `caliber: L898`, `power_reserve_hours: 59`, `lug_to_lug_mm: 50.2`, `case_height_mm: 14.3`, and `water_resistance_m: 100`.
+- The Marco Odermatt Limited Edition row was included because it was available and the owner did not request limited editions to be skipped for this collection.
+- Prices are entered as official numeric USD prices from the Longines US collection/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
