@@ -1076,6 +1076,25 @@ Longines Conquest Chronograph import notes:
 - Prices are entered as official numeric USD prices from the Longines US collection/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1263-1277`: Longines HydroConquest collection, 15 eligible available rows imported after the owner-requested gold-tone/rose-gold filter.
+
+Source collection:
+`https://www.longines.com/en-us/watches/conquest/hydroconquest?page=3`
+
+Longines HydroConquest import notes:
+- The HydroConquest collection exposed 52 visible product rows across 3 paginated pages.
+- The owner asked to skip any models with gold-tone and/or rose-gold in the case, bezel, or bracelet, so two-tone/PVD references using the `L3.xxx.3...` reference pattern were excluded.
+- Unavailable/notify-me rows were skipped under the standing unavailable-watch rule, even when a collection card appeared inconsistent with the product-page availability state.
+- 15 unique rows were imported after removing pagination duplicates and applying the availability and finish filters.
+- Product URLs are included.
+- Official Longines collection/product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, movement type, caliber, power reserve, water resistance, and dial color.
+- The 39 mm modern HydroConquest row uses `lug_to_lug_mm: 48.1` and `case_height_mm: 11.7`; the 42 mm modern HydroConquest rows use `lug_to_lug_mm: 51.2` and `case_height_mm: 11.7`.
+- The older 41 mm steel rows use `lug_to_lug_mm: 51.1` and `case_height_mm: 11.9`; the older 43 mm steel rows use `lug_to_lug_mm: 53.5` and `case_height_mm: 11.9`.
+- The black ceramic row uses `case_height_mm: 13`; `lug_to_lug_mm` was left blank because the product-page data did not expose a direct Longines lug-to-lug value.
+- All imported rows use `movement_type: Automatic`, `caliber: L888`, `power_reserve_hours: 72`, and `water_resistance_m: 300`.
+- Prices are entered as official numeric USD prices from the Longines US collection/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
