@@ -1168,6 +1168,14 @@ Longines Spirit import notes:
 - Prices are entered as official numeric USD prices from the Longines US collection/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Pending Longines Spirit collection queue:
+1. `https://www.longines.com/en-us/watches/spirit/spirit-zulu-time`
+2. `https://www.longines.com/en-us/watches/spirit/spirit-flyback`
+3. `https://www.longines.com/en-us/watches/spirit/spirit-chronograph`
+4. `https://www.longines.com/en-us/watches/spirit/spirit-pilot`
+
+When resuming after the owner's weekly rate-limit reset, continue with these four collection URLs in this order to complete the broader Longines Spirit import.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
