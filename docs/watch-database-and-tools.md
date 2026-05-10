@@ -1095,6 +1095,27 @@ Longines HydroConquest import notes:
 - Prices are entered as official numeric USD prices from the Longines US collection/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1278-1304`: Longines Master Collection, 27 eligible available rows imported after the owner-requested size and gold/rose-gold filters.
+
+Source collection:
+`https://www.longines.com/en-us/watches/master/master-collection`
+
+Longines Master Collection import notes:
+- The Master Collection exposed 71 visible product rows across 3 paginated pages.
+- The owner asked to skip anything smaller than 38 mm, so all 25.5 mm, 29 mm, and 34 mm rows were excluded.
+- The owner also asked to skip anything with gold or rose gold, so full rose-gold, steel-and-yellow-gold, and steel-and-rose-gold references were excluded.
+- Unavailable/notify-me rows were skipped under the standing unavailable-watch rule.
+- 27 unique rows were imported after applying the size, finish, availability, and duplicate-SKU filters.
+- Product URLs are included.
+- Official Longines collection/product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, movement type, power reserve, water resistance, and dial color.
+- The 38.5 mm small-seconds rows use `caliber: L893`, `case_height_mm: 10.2`, and keep `lug_to_lug_mm` blank because the indexed Longines product-page data did not expose a direct Longines lug-to-lug value.
+- The 40 mm three-hand/date rows use `caliber: L888`, `lug_to_lug_mm: 46.8`, and `case_height_mm: 9.35`.
+- The 42 mm three-hand/date rows use `caliber: L888`, `lug_to_lug_mm: 49.7`, and `case_height_mm: 9.54`.
+- The 40 mm and 42 mm annual-calendar rows use `caliber: L897`, `power_reserve_hours: 72`, and `case_height_mm: 10.8`.
+- Water resistance was normalized from `3 bar` to `30` meters.
+- Prices are entered as official numeric USD prices from the Longines US collection/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
