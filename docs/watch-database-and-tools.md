@@ -1134,6 +1134,22 @@ Longines Master Collection Moonphase import notes:
 - Prices are entered as official numeric USD prices from the Longines US collection/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1318-1319`: Longines Spirit Pilot Flyback, 2 direct product-page rows imported.
+
+Source products:
+`https://www.longines.com/en-us/p/watch-longines-spirit-pilot-flyback-l3-721-4-53-2`
+`https://www.longines.com/en-us/p/watch-longines-spirit-pilot-flyback-l3-721-4-53-6`
+
+Longines Spirit Pilot Flyback import notes:
+- The owner provided two direct product URLs, so both listed references were imported as individual rows.
+- Product URLs are included.
+- Official Longines product pages were used for product names, SKUs, prices, availability, source URLs, case width, movement type, power reserve, water resistance, dial color, strap/bracelet distinction, and case/bezel material context.
+- Both rows are 39.5 mm manual-winding flyback chronographs with stainless steel cases, ceramic bezels, black matte dials, 68-hour power reserves, and 100-meter water resistance.
+- `caliber: L792.4` and `case_height_mm: 13.4` were filled from indexed product-spec references because the visible Longines page text did not expose those detailed fields directly.
+- `lug_to_lug_mm` was left blank because a direct Longines lug-to-lug value was not found for these references.
+- Prices are entered as official numeric USD prices from the Longines US product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
