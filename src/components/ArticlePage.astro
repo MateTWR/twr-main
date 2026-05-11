@@ -158,7 +158,7 @@ const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
             decoding="async"
           />
           <div class="author-content">
-            <p class="author-name">Maté D</p>
+            <a class="author-name" href="/author/mate/">Maté D</a>
             <p class="author-bio">Maté is the founder and editor of The Watch Resource. With a background in marketing and analytics and a decade-long passion for horology, he combines a collector's perspective with a reader-first approach to watch content — covering brands, movements, and timepieces with the depth he wished he'd found when he started. Since 2021, he's been building TWR into a trusted reference for watch enthusiasts at every level.</p>
           </div>
         </div>
@@ -664,6 +664,12 @@ const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
     font-weight: 700;
     color: #101010;
     margin: 0 0 0.5rem;
+    text-decoration: none;
+    display: block;
+  }
+
+  .author-name:hover {
+    color: #EBA541;
   }
 
   .author-bio {

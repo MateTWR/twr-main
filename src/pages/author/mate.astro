@@ -1,0 +1,256 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const [reviews, guides, comparisons, alternatives] = await Promise.all([
+  getCollection('reviews', ({ data }) => !data.draft),
+  getCollection('guides', ({ data }) => !data.draft),
+  getCollection('comparisons', ({ data }) => !data.draft),
+  getCollection('alternatives', ({ data }) => !data.draft),
+]);
+
+const allArticles = [
+  ...reviews.map(a => ({ ...a, url: `/reviews/${a.id}/`, type: 'Review' })),
+  ...guides.map(a => ({ ...a, url: `/guides/${a.id}/`, type: 'Guide' })),
+  ...comparisons.map(a => ({ ...a, url: `/comparisons/${a.id}/`, type: 'Comparison' })),
+  ...alternatives.map(a => ({ ...a, url: `/alternatives/${a.id}/`, type: 'Alternatives' })),
+].sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const authorPhoto = 'https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/24ce8c4b-b692-46f0-abeb-4f6abac16900/public';
+
+const schema = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'Maté D',
+  url: 'https://www.thewatchresource.com/author/mate',
+  image: authorPhoto,
+  jobTitle: 'Founder and Editor',
+  worksFor: {
+    '@type': 'Organization',
+    name: 'The Watch Resource',
+    url: 'https://www.thewatchresource.com',
+  },
+  description: 'Maté is the founder and editor of The Watch Resource — an independent platform dedicated to watches worth actually wearing, not just talking about.',
+});
+---
+
+<Layout
+  title="Maté D — Founder & Editor | The Watch Resource"
+  description="Maté is the founder and editor of The Watch Resource. With a background in marketing and analytics and a decade-long passion for horology, he covers watches worth adding to a personal collection for the long term."
+  image={authorPhoto}
+  schema={schema}
+>
+  <main class="author-page">
+
+    <div class="author-hero">
+      <img
+        class="author-photo"
+        src={authorPhoto}
+        alt="Maté D"
+        width="120"
+        height="120"
+        loading="eager"
+        decoding="async"
+      />
+      <div class="author-meta">
+        <p class="author-label">Author</p>
+        <h1 class="author-name">Maté D</h1>
+        <p class="author-role">Founder &amp; Editor, The Watch Resource</p>
+      </div>
+    </div>
+
+    <div class="author-bio">
+      <p>Maté is the founder and editor of The Watch Resource — an independent platform dedicated to watches worth actually wearing, not just talking about.</p>
+      <p>His interest in horology started with a simple observation: a watch is, at its core, the same mechanism repeated across thousands of references, yet each one can look and feel entirely different. That creative tension — so much variation within such a constrained form — is what drew him in. Over the years, he's built a small, carefully chosen collection of around half a dozen pieces, each selected for a specific reason. Some have been gifted away to make room for something new; that process of editing and refining is, to him, part of what collecting means.</p>
+      <p>Maté has a particular eye for design — specifically for watches that do something distinctive, whether through aesthetics, functionality, or both. He has a soft spot for stainless steel bezels and is drawn to pieces that reward a second look. What he looks for isn't prestige or price — it's a watch with a point of view.</p>
+      <p>That same sensibility shapes TWR's editorial direction. Most watch content online is built around major brand announcements, celebrity collaborations, and whatever is generating hype at the moment. Maté started TWR because he wanted a resource focused on something different: genuinely under-the-radar references that belong in a personal collection for the long term. Not trend reports — a reference.</p>
+      <p>With a background in marketing and analytics, he brings a structured, research-driven approach to every piece he publishes. Since launching in 2021, he's been building TWR into the kind of site he wished had existed when he first got serious about watches.</p>
+    </div>
+
+    <section class="articles-section">
+      <h2>Articles by Maté</h2>
+      <div class="articles-grid">
+        {allArticles.map(article => (
+          <article class="card">
+            {article.data.heroImage && (
+              <a href={article.url} class="card-image-wrap">
+                <img
+                  src={article.data.heroImage}
+                  alt={article.data.title}
+                  width="600"
+                  height="400"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </a>
+            )}
+            <div class="card-body">
+              <span class="card-type">{article.type}</span>
+              <h3><a href={article.url}>{article.data.title}</a></h3>
+              {article.data.description && <p class="card-desc">{article.data.description}</p>}
+              <time class="card-date" datetime={article.data.date.toISOString()}>
+                {article.data.date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </time>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+  </main>
+</Layout>
+
+<style>
+  .author-page {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+  }
+
+  .author-hero {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #e5e7eb;
+  }
+
+  .author-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+
+  .author-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-tertiary);
+    margin: 0 0 0.25rem;
+  }
+
+  .author-name {
+    font-family: var(--font-heading);
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--color-secondary);
+    margin: 0 0 0.25rem;
+    line-height: 1.2;
+  }
+
+  .author-role {
+    font-size: 0.9rem;
+    color: var(--color-tertiary);
+    margin: 0;
+  }
+
+  .author-bio {
+    margin-bottom: 3rem;
+  }
+
+  .author-bio p {
+    font-size: 1rem;
+    line-height: var(--line-height-body);
+    color: #374151;
+    margin: 0 0 1.25rem;
+  }
+
+  .articles-section h2 {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 0 0 1.5rem;
+    color: var(--color-secondary);
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+
+  .card {
+    background: var(--color-surface);
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card-image-wrap img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+    transition: opacity 0.2s;
+  }
+
+  .card-image-wrap:hover img {
+    opacity: 0.9;
+  }
+
+  .card-body {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    flex: 1;
+  }
+
+  .card-type {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-primary);
+    font-weight: 600;
+  }
+
+  .card-body h3 {
+    font-family: var(--font-heading);
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1.3;
+  }
+
+  .card-body h3 a {
+    color: var(--color-secondary);
+    text-decoration: none;
+  }
+
+  .card-body h3 a:hover {
+    color: #EBA541;
+  }
+
+  .card-desc {
+    font-size: 0.85rem;
+    color: #6b7280;
+    margin: 0;
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-date {
+    font-size: 0.8rem;
+    color: #9ca3af;
+    margin-top: auto;
+  }
+
+  @media (max-width: 580px) {
+    .author-hero {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .articles-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
