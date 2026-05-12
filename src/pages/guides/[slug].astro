@@ -10,11 +10,61 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 
+const PRICE_TIERS = ['500', '1000', '2000', '5000'];
+const WATCH_TYPES = ['dive-watches', 'gmt', 'pilot-watches', 'field-watches', 'racing-watches', 'dress-watches', 'everyday-watches'];
+
+const cats: string[] = entry.data.categories ?? [];
+const watchType = cats.find(c => WATCH_TYPES.includes(c));
+const currentTier = cats.find(c => PRICE_TIERS.includes(c));
+
 const all = await getCollection('guides', ({ data }) => !data.draft);
-const related = all
-  .filter(a => a.id !== entry.id)
-  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 8);
+
+// Same watch-type guides, excluding current
+const sameType = watchType
+  ? all.filter(a => a.id !== entry.id && (a.data.categories ?? []).includes(watchType))
+  : [];
+
+// If 4+ same-type guides exist, show those sorted by price tier then date; otherwise fall back to most recent
+const related = sameType.length >= 4
+  ? sameType.sort((a, b) => {
+      const aTier = (a.data.categories ?? []).find((c: string) => PRICE_TIERS.includes(c));
+      const bTier = (b.data.categories ?? []).find((c: string) => PRICE_TIERS.includes(c));
+      if (aTier && bTier) return PRICE_TIERS.indexOf(aTier) - PRICE_TIERS.indexOf(bTier);
+      if (aTier) return -1;
+      if (bTier) return 1;
+      return b.data.date.valueOf() - a.data.date.valueOf();
+    }).slice(0, 8)
+  : all
+      .filter(a => a.id !== entry.id)
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+      .slice(0, 8);
+
+// Build price ladder: adjacent price tiers for the same watch type
+type PriceLadderLink = { title: string; url: string };
+type PriceLadder = { lower?: PriceLadderLink; higher?: PriceLadderLink };
+let priceLadder: PriceLadder | undefined;
+
+if (watchType && currentTier) {
+  const tierIndex = PRICE_TIERS.indexOf(currentTier);
+  const lowerTier = tierIndex > 0 ? PRICE_TIERS[tierIndex - 1] : null;
+  const higherTier = tierIndex < PRICE_TIERS.length - 1 ? PRICE_TIERS[tierIndex + 1] : null;
+
+  const findTierGuide = (tier: string) =>
+    all.find(a => {
+      const c = a.data.categories ?? [];
+      return c.includes(watchType) && c.includes(tier);
+    });
+
+  const lowerGuide = lowerTier ? findTierGuide(lowerTier) : null;
+  const higherGuide = higherTier ? findTierGuide(higherTier) : null;
+
+  if (lowerGuide || higherGuide) {
+    priceLadder = {
+      ...(lowerGuide && { lower: { title: lowerGuide.data.title, url: `/guides/${lowerGuide.id}/` } }),
+      ...(higherGuide && { higher: { title: higherGuide.data.title, url: `/guides/${higherGuide.id}/` } }),
+    };
+  }
+}
 ---
 
 <ArticlePage
@@ -28,4 +78,5 @@ const related = all
   relatedLabel="More Buying Guides"
   relatedBase="/guides/"
   collection="guides"
+  priceLadder={priceLadder}
 />

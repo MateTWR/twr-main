@@ -19,10 +19,14 @@ interface Props {
   ratingTotal?: number;
   price?: number;
   priceCurrency?: string;
+  priceLadder?: {
+    lower?: { title: string; url: string };
+    higher?: { title: string; url: string };
+  };
 }
 
 const { title, seoTitle, description, heroImage, date, author, Content, related, relatedLabel, relatedBase, collection,
-        hideHeaderDescription = false, hideMeta = false, ratingTotal, price, priceCurrency } = Astro.props;
+        hideHeaderDescription = false, hideMeta = false, ratingTotal, price, priceCurrency, priceLadder } = Astro.props;
 
 const hasRating = ratingTotal !== undefined;
 const formatRating = (value: number) => Number.isInteger(value) ? String(value) : String(value);
@@ -127,6 +131,26 @@ const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
       <div class="prose">
         <Content components={{ RatingBox }} />
       </div>
+
+      {priceLadder && (
+        <div class="price-ladder">
+          <p class="price-ladder__label">Explore more budget ranges</p>
+          <div class="price-ladder__links">
+            {priceLadder.lower && (
+              <a href={priceLadder.lower.url} class="price-ladder__link price-ladder__link--lower">
+                <span class="price-ladder__arrow">&larr;</span>
+                {priceLadder.lower.title}
+              </a>
+            )}
+            {priceLadder.higher && (
+              <a href={priceLadder.higher.url} class="price-ladder__link price-ladder__link--higher">
+                {priceLadder.higher.title}
+                <span class="price-ladder__arrow">&rarr;</span>
+              </a>
+            )}
+          </div>
+        </div>
+      )}
 
       {related.length > 0 && (
         <div class="related">
@@ -677,6 +701,54 @@ const schema = JSON.stringify({ '@context': 'https://schema.org', '@graph': grap
     color: #6b7280;
     line-height: 1.7;
     margin: 0;
+  }
+
+  .price-ladder {
+    margin: 2.5rem 0;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid #e5e7eb;
+    border-left: 3px solid var(--color-primary);
+    border-radius: 6px;
+    background: var(--color-surface);
+  }
+
+  .price-ladder__label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--color-tertiary);
+    margin: 0 0 0.75rem;
+    font-weight: 600;
+  }
+
+  .price-ladder__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .price-ladder__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-secondary);
+    text-decoration: none;
+    padding: 0.45rem 0.9rem;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+    transition: border-color 0.15s, color 0.15s;
+  }
+
+  .price-ladder__link:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+  }
+
+  .price-ladder__arrow {
+    font-size: 1rem;
+    line-height: 1;
   }
 </style>
 
