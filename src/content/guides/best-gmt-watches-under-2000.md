@@ -31,7 +31,7 @@ Join us for an overview of the best pieces, all of which are certain to last the
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh76615530-khaki-aviation-converter.html-gmt/)
 
-The Khaki Aviation Converter GMT makes traveling around the world a pice of cake, as far as keeping track of  time zones is concerned. A rotating slide-rule bezel translates units in both directions, and the GMT function assures you won't be late to your engagements. This elegant 44mm pilot's watch will take you from the cockpit (or the passenger cabin) to the conference room in style, all that with an 80-hour battery reserve thanks to the reliable H-14 movement, which is a modified ETA movement.
+The [Khaki Aviation Converter GMT](https://www.thewatchresource.com/hamilton-khaki-aviation-collection-review/) makes traveling around the world a pice of cake, as far as keeping track of  time zones is concerned. A rotating slide-rule bezel translates units in both directions, and the GMT function assures you won't be late to your engagements. This elegant 44mm pilot's watch will take you from the cockpit (or the passenger cabin) to the conference room in style, all that with an 80-hour battery reserve thanks to the reliable H-14 movement, which is a modified ETA movement.
 
 ### Laco Frankfurt GMT
 

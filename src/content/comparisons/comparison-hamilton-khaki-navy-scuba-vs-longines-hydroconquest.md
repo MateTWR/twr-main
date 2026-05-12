@@ -10,7 +10,7 @@ tags:
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/cf747579-d993-489f-382c-ee66b7e90800/public"
 ---
 
-Choosing between the Hamilton Khaki Navy Scuba (Ref. H82505140) and the Longines HydroConquest (Ref. L3.782.4.96.6) is more than just a spec-sheet battle; it is a choice between two different tiers of Swiss watchmaking.
+Choosing between the [Hamilton Khaki Navy Scuba](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/) (Ref. H82505140) and the Longines HydroConquest (Ref. L3.782.4.96.6) is more than just a spec-sheet battle; it is a choice between two different tiers of Swiss watchmaking.
 
 Both watches come from the Swatch Group, ensuring a level of build quality and movement reliability that is hard to beat. However, while the Hamilton Khaki Navy Scuba is often celebrated as the king of the sub-$1,000 divers, the Longines HydroConquest enters the "entry-level luxury" territory, commanding a higher price for more refined finishes.
 

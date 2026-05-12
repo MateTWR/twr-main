@@ -27,7 +27,7 @@ Without further ado, let’s dive in and take a closer look at our carefully cur
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh38416711-intramatic-auto-chrono.html)
 
-The Hamilton Intra-Matic Auto Chrono is a new recreation of a 1968 signature timepiece that delivers a sporty yet timeless design. With its characteristic panda dial and true 1960s charm, the H-31 automatic watch is a surefire eye-catcher. It's a great watch for classic car enthusiasts as well as the tachymeter on the bezel and long seconds hand make you feel like you're looking at a dashboard of a racing car, already visualizing the checkered flag.
+The [Hamilton Intra-Matic Auto Chrono](https://www.thewatchresource.com/hamilton-intra-matic-auto-chrono-review/) is a new recreation of a 1968 signature timepiece that delivers a sporty yet timeless design. With its characteristic panda dial and true 1960s charm, the H-31 automatic watch is a surefire eye-catcher. It's a great watch for classic car enthusiasts as well as the tachymeter on the bezel and long seconds hand make you feel like you're looking at a dashboard of a racing car, already visualizing the checkered flag.
 
 ## Seiko Prospex Speedtimer
 

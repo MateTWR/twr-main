@@ -163,7 +163,7 @@ Beyond its size and styling, the Alpina Startimer Pilot Chronograph likely incor
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70605731-khaki-field-murph-auto.html)
 
-This Hamilton Khaki Field watch, featured in the movie "Interstellar” with a key role, quickly became a popular timepiece.
+This [Hamilton Khaki Field](https://www.thewatchresource.com/hamilton-khaki-field-collection-review/) watch, featured in the movie “Interstellar” with a key role, quickly became a popular timepiece.
 
 The watch's design is classic and understated, with a simple black dial, luminous hands and markers, and a stainless steel case. Its utilitarian aesthetic reflects its military heritage, as the Khaki Field was originally designed for use by soldiers in the field.
 

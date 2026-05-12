@@ -50,7 +50,7 @@ So without further ado, let's take a look at the top Swiss automatic watches und
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh70455533-khaki-field-auto.html)
 
-The Hamilton Khaki Field watch is a resilient military watch with a rugged design. As the first soldier’s wristwatch, the Khaki Field pays homage to Hamilton’s military background, and this timepiece is ready for any expedition. Hamilton's most popular collection, the Khaki Field watches are classic army designs that have stood the test of time.  They’re designed for life’s explorers and are sure to meet your demands in the wild.
+The [Hamilton Khaki Field](https://www.thewatchresource.com/hamilton-khaki-field-collection-review/) watch is a resilient military watch with a rugged design. As the first soldier’s wristwatch, the Khaki Field pays homage to Hamilton’s military background, and this timepiece is ready for any expedition. Hamilton's most popular collection, the Khaki Field watches are classic army designs that have stood the test of time.  They’re designed for life’s explorers and are sure to meet your demands in the wild.
 
 The 38 mm case width counts a smaller size, however, this size is truly a tribute to the traditional field watch sizes. Hamilton's own H-10 automatic movement provides an 80-hour power reserve. The Hamilton Khaki Field Auto 38 is an all time favorite!
 

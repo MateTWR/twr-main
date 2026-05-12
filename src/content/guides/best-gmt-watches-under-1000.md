@@ -27,7 +27,7 @@ We carefully considered the watches' quality, the timelessness of the design, an
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh77932560-khaki-aviation-gmt-chrono-quartz.html-quartz/)
 
-The Khaki Aviation X-Wind Automatic Chronograph, designed with pilots in mind and intended for a life of adventure, soars through the crosswinds in a striking new form, with camouflage patterns and new color options spreading throughout the dial, strap, and case. This high-performance item offers combat-chic aesthetics and forceful style, with an inner rotating bezel and an anti-magnetic Silicon hairspring.
+The [Khaki Aviation](https://www.thewatchresource.com/hamilton-khaki-aviation-collection-review/) X-Wind Automatic Chronograph, designed with pilots in mind and intended for a life of adventure, soars through the crosswinds in a striking new form, with camouflage patterns and new color options spreading throughout the dial, strap, and case. This high-performance item offers combat-chic aesthetics and forceful style, with an inner rotating bezel and an anti-magnetic Silicon hairspring.
 
 ### Longines Conquest V.H.P. GMT
 

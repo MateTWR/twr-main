@@ -63,7 +63,7 @@ The Hamilton Jazzmaster Gent is a modern interpretation of a conventional watch 
 
 [Check Price](https://www.dpbolvw.net/click-100461694-11554237?url=https%3A%2F%2Fwww.jomashop.com%2Fhamilton-watch-h70305993.html)
 
-The Hamilton Khaki Field Automatic watch is a classic timepiece with a  vintage design. The 40 mm stainless steel case and durable canvas and leather combination strap give it a sturdy, durable feel, while the brown dial with light brown hour markers provide a clean look. The three-hand display and smaller case size give it a traditional feel, making it a great choice for fans of mechanical watches. Its military inspiration and heritage are kept alive.
+The [Hamilton Khaki Field](https://www.thewatchresource.com/hamilton-khaki-field-collection-review/) Automatic watch is a classic timepiece with a  vintage design. The 40 mm stainless steel case and durable canvas and leather combination strap give it a sturdy, durable feel, while the brown dial with light brown hour markers provide a clean look. The three-hand display and smaller case size give it a traditional feel, making it a great choice for fans of mechanical watches. Its military inspiration and heritage are kept alive.
 
 ## Longines Legend Diver
 
@@ -81,7 +81,7 @@ The Hamilton Khaki Field Automatic watch is a classic timepiece with a  vintage
 
 [Check Price](https://amzn.to/3DgAujE)
 
-The Longines Legend Diver is a modern interpretation of a classic 1960’s diver watch that is a part of the brand's Heritage collection. It maintains the same design elements as the original timepiece, but has been updated with current technological features. This vintage-inspired timepiece with the brown dial and leather strap is perfect as an everyday watch, and would be an excellent addition to any collection.
+The [Longines Legend Diver](https://www.thewatchresource.com/review-longines-legend-diver/) is a modern interpretation of a classic 1960’s diver watch that is a part of the brand's Heritage collection. It maintains the same design elements as the original timepiece, but has been updated with current technological features. This vintage-inspired timepiece with the brown dial and leather strap is perfect as an everyday watch, and would be an excellent addition to any collection.
 
 ## Oris Divers Sixty-Five Brown
 

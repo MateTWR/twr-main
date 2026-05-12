@@ -25,7 +25,7 @@ Psychologically speaking, we tend to gravitate toward the color orange when in n
 
 [Check Price](https://solartimeltd.pxf.io/092YVN)
 
-The Spinnaker Dumas Tangerina watch features a bold, vintage 1970s-inspired octagonal case that is sturdy and provides the perfect frame for the bezel and dial. The stainless steel case and bracelet make the orange dial pop, and to make the look of the watch even more dynamic, the hour markers and the minute hand are further highlighted with a secondary vibrant light blue color. A classy and sporty option with a reliable Japanese automatic movement (NH35) provided by Seiko.
+The [Spinnaker Dumas](https://www.thewatchresource.com/review-spinnaker-dumas/) Tangerina watch features a bold, vintage 1970s-inspired octagonal case that is sturdy and provides the perfect frame for the bezel and dial. The stainless steel case and bracelet make the orange dial pop, and to make the look of the watch even more dynamic, the hour markers and the minute hand are further highlighted with a secondary vibrant light blue color. A classy and sporty option with a reliable Japanese automatic movement (NH35) provided by Seiko.
 
 ## Vaer A3 Atlas Orange
 

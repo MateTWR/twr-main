@@ -125,7 +125,7 @@ The Kanno by Orient is on the larger side (44 mm case diameter), although due to
 
 [Check Price](https://solartimeltd.pxf.io/Vxg47j)
 
-A great option from Spinnaker: the Dumas. The Spinnaker Dumas Harbour Blue has a powerful, vintage-inspired form from the 1970s. The octagon case is bold and durable, and it provides the perfect backdrop for the bezel and dial.
+A great option from Spinnaker: the [Dumas](https://www.thewatchresource.com/review-spinnaker-dumas/). The Spinnaker Dumas Harbour Blue has a powerful, vintage-inspired form from the 1970s. The octagon case is bold and durable, and it provides the perfect backdrop for the bezel and dial.
 
 _Read our [UNDONE brand review](https://www.thewatchresource.com/spinnaker-watches-review-everything-you-need-to-know/)._
 

@@ -41,7 +41,7 @@ The Vaer A3 Atlas Navy is a smaller watch - 36 mm case width - and that is exact
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211981-khaki-navy-scuba-quartz.html)
 
-The Khaki Navy Scuba Quartz 37mm, with its sporty design and great practicality, maintains perfect time at the beach or in the water. This timepiece offers a nautical touch to any outfit, therefore it could be your everyday go-to watch.
+The [Khaki Navy Scuba](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/) Quartz 37mm, with its sporty design and great practicality, maintains perfect time at the beach or in the water. This timepiece offers a nautical touch to any outfit, therefore it could be your everyday go-to watch.
 
 _Read more about the_ _[Hamilton brand](https://www.thewatchresource.com/hamilton-watches-brand-history-and-review/) or the [Khaki Navy Collection](https://www.thewatchresource.com/hamilton-khaki-navy-collection-review/)._ 
 

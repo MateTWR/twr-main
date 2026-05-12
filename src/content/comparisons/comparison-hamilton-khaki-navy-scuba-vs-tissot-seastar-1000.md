@@ -10,7 +10,7 @@ tags:
 heroImage: "https://imagedelivery.net/X-EqW8t9MkEGniKrzeQMdA/f9d5d1e5-4421-4160-a18b-1462968f1400/public"
 ---
 
-When you have [$1,000 to spend on a Swiss diver](https://www.thewatchresource.com/best-dive-watches-under-1000/), two names inevitably rise to the top: the Hamilton Khaki Navy Scuba and the Tissot Seastar 1000. 
+When you have [$1,000 to spend on a Swiss diver](https://www.thewatchresource.com/best-dive-watches-under-1000/), two names inevitably rise to the top: the [Hamilton Khaki Navy Scuba](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/) and the Tissot Seastar 1000. 
 Both brands sit under the Swatch Group umbrella, both offer 80 hours of power reserve, and both share a 43mm footprint. However, on the wrist, these two watches couldn't feel more different. One is a rugged tool watch that feels like it belongs on a military vessel; the other is a "desk diver" with a polished, luxury-adjacent aesthetic.
 
 In this guide, I'll break down the nuances of these two titans to help you decide which belongs in your collection.

@@ -26,7 +26,7 @@ As far as statement dials go, an all white version is one of our favorites. A de
 
 [Check Price](https://solartimeltd.pxf.io/o4Vn7E)
 
-The Spinnaker Dumas White Regatta watch features a bold, vintage 1970s-inspired octagonal case that is sturdy and provides the perfect frame for the bezel and dial. The stainless steel case and bracelet goes well with the white dial, while the black unidirectional bezel and black accent colors for the hour markers provide a very exciting contrast. To make the look of the watch even more dynamic, the hour markers and the minute hand are further highlighted with a secondary vibrant red color.
+The [Spinnaker Dumas](https://www.thewatchresource.com/review-spinnaker-dumas/) White Regatta watch features a bold, vintage 1970s-inspired octagonal case that is sturdy and provides the perfect frame for the bezel and dial. The stainless steel case and bracelet goes well with the white dial, while the black unidirectional bezel and black accent colors for the hour markers provide a very exciting contrast. To make the look of the watch even more dynamic, the hour markers and the minute hand are further highlighted with a secondary vibrant red color.
 
 A classy and sporty option with a reliable Japanese automatic movement (NH35) provided by Seiko.
 
@@ -62,7 +62,7 @@ A classy and sporty option with a reliable Japanese automatic movement (NH35) pr
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82505150-khaki-navy-scuba-auto.html)
 
-Luxury meets sport in this Hamilton dive watch, designed to be equally functional during a vacation near the beach or while deep sea exploring. The ceramic bezel protects it from corrosive elements such as sand and saltwater.
+Luxury meets sport in this [Hamilton Khaki Navy Scuba](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/) dive watch, designed to be equally functional during a vacation near the beach or while deep sea exploring. The ceramic bezel protects it from corrosive elements such as sand and saltwater.
 
 We're featuring two variations of the same look:
 
@@ -103,7 +103,7 @@ The beautiful guilloché pattern on the dial completes the classic design look a
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh69439511-khaki-field.html)
 
-The Hamilton Khaki Field Mechanical watch is a classic timepiece with a  vintage design. The 38 mm stainless steel case and durable NATO strap give it a sturdy, durable feel, while the white dial and triangular indexes with old radium color Super-LumiNova® provide a clean, legible display. The three-hand display and mechanical movement give it a traditional feel, making it a great choice for fans of mechanical watches. Its military inspiration and heritage are kept alive with the traditionally smaller case width and the mechanical movement.
+The [Hamilton Khaki Field](https://www.thewatchresource.com/hamilton-khaki-field-collection-review/) Mechanical watch is a classic timepiece with a  vintage design. The 38 mm stainless steel case and durable NATO strap give it a sturdy, durable feel, while the white dial and triangular indexes with old radium color Super-LumiNova® provide a clean, legible display. The three-hand display and mechanical movement give it a traditional feel, making it a great choice for fans of mechanical watches. Its military inspiration and heritage are kept alive with the traditionally smaller case width and the mechanical movement.
 
 ## Tissot Le Locle Powermatic 80
 

@@ -43,7 +43,7 @@ The Spinnaker Hull Diver does a beautiful job of fusing vintage elements with mo
 
 [Check Price](https://solartimeltd.pxf.io/N9XNMq)
 
-The Spinnaker Dumas White Regatta watch features a bold, vintage 1970s-inspired octagonal case that is sturdy and provides the perfect frame for the bezel and dial. The stainless steel case and bracelet goes well with the gray dial, and to make the look of the watch even more dynamic, the hour markers and the minute hand are further highlighted with a secondary vibrant orange color.
+The [Spinnaker Dumas](https://www.thewatchresource.com/review-spinnaker-dumas/) White Regatta watch features a bold, vintage 1970s-inspired octagonal case that is sturdy and provides the perfect frame for the bezel and dial. The stainless steel case and bracelet goes well with the gray dial, and to make the look of the watch even more dynamic, the hour markers and the minute hand are further highlighted with a secondary vibrant orange color.
 
 A classy and sporty option with a reliable Japanese automatic movement (NH35) provided by Seiko.
 
@@ -61,7 +61,7 @@ A classy and sporty option with a reliable Japanese automatic movement (NH35) pr
 
 [Check Price](https://click.linksynergy.com/deeplink?id=79wGJPLiUFI&mid=45062&murl=https%3A%2F%2Fwww.hamiltonwatch.com%2Fen-us%2Fh82211981-khaki-navy-scuba-quartz.html)
 
-Luxury meets sport in the Hamilton Khaki Navy Scuba dive watch. Designed to be equally functional during a vacation near the beach or during deep sea exploring. The ceramic bezel protects it from corrosive elements such as sand and saltwater. The timepiece we're featuring here has a quartz movement and a smaller case width (37 mm). This is a perfect size for smaller wrists as an everyday go-to timepiece. 
+Luxury meets sport in the [Hamilton Khaki Navy Scuba](https://www.thewatchresource.com/hamilton-khaki-navy-scuba-auto-review/) dive watch. Designed to be equally functional during a vacation near the beach or during deep sea exploring. The ceramic bezel protects it from corrosive elements such as sand and saltwater. The timepiece we're featuring here has a quartz movement and a smaller case width (37 mm). This is a perfect size for smaller wrists as an everyday go-to timepiece. 
 
 ## Longines HydroConquest
 
