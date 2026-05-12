@@ -420,17 +420,32 @@
     },
     {
       "source": "/best-affordable-dive-watches/",
-      "destination": "/guides/best-affordable-dive-watches/",
+      "destination": "/guides/best-dive-watches-under-500/",
       "statusCode": 301
     },
     {
       "source": "/best-affordable-everyday-watches/",
-      "destination": "/guides/best-affordable-everyday-watches/",
+      "destination": "/guides/best-everyday-watches-under-500/",
       "statusCode": 301
     },
     {
       "source": "/best-affordable-racing-watches/",
-      "destination": "/guides/best-affordable-racing-watches/",
+      "destination": "/guides/best-racing-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/guides/best-affordable-dive-watches/",
+      "destination": "/guides/best-dive-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/guides/best-affordable-everyday-watches/",
+      "destination": "/guides/best-everyday-watches-under-500/",
+      "statusCode": 301
+    },
+    {
+      "source": "/guides/best-affordable-racing-watches/",
+      "destination": "/guides/best-racing-watches-under-500/",
       "statusCode": 301
     },
     {

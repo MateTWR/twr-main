@@ -2,6 +2,7 @@
 title: "Best Affordable Everyday Watches"
 description: "So you decided to embark upon a mission to find the perfect everyday, reliable timepiece that not only looks good, but is made to last. Cherry on top, if…"
 date: 2023-02-21
+draft: true
 categories: 
   - "everyday-watches"
 ---
