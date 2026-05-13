@@ -1168,13 +1168,30 @@ Longines Spirit import notes:
 - Prices are entered as official numeric USD prices from the Longines US collection/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
-Pending Longines Spirit collection queue:
-1. `https://www.longines.com/en-us/watches/spirit/spirit-zulu-time`
-2. `https://www.longines.com/en-us/watches/spirit/spirit-flyback`
-3. `https://www.longines.com/en-us/watches/spirit/spirit-chronograph`
-4. `https://www.longines.com/en-us/watches/spirit/spirit-pilot`
+Rows `1332-1353`: Longines Spirit Zulu Time collection, 22 available rows imported.
 
-When resuming after the owner's weekly rate-limit reset, continue with these four collection URLs in this order to complete the broader Longines Spirit import.
+Source collection:
+`https://www.longines.com/en-us/watches/spirit/spirit-zulu-time`
+
+Longines Spirit Zulu Time import notes:
+- The collection exposed 24 visible product rows on a single collection page.
+- The 39 mm rose-gold-cap 1925 reference `L3.803.5.53.6` and the 39 mm anthracite steel reference `L3.802.4.60.6` were marked notify-me/unavailable and were skipped under the standing unavailable-watch rule.
+- 22 unique rows were imported, including available 39 mm and 42 mm stainless-steel/ceramic references, the 39 mm titanium reference, and the available yellow-gold-cap references.
+- Gold-cap rows were included because the owner did not request gold-tone exclusions for this collection.
+- Product URLs are included.
+- Official Longines collection/product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, movement type, caliber, power reserve, water resistance, material, dial color, and strap/bracelet distinction.
+- All imported rows use `movement_type: Automatic`, `caliber: L844.4`, `power_reserve_hours: 72`, and `water_resistance_m: 100`.
+- The 39 mm rows use `case_height_mm: 13.5`; the 42 mm steel rows use `case_height_mm: 13.9`; the 42 mm yellow-gold-cap rows use `case_height_mm: 14.1`.
+- `lug_to_lug_mm` was left blank because a direct Longines lug-to-lug value was not found for these references.
+- Prices are entered as official numeric USD prices from the Longines US collection/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+Pending Longines Spirit collection queue:
+1. `https://www.longines.com/en-us/watches/spirit/spirit-flyback`
+2. `https://www.longines.com/en-us/watches/spirit/spirit-chronograph`
+3. `https://www.longines.com/en-us/watches/spirit/spirit-pilot`
+
+Continue with these remaining collection URLs in this order to complete the broader Longines Spirit import.
 
 ## Implementation Notes For Later
 
