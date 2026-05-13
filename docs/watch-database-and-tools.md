@@ -1234,6 +1234,25 @@ Longines Spirit Pilot import notes:
 
 The saved Longines Spirit collection queue from the rate-limit handoff is now complete.
 
+### ZRC 1904
+
+Rows `1368-1382`: ZRC 1904 Grands Fonds collection, 15 available rows imported.
+
+Source collection:
+`https://zrc1904.com/category/collections/watches-grands-fonds/`
+
+ZRC 1904 Grands Fonds import notes:
+- The collection exposed 15 product rows and all 15 were marked `InStock` in the product-page schema at import time.
+- Product URLs are included.
+- The import includes both MN64 and Heritage Grands Fonds models from the linked collection, including the Phenix limited edition because the owner did not request limited-edition exclusions for this pass.
+- Official ZRC collection/product pages were used for product names, SKUs, CHF prices, availability, source URLs, case width, movement type, caliber, power reserve, water resistance, dial color context, and strap/bracelet distinction.
+- MN64 steel rows use `case_width_mm: 41.5`, `caliber: Sellita SW300-1`, `power_reserve_hours: 56`, and `water_resistance_m: 1000`.
+- MN64 titanium rows use `case_width_mm: 41.5`, `caliber: Sellita SW300-1`, `power_reserve_hours: 56`, and `water_resistance_m: 3000`.
+- Heritage rows use `case_width_mm: 39`, `caliber: Sellita SW200-1`, `power_reserve_hours: 41`, and `water_resistance_m: 300`.
+- `lug_to_lug_mm` and `case_height_mm` were left blank because direct ZRC values were not found on the product pages.
+- Prices are entered as official numeric CHF prices shown on the ZRC product pages.
+- Editorial positives/negatives were filled with 3 one-sentence positives and 3 one-sentence negatives per watch, based on the existing TWR ZRC brand review and ZRC outdoor-watch guide language: strong French Navy/tool-watch legitimacy, distinctive 6 o'clock crown, serious construction, dependable Sellita movements, and tradeoffs around price, wearability, and polarizing design.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
