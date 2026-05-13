@@ -1202,9 +1202,23 @@ Longines Spirit Flyback import notes:
 - Prices are entered as official numeric USD prices from the Longines US collection/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1362-1365`: Longines Spirit Chronograph collection, 4 available rows imported.
+
+Source collection:
+`https://www.longines.com/en-us/watches/spirit/spirit-chronograph`
+
+Longines Spirit Chronograph import notes:
+- The collection exposed 4 visible product rows on a single collection page and all 4 were available at import time.
+- These `L3.820...` Spirit Chronograph rows are separate from the previously imported Spirit Flyback and Spirit Pilot Flyback chronograph rows.
+- Product URLs are included.
+- Official Longines collection/product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, movement type, caliber, power reserve, water resistance, dial color, and strap/bracelet distinction.
+- All imported rows are 42 mm automatic chronographs using `caliber: L688.4`, `power_reserve_hours: 66`, `case_height_mm: 16.5`, and `water_resistance_m: 100`.
+- `lug_to_lug_mm` was left blank because a direct Longines lug-to-lug value was not found for these references.
+- Prices are entered as official numeric USD prices from the Longines US collection/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 Pending Longines Spirit collection queue:
-1. `https://www.longines.com/en-us/watches/spirit/spirit-chronograph`
-2. `https://www.longines.com/en-us/watches/spirit/spirit-pilot`
+1. `https://www.longines.com/en-us/watches/spirit/spirit-pilot`
 
 Continue with these remaining collection URLs in this order to complete the broader Longines Spirit import.
 
