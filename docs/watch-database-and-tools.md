@@ -1217,10 +1217,22 @@ Longines Spirit Chronograph import notes:
 - Prices are entered as official numeric USD prices from the Longines US collection/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
-Pending Longines Spirit collection queue:
-1. `https://www.longines.com/en-us/watches/spirit/spirit-pilot`
+Rows `1366-1367`: Longines Spirit Pilot collection, 2 available rows imported.
 
-Continue with these remaining collection URLs in this order to complete the broader Longines Spirit import.
+Source collection:
+`https://www.longines.com/en-us/watches/spirit/spirit-pilot`
+
+Longines Spirit Pilot import notes:
+- The collection exposed 3 visible product rows on a single collection page.
+- The green rubber row `L3.809.4.53.9` was skipped because its product page showed "Notify me when available" at import time.
+- Product URLs are included.
+- Official Longines collection/product pages and indexed product-page data were used for product names, SKUs, prices, availability, source URLs, case width, movement type, caliber, power reserve, water resistance, dial color, strap/bracelet distinction, and case height.
+- All imported rows are 39 mm automatic pilot watches using `caliber: L888.4`, `power_reserve_hours: 72`, `case_height_mm: 11.5`, and `water_resistance_m: 100`.
+- `lug_to_lug_mm` was left blank because a direct Longines lug-to-lug value was not found for these references.
+- Prices are entered as official numeric USD prices from the Longines US collection/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
+The saved Longines Spirit collection queue from the rate-limit handoff is now complete.
 
 ## Implementation Notes For Later
 
