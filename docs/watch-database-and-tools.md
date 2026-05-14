@@ -1301,6 +1301,20 @@ Doxa SUB 200 II import notes:
 - Prices are entered as official numeric USD prices from the DOXA US product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1417-1429`: Doxa SUB 200T collection, 13 steel-bracelet rows imported.
+
+Source collection:
+`https://doxawatches.com/collections/sub-200t`
+
+Doxa SUB 200T import notes:
+- The collection exposed 8 product families and 26 variants at import time. Steel-bracelet variants were imported and rubber-strap variants were skipped to avoid duplicate strap-only rows.
+- Separate Iconic and Sunray dial rows were imported where DOXA exposes distinct steel SKUs and visible collection cards for those dial finishes.
+- Product URLs are included with the representative steel-bracelet variant IDs.
+- Official DOXA collection/product pages and Shopify product data were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve, water resistance, and dial color context.
+- SUB 200T rows use `case_width_mm: 39`, `lug_to_lug_mm: 41.5`, `case_height_mm: 10.7`, `caliber: Sellita SW200-1`, `power_reserve_hours: 38`, and `water_resistance_m: 200`.
+- Prices are entered as official numeric USD prices from the DOXA US product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
