@@ -1329,6 +1329,22 @@ Doxa SUB 200 C-GRAPH import notes:
 - Prices are entered as official numeric USD prices from the DOXA US product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1436-1442`: Doxa SUB 200 C-GRAPH II collection, 7 steel-bracelet rows imported.
+
+Source collection:
+`https://doxawatches.com/collections/sub-200-c-graph-2`
+
+Doxa SUB 200 C-GRAPH II import notes:
+- The collection is distinct from the earlier SUB 200 C-GRAPH rows: DOXA describes it as a 42 mm, 15.85 mm version of the larger 45 mm model.
+- The collection exposed 6 product families and 14 variants at import time. Steel-bracelet watch variants were imported and rubber-strap variants were skipped to avoid duplicate strap-only rows.
+- Two Whitepearl steel-bracelet rows were imported because DOXA exposes separate stainless-steel-bezel and ceramic-bezel SKUs.
+- Product URLs are included with the representative steel-bracelet variant IDs.
+- Official DOXA collection/product pages and Shopify product data were used for product names, SKUs, USD prices, availability, source URLs, case width, case height, movement type, power reserve, water resistance, and dial color context.
+- SUB 200 C-GRAPH II rows use `case_width_mm: 42`, `case_height_mm: 15.85`, `power_reserve_hours: 56`, and `water_resistance_m: 200`.
+- `lug_to_lug_mm` and `caliber` were left blank because the official DOXA pages do not expose direct values for those fields.
+- Prices are entered as official numeric USD prices from the DOXA US product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
