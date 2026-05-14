@@ -1253,6 +1253,24 @@ ZRC 1904 Grands Fonds import notes:
 - Prices are entered as official numeric CHF prices shown on the ZRC product pages.
 - Editorial positives/negatives were filled with 3 one-sentence positives and 3 one-sentence negatives per watch, based on the existing TWR ZRC brand review and ZRC outdoor-watch guide language: strong French Navy/tool-watch legitimacy, distinctive 6 o'clock crown, serious construction, dependable Sellita movements, and tradeoffs around price, wearability, and polarizing design.
 
+### Detroit Watch Company
+
+Rows `1383-1402`: Detroit Watch Company DWC Collection, 20 eligible men's product rows imported.
+
+Source collection:
+`https://detroitwatchco.com/collections/men-and-women-collection`
+
+Detroit Watch Company import notes:
+- The collection mixes men's and women's watches; rows with "Women's" in the product title were skipped.
+- The visible coming-soon entries were skipped, including the 42 mm City Collection 313 Exhibition back and the M1-Woodward coming-soon chronograph/1805 entries surfaced on the collection pages.
+- Product-level rows were imported, not every strap/dial variant, because the collection presents these as model families with variants beneath each product.
+- Product URLs are included.
+- Official Detroit Watch Company collection/product pages and Shopify product data were used for product names, SKUs where exposed, USD prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve, water resistance, dial color context, and strap/bracelet distinction.
+- 39 mm Pontchartrain rows use `lug_to_lug_mm: 48`; 42 mm rows use `lug_to_lug_mm: 52`; 43 mm Great Lakes diver rows use `lug_to_lug_mm: 53`.
+- Water resistance is entered as `50` meters for the dress/GMT/chronograph rows and `300` meters for the Great Lakes diver rows.
+- Prices are entered as official numeric USD prices from the Detroit Watch Company product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
