@@ -1297,8 +1297,7 @@ Doxa SUB 200 II import notes:
 - Sharkhunter Vintage was split into separate Black and Gray rows because the collection exposes separate steel SKUs and visible variant cards for those versions.
 - Product URLs are included with the representative steel or DLC-coated steel variant IDs.
 - Official DOXA collection/product pages and Shopify product data were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug, case height, movement type, power reserve, water resistance, and dial color context.
-- SUB 200 II rows use `case_width_mm: 44`, `lug_to_lug_mm: 48`, `case_height_mm: 12.8`, `power_reserve_hours: 38`, and `water_resistance_m: 200`.
-- `caliber` was left blank because the official DOXA pages identify the movement as Swiss mechanical automatic but do not expose a named caliber.
+- SUB 200 II rows use `case_width_mm: 44`, `lug_to_lug_mm: 48`, `case_height_mm: 12.8`, `caliber: Sellita SW200-1`, `power_reserve_hours: 38`, and `water_resistance_m: 200`.
 - Prices are entered as official numeric USD prices from the DOXA US product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
