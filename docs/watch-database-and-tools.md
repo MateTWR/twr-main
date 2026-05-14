@@ -1271,6 +1271,22 @@ Detroit Watch Company import notes:
 - Prices are entered as official numeric USD prices from the Detroit Watch Company product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Doxa
+
+Rows `1403-1410`: Doxa SUB 200 collection, 8 dial-color rows imported.
+
+Source collection:
+`https://doxawatches.com/collections/sub-200`
+
+Doxa SUB 200 import notes:
+- The collection exposed 8 products and 46 variants at import time. One row was imported per dial color using the stainless-steel bezel / stainless-steel bracelet variant as the representative SKU and price, rather than importing every bezel and strap permutation.
+- Product URLs are included with the representative variant IDs.
+- The imported dial colors are Professional, Sharkhunter, Searambler, Caribbean, Divingstar, Aquamarine, Whitepearl, and Sea Emerald.
+- Official DOXA collection/product pages and Shopify product data were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug, case height, movement type, power reserve, water resistance, and dial color context.
+- SUB 200 rows use `case_width_mm: 42`, `lug_to_lug_mm: 46`, `case_height_mm: 13.8`, `caliber: Sellita SW200-1`, `power_reserve_hours: 38`, and `water_resistance_m: 200`.
+- Prices are entered as official numeric USD prices from the DOXA US product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
