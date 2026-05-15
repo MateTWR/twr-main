@@ -1404,6 +1404,24 @@ Doxa SUB 300T Clive Cussler import notes:
 - `dial_color` was normalized to `Cream` for the aged, handmade decorative dial.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+### Ball
+
+Rows `1470-1502`: Ball Engineer Hydrocarbon collection, 33 available rows imported.
+
+Source collection:
+`https://www.ballwatch.com/en/ball-watches/EH`
+
+Ball Engineer Hydrocarbon import notes:
+- Owner asked to skip out-of-stock watches and to skip watches with the following names: `Engineer Hydrocarbon DeepQUEST II (42mm)`, `Hydrocarbon EOD`, and `Hydrocarbon NEDU`.
+- The collection exposed 44 product cards across 2 paginated pages at import time.
+- 33 rows were imported after skipping the explicit exclusions and the `Engineer Hydrocarbon Hope` row marked `Not available`.
+- Rows marked with availability windows such as `15 Days`, `1 Month`, `2 Months`, or `EXP August 2026` were included because they were not marked out of stock.
+- Official Ball collection/product pages were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, water resistance, dial color context, and strap/bracelet distinction.
+- `power_reserve_hours` was left blank because the official Ball product pages in this collection do not expose direct power reserve values.
+- Dial color was normalized to controlled values; `Aventurine glass` was entered as `Blue`, and `Meteorite` was entered as `Gray`.
+- Prices are entered as official numeric USD prices from Ball's US-facing product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
