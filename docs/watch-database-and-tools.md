@@ -1422,6 +1422,22 @@ Ball Engineer Hydrocarbon import notes:
 - Prices are entered as official numeric USD prices from Ball's US-facing product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1503-1537`: Ball Engineer Master II collection, 35 available rows imported.
+
+Source collection:
+`https://www.ballwatch.com/en/ball-watches/EMII`
+
+Ball Engineer Master II import notes:
+- Owner asked to skip out-of-stock watches and watches named `DOOLITTLE Raiders`.
+- The collection exposed 38 product cards on the collection page at import time.
+- 35 rows were imported after skipping the 3 Doolittle Raiders cards. The `Engineer Master II Doolittle Raiders (40mm)` row was also marked `Out Of Stock`.
+- Rows marked with availability windows such as `15 Days`, `1 Month`, `2 Months`, or `3 Months` were included because they were not marked out of stock.
+- Official Ball collection/product pages were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, water resistance, dial color context, and strap/bracelet distinction.
+- `power_reserve_hours` was left blank because the official Ball product pages in this collection do not expose direct power reserve values.
+- Dial color was normalized to controlled values; `Ice blue` was entered as `Blue`.
+- Prices are entered as official numeric USD prices from Ball's US-facing product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
