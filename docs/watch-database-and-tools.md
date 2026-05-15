@@ -1375,6 +1375,22 @@ Doxa SUB 300T import notes:
 - Prices are entered as official numeric USD prices from the DOXA US product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1460-1468`: Doxa SUB 600T collection, 9 steel-bracelet rows imported.
+
+Source collection:
+`https://doxawatches.com/collections/sub-600t`
+
+Doxa SUB 600T import notes:
+- The collection exposed 9 product families and 39 watch variants at import time. Steel-bracelet variants with the sandblasted stainless-steel bezel were imported where available, and NATO/ceramic-bezel variants were skipped to avoid duplicate configuration rows.
+- Sharkhunter B&W was imported as a separate row because DOXA exposes it as a distinct visible product family with its own SKU.
+- Imported dial families: Professional, Sharkhunter, Sharkhunter B&W, Searambler, Caribbean, Divingstar, Aquamarine, Whitepearl, and Sea Emerald.
+- Product URLs are included with the representative steel-bracelet variant IDs.
+- Official DOXA collection/product pages and Shopify product data were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug/case length, case height, movement type, power reserve, water resistance, and dial color context.
+- Existing TWR SUB 600T review coverage was used to populate `caliber: Sellita SW200-1`.
+- SUB 600T rows use `case_width_mm: 40`, `lug_to_lug_mm: 47.6`, `case_height_mm: 14.15`, `caliber: Sellita SW200-1`, `power_reserve_hours: 38`, and `water_resistance_m: 600`.
+- Prices are entered as official numeric USD prices from the DOXA US product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
