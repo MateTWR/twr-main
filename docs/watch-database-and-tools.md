@@ -1360,6 +1360,21 @@ Doxa SUB 250T GMT import notes:
 - Prices are entered as official numeric USD prices from the DOXA US product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1452-1459`: Doxa SUB 300T collection, 8 steel-bracelet rows imported.
+
+Source collection:
+`https://doxawatches.com/collections/sub-300t`
+
+Doxa SUB 300T import notes:
+- The collection exposed 8 product families and 16 watch variants at import time. Steel-bracelet variants were imported and rubber/NATO strap variants were skipped to avoid duplicate strap-only rows.
+- Imported dial families: Professional, Sharkhunter, Searambler, Caribbean, Divingstar, Aquamarine, Whitepearl, and Sea Emerald.
+- Product URLs are included with the representative steel-bracelet variant IDs.
+- Official DOXA collection/product pages and Shopify product data were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug/case length, case height, movement type, power reserve, water resistance, and dial color context.
+- SUB 300T rows use `case_width_mm: 42.5`, `lug_to_lug_mm: 44.5`, `case_height_mm: 13.65`, `power_reserve_hours: 38`, and `water_resistance_m: 1200`.
+- `caliber` was left blank because the official DOXA pages identify a Swiss mechanical automatic movement but do not expose a named caliber.
+- Prices are entered as official numeric USD prices from the DOXA US product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
