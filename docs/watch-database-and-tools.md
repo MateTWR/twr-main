@@ -1391,6 +1391,19 @@ Doxa SUB 600T import notes:
 - Prices are entered as official numeric USD prices from the DOXA US product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Row `1469`: Doxa SUB 300T Clive Cussler, 1 single-product row imported.
+
+Source product:
+`https://doxawatches.com/products/sub-300t-clive-cussler?variant=43058873401522`
+
+Doxa SUB 300T Clive Cussler import notes:
+- The product exposed 1 available aged-stainless-steel variant at import time: SKU `840.80.031.15`.
+- Official DOXA product-page data was used for product name, SKU, USD price, availability, source URL, case width, lug-to-lug/case length, case height, movement type, power reserve, water resistance, and dial color context.
+- The row uses `case_width_mm: 42.5`, `lug_to_lug_mm: 44.5`, `case_height_mm: 13.65`, `power_reserve_hours: 38`, and `water_resistance_m: 300`.
+- `caliber` was left blank because the official DOXA page identifies a Swiss mechanical automatic movement but does not expose a named caliber.
+- `dial_color` was normalized to `Cream` for the aged, handmade decorative dial.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
