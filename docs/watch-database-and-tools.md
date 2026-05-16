@@ -1471,6 +1471,23 @@ Ball Engineer III import notes:
 - Prices are entered as official numeric USD prices from Ball's US-facing product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1581-1604`: Ball Engineer M collection, 24 available rows imported.
+
+Source collection:
+`https://www.ballwatch.com/en/ball-watches/enm`
+
+Ball Engineer M import notes:
+- Owner asked to skip out-of-stock watches and watches named `Pioneer` and `Pioneer II`.
+- The collection exposed 37 product cards on the collection page at import time.
+- 24 rows were imported after skipping the requested Pioneer/Pioneer II rows and 2 non-Pioneer rows marked `Out Of Stock`.
+- Rows marked with availability windows such as `15 Days`, `1 Month`, `2 Months`, or `3 Months` were included because they were not marked out of stock.
+- Official Ball collection/product pages were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve where published, water resistance, dial color context, and strap/bracelet distinction.
+- `power_reserve_hours` was entered as `80` where the official product page publishes an 80-hour power reserve. It was left blank for Best Bronze and Normandy rows because their official pages do not expose direct power reserve values.
+- The Engineer M Challenger row uses `BALL 7309` for `caliber` because the official product page lists the movement as `caliber 7309` without the `RRM` prefix.
+- Dial color was normalized to controlled values; `Grey` was entered as `Gray`, and `Navy blue` and `Ice blue` were entered as `Blue`.
+- Prices are entered as official numeric USD prices from Ball's US-facing product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
