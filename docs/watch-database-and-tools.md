@@ -1455,6 +1455,22 @@ Ball Engineer II import notes:
 - Prices are entered as official numeric USD prices from Ball's US-facing product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1552-1580`: Ball Engineer III collection, 29 available rows imported.
+
+Source collection:
+`https://www.ballwatch.com/en/ball-watches/EIII`
+
+Ball Engineer III import notes:
+- Owner asked to skip out-of-stock watches and watches named `Engineer III Legend Arabic`, `Engineer III Pioneer`, `Engineer III Maverick GMT`, `Engineer III Legend`, `Engineer III King`, `Engineer III Dreamer`, `Engineer III Pioneer II`, and `Engineer Dreamer TIC`.
+- The collection exposed 40 product cards on the collection page at import time.
+- 29 rows were imported after applying the requested name exclusions. No remaining rows were marked `Out Of Stock`.
+- Rows marked with availability windows such as `15 Days`, `1 Month`, `2 Months`, `3 Months`, or `Restocking` were included because they were not marked out of stock.
+- Official Ball collection/product pages were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve where published, water resistance, dial color context, and strap/bracelet distinction.
+- `power_reserve_hours` was entered as `42` for the Engineer III Marvelight Chronometer `PM9026C-S3C-BK2` row because the official product page publishes a 42-hour power reserve indication. It was left blank for the other Engineer III rows because their official pages do not expose direct power reserve values.
+- Dial color was normalized to controlled values; `Grey` and `Meteorite` were entered as `Gray`, `Ice blue`, `Navy blue`, and `Turquoise` were entered as `Blue`, `Pink mother-of-pearl` was entered as `Mother of Pearl`, `Gold` was entered as `Champagne`, and `Burgundy red` was entered as `Red`.
+- Prices are entered as official numeric USD prices from Ball's US-facing product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
