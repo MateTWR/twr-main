@@ -1438,6 +1438,23 @@ Ball Engineer Master II import notes:
 - Prices are entered as official numeric USD prices from Ball's US-facing product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1538-1551`: Ball Engineer II collection, 14 available rows imported.
+
+Source collection:
+`https://www.ballwatch.com/en/ball-watches/engineer-ii`
+
+Ball Engineer II import notes:
+- Owner asked to skip out-of-stock watches and watches named `Engineer II Timetrekker` and `Engineer II Dazzle`.
+- The collection exposed 20 product cards on the collection page at import time.
+- 14 rows were imported after skipping 4 rows marked `Out Of Stock`, plus the requested Timetrekker and Dazzle exclusions.
+- Rows marked with availability windows such as `15 Days`, `1 Month`, `2 Months`, or `3 Months` were included because they were not marked out of stock.
+- Official Ball collection/product pages were used for product names, SKUs, USD prices, availability, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve where published, water resistance, dial color context, and strap/bracelet distinction.
+- `power_reserve_hours` was entered as `80` for the four Engineer II M Skindiver Heritage rows because the official product pages publish an 80-hour power reserve. It was left blank for the other Engineer II rows because their official pages do not expose direct power reserve values.
+- `lug_to_lug_mm` was left blank for the Engineer II Skindiver Heritage `DM3208B-P2C-BK` row because that official product page does not expose a lug-to-lug value.
+- Dial color was normalized to controlled values; `Tiger's Eye` was entered as `Brown`, and `Ice blue` was entered as `Blue`.
+- Prices are entered as official numeric USD prices from Ball's US-facing product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
