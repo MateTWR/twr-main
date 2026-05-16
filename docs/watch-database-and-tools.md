@@ -1505,6 +1505,22 @@ Ball Roadmaster import notes:
 - Prices are entered as official numeric USD prices from Ball's US-facing product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1642-1652`: Lorier watches collection, 11 unavailable rows imported by owner request.
+
+Source collection:
+`https://www.lorierwatches.com/collections/watches`
+
+Lorier import notes:
+- Owner explicitly asked to include Lorier watches even though they were not available at import time.
+- The Shopify collection product feed exposed 11 watch products at import time, and all 11 were imported.
+- Official Lorier collection/product pages were used for product names, SKUs where published, USD prices, source URLs, case width, lug-to-lug, case height, movement type, caliber, water resistance, dial color context, and controlled category normalization.
+- Lorier publishes case thickness and dome crystal height separately, such as `10.3mm case thickness + 2.4mm dome crystal`. These were entered in `case_height_mm` as total physical height, such as `12.7`.
+- `power_reserve_hours` was left blank because the official Lorier product pages used for this pass do not expose direct power reserve values.
+- The Roosevelt row has a blank `sku` because the official Lorier product feed did not expose an SKU for that product.
+- Dial color was normalized to controlled values; `Cosmic Blue` and blue-gray/blue bezel context were entered as `Blue`, the Falcon's black/silver colorway was entered as `Black`, and the Roosevelt's champagne-to-silver-white dial was entered as `Champagne`.
+- Prices are entered as official numeric USD prices from Lorier's product feed/product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
