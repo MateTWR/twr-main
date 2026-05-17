@@ -1572,6 +1572,25 @@ Oris Divers import notes:
 - Prices are entered as official numeric USD prices from Oris's US-facing product payloads.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1730-1830`: Marathon watches collection, 101 rows imported.
+
+Source collection:
+`https://www.marathonwatch.com/collections/watches`
+
+Marathon import notes:
+- Owner asked to import Marathon watches from the paginated watches collection.
+- The Shopify collection feed exposed 101 `Watch` products at import time, and all 101 product-card rows were imported.
+- Every product in the collection had at least one available variant at import time; no products were skipped as unavailable.
+- Product rows were imported at the collection-product level. Marathon products with multiple clasp, strap-length, dial-marking, or strap-type variants were not expanded into every variant row; the first available product variant was used for `sku` and price to avoid near-duplicate clasp/strap rows.
+- Official Marathon collection/product pages were used for product names, SKUs, USD prices, source URLs, case width, movement type, caliber, water resistance, dial color context, and controlled category normalization.
+- `lug_to_lug_mm`, `case_height_mm`, and `power_reserve_hours` were left blank because the official Marathon product technical-information blocks used for this pass do not expose those measurements directly.
+- Water resistance was normalized from Marathon's `Submersibility` values to meters; for example, `3 ATM`, `5 ATM`, `6 ATM`, `10 ATM`, and `30 ATM` were entered as `30`, `50`, `60`, `100`, and `300`.
+- Movement text was normalized from Marathon technical-information blocks, e.g. `Sellita SW200-1 with Incabloc Shock Absorber`, `ETA High-Torque FØ6`, `ETA High-Torque FØ7`, `ETA Valjoux 7750 with Incabloc Shock Absorber`, `Sellita SW210-1`, and `Seiko NH35A` to concise caliber values.
+- Movement type was entered as `Automatic`, `Quartz`, or `Hand-Wound` based on the official movement text.
+- Dial color was normalized to controlled values; most standard Marathon black-dial rows were entered as `Black`, Arctic rows as `White`, the Blue Steel Navigator as `Blue`, the Sage Green GPQ-D row as `Green`, and the US 250 Anthracite Navigator as `Gray`.
+- Prices are entered as official numeric USD prices from Marathon's US-facing Shopify product data.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
