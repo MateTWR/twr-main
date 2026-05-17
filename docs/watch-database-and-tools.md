@@ -1521,6 +1521,23 @@ Lorier import notes:
 - Prices are entered as official numeric USD prices from Lorier's product feed/product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1653-1679`: Oris Big Crown collection, 27 rows imported.
+
+Source collection:
+`https://www.oris.ch/en-US/product/watch/big-crown?product-9016f805=30&product-c4f25d61=30`
+
+Oris Big Crown import notes:
+- Owner asked to skip limited editions, watches under `Big Crown Calibre 113`, and watches smaller than `38 mm`.
+- The Oris collection payload exposed 35 Big Crown product rows across visible subcategories at import time.
+- 27 rows were imported after skipping 5 limited-edition rows, 2 `Big Crown Calibre 113` rows, and 2 rows below 38 mm.
+- Official Oris collection/product payloads were used for product names, SKUs, USD prices, source URLs, case width, movement type, caliber, power reserve, water resistance, dial color, strap/bracelet context, and controlled category normalization.
+- `lug_to_lug_mm` and `case_height_mm` were left blank because the official Oris product payloads used for this pass do not expose those measurements directly.
+- Water resistance was normalized from Oris's `bar` values to meters; `5 bar` was entered as `50`.
+- Dial color was normalized to controlled values; `grey` was entered as `Gray`, and `multicoloured` was entered as `Multicolor`.
+- Calibers were normalized from Oris labels, e.g. `754`, `754-1`, `CALIBRE 403`, and `CALIBRE 473`, to `Oris 754`, `Oris 754-1`, `Oris Calibre 403`, and `Oris Calibre 473`.
+- Prices are entered as official numeric USD prices from Oris's US-facing product payloads.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
