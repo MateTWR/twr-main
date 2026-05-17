@@ -1538,6 +1538,23 @@ Oris Big Crown import notes:
 - Prices are entered as official numeric USD prices from Oris's US-facing product payloads.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1680-1712`: Oris Aquis collection, 33 rows imported.
+
+Source collection:
+`https://www.oris.ch/en-US/product/watch/aquis?product-19f8f3cb=54&product-ec0ef272=30`
+
+Oris Aquis import notes:
+- Owner asked to skip limited editions, watches smaller than `38 mm`, and the two watches under `Aquis Pro`.
+- The Oris collection payload exposed 56 Aquis product rows across visible subcategories at import time.
+- 33 rows were imported after skipping 5 limited-edition rows, 16 rows below 38 mm, and 2 `Aquis Pro` rows.
+- Official Oris collection/product payloads were used for product names, SKUs, USD prices, source URLs, case width, movement type, caliber, power reserve, water resistance, dial color, strap/bracelet context, and controlled category normalization.
+- `lug_to_lug_mm` and `case_height_mm` were left blank because the official Oris product payloads used for this pass do not expose those measurements directly.
+- Water resistance was normalized from Oris's `bar` values to meters; `30 bar` was entered as `300`, and `50 bar` was entered as `500`.
+- Dial color was normalized to controlled values; `grey` was entered as `Gray`, and `multicoloured` was entered as `Multicolor`.
+- Calibers were normalized from Oris labels, e.g. `733-1`, `733`, `CALIBRE 400`, and `771-1 (3 subdials, date)`, to `Oris 733-1`, `Oris 733`, `Oris Calibre 400`, and `Oris 771-1 (3 subdials, date)`.
+- Prices are entered as official numeric USD prices from Oris's US-facing product payloads.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
