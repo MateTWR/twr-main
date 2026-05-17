@@ -1591,6 +1591,25 @@ Marathon import notes:
 - Prices are entered as official numeric USD prices from Marathon's US-facing Shopify product data.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1831-1975`: Sinn all-watches collection, 145 rows imported.
+
+Source collection:
+`https://www.sinn.de/en/watches/all-watches/`
+
+Sinn import notes:
+- Owner asked to import Sinn watches from the paginated all-watches collection and skip limited editions.
+- The Sinn collection exposed 175 product cards across 8 pages at import time.
+- 145 rows were imported after skipping 30 rows marked with Sinn's `Limited` product flag.
+- Official Sinn collection/product pages were used for product names, SKUs, EUR prices, source URLs, case width, case height, movement type, caliber, water resistance, dial color context, and controlled category normalization.
+- Product rows were imported at the product-card level. Strap/bracelet configuration options within a product page were not expanded into separate rows unless Sinn exposed them as separate product cards.
+- `lug_to_lug_mm` was left blank except for the rectangular 243 TW rows where Sinn publishes direct `Case measurements` as width x length.
+- `power_reserve_hours` was left blank because the official Sinn technical-data blocks used for this pass do not expose direct power-reserve values.
+- Water resistance was normalized from Sinn's bar/depth language to meters; for example, `20 bar`, `100 bar`, `200 bar`, and `500 bar` were entered as `200`, `1000`, `2000`, and `5000`.
+- Movement type was entered as `Automatic` or `Quartz` based on the official movement section/caliber text.
+- Dial color was normalized to controlled values; `Anthracite`, dark/black hardened-steel contexts, and most tool-watch dials were entered as `Gray`, official blue/green variants as `Blue` or `Green`, and mother-of-pearl variants as `Mother of Pearl`.
+- Prices are entered as official numeric EUR prices from Sinn's DE/English-facing product pages.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
