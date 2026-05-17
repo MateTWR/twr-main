@@ -1610,6 +1610,22 @@ Sinn import notes:
 - Prices are entered as official numeric EUR prices from Sinn's DE/English-facing product pages.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1976-1988`: Nezumi all-watches collection, 13 product rows imported.
+
+Source collection:
+`https://www.nezumistudios.com/all-watches/`
+
+Nezumi import notes:
+- Owner asked to include Nezumi watches from the all-watches page.
+- The page exposed 13 watch product URLs at import time, and all 13 rows were imported because the official product schema showed them as in stock.
+- The Aviera GMT AA3.133 appeared as a two-strap bundle listing, but it was still imported as a distinct watch/colorway because it has its own product page and reference. The `sku` field was normalized to `AA3.133` instead of the bundle suffix.
+- Official Nezumi WooCommerce product pages were used for product names, references, EUR prices, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve, water resistance, dial color context, and controlled category normalization.
+- Product variant strap choices were not expanded into separate rows; each product page was imported as one row.
+- Water resistance was normalized from Nezumi's ATM/meter values: 20 ATM was entered as `200`, and 5 ATM was entered as `50`.
+- Movement type was entered as `Automatic` for Miyota 9075/9039 rows and `Quartz` for Seiko VK63 mecha-quartz chronograph rows.
+- Prices are entered as official numeric EUR prices from Nezumi product schema. Aggregate offers use `lowPrice`; the AA3.133 bundle uses its unit price specification.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
