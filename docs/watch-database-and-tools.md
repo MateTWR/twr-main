@@ -1555,6 +1555,23 @@ Oris Aquis import notes:
 - Prices are entered as official numeric USD prices from Oris's US-facing product payloads.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1713-1729`: Oris Divers collection, 17 rows imported.
+
+Source collection:
+`https://www.oris.ch/en-US/product/watch/divers?product-4745a973=30&product-15c9bf8d=30`
+
+Oris Divers import notes:
+- Owner asked to skip limited editions, watches under the `Divers Sixty-Five Cotton Candy` category, and watches under the `Oris Social Club Edition` category.
+- The Oris collection payload exposed 89 Divers product rows across visible subcategories at import time.
+- 17 rows were imported after skipping 70 rows from the requested Cotton Candy/Social Club category exclusions and 2 limited-edition rows from the remaining allowed categories.
+- Official Oris collection/product payloads were used for product names, SKUs, USD prices, source URLs, case width, movement type, caliber, power reserve, water resistance, dial color, strap/bracelet context, and controlled category normalization.
+- `lug_to_lug_mm` and `case_height_mm` were left blank because the official Oris product payloads used for this pass do not expose those measurements directly.
+- Water resistance was normalized from Oris's `bar` values to meters; `10 bar` was entered as `100`, and `20 bar` was entered as `200`.
+- Dial color was normalized to controlled values; `Grey` was entered as `Gray`.
+- Calibers were normalized from Oris labels, e.g. `733-1`, `733-1 (no date)`, `733`, `CALIBRE 400`, `CALIBRE 400 (no date)`, and `771-1`, to `Oris 733-1`, `Oris 733-1 (no date)`, `Oris 733`, `Oris Calibre 400`, `Oris Calibre 400 (no date)`, and `Oris 771-1`.
+- Prices are entered as official numeric USD prices from Oris's US-facing product payloads.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
