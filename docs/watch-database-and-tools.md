@@ -1644,6 +1644,23 @@ Ferro import notes:
 - Caliber values were populated when Ferro named a movement or caliber directly, such as `Miyota 9039`, `Seiko VK64`, `Sellita SW210`, `Miyota OS21`, `Miyota 8217`, `Ronda 715`, and `Miyota 9015`. Generic movement descriptions were left as concise generic labels or blank when no caliber was provided.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `2027-2103`: Bremont all-watches collection, 77 filtered product rows imported.
+
+Source collection:
+`https://us.bremont.com/collections/all-watches?page=5`
+
+Bremont import notes:
+- Owner asked to skip limited editions, watches over `$15,000`, anything with rose gold, and Terra Nova models on bronze bracelets.
+- The Shopify collection/feed exposed 102 product-card rows across 5 live collection pages at import time.
+- 77 rows were imported after excluding 25 rows: 1 unavailable/enquire-only row, 17 limited-edition/body-text-limited rows, 1 remaining over-`$15,000` row, 5 rose-gold or rose-gold-plated rows, and 1 Terra Nova bronze-bracelet row.
+- Limited-edition detection used both product tags and product body text because several Bremont limited models were not consistently tagged.
+- Official Bremont Shopify collection/product data was used for product names, SKUs, USD prices, source URLs, case width, movement context, caliber where named, power reserve where stated, water resistance, dial color context, and controlled category normalization.
+- Product rows were imported at the product-card level. Strap/bracelet configurations were kept as separate rows when Bremont exposed them as separate product cards.
+- `lug_to_lug_mm` and `case_height_mm` were left blank because the official Shopify feed/product text used for this pass does not expose those measurements directly.
+- Power reserve was populated only when the product text stated it directly.
+- Water resistance was normalized from Bremont's meter tags to numeric meters.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
