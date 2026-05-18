@@ -1626,6 +1626,24 @@ Nezumi import notes:
 - Prices are entered as official numeric EUR prices from Nezumi product schema. Aggregate offers use `lowPrice`; the AA3.133 bundle uses its unit price specification.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `1989-2026`: Ferro & Company all-watches collection, 38 available product rows imported.
+
+Source collection:
+`https://www.ferrowatches.com/collections/all-watches`
+
+Ferro import notes:
+- Owner asked to include Ferro from the all-watches collection.
+- The Shopify collection feed exposed 43 watch products at import time.
+- 38 rows were imported after skipping 5 unavailable products:
+  `Race Master Automatic Silver`, `PISTA BLACK`, `AGL 2 Chronograph Black / White`, `AGL 2 Chronograph Green / Rose Gold`, and `AGL 2 Automatic Black`.
+- Official Ferro Shopify collection/product data was used for product names, SKUs, USD prices, source URLs, case width, lug-to-lug, case height, movement type, caliber, water resistance, dial color context, and controlled category normalization.
+- Product rows were imported at the product-card level. Strap/bracelet options within a product were not expanded into separate rows unless Ferro exposed them as separate product cards.
+- Water resistance was normalized from Ferro's ATM/bar/meter language to meters; 5 ATM was entered as `50`, and 10 ATM/10 bar was entered as `100`.
+- `power_reserve_hours` was left blank because Ferro's product specification text used for this pass does not expose direct power-reserve values.
+- Movement type was entered as `Automatic`, `Quartz`, or `Hand-Wound` based on official movement text.
+- Caliber values were populated when Ferro named a movement or caliber directly, such as `Miyota 9039`, `Seiko VK64`, `Sellita SW210`, `Miyota OS21`, `Miyota 8217`, `Ronda 715`, and `Miyota 9015`. Generic movement descriptions were left as concise generic labels or blank when no caliber was provided.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
