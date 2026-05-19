@@ -1661,6 +1661,22 @@ Bremont import notes:
 - Water resistance was normalized from Bremont's meter tags to numeric meters.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `2104-2159`: Bell & Ross all-watches collection, 56 filtered product rows imported.
+
+Source collection:
+`https://bellross.com/en-us/collections/toutes-nos-montres`
+
+Bell & Ross import notes:
+- Owner asked to import the 7-page all-watches collection and skip limited editions and watches over `$15,000`.
+- The Shopify collection/feed exposed 123 product-card rows across 7 collection pages at import time.
+- 56 rows were imported after excluding 67 rows: 48 unavailable/out-of-stock rows under the standing unavailable-watch rule, 16 available limited-edition rows, and 3 available rows over `$15,000`.
+- Limited-edition detection used the collection card labels and product body text because the Shopify tags were not consistently marked as limited.
+- Official Bell & Ross Shopify collection/product pages were used for product names, SKUs, USD prices, source URLs, case width, case height, movement type, caliber, power reserve where stated, water resistance, dial color context, and controlled category normalization.
+- Product rows were imported at the product-card level. Strap/bracelet configurations were kept as separate rows when Bell & Ross exposed them as separate product cards.
+- `lug_to_lug_mm` was left blank because the official technical-specification blocks used for this pass do not expose lug-to-lug measurements directly.
+- Water resistance was normalized from Bell & Ross's `meters`/`metres` language to numeric meters.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
