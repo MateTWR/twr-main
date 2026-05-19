@@ -1677,6 +1677,22 @@ Bell & Ross import notes:
 - Water resistance was normalized from Bell & Ross's `meters`/`metres` language to numeric meters.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `2160-2191`: TAG Heuer Carrera collection, 32 filtered product rows imported.
+
+Source collection:
+`https://www.tagheuer.com/us/en/timepieces/let-us-guide-you/our-watches/?prefn1=ATT_COLLECTION_CODE&prefv1=TAG%20Heuer%20Carrera`
+
+TAG Heuer Carrera import notes:
+- Owner asked to skip watches smaller than 38 mm, limited editions, out-of-stock watches, and watches over `$15,000`.
+- The TAG Heuer collection exposed 102 product-card rows across the paginated/infinite-scroll Carrera listing at import time.
+- 32 rows were imported after excluding 70 rows: 20 rows smaller than 38 mm, 47 unavailable/out-of-stock rows under the requested availability rule, and 3 rows over `$15,000`. No kept product pages contained limited-edition wording during the verification pass.
+- Official TAG Heuer collection and product pages were used for product names, SKUs, USD prices, source URLs, case width, case height where exposed, movement type, caliber, power reserve, water resistance, dial color context, and controlled category normalization.
+- Product rows were imported at the product-card level. Bracelet/strap versions were kept as separate rows when TAG Heuer exposed them as separate product cards or SKUs.
+- `lug_to_lug_mm` was left blank because the official TAG Heuer product pages used for this pass do not expose lug-to-lug measurements directly.
+- `case_height_mm` was populated only when TAG Heuer's product specification text exposed a direct thickness value.
+- Water resistance was normalized from TAG Heuer's meter values to numeric meters.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
