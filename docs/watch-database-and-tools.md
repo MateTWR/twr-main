@@ -1761,6 +1761,24 @@ TAG Heuer Monaco import notes:
 - Water resistance was normalized from TAG Heuer's meter values to numeric meters.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `2250-2276`: echo/neutra all-watches collection, 27 filtered product rows imported.
+
+Source collection:
+`https://echoneutra.com/collections/all-watches`
+
+echo/neutra import notes:
+- Owner asked to skip limited editions.
+- The standing unavailable-watch rule was also applied.
+- The Shopify collection feed exposed 32 product rows across the all-watches collection at import time.
+- 27 rows were imported after excluding 5 unavailable/out-of-stock products: `Rivanera + seconde/seconde/`, `Rivanera "Payne's Grey"`, `Rivanera Studio Edition`, `AVERAU 39 Moon phase "Big Moon" Green Degrade`, and `CRISTALLO Professional Diver White`.
+- The available `1956 GMT TENNIS CLUB | 2025` row was imported because the official product/spec text labels it as a special edition, not a limited edition.
+- Official echo/neutra Shopify collection/product data and the site's published product technical-spec FAQ were used for product names, SKUs, EUR prices, source URLs, case width, lug-to-lug, case height, movement type, caliber, power reserve where directly stated, water resistance, dial color context, and controlled category normalization.
+- Product rows were imported at the product-card level. Strap-size and strap/bracelet variants were not expanded into separate rows; the lowest available/base variant SKU and price were used.
+- Prices are entered as official numeric EUR prices exposed by echo/neutra's Shopify product data at import time.
+- `power_reserve_hours` was left blank for the Cristallo Professional Diver because the official product page exposes a power-reserve indicator function but does not state the movement's power reserve in hours.
+- Water resistance was normalized from echo/neutra's meter values to numeric meters.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
