@@ -1710,6 +1710,22 @@ TAG Heuer Formula 1 import notes:
 - Water resistance was normalized from TAG Heuer's meter values to numeric meters.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `2229-2236`: TAG Heuer Aquaracer Diving collection, 8 filtered product rows imported.
+
+Source collection:
+`https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-aquaracer/tag-heuer-aquaracer-diving/`
+
+TAG Heuer Aquaracer Diving import notes:
+- The same TAG Heuer filter pattern was used as the Carrera and Formula 1 passes: skip watches smaller than 38 mm, limited editions, unavailable/out-of-stock watches, and watches over `$15,000`.
+- The TAG Heuer Aquaracer Diving collection exposed 20 product-card rows across 2 paginated/infinite-scroll listing chunks at import time.
+- 8 rows were imported after excluding 12 rows: 9 rows below 38 mm, 1 available-size out-of-stock row, and 2 available rows whose official product pages contained limited-edition wording. No rows were excluded for price.
+- Official TAG Heuer collection and product pages were used for product names, SKUs, USD prices, source URLs, case width, case height where exposed, movement type, caliber, power reserve, water resistance, dial color context, and controlled category normalization.
+- Product rows were imported at the product-card level. Bracelet/strap versions were kept as separate rows when TAG Heuer exposed them as separate product cards or SKUs.
+- `lug_to_lug_mm` was left blank because the official TAG Heuer product pages used for this pass do not expose lug-to-lug measurements directly.
+- `case_height_mm` was populated only when TAG Heuer's product specification text exposed a direct thickness value.
+- Water resistance was normalized from TAG Heuer's meter values to numeric meters.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
