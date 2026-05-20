@@ -1693,6 +1693,23 @@ TAG Heuer Carrera import notes:
 - Water resistance was normalized from TAG Heuer's meter values to numeric meters.
 - The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
 
+Rows `2192-2228`: TAG Heuer Formula 1 collection, 37 filtered product rows imported.
+
+Source collection:
+`https://www.tagheuer.com/us/en/timepieces/collections/tag-heuer-formula-1/`
+
+TAG Heuer Formula 1 import notes:
+- The same TAG Heuer filter pattern was used as the Carrera pass: skip watches smaller than 38 mm, limited editions, unavailable/out-of-stock watches, and watches over `$15,000`.
+- The TAG Heuer Formula 1 collection exposed 61 product-card rows across 5 paginated/infinite-scroll listing chunks at import time.
+- 37 rows were imported after excluding 24 rows: 20 unavailable/out-of-stock rows and 4 available rows whose official product pages contained limited-edition wording. No rows were excluded for size or price.
+- Official TAG Heuer collection and product pages were used for product names, SKUs, USD prices, source URLs, case width, case height where exposed, movement type, caliber, power reserve for automatic movements, water resistance, dial color context, and controlled category normalization.
+- Product rows were imported at the product-card level. Bracelet/strap versions were kept as separate rows when TAG Heuer exposed them as separate product cards or SKUs.
+- `lug_to_lug_mm` was left blank because the official TAG Heuer product pages used for this pass do not expose lug-to-lug measurements directly.
+- `case_height_mm` was populated only when TAG Heuer's product specification text exposed a direct thickness value.
+- Solar and quartz battery/autonomy language was not converted into `power_reserve_hours`; that field was populated only for automatic Formula 1 rows with an official stated power reserve.
+- Water resistance was normalized from TAG Heuer's meter values to numeric meters.
+- The import intentionally skipped editorial positives/negatives; `positive_1` through `negative_5` were left blank for this factual pass.
+
 ## Implementation Notes For Later
 
 When moving from Sheet to site:
